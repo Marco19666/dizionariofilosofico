@@ -171,3 +171,58 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
   outline:3px solid #000!important;outline-offset:3px!important
 }
 ::placeholder{color:#444!important;opacity:1}
+
+
+/* Alto contrasto riposante: nero su avorio caldo */
+:root{
+  --paper:#f3efe5;
+  --paper-deep:#e8e1d4;
+  --ink:#11100d;
+  --muted:#292720;
+  --green:#11100d;
+  --green-dark:#11100d;
+  --ochre:#68420e;
+  --line:#b9b0a1;
+  --white:#faf7ef;
+}
+html,body{background:#f3efe5!important;color:#11100d!important}
+.site-header,.hero,.archive-hero,.entry-hero,.timeline-hero,
+.pathways,.site-footer{background:#f3efe5!important;color:#11100d!important}
+.site-header,.site-footer{border-color:#b9b0a1}
+.site-header nav,.brand strong,.brand small,.brand-mark,
+.hero h1,.hero h1 em,.hero-copy,.hero-note,
+.archive-hero h1,.archive-hero>p:last-child,
+.entry-hero h1,.entry-hero .entry-area,.entry-subtitle,
+.entry-hero .entry-period,.entry-lead,.status-note,
+.timeline-hero h1,.timeline-hero>p:last-child,
+.site-footer,.primary-link{color:#11100d!important}
+.primary-link{background:#e5ddce!important;border:1px solid #8e8576!important}
+.primary-link:hover{background:#d9cfbd!important}
+.principles,.search-panel,.entry-card,.entry-aside,.timeline-filter,
+.timeline-card,.timeline-caution{background:#faf7ef!important}
+.principles h2,.section-heading h2,.pathways h2,.entry-card h3,
+.article-section h2,.timeline-card h3,.timeline-caution strong,
+.bibliography-list strong,.related-list a{color:#11100d!important}
+.principles p,.entry-description,.article-section p,
+.pathways-inner>p:last-child,.timeline-card p,.timeline-caution p,
+.editorial-note,.entry-count,.card-meta,.entry-period,
+.timeline-date small,.timeline-card-top,.entry-aside dt,
+.bibliography-list span,.related-list span,.search-label,
+.filter-label,.timeline-filter label{color:#292720!important}
+.search-panel input,.search-panel select,.timeline-filter select{
+  background:#faf7ef!important;color:#11100d!important;border:1px solid #8e8576!important
+}
+.entry-card,.entry-aside,.timeline-card,.search-panel,.timeline-filter{
+  border:1px solid #b9b0a1!important
+}
+.tag-list span{background:#e8e1d4!important;color:#11100d!important}
+.card-foot{color:#292720!important;border-color:#cfc6b8!important}
+.related-list a,.back-link,.timeline-card-top a{color:#11100d!important;text-decoration:underline}
+.timeline-date{color:#11100d!important}
+.timeline-list:before{background:#8e8576!important}
+.timeline-marker{background:#f3efe5!important;border-color:#68420e!important}
+.timeline-caution{border-left-color:#68420e!important}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
+  outline:3px solid #11100d!important;outline-offset:3px!important
+}
+::placeholder{color:#454137!important;opacity:1}
