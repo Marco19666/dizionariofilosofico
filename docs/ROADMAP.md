@@ -20,10 +20,10 @@
 - [x] Prime relazioni tra voci
 - [x] Inserire le prime schede dimostrative di concetti filosofici\n- [x] Primo nucleo di voci per opere, scuole e periodi (da ampliare e verificare)
 - [x] Filtro per tipologia di voce\n- [ ] Filtri avanzati e ricerca multilingue
-- [ ] Aggiungere cronologie e relazioni navigabili tra le voci
+- [x] Prima cronologia e collegamenti alle voci dell'enciclopedia
 
 ## Milestone 4 — Strumenti comparativi
-- [ ] Cronologie parallele
+- [x] Prima cronologia parallela filtrabile per area (versione dimostrativa)
 - [ ] Atlante storico-geografico
 - [ ] Glossario multilingue
 - [ ] Percorsi comparativi

@@ -25,7 +25,7 @@ export default function EncyclopediaPage() {
     <main className="archive-page">
       <header className="site-header">
         <Link className="brand" href="/"><span className="brand-mark">Φ</span><span><strong>Dizionario filosofico</strong><small>Storia universale del pensiero</small></span></Link>
-        <nav aria-label="Navigazione principale"><Link href="/">Home</Link><Link href="/#metodo">Il progetto</Link></nav>
+        <nav aria-label="Navigazione principale"><Link href="/">Home</Link><Link href="/cronologie">Cronologie</Link><Link href="/#metodo">Il progetto</Link></nav>
       </header>
       <section className="archive-hero">
         <p className="eyebrow">Repertorio in costruzione</p><h1>Enciclopedia</h1>
