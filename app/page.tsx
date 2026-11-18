@@ -34,14 +34,14 @@ export default function Home() {
     <main>
       <header className="site-header">
         <a className="brand" href="/"><span className="brand-mark">Φ</span><span><strong>Dizionario filosofico</strong><small>Storia universale del pensiero</small></span></a>
-        <nav aria-label="Navigazione principale"><a href="#enciclopedia">Enciclopedia</a><a href="#metodo">Il progetto</a><a href="#percorsi">Percorsi</a></nav>
+        <nav aria-label="Navigazione principale"><a href="/enciclopedia">Enciclopedia</a><a href="#metodo">Il progetto</a><a href="#percorsi">Percorsi</a></nav>
       </header>
       <section className="hero">
         <div className="hero-inner">
           <p className="eyebrow">Un progetto enciclopedico globale</p>
           <h1>La filosofia è una storia <em>plurale</em>.</h1>
           <p className="hero-copy">Un viaggio tra autori, idee, opere e tradizioni del mondo. Con rigore storico, apertura interculturale e strumenti per esplorare le connessioni senza cancellare le differenze.</p>
-          <a className="primary-link" href="#enciclopedia">Esplora il dizionario <span aria-hidden="true">↘</span></a>
+          <a className="primary-link" href="/enciclopedia">Esplora il dizionario <span aria-hidden="true">↘</span></a>
         </div>
         <div className="hero-note" aria-hidden="true"><span>λόγος</span><span>道</span><span>धर्म</span><span>حكمة</span></div>
       </section>
