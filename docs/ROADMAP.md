@@ -18,8 +18,9 @@
 - [x] Ricerca testuale e filtro per area culturale
 - [x] Pagine di dettaglio per le prime schede autore
 - [x] Prime relazioni tra voci
-- [x] Inserire le prime schede dimostrative di concetti filosofici\n- [ ] Estendere i contenuti a opere, scuole, tradizioni e periodi
+- [x] Inserire le prime schede dimostrative di concetti filosofici\n- [x] Primo nucleo di voci per opere, scuole e periodi (da ampliare e verificare)
 - [x] Filtro per tipologia di voce\n- [ ] Filtri avanzati e ricerca multilingue
+- [ ] Aggiungere cronologie e relazioni navigabili tra le voci
 
 ## Milestone 4 — Strumenti comparativi
 - [ ] Cronologie parallele
