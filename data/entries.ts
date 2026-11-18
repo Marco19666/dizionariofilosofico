@@ -121,7 +121,7 @@ export const comparativePaths: ComparativePath[] = [
   {
     slug: "testo-e-tradizione",
     title: "Testo fondativo e memoria di una tradizione",
-    entries: ["lunyu", "confucio"],
+    entries: ["dialoghi", "confucio"],
     question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
     methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
   },
