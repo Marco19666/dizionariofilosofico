@@ -240,3 +240,19 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
   letter-spacing:.07em;
   text-transform:uppercase;
 }
+
+
+/* Structured scholarly data */
+.concept-list{display:grid;gap:0;margin:0}
+.concept-list>div{display:grid;grid-template-columns:minmax(125px, .34fr) minmax(0,1fr);gap:12px;padding:13px 0;border-bottom:1px solid var(--line)}
+.concept-list dt{font-family:Georgia,serif;font-size:17px;color:var(--ink);font-weight:600}
+.concept-list dd{margin:0;color:var(--muted);font-size:15px;line-height:1.75}
+.works-list{display:grid;gap:0;margin:0;padding:0;list-style:none}
+.works-list li{display:grid;gap:6px;padding:14px 0;border-bottom:1px solid var(--line)}
+.works-list strong{font-family:Georgia,serif;font-size:17px;font-weight:600;color:var(--ink)}
+.works-list span{color:var(--muted);font-size:15px;line-height:1.75}
+.entry-timeline{position:relative;display:grid;gap:0;margin:0;padding:0;list-style:none}
+.entry-timeline li{display:grid;grid-template-columns:minmax(120px,.32fr) minmax(0,1fr);gap:15px;padding:13px 0;border-bottom:1px solid var(--line)}
+.entry-timeline time{font-family:Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.entry-timeline p{margin:0;color:var(--muted);font-size:15px;line-height:1.75}
+@media(max-width:560px){.concept-list>div,.entry-timeline li{grid-template-columns:1fr;gap:5px}}

@@ -52,3 +52,13 @@ Ogni riferimento bibliografico espone un campo `type` per rendere esplicita la s
 - **Edizione di riferimento**: raccolta o edizione generale utile per localizzare testi e stabilire una base di consultazione.
 
 La classificazione descrive la funzione prevalente del riferimento nella singola scheda; non sostituisce la verifica dell'edizione effettivamente consultata e non implica che una traduzione sia un'edizione critica.
+
+
+## Dati strutturati per la consultazione
+
+Le schede possono includere tre insiemi facoltativi:
+- `keyTerms`: termini nella lingua o traslitterazione pertinente, con spiegazione contestuale. Non sono equivalenze lessicali universali.
+- `works`: opere, raccolte, testimoni o testi di ricezione, con una nota che ne chiarisce statuto e funzione. Le opere non attribuite con certezza non vanno presentate come tali.
+- `timeline`: eventi, date e fasi cronologiche. Le date approssimative, tradizionali o discusse devono essere dichiarate nel testo dell'evento; non si costruiscono sequenze artificiali per lemmi concettuali.
+
+I campi sono opzionali perché non tutte le tipologie di voce ammettono una cronologia biografica o una lista d'opere. Le pagine mostrano le sezioni soltanto quando i relativi dati sono presenti. La selezione dei testi è orientativa e non sostituisce una bibliografia critica completa.
