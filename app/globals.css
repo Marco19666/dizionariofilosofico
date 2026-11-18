@@ -226,3 +226,17 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
   outline:3px solid #11100d!important;outline-offset:3px!important
 }
 ::placeholder{color:#454137!important;opacity:1}
+
+
+/* Bibliographic source roles */
+.bibliography-list .bibliography-type{
+  display:inline-block;
+  width:fit-content;
+  color:var(--green)!important;
+  font-family:Arial,sans-serif;
+  font-size:11px!important;
+  font-weight:700;
+  line-height:1.4!important;
+  letter-spacing:.07em;
+  text-transform:uppercase;
+}
