@@ -21,7 +21,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
       <section className="entry-hero">
         <p className="eyebrow">{entry.kind} · {entry.id}</p><p className="entry-area">{entry.area}</p>
         <h1>{entry.title}</h1><p className="entry-subtitle">{entry.subtitle}</p><p className="entry-period">{entry.period}</p>
-        <p className="entry-lead">{entry.summary}</p><span className="status-note">Scheda redatta · verifica specialistica delle fonti ancora necessaria</span>
+        <p className="entry-lead">{entry.summary}</p><span className="status-note">{entry.editorialStatus} · controllo specialistico delle fonti e delle attribuzioni da proseguire</span>
       </section>
       <div className="entry-layout">
         <article className="entry-article">
@@ -57,7 +57,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
           <Link className="back-link" href="/enciclopedia">← Torna all'enciclopedia</Link>
         </aside>
       </div>
-      <footer className="site-footer"><span>© {new Date().getFullYear()} Dizionario universale della storia della filosofia</span><span>Edizione editoriale 1.0 · Italiano</span></footer>
+      <footer className="site-footer"><span>© {new Date().getFullYear()} Dizionario universale della storia della filosofia</span><span>Prima edizione · Italiano</span></footer>
     </main>
   );
 }
