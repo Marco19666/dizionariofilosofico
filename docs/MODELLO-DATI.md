@@ -30,3 +30,14 @@ Ogni scheda possiede:
 
 ## Prima estensione concettuale
 Sono state inserite sei schede dimostrative di concetti: Dao, Logos, Dharma, Śūnyatā, Essere e Virtù. Sono state redatte come lemmi contestualizzati, non come definizioni universali. I collegamenti tra concetti e autori indicano rapporti tematici o testuali descritti nella scheda, non automaticamente influenze storiche.
+
+
+## Criteri per le fonti bibliografiche
+Le voci bibliografiche devono rendere riconoscibile la natura del riferimento:
+- **Fonte primaria / testo**: opera antica o testimonianza, con indicazione dell'edizione o della traduzione effettivamente consultabile.
+- **Edizione critica**: testo stabilito filologicamente, con criteri editoriali e, quando disponibile, apparato; non va confusa con una semplice ristampa.
+- **Traduzione**: indicare traduttore e lingua di arrivo; precisare quando la versione si basa su una specifica recensione o su testimoni manoscritti.
+- **Studio secondario**: monografia o saggio interpretativo, da distinguere dalle fonti primarie.
+- **Testimoni e tradizioni testuali**: per opere trasmesse in versioni differenti (per esempio il Daodejing), specificare il testimone o la recensione quando il dato è rilevante.
+
+Non si deve presentare una traduzione come edizione critica, né una singola fonte come rappresentativa di tutti gli usi di un concetto. Per i lemmi comparativi, le note bibliografiche devono esplicitare il contesto linguistico, storico e disciplinare del riferimento. Le date, le attribuzioni e le ricostruzioni controverse vanno segnalate come tali.
