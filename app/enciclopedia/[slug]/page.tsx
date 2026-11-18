@@ -15,13 +15,13 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
     <main className="entry-page">
       <header className="site-header">
         <Link className="brand" href="/"><span className="brand-mark">Φ</span><span><strong>Dizionario filosofico</strong><small>Storia universale del pensiero</small></span></Link>
-        <nav aria-label="Navigazione principale"><Link href="/enciclopedia">Enciclopedia</Link><Link href="/#metodo">Il progetto</Link></nav>
+        <nav aria-label="Navigazione principale"><Link href="/enciclopedia">Enciclopedia</Link><Link href="/indici">Indici</Link><Link href="/#metodo">Il progetto</Link></nav>
       </header>
       <div className="entry-breadcrumb"><Link href="/">Home</Link><span>/</span><Link href="/enciclopedia">Enciclopedia</Link><span>/</span><span>{entry.title}</span></div>
       <section className="entry-hero">
         <p className="eyebrow">{entry.kind} · {entry.id}</p><p className="entry-area">{entry.area}</p>
         <h1>{entry.title}</h1><p className="entry-subtitle">{entry.subtitle}</p><p className="entry-period">{entry.period}</p>
-        <p className="entry-lead">{entry.summary}</p><span className="status-note">Scheda dimostrativa · revisione scientifica da completare</span>
+        <p className="entry-lead">{entry.summary}</p><span className="status-note">Scheda redatta · verifica specialistica delle fonti ancora necessaria</span>
       </section>
       <div className="entry-layout">
         <article className="entry-article">
@@ -57,7 +57,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
           <Link className="back-link" href="/enciclopedia">← Torna all'enciclopedia</Link>
         </aside>
       </div>
-      <footer className="site-footer"><span>© {new Date().getFullYear()} Dizionario universale della storia della filosofia</span><span>Voce in fase di elaborazione</span></footer>
+      <footer className="site-footer"><span>© {new Date().getFullYear()} Dizionario universale della storia della filosofia</span><span>Edizione editoriale 1.0 · Italiano</span></footer>
     </main>
   );
 }

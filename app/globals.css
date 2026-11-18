@@ -256,3 +256,44 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 .entry-timeline time{font-family:Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
 .entry-timeline p{margin:0;color:var(--muted);font-size:15px;line-height:1.75}
 @media(max-width:560px){.concept-list>div,.entry-timeline li{grid-template-columns:1fr;gap:5px}}
+
+
+/* Indici editoriali */
+.indexes-hero{padding:76px 10vw 64px;background:var(--green);color:#f8f5ed}
+.indexes-hero h1{margin:0;font:400 clamp(44px,6vw,72px)/1 Georgia,"Times New Roman",serif;letter-spacing:-.04em}
+.indexes-hero>p:not(.eyebrow){max-width:760px;color:#e1e3da;font-size:17px;line-height:1.8}
+.indexes-stat{display:flex;align-items:baseline;gap:12px 18px;flex-wrap:wrap;margin-top:28px}
+.indexes-stat strong{font:400 28px Georgia,serif;color:#e0bd89}
+.indexes-stat span{font-size:12px;color:#e1e3da;margin-right:18px}
+.indexes-content{padding-top:54px;padding-bottom:80px}
+.index-section{padding:34px 0;border-bottom:1px solid var(--line);scroll-margin-top:24px}
+.index-section .section-heading{margin-bottom:22px}
+.alphabetical-index{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+.alphabetical-index li{display:grid;grid-template-columns:minmax(120px,1fr) minmax(130px,1.2fr) auto;align-items:baseline;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.alphabetical-index a,.index-group a,.tag-index a,.work-index a{color:var(--green-dark);text-decoration:underline;text-decoration-color:#c7b89f;text-underline-offset:3px}
+.alphabetical-index span,.alphabetical-index small{color:var(--muted);font-size:12px}
+.index-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.index-group{padding:18px 20px;background:rgba(255,254,250,.55);border:1px solid var(--line)}
+.index-group h3{margin:0 0 12px;font:400 19px Georgia,serif}
+.index-group h3 small{font:12px Arial,sans-serif;color:var(--muted)}
+.index-group ul{list-style:none;padding:0;margin:0}
+.index-group li{padding:5px 0;font-size:14px}
+.tag-index{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+.tag-index>div{padding:12px 0;border-bottom:1px solid var(--line)}
+.tag-index>div>strong{display:block;margin-bottom:6px;font:400 17px Georgia,serif}
+.tag-index>div>span{display:flex;gap:7px 14px;flex-wrap:wrap;font-size:13px}
+.sub-index-title{margin:28px 0 12px;font:400 23px Georgia,serif}
+.term-index{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 24px}
+.term-index>div{display:grid;grid-template-columns:minmax(100px,.8fr) 1.6fr;gap:5px 12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.term-index>div strong{font-family:Georgia,serif;font-size:16px}
+.term-index>div span{font-size:13px;line-height:1.55;color:var(--muted)}
+.term-index>div a{grid-column:2;color:var(--green-dark);font-size:12px}
+.work-index,.path-index{list-style:none;padding:0;margin:0}
+.work-index li,.path-index li{display:grid;grid-template-columns:minmax(160px,1fr) 2fr auto;gap:12px;padding:15px 0;border-bottom:1px solid var(--line);align-items:start}
+.work-index strong,.path-index strong{font-family:Georgia,serif;font-weight:400}
+.work-index span,.path-index span,.path-index small{font-size:13px;color:var(--muted);line-height:1.55}
+.path-index li{grid-template-columns:1fr 1fr}
+.path-index p{grid-column:1/-1;margin:0;font-size:14px}
+.path-index small{grid-column:1/-1}
+@media(max-width:850px){.index-columns{grid-template-columns:repeat(2,minmax(0,1fr))}.work-index li{grid-template-columns:1fr 1.5fr}.work-index li a{grid-column:2}}
+@media(max-width:600px){.indexes-hero{padding:54px 7vw 44px}.indexes-content{padding-left:7vw;padding-right:7vw}.alphabetical-index,.index-columns,.tag-index,.term-index{grid-template-columns:1fr}.alphabetical-index li{grid-template-columns:1fr auto}.alphabetical-index span{grid-column:1}.alphabetical-index small{grid-column:2;grid-row:1}.work-index li,.path-index li{grid-template-columns:1fr}.work-index li a,.path-index p,.path-index small{grid-column:1}.indexes-stat{gap:8px 10px}.indexes-stat span{margin-right:8px}}

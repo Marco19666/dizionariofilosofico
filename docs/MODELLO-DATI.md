@@ -62,3 +62,16 @@ Le schede possono includere tre insiemi facoltativi:
 - `timeline`: eventi, date e fasi cronologiche. Le date approssimative, tradizionali o discusse devono essere dichiarate nel testo dell'evento; non si costruiscono sequenze artificiali per lemmi concettuali.
 
 I campi sono opzionali perché non tutte le tipologie di voce ammettono una cronologia biografica o una lista d'opere. Le pagine mostrano le sezioni soltanto quando i relativi dati sono presenti. La selezione dei testi è orientativa e non sostituisce una bibliografia critica completa.
+
+
+## Edizione editoriale 1.0 e indici
+Il repertorio iniziale comprende 16 schede: sei autori, sei concetti, una raccolta testuale, due scuole e una categoria storiografica. La dicitura di edizione editoriale indica il completamento della redazione e della struttura informativa del primo nucleo; non equivale a peer review né a certificazione definitiva di ogni interpretazione o riferimento bibliografico.
+
+La pagina `/indici` genera automaticamente:
+- indice alfabetico delle voci;
+- raggruppamenti per tipologia, area culturale e periodo dichiarato;
+- indice tematico basato su tag e termini contestualizzati;
+- indice delle opere e dei testi registrati;
+- elenco dei percorsi comparativi.
+
+Gli indici non duplicano manualmente i contenuti: derivano da `entries` e `comparativePaths`, così da ridurre divergenze tra schede e strumenti di consultazione. Le voci prive di opere o cronologie strutturate non vengono completate artificialmente.
