@@ -28,6 +28,25 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
           {entry.sections.map((section) => <section className="article-section" key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map((paragraph, index) => <p key={index}>{paragraph}</p>)}</section>)}
           <section className="article-section"><h2>Bibliografia e fonti</h2><ul className="bibliography-list">{entry.bibliography.map((item) => <li key={item.label}><strong>{item.label}</strong><span>{item.note}</span></li>)}</ul></section>
           {entry.related.length > 0 && <section className="article-section"><h2>Voci correlate</h2><ul className="related-list">{entry.related.map((item) => <li key={item.slug}><Link href={`/enciclopedia/${item.slug}`}>{item.label}</Link><span>{item.relation}</span></li>)}</ul></section>}
+          {comparativePaths.filter((path) => path.entries.includes(entry.slug)).length > 0 && (
+            <section className="article-section">
+              <h2>Percorsi comparativi</h2>
+              <p>Confronti guidati tra voci del dizionario. Le connessioni indicano problemi di ricerca, non equivalenze automatiche.</p>
+              <ul className="related-list">
+                {comparativePaths.filter((path) => path.entries.includes(entry.slug)).map((path) => (
+                  <li key={path.slug}>
+                    <strong>{path.title}</strong>
+                    <span>{path.entries.map((slug, index) => {
+                      const linkedEntry = entries.find((candidate) => candidate.slug === slug);
+                      return linkedEntry ? <span key={slug}>{index > 0 ? " · " : ""}<Link href={`/enciclopedia/${slug}`}>{linkedEntry.title}</Link></span> : null;
+                    })}</span>
+                    <span>{path.question}</span>
+                    <span>{path.methodNote}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
         </article>
         <aside className="entry-aside">
           <div><p className="eyebrow">Identificazione</p><dl><dt>Tipologia</dt><dd>{entry.kind}</dd><dt>Area culturale</dt><dd>{entry.area}</dd><dt>Periodo</dt><dd>{entry.period}</dd><dt>Codice</dt><dd>{entry.id}</dd></dl></div>

@@ -75,4 +75,91 @@ export const entries: EncyclopediaEntry[] = [
   {"slug":"madhyamaka","id":"SCU-000002","kind":"scuola","title":"Madhyamaka","subtitle":"La via di mezzo e la critica dell'esistenza intrinseca","area":"India","period":"Dai primi secoli dell'era comune; sviluppi in Asia","summary":"Tradizione filosofica buddhista mahāyāna associata all'analisi della vacuità e dell'origine dipendente, sviluppata attraverso dibattiti e commentari.","sections":[{"heading":"Origini e contesto","paragraphs":["Il Madhyamaka si forma nel contesto del buddhismo mahāyāna indiano ed è legato soprattutto alle opere attribuite a Nāgārjuna e ai successivi commentatori. La ricostruzione delle origini richiede attenzione alla pluralità dei testi e delle linee interpretative.","La denominazione 'via di mezzo' va compresa in rapporto ai dibattiti buddhisti sulle posizioni estreme e sulle pretese di fondazione ontologica."]},{"heading":"Problemi e argomenti","paragraphs":["L'analisi madhyamaka esamina criticamente la pretesa che persone e fenomeni possiedano natura propria indipendente. La vacuità non è una sostanza nascosta né una tesi secondo cui nulla esiste: è connessa al sorgere dipendente e all'analisi delle designazioni convenzionali.","Le diverse scuole madhyamaka hanno elaborato metodi argomentativi e interpretazioni non identici. È quindi necessario specificare autori, testi e contesti quando si presenta una tesi."]},{"heading":"Diffusione e ricezione","paragraphs":["Il Madhyamaka ebbe sviluppi importanti in India, Tibet e Asia orientale. Le traduzioni, i commentari e le controversie locali hanno contribuito a trasformarne il lessico e le strategie filosofiche."]},{heading:"Questioni interpretative e approfondimento",paragraphs:["Il Madhyamaka non è monolitico: le interpretazioni di Nāgārjuna, Āryadeva, Buddhapālita, Bhāviveka e Candrakīrti differiscono per metodi e tesi. Le classificazioni successive come Svātantrika e Prāsaṅgika hanno una storia esegetica specifica. La critica delle concezioni sostanzialiste è connessa alla pratica buddhista e al superamento dell’attaccamento. Ogni esposizione deve specificare testi, linea interpretativa e ricezione regionale."]},{heading:"Testi, controversie e piste di ricerca",paragraphs:["Per orientarsi nella storia indiana della scuola è utile distinguere Nāgārjuna e Āryadeva dai commentatori successivi. Buddhapālita, Bhāviveka e Candrakīrti sono associati a differenti strategie esegetiche e argomentative; le etichette scolastiche con cui vengono classificati si consolidarono anche nelle tradizioni tibetane. Le genealogie dottrinali non vanno trattate come tassonomie neutrali e senza storia.","La diffusione in Tibet e in Asia orientale produsse lessici, curricula e controversie differenti. Una presentazione globale deve distinguere la storia indiana del Madhyamaka dalle sue ricezioni regionali, indicando quando una classificazione è emica, cioè usata da una tradizione, e quando è una categoria storiografica moderna."]}],"tags":["India","buddhismo","mahāyāna","vacuità","origine dipendente"],"related":[{"label":"Nāgārjuna","slug":"nagarjuna","relation":"autore fondamentale della tradizione"},{"label":"Śūnyatā (vacuità)","slug":"sunyata","relation":"concetto centrale"}],"bibliography":[{"label":"Nāgārjuna, The Fundamental Wisdom of the Middle Way, trad. e commento di Jay L. Garfield, Oxford University Press, 1995.","note":"Edizione di riferimento per il testo fondamentale del Madhyamaka. Si affianchi la traduzione italiana di Nāgārjuna, Madhyamaka kārikā; Vigraha vyāvartanī; Catuḥstava, a cura di Raniero Gnoli, Boringhieri, 1961."},{"label":"Jan Westerhoff, Nāgārjuna’s Madhyamaka: A Philosophical Introduction, Oxford University Press, 2009.","note":"Studio introduttivo sulle argomentazioni, le interpretazioni e i problemi filosofici della scuola."}],"editorialStatus":"scheda dimostrativa"},
   {"slug":"eta-assiale","id":"PER-000001","kind":"periodo","title":"Età assiale","subtitle":"Una categoria interpretativa per trasformazioni intellettuali antiche","area":"Comparativo · Eurasia","period":"Convenzionalmente circa 800–200 a.C.","summary":"L'espressione 'età assiale' indica una tesi storiografica sulle trasformazioni religiose e filosofiche avvenute in diverse regioni dell'Eurasia antica; la categoria è discussa e non va intesa come cronologia universale condivisa.","sections":[{"heading":"La proposta storiografica","paragraphs":["La nozione è associata al filosofo e storico Karl Jaspers, che individuò in un arco di secoli trasformazioni profonde in Cina, India, Iran, Israele e Grecia. La proposta ha avuto grande influenza nel dibattito sulla storia globale delle idee.","Non è un periodo storico unitario riconosciuto da tutte le discipline: è una cornice interpretativa, con limiti cronologici e geografici contestati."]},{"heading":"Potenzialità e limiti","paragraphs":["La categoria invita a studiare comparativamente nuove forme di riflessione etica, cosmologica e politica, nonché il rapporto tra tradizioni orali, scrittura e istituzioni.","Il rischio è appiattire differenze, suggerire sviluppi simultanei non dimostrati o costruire una narrazione teleologica centrata su pochi canoni. Le cronologie regionali e le prove documentarie devono restare prioritarie."]},{"heading":"Uso nel dizionario","paragraphs":["Nel repertorio questa voce funziona come strumento di orientamento storiografico, non come contenitore che rende equivalenti Confucio, le Upaniṣad, i profeti israeliti e i pensatori greci.","Ogni confronto dovrà dichiarare il criterio adottato e distinguere convergenze, contatti storici e analogie formulate dallo studioso."]},{heading:"Questioni interpretative e approfondimento",paragraphs:["L’età assiale è una categoria storiografica, non un periodo universalmente riconosciuto. Il confronto tra Cina, India, Iran, Israele e Grecia dipende dai criteri adottati: trasformazioni morali, tradizioni scritte, critica rituale o nuove concezioni politiche. Le cronologie regionali non coincidono. La categoria resta utile come ipotesi da verificare, purché ogni confronto dichiari fonti, unità di analisi e possibili contatti."]},{heading:"Testi, controversie e piste di ricerca",paragraphs:["La proposta di Jaspers nasce in un contesto intellettuale europeo del Novecento e va letta come modello interpretativo, non come descrizione neutrale di un'epoca universalmente riconosciuta. Le ricerche successive hanno discusso sia la selezione geografica sia l'idea di una trasformazione simultanea. È utile chiedere quali indicatori rendano comparabili fenomeni tanto diversi: nuove forme di autorità, scrittura, riflessività morale o organizzazione politica.","Un uso responsabile della categoria deve includere anche ciò che essa lascia fuori: Africa, Americhe, società senza tradizioni testuali conservate e processi che non rientrano nella cronologia convenzionale. La comparazione globale non deve diventare una classifica di civiltà né una storia unica del “risveglio” umano. Le differenze regionali e le asimmetrie delle fonti sono parte del risultato, non ostacoli da eliminare."]}],"tags":["storiografia","comparazione","Cina","India","Grecia","Eurasia"],"related":[{"label":"Confucio","slug":"confucio","relation":"figura spesso collocata nel quadro cronologico della categoria"},{"label":"Nāgārjuna","slug":"nagarjuna","relation":"cronologicamente successivo alla fascia classica convenzionale"}],"bibliography":[{"label":"Karl Jaspers, The Origin and Goal of History, trad. di Michael Bullock, Yale University Press, 1953 (originale tedesco 1949).","note":"Testo in cui Jaspers formula la categoria moderna di età assiale; va letto come proposta interpretativa, non come periodizzazione universalmente accettata."},{"label":"Robert N. Bellah e Hans Joas (a cura di), The Axial Age and Its Consequences, Harvard University Press, 2012.","note":"Raccolta di saggi che riprende criticamente la tesi assiale e ne discute portata, limiti e conseguenze comparative."}],"editorialStatus":"scheda dimostrativa"}
 ];
+
+
+export interface ComparativePath {
+  slug: string;
+  title: string;
+  entries: string[];
+  question: string;
+  methodNote: string;
+}
+
+/**
+ * Percorsi comparativi trasversali. Le connessioni indicano problemi da
+ * mettere a confronto, non equivalenze concettuali né influenze automatiche.
+ */
+export const comparativePaths: ComparativePath[] = [
+  {
+    slug: "dialogo-e-sistema",
+    title: "Dialogo, trattato e costruzione del sapere",
+    entries: ["platone", "aristotele"],
+    question: "In che modo la forma letteraria condiziona ciò che possiamo ricostruire di una filosofia?",
+    methodNote: "Il dialogo platonico e i trattati aristotelici appartengono a generi e storie di trasmissione differenti: non sono due semplici stili espositivi intercambiabili."
+  },
+  {
+    slug: "ordine-e-spontaneita",
+    title: "Rito, formazione e spontaneità",
+    entries: ["confucio", "laozi"],
+    question: "L'ordine umano nasce soprattutto dall'educazione rituale o da una riduzione dell'intervento artificiale?",
+    methodNote: "Il confronto riguarda testi e orientamenti della Cina antica; non autorizza a ridurre confucianesimo e daoismo a due blocchi uniformi o sempre contrapposti."
+  },
+  {
+    slug: "dao-e-logos",
+    title: "Dao e logos: linguaggio e principio",
+    entries: ["dao", "logos"],
+    question: "Come vengono pensati il principio, l'ordine e i limiti del linguaggio in contesti culturali differenti?",
+    methodNote: "Dao e logos hanno storie semantiche non sovrapponibili. Le analogie sono strumenti euristici e non dimostrano contatti o derivazioni."
+  },
+  {
+    slug: "essere-e-vacuita",
+    title: "Essere, dipendenza e vacuità",
+    entries: ["essere", "sunyata"],
+    question: "Che cosa presupponiamo quando diciamo che qualcosa è, esiste o possiede una natura propria?",
+    methodNote: "Il lessico ontologico greco e l'analisi buddhista della vacuità nascono da problemi e tradizioni differenti; il confronto deve mantenere visibili le rispettive cornici."
+  },
+  {
+    slug: "testo-e-tradizione",
+    title: "Testo fondativo e memoria di una tradizione",
+    entries: ["lunyu", "confucio"],
+    question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
+    methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
+  },
+  {
+    slug: "nagarjuna-madhyamaka",
+    title: "Autore, argomentazione e scuola",
+    entries: ["nagarjuna", "madhyamaka"],
+    question: "Come si passa dagli argomenti di un autore alla formazione di una tradizione filosofica articolata?",
+    methodNote: "La scuola Madhyamaka comprende commentatori e sviluppi regionali: non ogni tesi successiva può essere attribuita direttamente a Nāgārjuna."
+  },
+  {
+    slug: "dharma-e-virtu",
+    title: "Dharma e virtù: norme, condotta e contesto",
+    entries: ["dharma", "virtu"],
+    question: "Come si articolano dovere, condotta appropriata ed eccellenza morale nelle diverse tradizioni?",
+    methodNote: "Dharma è un termine polisemico nelle tradizioni indiane; virtù traduce famiglie concettuali greche e cinesi non equivalenti. Occorre sempre specificare testo e contesto."
+  },
+  {
+    slug: "aristotele-avicenna",
+    title: "Aristotele nella filosofia di Avicenna",
+    entries: ["aristotele", "avicenna"],
+    question: "Come viene trasformato un lessico filosofico quando è tradotto, commentato e inserito in un nuovo sistema?",
+    methodNote: "Qui il confronto include una storia documentabile di ricezione, ma Avicenna non è un semplice ripetitore di Aristotele: rielabora problemi e soluzioni."
+  },
+  {
+    slug: "stoicismo-logos",
+    title: "Logos, natura e ordine cosmico",
+    entries: ["stoicismo", "logos"],
+    question: "Quale funzione assume il logos quando diventa principio di intelligibilità e ordine del cosmo?",
+    methodNote: "Le formulazioni stoiche sono specifiche e vanno distinte dagli usi presocratici, platonici e aristotelici del termine."
+  },
+  {
+    slug: "eta-assiale-comparazione",
+    title: "L'età assiale come problema di comparazione",
+    entries: ["eta-assiale", "confucio", "nagarjuna"],
+    question: "Quali criteri rendono confrontabili trasformazioni intellettuali collocate in regioni e secoli differenti?",
+    methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
+  }
+];
+
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
