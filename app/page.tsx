@@ -47,7 +47,7 @@ export default function Home() {
           <select id="area-filter" value={area} onChange={(e) => setArea(e.target.value)}>{areas.map((item) => <option key={item}>{item}</option>)}</select>
         </div>
         {filtered.length ? <div className="entry-grid">{filtered.map((entry) => <a className="entry-card" href={`/enciclopedia/${entry.slug}`} key={entry.id}>
-          <div className="card-meta"><span>{entry.kind}</span><span>{entry.id}</span></div><p className="entry-area">{entry.area}</p><h3>{entry.title}</h3><p className="entry-period">{entry.period}</p><p className="entry-description">{entry.description}</p>
+          <div className="card-meta"><span>{entry.kind}</span><span>{entry.id}</span></div><p className="entry-area">{entry.area}</p><h3>{entry.title}</h3><p className="entry-period">{entry.period}</p><p className="entry-description">{entry.summary}</p>
           <div className="tag-list">{entry.tags.map((tag) => <span key={tag}>{tag}</span>)}</div><span className="card-foot">Apri la scheda ↗</span>
         </a>)}</div> : <p className="empty-state">Nessuna voce trovata. Prova un altro termine o modifica il filtro.</p>}
         <p className="editorial-note">Il primo nucleo editoriale comprende 16 schede. La redazione è stata completata; le attribuzioni e le bibliografie restano soggette a verifica specialistica.</p>
