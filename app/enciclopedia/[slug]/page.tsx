@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { entries, getEntryBySlug } from "@/data/entries";
+import { comparativePaths, entries, getEntryBySlug } from "@/data/entries";
 
 export function generateStaticParams() {
   return entries.map((entry) => ({ slug: entry.slug }));
