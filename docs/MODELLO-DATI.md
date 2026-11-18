@@ -41,3 +41,14 @@ Le voci bibliografiche devono rendere riconoscibile la natura del riferimento:
 - **Testimoni e tradizioni testuali**: per opere trasmesse in versioni differenti (per esempio il Daodejing), specificare il testimone o la recensione quando il dato è rilevante.
 
 Non si deve presentare una traduzione come edizione critica, né una singola fonte come rappresentativa di tutti gli usi di un concetto. Per i lemmi comparativi, le note bibliografiche devono esplicitare il contesto linguistico, storico e disciplinare del riferimento. Le date, le attribuzioni e le ricostruzioni controverse vanno segnalate come tali.
+
+
+## Classificazione delle voci bibliografiche
+
+Ogni riferimento bibliografico espone un campo `type` per rendere esplicita la sua funzione:
+- **Testo primario / traduzione**: opera della tradizione studiata in traduzione o edizione leggibile.
+- **Edizione critica / testimone**: edizione filologica, raccolta di frammenti o testimonianza manoscritta specifica.
+- **Studio secondario**: ricerca moderna che interpreta, ricostruisce o contestualizza il tema.
+- **Edizione di riferimento**: raccolta o edizione generale utile per localizzare testi e stabilire una base di consultazione.
+
+La classificazione descrive la funzione prevalente del riferimento nella singola scheda; non sostituisce la verifica dell'edizione effettivamente consultata e non implica che una traduzione sia un'edizione critica.

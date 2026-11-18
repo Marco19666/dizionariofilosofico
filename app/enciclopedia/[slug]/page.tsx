@@ -26,7 +26,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
       <div className="entry-layout">
         <article className="entry-article">
           {entry.sections.map((section) => <section className="article-section" key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map((paragraph, index) => <p key={index}>{paragraph}</p>)}</section>)}
-          <section className="article-section"><h2>Bibliografia e fonti</h2><ul className="bibliography-list">{entry.bibliography.map((item) => <li key={item.label}><strong>{item.label}</strong><span>{item.note}</span></li>)}</ul></section>
+          <section className="article-section"><h2>Bibliografia e fonti</h2><ul className="bibliography-list">{entry.bibliography.map((item) => <li key={item.label}><strong>{item.label}</strong><span className="bibliography-type">{item.type}</span><span>{item.note}</span></li>)}</ul></section>
           {entry.related.length > 0 && <section className="article-section"><h2>Voci correlate</h2><ul className="related-list">{entry.related.map((item) => <li key={item.slug}><Link href={`/enciclopedia/${item.slug}`}>{item.label}</Link><span>{item.relation}</span></li>)}</ul></section>}
           {comparativePaths.filter((path) => path.entries.includes(entry.slug)).length > 0 && (
             <section className="article-section">
