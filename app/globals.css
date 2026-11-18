@@ -114,3 +114,60 @@
 .timeline-card-top a,.timeline-card-top a:visited,.related-list a,.back-link{color:#28543b}
 .entry-aside dt{color:#50584f}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+
+/* Modalità ad alto contrasto: nero su fondo chiaro */
+:root{
+  --paper:#ffffff;
+  --paper-deep:#f0f0f0;
+  --ink:#000000;
+  --muted:#292929;
+  --green:#000000;
+  --green-dark:#000000;
+  --ochre:#714300;
+  --line:#b8b8b8;
+  --white:#ffffff;
+}
+html,body{background:#fff!important;color:#000!important}
+.site-header,.hero,.archive-hero,.entry-hero,.timeline-hero,
+.pathways,.site-footer{background:#fff!important;color:#000!important}
+.site-header,.site-footer{border-color:#b8b8b8}
+.site-header nav,.brand strong,.brand small,.brand-mark,
+.hero h1,.hero h1 em,.hero-copy,.hero-note,
+.archive-hero h1,.archive-hero>p:last-child,
+.entry-hero h1,.entry-hero .entry-area,.entry-subtitle,
+.entry-hero .entry-period,.entry-lead,.status-note,
+.timeline-hero h1,.timeline-hero>p:last-child,
+.site-footer,.primary-link{color:#000!important}
+.hero .eyebrow,.archive-hero .eyebrow,.entry-hero .eyebrow,
+.timeline-hero .eyebrow,.eyebrow,.entry-area,.principle-number{color:#714300!important}
+.primary-link{background:#ededed!important;border:1px solid #777!important}
+.primary-link:hover{background:#dcdcdc!important}
+.principles,.search-panel,.entry-card,.entry-aside,.timeline-filter,
+.timeline-card,.timeline-caution{background:#fff!important}
+.principles h2,.section-heading h2,.pathways h2,.entry-card h3,
+.article-section h2,.timeline-card h3,.timeline-caution strong,
+.bibliography-list strong,.related-list a{color:#000!important}
+.principles p,.entry-description,.article-section p,
+.pathways-inner>p:last-child,.timeline-card p,.timeline-caution p,
+.editorial-note,.entry-count,.card-meta,.entry-period,
+.timeline-date small,.timeline-card-top,.entry-aside dt,
+.bibliography-list span,.related-list span,.search-label,
+.filter-label,.timeline-filter label{color:#292929!important}
+.search-panel input,.search-panel select,.timeline-filter select{
+  background:#fff!important;color:#000!important;border:1px solid #777!important
+}
+.entry-card,.entry-aside,.timeline-card,.search-panel,.timeline-filter{
+  border:1px solid #999!important
+}
+.tag-list span{background:#eee!important;color:#111!important}
+.card-foot{color:#292929!important;border-color:#ccc!important}
+.related-list a,.back-link,.timeline-card-top a{color:#000!important;text-decoration:underline}
+.timeline-date{color:#000!important}
+.timeline-list:before{background:#777!important}
+.timeline-marker{background:#fff!important;border-color:#714300!important}
+.timeline-caution{border-left-color:#714300!important}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
+  outline:3px solid #000!important;outline-offset:3px!important
+}
+::placeholder{color:#444!important;opacity:1}
