@@ -8,16 +8,18 @@
 - [ ] Definire convenzioni di codice e contributo
 
 ## Milestone 2 — Modello editoriale
-- [ ] Definire schema tipizzato delle voci
-- [ ] Separare i contenuti dai componenti dell'interfaccia
-- [ ] Aggiungere tipologie, cronologie e aree culturali
-- [ ] Integrare fonti e bibliografie
+- [x] Definire schema tipizzato iniziale delle voci
+- [x] Separare i contenuti dai componenti dell'interfaccia
+- [x] Aggiungere tipologie, cronologie e aree culturali di base
+- [ ] Integrare fonti e bibliografie verificate
 
 ## Milestone 3 — Enciclopedia
-- [ ] Pagine di dettaglio per autori, concetti e opere
-- [ ] Collegamenti tra voci
-- [ ] Filtri avanzati
-- [ ] Ricerca multilingue
+- [x] Archivio navigabile delle voci
+- [x] Ricerca testuale e filtro per area culturale
+- [x] Pagine di dettaglio per le prime schede autore
+- [x] Prime relazioni tra voci
+- [x] Inserire le prime schede dimostrative di concetti filosofici\n- [ ] Estendere i contenuti a opere, scuole, tradizioni e periodi
+- [x] Filtro per tipologia di voce\n- [ ] Filtri avanzati e ricerca multilingue
 
 ## Milestone 4 — Strumenti comparativi
 - [ ] Cronologie parallele
