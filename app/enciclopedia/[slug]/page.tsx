@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { comparativePaths, entries, getEntryBySlug } from "@/data/entries";
+import { comparativePaths, entries, getEntryBySlug } from "@/data/catalog";
 import { expandedThoughts } from "@/data/expanded-thoughts";
 
 export function generateStaticParams() {
