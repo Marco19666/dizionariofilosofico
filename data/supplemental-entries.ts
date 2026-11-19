@@ -15,4 +15,71 @@ export const supplementalEntries: EncyclopediaEntry[] = [
   { slug:"husserl", id:"AUT-000212", kind:"autore", title:"Edmund Husserl", subtitle:"Intenzionalità, riduzione e mondo della vita", area:"Filosofia contemporanea", period:"1859–1938", summary:"Fondatore della fenomenologia, Husserl sviluppa un metodo descrittivo volto a chiarire le strutture dell’esperienza e della costituzione del senso.", sections:[{heading:"Profilo e problemi",paragraphs:["Fondatore della fenomenologia, Husserl sviluppa un metodo descrittivo volto a chiarire le strutture dell’esperienza e della costituzione del senso.","La coscienza è intenzionale, cioè sempre coscienza di qualcosa. La riduzione fenomenologica sospende l’atteggiamento naturale per indagare come gli oggetti si manifestano; il mondo della vita diventa tema centrale nella riflessione tarda."]},{heading:"Questioni interpretative",paragraphs:["La fenomenologia husserliana attraversa fasi diverse. I manoscritti e le opere pubblicate postume hanno un ruolo decisivo nella ricostruzione del suo progetto."]}], tags:["Filosofia contemporanea","Intenzionalità","filosofia","storia del pensiero"], related:[], bibliography:[{label:"Voce introduttiva e testi dell’autore",type:"enciclopedia",note:"Riferimento orientativo: integrare con edizioni critiche e studi specialistici prima della pubblicazione definitiva."}], editorialStatus:"edizione editoriale 1.0" },
   { slug:"heidegger", id:"AUT-000213", kind:"autore", title:"Martin Heidegger", subtitle:"Essere, esistenza e temporalità", area:"Filosofia contemporanea", period:"1889–1976", summary:"Filosofo tedesco che pone nuovamente la domanda sul senso dell’essere e analizza l’esistenza umana come essere-nel-mondo.", sections:[{heading:"Profilo e problemi",paragraphs:["Filosofo tedesco che pone nuovamente la domanda sul senso dell’essere e analizza l’esistenza umana come essere-nel-mondo.","Essere e tempo indaga l’esistenza, la cura, la temporalità e l’essere-per-la-morte. La questione dell’essere non coincide con una teoria degli enti particolari."]},{heading:"Questioni interpretative",paragraphs:["Il pensiero di Heidegger va studiato anche alla luce del suo coinvolgimento nel nazionalsocialismo e delle controversie etiche e politiche emerse dalla pubblicazione dei Quaderni neri."]}], tags:["Filosofia contemporanea","Essere","filosofia","storia del pensiero"], related:[], bibliography:[{label:"Voce introduttiva e testi dell’autore",type:"enciclopedia",note:"Riferimento orientativo: integrare con edizioni critiche e studi specialistici prima della pubblicazione definitiva."}], editorialStatus:"edizione editoriale 1.0" },
   { slug:"foucault", id:"AUT-000214", kind:"autore", title:"Michel Foucault", subtitle:"Sapere, potere, disciplina e soggettivazione", area:"Filosofia contemporanea francese", period:"1926–1984", summary:"Filosofo e storico delle idee francese, autore di indagini sulle pratiche che organizzano il sapere, il potere e la formazione dei soggetti.", sections:[{heading:"Profilo e problemi",paragraphs:["Filosofo e storico delle idee francese, autore di indagini sulle pratiche che organizzano il sapere, il potere e la formazione dei soggetti.","Archeologia e genealogia analizzano le condizioni storiche dei discorsi e delle pratiche. Le ricerche sul potere disciplinare e sulla governamentalità mostrano come istituzioni e saperi producano forme di soggettività."]},{heading:"Questioni interpretative",paragraphs:["La produzione foucaultiana cambia metodo e oggetto nel tempo. Non va ridotta alla tesi semplicistica secondo cui ogni sapere sarebbe soltanto un effetto del potere."]}], tags:["Filosofia contemporanea francese","Sapere","filosofia","storia del pensiero"], related:[], bibliography:[{label:"Voce introduttiva e testi dell’autore",type:"enciclopedia",note:"Riferimento orientativo: integrare con edizioni critiche e studi specialistici prima della pubblicazione definitiva."}], editorialStatus:"edizione editoriale 1.0" }
+  ,
+  {
+    slug: "seneca", id: "AUT-000455", kind: "autore", title: "Lucio Anneo Seneca",
+    subtitle: "Stoicismo, passioni e responsabilità nel potere imperiale",
+    area: "Filosofia romana", period: "I secolo d.C.",
+    summary: "Filosofo stoico, autore di dialoghi morali, tragedie e delle Lettere a Lucilio; riflette sulla libertà interiore, il tempo, le passioni e la responsabilità politica.",
+    sections: [
+      { heading: "Profilo storico e opere", paragraphs: [
+        "Lucio Anneo Seneca nacque a Cordova e si formò a Roma. Fu oratore, uomo politico, precettore e consigliere di Nerone; dopo un progressivo allontanamento dalla corte, fu costretto al suicidio nel 65 d.C. La sua produzione comprende dialoghi morali, trattati, tragedie, questioni naturali e le Lettere a Lucilio, una delle testimonianze più ricche dello stoicismo imperiale.",
+        "Le opere affrontano problemi concreti: l'ira, la clemenza, la brevità della vita, la tranquillità dell'animo, la provvidenza e il rapporto con la morte. La forma letteraria è parte della filosofia: esempi, immagini e dialoghi mirano a trasformare il lettore, non soltanto a trasmettere definizioni."
+      ]},
+      { heading: "Etica stoica e libertà", paragraphs: [
+        "La virtù è l'unico bene in senso pieno; ricchezza, salute, reputazione e cariche possono essere preferibili, ma non determinano la felicità. La libertà consiste nel governo razionale di sé e nella capacità di non affidare il proprio valore a circostanze esterne. La filosofia è un esercizio quotidiano, perché nessuno è immune da passioni e giudizi precipitosi.",
+        "Nel De ira Seneca analizza la passione come alterazione del giudizio; nel De clementia indaga la moderazione del potere. Il suo pensiero conserva una tensione tra ideali morali e partecipazione alla corte imperiale: una contraddizione storica da esaminare, non da cancellare con un giudizio sommario."
+      ]}
+    ],
+    tags: ["Stoicismo", "Filosofia romana", "Etica", "Passioni", "Tempo", "Filosofia politica"],
+    related: [],
+    bibliography: [
+      { label: "Lettere a Lucilio", type: "Testo primario / traduzione", note: "Fonte fondamentale per l'etica e la pratica filosofica senecana." },
+      { label: "De ira; De brevitate vitae; De clementia", type: "Testo primario / traduzione", note: "Trattati utili per approfondire passioni, tempo e potere." }
+    ],
+    works: [
+      { title: "Lettere a Lucilio", note: "Epistolario filosofico sull'esercizio della virtù e la vita quotidiana." },
+      { title: "De brevitate vitae", note: "Analisi del tempo e della dispersione dell'esistenza." },
+      { title: "De ira", note: "Indagine sulle cause e sul controllo della collera." },
+      { title: "De clementia", note: "Riflessione sulla moderazione del governante." }
+    ],
+    keyTerms: [
+      { term: "Virtù", explanation: "Bene autentico che rende possibile una vita libera e razionale." },
+      { term: "Indifferenti", explanation: "Condizioni esterne che non determinano il valore morale, pur potendo essere preferibili o non preferibili." },
+      { term: "Tranquillitas animi", explanation: "Stabilità interiore ottenuta attraverso il lavoro sui giudizi e sui desideri." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "epitteto", id: "AUT-000456", kind: "autore", title: "Epitteto",
+    subtitle: "Libertà interiore, giudizio e pratica stoica",
+    area: "Filosofia greca e romana", period: "I-II secolo d.C.",
+    summary: "Maestro stoico nato schiavo, la cui filosofia distingue ciò che dipende da noi da ciò che non dipende da noi e concepisce la libertà come governo del giudizio.",
+    sections: [
+      { heading: "Profilo storico e trasmissione", paragraphs: [
+        "Epitteto nacque in Frigia e visse inizialmente in condizione servile. Dopo aver insegnato a Roma, fu allontanato insieme ad altri filosofi e fondò una scuola a Nicopoli. Non compose direttamente le opere conservate: le Diatribe e il Manuale furono redatti da Arriano, suo allievo, a partire dalle lezioni e dalle conversazioni del maestro.",
+        "La forma dialogica dei testi restituisce una filosofia insegnata come esercizio. Epitteto non cerca soprattutto di costruire un sistema astratto: vuole formare la capacità di giudicare, desiderare e agire in modo coerente nelle circostanze quotidiane."
+      ]},
+      { heading: "La distinzione fondamentale", paragraphs: [
+        "Il principio più noto distingue ciò che dipende da noi — giudizi, assensi, desideri, avversioni e scelte — da ciò che non dipende interamente da noi, come corpo, ricchezza, reputazione, incarichi e azioni altrui. La libertà non consiste nel controllare il mondo, ma nel non confondere gli eventi con il valore che attribuiamo loro.",
+        "Le impressioni vanno esaminate prima di concedere loro assenso. La pratica filosofica allena a riconoscere i propri giudizi, a svolgere i doveri con gli altri e ad accettare i limiti del controllo individuale. Questa disciplina non è indifferenza: comporta responsabilità nei ruoli di cittadino, amico e familiare."
+      ]}
+    ],
+    tags: ["Stoicismo", "Etica", "Libertà", "Giudizio", "Filosofia romana", "Pratiche filosofiche"],
+    related: [],
+    bibliography: [
+      { label: "Diatribe", type: "Testo primario / traduzione", note: "Lezioni e conversazioni trasmesse da Arriano." },
+      { label: "Manuale", type: "Testo primario / traduzione", note: "Compendio pratico dei principi dell'etica stoica di Epitteto." }
+    ],
+    works: [
+      { title: "Diatribe", note: "Raccolta di lezioni e dialoghi filosofici." },
+      { title: "Manuale", note: "Sintesi della distinzione tra ciò che dipende da noi e ciò che non dipende da noi." }
+    ],
+    keyTerms: [
+      { term: "Prohairesis", explanation: "Facoltà di scelta e orientamento morale che definisce la responsabilità personale." },
+      { term: "Assenso", explanation: "Atto con cui si accoglie o si respinge un'impressione." },
+      { term: "Ciò che dipende da noi", explanation: "Giudizi, scelte e atteggiamenti che costituiscono il campo proprio della libertà." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
 ];
