@@ -18638,6 +18638,3057 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
+,
+  {
+    "slug": "epistemologia-del-punto-di-vista",
+    "id": "CON-000455",
+    "kind": "concetto",
+    "title": "Epistemologia del punto di vista",
+    "subtitle": "Studio di come le posizioni sociali influenzino la conoscenza e le domande della ricerca.",
+    "area": "Epistemologia femminista",
+    "period": "XX secolo",
+    "summary": "Studio di come le posizioni sociali influenzino la conoscenza e le domande della ricerca.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Studio di come le posizioni sociali influenzino la conoscenza e le domande della ricerca.",
+          "Il concetto si sviluppa nell'ambito della epistemologia femminista e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della epistemologia femminista e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Studio di come le posizioni sociali influenzino la conoscenza e le domande della ricerca.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "epistemologia-femminista",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Sandra Harding, Whose Science? Whose Knowledge?, 1991.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Studio di come le posizioni sociali influenzino la conoscenza e le domande della ricerca."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella epistemologia femminista."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "etica-della-cura",
+    "id": "CON-000456",
+    "kind": "concetto",
+    "title": "Etica della cura",
+    "subtitle": "Orientamento etico che valorizza dipendenza, vulnerabilità, relazioni e pratiche di cura.",
+    "area": "Etica contemporanea",
+    "period": "XX–XXI secolo",
+    "summary": "Orientamento etico che valorizza dipendenza, vulnerabilità, relazioni e pratiche di cura.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Orientamento etico che valorizza dipendenza, vulnerabilità, relazioni e pratiche di cura.",
+          "Il concetto si sviluppa nell'ambito della etica contemporanea e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica contemporanea e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Orientamento etico che valorizza dipendenza, vulnerabilità, relazioni e pratiche di cura.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Joan C. Tronto, Moral Boundaries, 1993.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Orientamento etico che valorizza dipendenza, vulnerabilità, relazioni e pratiche di cura."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica contemporanea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "riconoscimento",
+    "id": "CON-000457",
+    "kind": "concetto",
+    "title": "Riconoscimento",
+    "subtitle": "Relazione attraverso cui persone e gruppi ottengono conferma del proprio status, identità o diritti.",
+    "area": "Filosofia sociale e politica",
+    "period": "XIX–XXI secolo",
+    "summary": "Relazione attraverso cui persone e gruppi ottengono conferma del proprio status, identità o diritti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Relazione attraverso cui persone e gruppi ottengono conferma del proprio status, identità o diritti.",
+          "Il concetto si sviluppa nell'ambito della filosofia sociale e politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia sociale e politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Relazione attraverso cui persone e gruppi ottengono conferma del proprio status, identità o diritti.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-sociale-e-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Axel Honneth, The Struggle for Recognition, 1995.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Relazione attraverso cui persone e gruppi ottengono conferma del proprio status, identità o diritti."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia sociale e politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "redistribuzione",
+    "id": "CON-000458",
+    "kind": "concetto",
+    "title": "Redistribuzione",
+    "subtitle": "Riorganizzazione di risorse, opportunità e carichi sociali per contrastare diseguaglianze.",
+    "area": "Filosofia politica",
+    "period": "XIX–XXI secolo",
+    "summary": "Riorganizzazione di risorse, opportunità e carichi sociali per contrastare diseguaglianze.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Riorganizzazione di risorse, opportunità e carichi sociali per contrastare diseguaglianze.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Riorganizzazione di risorse, opportunità e carichi sociali per contrastare diseguaglianze.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Fraser e Honneth, Redistribution or Recognition?, 2003.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Riorganizzazione di risorse, opportunità e carichi sociali per contrastare diseguaglianze."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "sfera-pubblica",
+    "id": "CON-000459",
+    "kind": "concetto",
+    "title": "Sfera pubblica",
+    "subtitle": "Spazio sociale in cui questioni comuni vengono discusse e trasformate in opinione pubblica.",
+    "area": "Filosofia politica",
+    "period": "XVIII–XXI secolo",
+    "summary": "Spazio sociale in cui questioni comuni vengono discusse e trasformate in opinione pubblica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Spazio sociale in cui questioni comuni vengono discusse e trasformate in opinione pubblica.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Spazio sociale in cui questioni comuni vengono discusse e trasformate in opinione pubblica.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Jürgen Habermas, The Structural Transformation of the Public Sphere, 1989.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Spazio sociale in cui questioni comuni vengono discusse e trasformate in opinione pubblica."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "agire-comunicativo",
+    "id": "CON-000460",
+    "kind": "concetto",
+    "title": "Agire comunicativo",
+    "subtitle": "Coordinamento dell'azione orientato all'intesa attraverso pretese di validità criticabili.",
+    "area": "Filosofia sociale",
+    "period": "XX secolo",
+    "summary": "Coordinamento dell'azione orientato all'intesa attraverso pretese di validità criticabili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Coordinamento dell'azione orientato all'intesa attraverso pretese di validità criticabili.",
+          "Il concetto si sviluppa nell'ambito della filosofia sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Coordinamento dell'azione orientato all'intesa attraverso pretese di validità criticabili.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Jürgen Habermas, The Theory of Communicative Action, 1984–1987.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Coordinamento dell'azione orientato all'intesa attraverso pretese di validità criticabili."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "mondo-della-vita",
+    "id": "CON-000461",
+    "kind": "concetto",
+    "title": "Mondo della vita",
+    "subtitle": "Orizzonte di pratiche e presupposti condivisi che rende possibile la comprensione ordinaria.",
+    "area": "Fenomenologia e teoria sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Orizzonte di pratiche e presupposti condivisi che rende possibile la comprensione ordinaria.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Orizzonte di pratiche e presupposti condivisi che rende possibile la comprensione ordinaria.",
+          "Il concetto si sviluppa nell'ambito della fenomenologia e teoria sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della fenomenologia e teoria sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Orizzonte di pratiche e presupposti condivisi che rende possibile la comprensione ordinaria.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "fenomenologia-e-teoria-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Edmund Husserl, The Crisis of European Sciences, 1970.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Orizzonte di pratiche e presupposti condivisi che rende possibile la comprensione ordinaria."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella fenomenologia e teoria sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "egemonia",
+    "id": "CON-000462",
+    "kind": "concetto",
+    "title": "Egemonia",
+    "subtitle": "Direzione culturale e politica attraverso cui un gruppo organizza consenso e influenza.",
+    "area": "Filosofia politica",
+    "period": "XX secolo",
+    "summary": "Direzione culturale e politica attraverso cui un gruppo organizza consenso e influenza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Direzione culturale e politica attraverso cui un gruppo organizza consenso e influenza.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Direzione culturale e politica attraverso cui un gruppo organizza consenso e influenza.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Antonio Gramsci, Quaderni del carcere, 1975.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Direzione culturale e politica attraverso cui un gruppo organizza consenso e influenza."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ideologia",
+    "id": "CON-000463",
+    "kind": "concetto",
+    "title": "Ideologia",
+    "subtitle": "Rappresentazioni e pratiche che organizzano la comprensione sociale e possono legittimare il potere.",
+    "area": "Filosofia sociale e politica",
+    "period": "XVIII–XXI secolo",
+    "summary": "Rappresentazioni e pratiche che organizzano la comprensione sociale e possono legittimare il potere.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Rappresentazioni e pratiche che organizzano la comprensione sociale e possono legittimare il potere.",
+          "Il concetto si sviluppa nell'ambito della filosofia sociale e politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia sociale e politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Rappresentazioni e pratiche che organizzano la comprensione sociale e possono legittimare il potere.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-sociale-e-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Louis Althusser, “Ideology and Ideological State Apparatuses”, 1971.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Rappresentazioni e pratiche che organizzano la comprensione sociale e possono legittimare il potere."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia sociale e politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "alienazione",
+    "id": "CON-000464",
+    "kind": "concetto",
+    "title": "Alienazione",
+    "subtitle": "Perdita di controllo o di rapporto significativo con attività, prodotti, istituzioni e altri soggetti.",
+    "area": "Filosofia sociale",
+    "period": "XIX–XXI secolo",
+    "summary": "Perdita di controllo o di rapporto significativo con attività, prodotti, istituzioni e altri soggetti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Perdita di controllo o di rapporto significativo con attività, prodotti, istituzioni e altri soggetti.",
+          "Il concetto si sviluppa nell'ambito della filosofia sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Perdita di controllo o di rapporto significativo con attività, prodotti, istituzioni e altri soggetti.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Karl Marx, Manoscritti economico-filosofici del 1844.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Perdita di controllo o di rapporto significativo con attività, prodotti, istituzioni e altri soggetti."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "reificazione",
+    "id": "CON-000465",
+    "kind": "concetto",
+    "title": "Reificazione",
+    "subtitle": "Processo per cui relazioni umane assumono l'apparenza di cose autonome e indipendenti.",
+    "area": "Teoria critica",
+    "period": "XX secolo",
+    "summary": "Processo per cui relazioni umane assumono l'apparenza di cose autonome e indipendenti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Processo per cui relazioni umane assumono l'apparenza di cose autonome e indipendenti.",
+          "Il concetto si sviluppa nell'ambito della teoria critica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della teoria critica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Processo per cui relazioni umane assumono l'apparenza di cose autonome e indipendenti.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "teoria-critica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Georg Lukács, History and Class Consciousness, 1971.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Processo per cui relazioni umane assumono l'apparenza di cose autonome e indipendenti."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella teoria critica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "feticismo-della-merce",
+    "id": "CON-000466",
+    "kind": "concetto",
+    "title": "Feticismo della merce",
+    "subtitle": "Apparenza per cui rapporti sociali tra produttori si presentano come rapporti tra merci.",
+    "area": "Critica dell'economia politica",
+    "period": "XIX secolo",
+    "summary": "Apparenza per cui rapporti sociali tra produttori si presentano come rapporti tra merci.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Apparenza per cui rapporti sociali tra produttori si presentano come rapporti tra merci.",
+          "Il concetto si sviluppa nell'ambito della critica dell'economia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della critica dell'economia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Apparenza per cui rapporti sociali tra produttori si presentano come rapporti tra merci.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "critica-dell-economia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Karl Marx, Il capitale, libro I, cap. 1.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Apparenza per cui rapporti sociali tra produttori si presentano come rapporti tra merci."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella critica dell'economia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "prassi",
+    "id": "CON-000467",
+    "kind": "concetto",
+    "title": "Prassi",
+    "subtitle": "Attività concreta in cui teoria, trasformazione del mondo e formazione dei soggetti si intrecciano.",
+    "area": "Filosofia e teoria sociale",
+    "period": "Antichità–XXI secolo",
+    "summary": "Attività concreta in cui teoria, trasformazione del mondo e formazione dei soggetti si intrecciano.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Attività concreta in cui teoria, trasformazione del mondo e formazione dei soggetti si intrecciano.",
+          "Il concetto si sviluppa nell'ambito della filosofia e teoria sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia e teoria sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Attività concreta in cui teoria, trasformazione del mondo e formazione dei soggetti si intrecciano.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-e-teoria-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Karl Marx, Tesi su Feuerbach, 1845.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Attività concreta in cui teoria, trasformazione del mondo e formazione dei soggetti si intrecciano."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia e teoria sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "teoria-critica",
+    "id": "CON-000468",
+    "kind": "concetto",
+    "title": "Teoria critica",
+    "subtitle": "Ricerca che analizza dominio e contraddizioni sociali per chiarire possibilità di emancipazione.",
+    "area": "Filosofia sociale",
+    "period": "XX secolo",
+    "summary": "Ricerca che analizza dominio e contraddizioni sociali per chiarire possibilità di emancipazione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Ricerca che analizza dominio e contraddizioni sociali per chiarire possibilità di emancipazione.",
+          "Il concetto si sviluppa nell'ambito della filosofia sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Ricerca che analizza dominio e contraddizioni sociali per chiarire possibilità di emancipazione.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Max Horkheimer, “Traditional and Critical Theory”, 1937.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Ricerca che analizza dominio e contraddizioni sociali per chiarire possibilità di emancipazione."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "governamentalita",
+    "id": "CON-000469",
+    "kind": "concetto",
+    "title": "Governamentalità",
+    "subtitle": "Razionalità e tecniche attraverso cui si orienta la condotta di individui e popolazioni.",
+    "area": "Filosofia politica",
+    "period": "XX secolo",
+    "summary": "Razionalità e tecniche attraverso cui si orienta la condotta di individui e popolazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Razionalità e tecniche attraverso cui si orienta la condotta di individui e popolazioni.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Razionalità e tecniche attraverso cui si orienta la condotta di individui e popolazioni.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Michel Foucault, Security, Territory, Population, 2007.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Razionalità e tecniche attraverso cui si orienta la condotta di individui e popolazioni."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dispositivo",
+    "id": "CON-000470",
+    "kind": "concetto",
+    "title": "Dispositivo",
+    "subtitle": "Rete di discorsi, istituzioni, norme e pratiche che organizza rapporti di potere e sapere.",
+    "area": "Filosofia contemporanea",
+    "period": "XX secolo",
+    "summary": "Rete di discorsi, istituzioni, norme e pratiche che organizza rapporti di potere e sapere.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Rete di discorsi, istituzioni, norme e pratiche che organizza rapporti di potere e sapere.",
+          "Il concetto si sviluppa nell'ambito della filosofia contemporanea e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia contemporanea e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Rete di discorsi, istituzioni, norme e pratiche che organizza rapporti di potere e sapere.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Michel Foucault, Power/Knowledge, 1980.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Rete di discorsi, istituzioni, norme e pratiche che organizza rapporti di potere e sapere."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia contemporanea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "postcolonialismo",
+    "id": "CON-000471",
+    "kind": "concetto",
+    "title": "Postcolonialismo",
+    "subtitle": "Studio degli effetti persistenti del colonialismo su sapere, cultura, istituzioni e rappresentazioni.",
+    "area": "Filosofia e studi culturali",
+    "period": "XX–XXI secolo",
+    "summary": "Studio degli effetti persistenti del colonialismo su sapere, cultura, istituzioni e rappresentazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Studio degli effetti persistenti del colonialismo su sapere, cultura, istituzioni e rappresentazioni.",
+          "Il concetto si sviluppa nell'ambito della filosofia e studi culturali e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia e studi culturali e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Studio degli effetti persistenti del colonialismo su sapere, cultura, istituzioni e rappresentazioni.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-e-studi-culturali",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Edward W. Said, Orientalism, 1978.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Studio degli effetti persistenti del colonialismo su sapere, cultura, istituzioni e rappresentazioni."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia e studi culturali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "decolonialita",
+    "id": "CON-000472",
+    "kind": "concetto",
+    "title": "Decolonialità",
+    "subtitle": "Critica della persistenza della colonialità nelle gerarchie del potere e del sapere.",
+    "area": "Filosofia e teoria sociale",
+    "period": "XXI secolo",
+    "summary": "Critica della persistenza della colonialità nelle gerarchie del potere e del sapere.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Critica della persistenza della colonialità nelle gerarchie del potere e del sapere.",
+          "Il concetto si sviluppa nell'ambito della filosofia e teoria sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia e teoria sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Critica della persistenza della colonialità nelle gerarchie del potere e del sapere.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-e-teoria-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Aníbal Quijano, “Coloniality of Power, Eurocentrism, and Latin America”, 2000.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Critica della persistenza della colonialità nelle gerarchie del potere e del sapere."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia e teoria sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "subalterno",
+    "id": "CON-000473",
+    "kind": "concetto",
+    "title": "Subalterno",
+    "subtitle": "Categoria per analizzare gruppi subordinati ed esclusione dai processi di rappresentazione e decisione.",
+    "area": "Filosofia politica e studi postcoloniali",
+    "period": "XX–XXI secolo",
+    "summary": "Categoria per analizzare gruppi subordinati ed esclusione dai processi di rappresentazione e decisione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Categoria per analizzare gruppi subordinati ed esclusione dai processi di rappresentazione e decisione.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e studi postcoloniali e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e studi postcoloniali e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Categoria per analizzare gruppi subordinati ed esclusione dai processi di rappresentazione e decisione.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica-e-studi-postcoloniali",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Gayatri Chakravorty Spivak, “Can the Subaltern Speak?”, 1988.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Categoria per analizzare gruppi subordinati ed esclusione dai processi di rappresentazione e decisione."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica e studi postcoloniali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "orientalismo",
+    "id": "CON-000474",
+    "kind": "concetto",
+    "title": "Orientalismo",
+    "subtitle": "Sistema di rappresentazioni che costruisce l'Oriente come oggetto distinto e governabile.",
+    "area": "Filosofia della cultura",
+    "period": "XVIII–XXI secolo",
+    "summary": "Sistema di rappresentazioni che costruisce l'Oriente come oggetto distinto e governabile.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Sistema di rappresentazioni che costruisce l'Oriente come oggetto distinto e governabile.",
+          "Il concetto si sviluppa nell'ambito della filosofia della cultura e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia della cultura e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Sistema di rappresentazioni che costruisce l'Oriente come oggetto distinto e governabile.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-della-cultura",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Edward W. Said, Orientalism, 1978.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Sistema di rappresentazioni che costruisce l'Oriente come oggetto distinto e governabile."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia della cultura."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ospitalita",
+    "id": "CON-000475",
+    "kind": "concetto",
+    "title": "Ospitalità",
+    "subtitle": "Principio e pratica di accoglienza dello straniero, del viaggiatore o di chi chiede protezione.",
+    "area": "Etica e filosofia politica",
+    "period": "Antichità–XXI secolo",
+    "summary": "Principio e pratica di accoglienza dello straniero, del viaggiatore o di chi chiede protezione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Principio e pratica di accoglienza dello straniero, del viaggiatore o di chi chiede protezione.",
+          "Il concetto si sviluppa nell'ambito della etica e filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica e filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Principio e pratica di accoglienza dello straniero, del viaggiatore o di chi chiede protezione.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-e-filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Derrida e Dufourmantelle, Of Hospitality, 2000.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Principio e pratica di accoglienza dello straniero, del viaggiatore o di chi chiede protezione."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica e filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "alterita",
+    "id": "CON-000476",
+    "kind": "concetto",
+    "title": "Alterità",
+    "subtitle": "Condizione dell'essere altro e problema del riconoscimento senza riduzione al medesimo.",
+    "area": "Fenomenologia e filosofia contemporanea",
+    "period": "XX–XXI secolo",
+    "summary": "Condizione dell'essere altro e problema del riconoscimento senza riduzione al medesimo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Condizione dell'essere altro e problema del riconoscimento senza riduzione al medesimo.",
+          "Il concetto si sviluppa nell'ambito della fenomenologia e filosofia contemporanea e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della fenomenologia e filosofia contemporanea e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Condizione dell'essere altro e problema del riconoscimento senza riduzione al medesimo.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "fenomenologia-e-filosofia-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Emmanuel Levinas, Totality and Infinity, 1969.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Condizione dell'essere altro e problema del riconoscimento senza riduzione al medesimo."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella fenomenologia e filosofia contemporanea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "incarnazione",
+    "id": "CON-000477",
+    "kind": "concetto",
+    "title": "Incarnazione (embodiment)",
+    "subtitle": "Tesi secondo cui cognizione, percezione e azione dipendono costitutivamente dal corpo.",
+    "area": "Fenomenologia e filosofia della mente",
+    "period": "XX–XXI secolo",
+    "summary": "Tesi secondo cui cognizione, percezione e azione dipendono costitutivamente dal corpo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi secondo cui cognizione, percezione e azione dipendono costitutivamente dal corpo.",
+          "Il concetto si sviluppa nell'ambito della fenomenologia e filosofia della mente e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della fenomenologia e filosofia della mente e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Tesi secondo cui cognizione, percezione e azione dipendono costitutivamente dal corpo.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "fenomenologia-e-filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Maurice Merleau-Ponty, Fenomenologia della percezione, 1945.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Tesi secondo cui cognizione, percezione e azione dipendono costitutivamente dal corpo."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella fenomenologia e filosofia della mente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "orizzonte",
+    "id": "CON-000478",
+    "kind": "concetto",
+    "title": "Orizzonte (ermeneutica)",
+    "subtitle": "Insieme di possibilità e aspettative storiche da cui un soggetto interpreta il mondo.",
+    "area": "Fenomenologia ed ermeneutica",
+    "period": "XX–XXI secolo",
+    "summary": "Insieme di possibilità e aspettative storiche da cui un soggetto interpreta il mondo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Insieme di possibilità e aspettative storiche da cui un soggetto interpreta il mondo.",
+          "Il concetto si sviluppa nell'ambito della fenomenologia ed ermeneutica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della fenomenologia ed ermeneutica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Insieme di possibilità e aspettative storiche da cui un soggetto interpreta il mondo.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "fenomenologia-ed-ermeneutica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Hans-Georg Gadamer, Truth and Method, 2004.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Insieme di possibilità e aspettative storiche da cui un soggetto interpreta il mondo."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella fenomenologia ed ermeneutica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "differenza",
+    "id": "CON-000479",
+    "kind": "concetto",
+    "title": "Differenza",
+    "subtitle": "Relazione di non-identità attraverso cui enti, concetti e processi si distinguono.",
+    "area": "Metafisica e filosofia contemporanea",
+    "period": "Antichità–XXI secolo",
+    "summary": "Relazione di non-identità attraverso cui enti, concetti e processi si distinguono.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Relazione di non-identità attraverso cui enti, concetti e processi si distinguono.",
+          "Il concetto si sviluppa nell'ambito della metafisica e filosofia contemporanea e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della metafisica e filosofia contemporanea e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Relazione di non-identità attraverso cui enti, concetti e processi si distinguono.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "metafisica-e-filosofia-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Gilles Deleuze, Difference and Repetition, 1994.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Relazione di non-identità attraverso cui enti, concetti e processi si distinguono."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella metafisica e filosofia contemporanea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "differance",
+    "id": "CON-000480",
+    "kind": "concetto",
+    "title": "Différance",
+    "subtitle": "Concetto derridiano del gioco di differenze e rinvii che rende possibile la significazione.",
+    "area": "Filosofia del linguaggio",
+    "period": "XX secolo",
+    "summary": "Concetto derridiano del gioco di differenze e rinvii che rende possibile la significazione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Concetto derridiano del gioco di differenze e rinvii che rende possibile la significazione.",
+          "Il concetto si sviluppa nell'ambito della filosofia del linguaggio e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del linguaggio e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Concetto derridiano del gioco di differenze e rinvii che rende possibile la significazione.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-linguaggio",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Jacques Derrida, “Différance”, in Margins of Philosophy, 1982.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Concetto derridiano del gioco di differenze e rinvii che rende possibile la significazione."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del linguaggio."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "rizoma",
+    "id": "CON-000481",
+    "kind": "concetto",
+    "title": "Rizoma",
+    "subtitle": "Modello reticolare non gerarchico per pensare connessioni e processi senza origine unica.",
+    "area": "Filosofia contemporanea",
+    "period": "XX secolo",
+    "summary": "Modello reticolare non gerarchico per pensare connessioni e processi senza origine unica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Modello reticolare non gerarchico per pensare connessioni e processi senza origine unica.",
+          "Il concetto si sviluppa nell'ambito della filosofia contemporanea e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia contemporanea e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Modello reticolare non gerarchico per pensare connessioni e processi senza origine unica.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Deleuze e Guattari, A Thousand Plateaus, 1987.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Modello reticolare non gerarchico per pensare connessioni e processi senza origine unica."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia contemporanea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "assemblaggio",
+    "id": "CON-000482",
+    "kind": "concetto",
+    "title": "Assemblaggio",
+    "subtitle": "Configurazione contingente di elementi eterogenei che produce effetti senza una totalità stabile.",
+    "area": "Filosofia contemporanea e teoria sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Configurazione contingente di elementi eterogenei che produce effetti senza una totalità stabile.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Configurazione contingente di elementi eterogenei che produce effetti senza una totalità stabile.",
+          "Il concetto si sviluppa nell'ambito della filosofia contemporanea e teoria sociale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia contemporanea e teoria sociale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Configurazione contingente di elementi eterogenei che produce effetti senza una totalità stabile.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-contemporanea-e-teoria-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Manuel DeLanda, A New Philosophy of Society, 2006.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Configurazione contingente di elementi eterogenei che produce effetti senza una totalità stabile."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia contemporanea e teoria sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "gioco-linguistico",
+    "id": "CON-000483",
+    "kind": "concetto",
+    "title": "Gioco linguistico",
+    "subtitle": "Pratica regolata in cui parole e gesti acquistano significato attraverso l'uso.",
+    "area": "Filosofia del linguaggio",
+    "period": "XX secolo",
+    "summary": "Pratica regolata in cui parole e gesti acquistano significato attraverso l'uso.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Pratica regolata in cui parole e gesti acquistano significato attraverso l'uso.",
+          "Il concetto si sviluppa nell'ambito della filosofia del linguaggio e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del linguaggio e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Pratica regolata in cui parole e gesti acquistano significato attraverso l'uso.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-linguaggio",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Ludwig Wittgenstein, Philosophical Investigations, 1953.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Pratica regolata in cui parole e gesti acquistano significato attraverso l'uso."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del linguaggio."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "seguire-una-regola",
+    "id": "CON-000484",
+    "kind": "concetto",
+    "title": "Seguire una regola",
+    "subtitle": "Problema di che cosa significhi applicare correttamente una regola in pratiche condivise.",
+    "area": "Filosofia del linguaggio",
+    "period": "XX secolo",
+    "summary": "Problema di che cosa significhi applicare correttamente una regola in pratiche condivise.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Problema di che cosa significhi applicare correttamente una regola in pratiche condivise.",
+          "Il concetto si sviluppa nell'ambito della filosofia del linguaggio e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del linguaggio e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Problema di che cosa significhi applicare correttamente una regola in pratiche condivise.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-linguaggio",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Ludwig Wittgenstein, Philosophical Investigations, §§ 185–242.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Problema di che cosa significhi applicare correttamente una regola in pratiche condivise."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del linguaggio."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "mente-estesa",
+    "id": "CON-000485",
+    "kind": "concetto",
+    "title": "Mente estesa",
+    "subtitle": "Ipotesi secondo cui processi cognitivi possono includere risorse esterne integrate nell'agente.",
+    "area": "Filosofia della mente",
+    "period": "XXI secolo",
+    "summary": "Ipotesi secondo cui processi cognitivi possono includere risorse esterne integrate nell'agente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Ipotesi secondo cui processi cognitivi possono includere risorse esterne integrate nell'agente.",
+          "Il concetto si sviluppa nell'ambito della filosofia della mente e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia della mente e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Ipotesi secondo cui processi cognitivi possono includere risorse esterne integrate nell'agente.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Clark e Chalmers, “The Extended Mind”, Analysis, 1998.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Ipotesi secondo cui processi cognitivi possono includere risorse esterne integrate nell'agente."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia della mente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "cognizione-enattiva",
+    "id": "CON-000486",
+    "kind": "concetto",
+    "title": "Cognizione enattiva",
+    "subtitle": "Approccio che interpreta la cognizione come attività incarnata e situata tra organismo e ambiente.",
+    "area": "Filosofia della mente",
+    "period": "XX–XXI secolo",
+    "summary": "Approccio che interpreta la cognizione come attività incarnata e situata tra organismo e ambiente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Approccio che interpreta la cognizione come attività incarnata e situata tra organismo e ambiente.",
+          "Il concetto si sviluppa nell'ambito della filosofia della mente e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia della mente e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Approccio che interpreta la cognizione come attività incarnata e situata tra organismo e ambiente.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Varela, Thompson e Rosch, The Embodied Mind, 1991.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Approccio che interpreta la cognizione come attività incarnata e situata tra organismo e ambiente."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia della mente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "mediazione-tecnologica",
+    "id": "CON-000487",
+    "kind": "concetto",
+    "title": "Mediazione tecnologica",
+    "subtitle": "Processo attraverso cui artefatti e sistemi tecnici trasformano percezione, azione e relazioni.",
+    "area": "Filosofia della tecnica",
+    "period": "XX–XXI secolo",
+    "summary": "Processo attraverso cui artefatti e sistemi tecnici trasformano percezione, azione e relazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Processo attraverso cui artefatti e sistemi tecnici trasformano percezione, azione e relazioni.",
+          "Il concetto si sviluppa nell'ambito della filosofia della tecnica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia della tecnica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Processo attraverso cui artefatti e sistemi tecnici trasformano percezione, azione e relazioni.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-della-tecnica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Peter-Paul Verbeek, What Things Do, 2005.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Processo attraverso cui artefatti e sistemi tecnici trasformano percezione, azione e relazioni."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia della tecnica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "giustizia-riparativa",
+    "id": "CON-000488",
+    "kind": "concetto",
+    "title": "Giustizia riparativa",
+    "subtitle": "Approccio alla risposta al danno che coinvolge persone, comunità e responsabili nella ricerca di riparazione.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Approccio alla risposta al danno che coinvolge persone, comunità e responsabili nella ricerca di riparazione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Approccio alla risposta al danno che coinvolge persone, comunità e responsabili nella ricerca di riparazione.",
+          "Il concetto si sviluppa nell'ambito della filosofia del diritto e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del diritto e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Approccio alla risposta al danno che coinvolge persone, comunità e responsabili nella ricerca di riparazione.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Howard Zehr, Changing Lenses, 1990.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Approccio alla risposta al danno che coinvolge persone, comunità e responsabili nella ricerca di riparazione."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del diritto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "nonviolenza",
+    "id": "CON-000489",
+    "kind": "concetto",
+    "title": "Nonviolenza",
+    "subtitle": "Orientamento etico e strategico che rifiuta la violenza o privilegia la resistenza attiva non violenta.",
+    "area": "Filosofia politica ed etica",
+    "period": "XIX–XXI secolo",
+    "summary": "Orientamento etico e strategico che rifiuta la violenza o privilegia la resistenza attiva non violenta.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Orientamento etico e strategico che rifiuta la violenza o privilegia la resistenza attiva non violenta.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica ed etica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica ed etica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Orientamento etico e strategico che rifiuta la violenza o privilegia la resistenza attiva non violenta.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica-ed-etica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Martin Luther King Jr., Stride Toward Freedom, 1958.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Orientamento etico e strategico che rifiuta la violenza o privilegia la resistenza attiva non violenta."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica ed etica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approccio-delle-capacita",
+    "id": "CON-000490",
+    "kind": "concetto",
+    "title": "Approccio delle capacità",
+    "subtitle": "Quadro normativo che valuta la giustizia attraverso le libertà sostanziali delle persone.",
+    "area": "Etica ed economia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Quadro normativo che valuta la giustizia attraverso le libertà sostanziali delle persone.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Quadro normativo che valuta la giustizia attraverso le libertà sostanziali delle persone.",
+          "Il concetto si sviluppa nell'ambito della etica ed economia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica ed economia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Quadro normativo che valuta la giustizia attraverso le libertà sostanziali delle persone.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-ed-economia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Amartya Sen, Development as Freedom, 1999.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Quadro normativo che valuta la giustizia attraverso le libertà sostanziali delle persone."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica ed economia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "mani-sporche",
+    "id": "CON-000491",
+    "kind": "concetto",
+    "title": "Dilemma delle mani sporche",
+    "subtitle": "Conflitto in cui una scelta politica ritenuta necessaria resta moralmente problematica.",
+    "area": "Etica politica",
+    "period": "XX secolo",
+    "summary": "Conflitto in cui una scelta politica ritenuta necessaria resta moralmente problematica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Conflitto in cui una scelta politica ritenuta necessaria resta moralmente problematica.",
+          "Il concetto si sviluppa nell'ambito della etica politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Conflitto in cui una scelta politica ritenuta necessaria resta moralmente problematica.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Michael Walzer, “Political Action: The Problem of Dirty Hands”, 1973.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Conflitto in cui una scelta politica ritenuta necessaria resta moralmente problematica."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "giustizia-climatica",
+    "id": "CON-000492",
+    "kind": "concetto",
+    "title": "Giustizia climatica",
+    "subtitle": "Analisi della crisi climatica in termini di responsabilità, rischi, vulnerabilità e diritti.",
+    "area": "Etica ambientale e filosofia politica",
+    "period": "XXI secolo",
+    "summary": "Analisi della crisi climatica in termini di responsabilità, rischi, vulnerabilità e diritti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Analisi della crisi climatica in termini di responsabilità, rischi, vulnerabilità e diritti.",
+          "Il concetto si sviluppa nell'ambito della etica ambientale e filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica ambientale e filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Analisi della crisi climatica in termini di responsabilità, rischi, vulnerabilità e diritti.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-ambientale-e-filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Henry Shue, Climate Justice: Vulnerability and Protection, 2014.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Analisi della crisi climatica in termini di responsabilità, rischi, vulnerabilità e diritti."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica ambientale e filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "generazioni-future",
+    "id": "CON-000493",
+    "kind": "concetto",
+    "title": "Diritti delle generazioni future",
+    "subtitle": "Problema degli obblighi presenti verso persone che vivranno in futuro e dell'equità tra generazioni.",
+    "area": "Etica ambientale",
+    "period": "XX–XXI secolo",
+    "summary": "Problema degli obblighi presenti verso persone che vivranno in futuro e dell'equità tra generazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Problema degli obblighi presenti verso persone che vivranno in futuro e dell'equità tra generazioni.",
+          "Il concetto si sviluppa nell'ambito della etica ambientale e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica ambientale e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Problema degli obblighi presenti verso persone che vivranno in futuro e dell'equità tra generazioni.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-ambientale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "John Rawls, A Theory of Justice, 1971, § 44.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Problema degli obblighi presenti verso persone che vivranno in futuro e dell'equità tra generazioni."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica ambientale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "diritto-naturale",
+    "id": "CON-000494",
+    "kind": "concetto",
+    "title": "Diritto naturale",
+    "subtitle": "Teoria secondo cui esistono principi di giustizia fondati sulla natura, sulla ragione o sulla condizione umana.",
+    "area": "Filosofia del diritto",
+    "period": "Antichità–XXI secolo",
+    "summary": "Teoria secondo cui esistono principi di giustizia fondati sulla natura, sulla ragione o sulla condizione umana.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Teoria secondo cui esistono principi di giustizia fondati sulla natura, sulla ragione o sulla condizione umana.",
+          "Il concetto si sviluppa nell'ambito della filosofia del diritto e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del diritto e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Teoria secondo cui esistono principi di giustizia fondati sulla natura, sulla ragione o sulla condizione umana.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Tommaso d'Aquino, Summa Theologiae, I–II, qq. 90–97.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Teoria secondo cui esistono principi di giustizia fondati sulla natura, sulla ragione o sulla condizione umana."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del diritto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "positivismo-giuridico",
+    "id": "CON-000495",
+    "kind": "concetto",
+    "title": "Positivismo giuridico",
+    "subtitle": "Approccio che distingue validità del diritto e giustizia morale e collega la prima a fonti socialmente riconosciute.",
+    "area": "Filosofia del diritto",
+    "period": "XIX–XXI secolo",
+    "summary": "Approccio che distingue validità del diritto e giustizia morale e collega la prima a fonti socialmente riconosciute.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Approccio che distingue validità del diritto e giustizia morale e collega la prima a fonti socialmente riconosciute.",
+          "Il concetto si sviluppa nell'ambito della filosofia del diritto e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del diritto e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Approccio che distingue validità del diritto e giustizia morale e collega la prima a fonti socialmente riconosciute.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "H. L. A. Hart, The Concept of Law, 1961.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Approccio che distingue validità del diritto e giustizia morale e collega la prima a fonti socialmente riconosciute."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del diritto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "sovranita",
+    "id": "CON-000496",
+    "kind": "concetto",
+    "title": "Sovranità",
+    "subtitle": "Potere ultimo di decisione e autorità politica su un ordinamento e un territorio.",
+    "area": "Filosofia politica",
+    "period": "XVI–XXI secolo",
+    "summary": "Potere ultimo di decisione e autorità politica su un ordinamento e un territorio.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Potere ultimo di decisione e autorità politica su un ordinamento e un territorio.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Potere ultimo di decisione e autorità politica su un ordinamento e un territorio.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Jean Bodin, Les six livres de la République, 1576.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Potere ultimo di decisione e autorità politica su un ordinamento e un territorio."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "societa-civile",
+    "id": "CON-000497",
+    "kind": "concetto",
+    "title": "Società civile",
+    "subtitle": "Sfera di associazioni e relazioni non riducibile né allo Stato né alla sola economia.",
+    "area": "Filosofia politica",
+    "period": "XVIII–XXI secolo",
+    "summary": "Sfera di associazioni e relazioni non riducibile né allo Stato né alla sola economia.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Sfera di associazioni e relazioni non riducibile né allo Stato né alla sola economia.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Sfera di associazioni e relazioni non riducibile né allo Stato né alla sola economia.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "G. W. F. Hegel, Lineamenti di filosofia del diritto, 1821.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Sfera di associazioni e relazioni non riducibile né allo Stato né alla sola economia."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "repubblicanesimo",
+    "id": "CON-000498",
+    "kind": "concetto",
+    "title": "Repubblicanesimo",
+    "subtitle": "Tradizione politica che lega la libertà alla non-dominazione e alla partecipazione a istituzioni comuni.",
+    "area": "Filosofia politica",
+    "period": "Antichità–XXI secolo",
+    "summary": "Tradizione politica che lega la libertà alla non-dominazione e alla partecipazione a istituzioni comuni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tradizione politica che lega la libertà alla non-dominazione e alla partecipazione a istituzioni comuni.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Tradizione politica che lega la libertà alla non-dominazione e alla partecipazione a istituzioni comuni.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Philip Pettit, Republicanism, 1997.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Tradizione politica che lega la libertà alla non-dominazione e alla partecipazione a istituzioni comuni."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "legittimita-politica",
+    "id": "CON-000499",
+    "kind": "concetto",
+    "title": "Legittimità politica",
+    "subtitle": "Qualità per cui un potere o un'istituzione può rivendicare un diritto giustificato a governare.",
+    "area": "Filosofia politica",
+    "period": "Antichità–XXI secolo",
+    "summary": "Qualità per cui un potere o un'istituzione può rivendicare un diritto giustificato a governare.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Qualità per cui un potere o un'istituzione può rivendicare un diritto giustificato a governare.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Qualità per cui un potere o un'istituzione può rivendicare un diritto giustificato a governare.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "David Beetham, The Legitimation of Power, 1991.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Qualità per cui un potere o un'istituzione può rivendicare un diritto giustificato a governare."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "principio-di-precauzione",
+    "id": "CON-000500",
+    "kind": "concetto",
+    "title": "Principio di precauzione",
+    "subtitle": "Principio per cui l'incertezza scientifica non giustifica sempre il rinvio di misure contro rischi gravi o irreversibili.",
+    "area": "Etica applicata e filosofia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Principio per cui l'incertezza scientifica non giustifica sempre il rinvio di misure contro rischi gravi o irreversibili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Principio per cui l'incertezza scientifica non giustifica sempre il rinvio di misure contro rischi gravi o irreversibili.",
+          "Il concetto si sviluppa nell'ambito della etica applicata e filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della etica applicata e filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Principio per cui l'incertezza scientifica non giustifica sempre il rinvio di misure contro rischi gravi o irreversibili.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "etica-applicata-e-filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Hans Jonas, The Imperative of Responsibility, 1984.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Principio per cui l'incertezza scientifica non giustifica sempre il rinvio di misure contro rischi gravi o irreversibili."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella etica applicata e filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "pluralismo-giuridico",
+    "id": "CON-000501",
+    "kind": "concetto",
+    "title": "Pluralismo giuridico",
+    "subtitle": "Prospettiva che riconosce la coesistenza e l'interazione di più ordini normativi in uno stesso spazio sociale.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Prospettiva che riconosce la coesistenza e l'interazione di più ordini normativi in uno stesso spazio sociale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Prospettiva che riconosce la coesistenza e l'interazione di più ordini normativi in uno stesso spazio sociale.",
+          "Il concetto si sviluppa nell'ambito della filosofia del diritto e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del diritto e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Prospettiva che riconosce la coesistenza e l'interazione di più ordini normativi in uno stesso spazio sociale.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Sally Engle Merry, “Legal Pluralism”, Law & Society Review, 1988.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Prospettiva che riconosce la coesistenza e l'interazione di più ordini normativi in uno stesso spazio sociale."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del diritto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "principio-di-sussidiarieta",
+    "id": "CON-000502",
+    "kind": "concetto",
+    "title": "Principio di sussidiarietà",
+    "subtitle": "Criterio per cui le decisioni dovrebbero essere assunte al livello più vicino ai soggetti coinvolti, salvo necessità di intervento superiore.",
+    "area": "Filosofia politica e diritto pubblico",
+    "period": "XIX–XXI secolo",
+    "summary": "Criterio per cui le decisioni dovrebbero essere assunte al livello più vicino ai soggetti coinvolti, salvo necessità di intervento superiore.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Criterio per cui le decisioni dovrebbero essere assunte al livello più vicino ai soggetti coinvolti, salvo necessità di intervento superiore.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e diritto pubblico e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e diritto pubblico e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Criterio per cui le decisioni dovrebbero essere assunte al livello più vicino ai soggetti coinvolti, salvo necessità di intervento superiore.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica-e-diritto-pubblico",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Trattato sull'Unione europea, art. 5.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Criterio per cui le decisioni dovrebbero essere assunte al livello più vicino ai soggetti coinvolti, salvo necessità di intervento superiore."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica e diritto pubblico."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "riconoscimento-giuridico",
+    "id": "CON-000503",
+    "kind": "concetto",
+    "title": "Riconoscimento giuridico",
+    "subtitle": "Attribuzione istituzionale di status e diritti a soggetti, gruppi o relazioni, con effetti sulla loro posizione nell'ordinamento.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Attribuzione istituzionale di status e diritti a soggetti, gruppi o relazioni, con effetti sulla loro posizione nell'ordinamento.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Attribuzione istituzionale di status e diritti a soggetti, gruppi o relazioni, con effetti sulla loro posizione nell'ordinamento.",
+          "Il concetto si sviluppa nell'ambito della filosofia del diritto e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia del diritto e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Attribuzione istituzionale di status e diritti a soggetti, gruppi o relazioni, con effetti sulla loro posizione nell'ordinamento.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Axel Honneth, The Struggle for Recognition, 1995.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Attribuzione istituzionale di status e diritti a soggetti, gruppi o relazioni, con effetti sulla loro posizione nell'ordinamento."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia del diritto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "democrazia-partecipativa",
+    "id": "CON-000504",
+    "kind": "concetto",
+    "title": "Democrazia partecipativa",
+    "subtitle": "Modello che amplia il coinvolgimento dei cittadini nella formazione, discussione e controllo delle decisioni pubbliche.",
+    "area": "Filosofia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Modello che amplia il coinvolgimento dei cittadini nella formazione, discussione e controllo delle decisioni pubbliche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Modello che amplia il coinvolgimento dei cittadini nella formazione, discussione e controllo delle decisioni pubbliche.",
+          "Il concetto si sviluppa nell'ambito della filosofia politica e va letto nel suo contesto storico e disciplinare, senza estenderne automaticamente il significato ad altre tradizioni."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni divergono sulla portata e sulle condizioni di applicazione del lemma. È importante distinguere il suo uso tecnico dalle accezioni più generiche e dalle nozioni affini.",
+          "La ricostruzione richiede di confrontare argomenti, testi e contesti, evitando equivalenze terminologiche non dimostrate."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il lemma permette di formulare un problema specifico della filosofia politica e di collegare l'analisi teorica alle pratiche e alle istituzioni in cui il concetto acquista significato.",
+          "La voce è introduttiva: il riferimento bibliografico è un punto di partenza e non sostituisce una bibliografia critica completa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Modello che amplia il coinvolgimento dei cittadini nella formazione, discussione e controllo delle decisioni pubbliche.",
+      "Per interpretare correttamente il concetto occorre precisare le distinzioni che introduce, i presupposti teorici e le conseguenze che ne derivano."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Carole Pateman, Participation and Democratic Theory, 1970.",
+        "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Definizione",
+        "explanation": "Modello che amplia il coinvolgimento dei cittadini nella formazione, discussione e controllo delle decisioni pubbliche."
+      },
+      {
+        "term": "Ambito",
+        "explanation": "Problema discusso nella filosofia politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  }
 
 ]; 
 
