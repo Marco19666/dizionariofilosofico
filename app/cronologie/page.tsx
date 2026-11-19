@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { entries } from "@/data/entries";
 
 type Event = { id: string; date: string; sort: number; area: string; title: string; detail: string; slug?: string; links?: { label: string; slug: string }[]; certainty: string };
 const events: Event[] = [
@@ -64,6 +65,7 @@ const events: Event[] = [
   {id:"e35",date:"XX–XXI secolo",sort:2000,area:"Mondo",title:"Filosofie globali e dialoghi interculturali",links:[{label:"Comparazione interculturale",slug:"comparazione-interculturale"},{label:"Decolonizzazione",slug:"decolonizzazione"},{label:"Ambiente",slug:"ambiente"}],detail:"La ricerca filosofica si confronta con decolonizzazione, femminismi, ecologia, tecnologie, giustizia globale e pluralità delle tradizioni.",certainty:"Processo contemporaneo in corso"},
 ];
 
+const timelineSuggestions = Array.from(new Set([...events.map((event) => event.title), ...events.map((event) => event.area), ...entries.filter((entry) => entry.kind === "autore").map((entry) => entry.title)]));
 const areas = ["Tutte le aree", ...Array.from(new Set(events.map((e) => e.area)))];
 
 export default function ChronologyPage() {
@@ -95,7 +97,8 @@ export default function ChronologyPage() {
       <div className="timeline-controls">
         <div className="timeline-filter"><label htmlFor="timeline-area">Area culturale</label><select id="timeline-area" value={area} onChange={(e) => setArea(e.target.value)}>{areas.map((a) => <option key={a}>{a}</option>)}</select></div>
         <label className="timeline-search-label" htmlFor="timeline-search">Cerca nella cronologia</label>
-        <input id="timeline-search" type="search" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Autore, scuola, testo, periodo…" />
+        <input id="timeline-search" type="search" list="timeline-suggestions" autoComplete="off" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Autore, scuola, testo, periodo…" />
+        <datalist id="timeline-suggestions">{timelineSuggestions.map((suggestion) => <option key={suggestion} value={suggestion} />)}</datalist>
         <div className="timeline-view-switch" aria-label="Modalità di visualizzazione">
           <button type="button" className={view === "tempo" ? "active" : ""} aria-pressed={view === "tempo"} onClick={() => setView("tempo")}>Sequenza temporale</button>
           <button type="button" className={view === "parallele" ? "active" : ""} aria-pressed={view === "parallele"} onClick={() => setView("parallele")}>Linee parallele</button>
