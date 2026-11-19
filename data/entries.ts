@@ -9719,6 +9719,791 @@ export const entries: EncyclopediaEntry[] = [
     "editorialStatus": "edizione editoriale 1.0"
   }
 
+  {
+    "slug": "testimonianza-epistemica",
+    "id": "CON-000224",
+    "kind": "concetto",
+    "title": "Testimonianza epistemica",
+    "subtitle": "Il ruolo delle parole altrui nella formazione e nella giustificazione delle credenze.",
+    "area": "Epistemologia sociale",
+    "period": "Dibattito antico e contemporaneo",
+    "summary": "Gran parte di ciò che sappiamo dipende da informazioni ricevute da altri. La testimonianza è quindi una fonte fondamentale di conoscenza e solleva questioni sulla fiducia, sull'affidabilità e sulla distribuzione sociale della credibilità.",
+    "sections": [
+      {
+        "heading": "Definizione e problema",
+        "paragraphs": [
+          "La testimonianza comprende gli atti comunicativi attraverso cui una persona trasmette informazioni a un'altra. Storia, scienza, geografia e vita quotidiana dipendono da reti testimoniali, non soltanto da osservazioni individuali.",
+          "La questione filosofica è stabilire quando sia razionale accettare ciò che altri affermano e se occorrano sempre prove indipendenti sull'affidabilità della fonte."
+        ]
+      },
+      {
+        "heading": "Riduzionismo e non riduzionismo",
+        "paragraphs": [
+          "Le teorie riduzioniste riconducono la giustificazione testimoniale a evidenze ulteriori, come la competenza del parlante o la coerenza con altre conoscenze. Le teorie non riduzioniste sostengono che, in condizioni normali e in assenza di ragioni contrarie, la testimonianza possa fornire una giustificazione di base.",
+          "Entrambe devono spiegare come trattare errore, inganno, disaccordo e dipendenza dalle istituzioni."
+        ]
+      },
+      {
+        "heading": "Credibilità e ingiustizia",
+        "paragraphs": [
+          "La credibilità non è distribuita sempre equamente. Pregiudizi e gerarchie possono produrre deficit o eccessi di credibilità, rendendo la testimonianza un tema anche politico e morale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La conoscenza è un'impresa sociale: nessuno può verificare personalmente tutte le informazioni di cui dispone. La fiducia epistemica è quindi inevitabile, ma deve essere calibrata in rapporto a competenza, sincerità, contesto e possibilità di controllo.",
+      "Scuola, scienza, giornalismo e archivi organizzano procedure che rendono possibile affidarsi a informazioni non verificate in prima persona. La qualità della conoscenza collettiva dipende anche dalla contestabilità delle autorità.",
+      "Il problema non si risolve scegliendo tra fiducia cieca e verifica totale: richiede pratiche proporzionate di controllo e attenzione a chi viene ascoltato."
+    ],
+    "tags": [
+      "epistemologia",
+      "testimonianza",
+      "fiducia",
+      "epistemologia sociale"
+    ],
+    "related": [
+      {
+        "label": "Epistemologia sociale",
+        "slug": "epistemologia-sociale",
+        "relation": "produzione e condivisione collettiva del sapere"
+      },
+      {
+        "label": "Ingiustizia epistemica",
+        "slug": "ingiustizia-epistemica",
+        "relation": "distribuzione diseguale della credibilità"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "C. A. J. Coady, Testimony: A Philosophical Study, Oxford University Press, 1992.",
+        "note": "Studio influente sul valore epistemico della testimonianza.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Jennifer Lackey, Learning from Words, Oxford University Press, 2008.",
+        "note": "Analisi contemporanea delle condizioni in cui la testimonianza produce conoscenza.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Riduzionismo testimoniale",
+        "explanation": "La giustificazione dipende da evidenze ulteriori sull'affidabilità della fonte."
+      },
+      {
+        "term": "Credibilità",
+        "explanation": "Grado di affidamento riconosciuto a un parlante in un contesto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "falsificazionismo",
+    "id": "CON-000225",
+    "kind": "concetto",
+    "title": "Falsificazionismo",
+    "subtitle": "La valutazione delle teorie scientifiche attraverso la loro esposizione a possibili confutazioni.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Associato soprattutto a Karl Popper, il falsificazionismo sostiene che una teoria empirica debba escludere alcuni eventi possibili e poter entrare in conflitto con osservazioni. La scienza procede attraverso congetture, controlli severi e revisione critica.",
+    "sections": [
+      {
+        "heading": "Criterio di demarcazione",
+        "paragraphs": [
+          "Una teoria è scientifica, nella proposta popperiana, se formula previsioni rischiose che potrebbero risultare false. Una teoria compatibile con qualsiasi esito non offre un controllo empirico discriminante.",
+          "La falsificabilità non significa che una singola osservazione basti sempre a confutare una teoria: misure, ipotesi ausiliarie e condizioni sperimentali devono essere esaminate."
+        ]
+      },
+      {
+        "heading": "Congetture e controlli",
+        "paragraphs": [
+          "Il metodo non consiste nell'accumulare conferme, ma nel progettare prove che mettano alla prova i punti vulnerabili di una spiegazione. Una teoria che supera controlli severi è corroborata, non definitivamente verificata."
+        ]
+      },
+      {
+        "heading": "Critiche e sviluppi",
+        "paragraphs": [
+          "La storia della scienza mostra che i ricercatori spesso conservano teorie nonostante anomalie. Kuhn e Lakatos hanno discusso i limiti di un modello basato sulla confutazione isolata."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il falsificazionismo rende centrale la criticabilità pubblica delle teorie: una spiegazione scientifica deve assumersi il rischio di fallire in condizioni specificabili.",
+      "La distinzione tra verificazione e corroborazione impedisce di trasformare una serie di successi in prova definitiva. Il sapere scientifico resta fallibile e rivedibile.",
+      "La pratica della scienza è più complessa di un test isolato: gli esperimenti coinvolgono reti di ipotesi, strumenti e convenzioni condivise."
+    ],
+    "tags": [
+      "Popper",
+      "metodo scientifico",
+      "fallibilismo",
+      "demarcazione"
+    ],
+    "related": [
+      {
+        "label": "Paradigma scientifico",
+        "slug": "paradigma-scientifico",
+        "relation": "confronto con il modello kuhniano del cambiamento scientifico"
+      },
+      {
+        "label": "Realismo scientifico",
+        "slug": "realismo-scientifico",
+        "relation": "rapporto tra successo empirico e verità delle teorie"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Karl R. Popper, The Logic of Scientific Discovery, Hutchinson, 1959.",
+        "note": "Opera metodologica fondamentale di Popper.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Imre Lakatos, “Falsification and the Methodology of Scientific Research Programmes”, 1970.",
+        "note": "Riformula la valutazione delle teorie attraverso programmi di ricerca.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Falsificabilità",
+        "explanation": "Possibilità che una teoria entri in conflitto con osservazioni definite."
+      },
+      {
+        "term": "Corroborazione",
+        "explanation": "Esito provvisorio di controlli severi superati da una teoria."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "paradigma-scientifico",
+    "id": "CON-000226",
+    "kind": "concetto",
+    "title": "Paradigma scientifico",
+    "subtitle": "Quadro condiviso di problemi, metodi, esempi e criteri che orienta una comunità scientifica.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Nella ricostruzione di Thomas S. Kuhn, un paradigma organizza il lavoro di una comunità scientifica e può entrare in crisi, trasformando il modo stesso di formulare problemi e riconoscere soluzioni.",
+    "sections": [
+      {
+        "heading": "Scienza normale",
+        "paragraphs": [
+          "Un paradigma fornisce esempi di soluzioni, strumenti, concetti e criteri per individuare problemi legittimi. Nella scienza normale i ricercatori risolvono rompicapi entro un quadro condiviso.",
+          "La condivisione di pratiche consente lavoro cumulativo, ma può rendere alcune anomalie difficili da riconoscere come segnali di crisi."
+        ]
+      },
+      {
+        "heading": "Crisi e rivoluzione",
+        "paragraphs": [
+          "Quando anomalie persistenti compromettono la fiducia nel quadro dominante, può emergere una crisi. Una rivoluzione scientifica modifica non soltanto singole ipotesi, ma anche problemi, strumenti e criteri di valutazione.",
+          "L'incommensurabilità indica che termini e standard di quadri differenti non sono sempre traducibili senza residui."
+        ]
+      },
+      {
+        "heading": "Discussioni",
+        "paragraphs": [
+          "Il termine paradigma ha avuto usi diversi nell'opera di Kuhn e nella letteratura successiva. Non indica semplicemente un'opinione dominante né implica che la scienza sia priva di vincoli empirici."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Kuhn sposta l'attenzione dalla singola teoria alla comunità che condivide pratiche, esemplari e criteri. La scienza è una tradizione di ricerca storicamente organizzata.",
+      "Il cambiamento scientifico non è sempre una somma lineare di scoperte: in alcuni casi cambia il modo stesso di formulare problemi e riconoscere soluzioni.",
+      "La nozione integra analisi logica, storia delle discipline e studio delle comunità scientifiche, senza ridurre la validità delle teorie al consenso."
+    ],
+    "tags": [
+      "Kuhn",
+      "rivoluzioni scientifiche",
+      "comunità scientifica",
+      "metodo"
+    ],
+    "related": [
+      {
+        "label": "Falsificazionismo",
+        "slug": "falsificazionismo",
+        "relation": "modello alternativo di razionalità e cambiamento scientifico"
+      },
+      {
+        "label": "Realismo scientifico",
+        "slug": "realismo-scientifico",
+        "relation": "dibattito sul progresso e sulla continuità delle teorie"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Thomas S. Kuhn, The Structure of Scientific Revolutions, University of Chicago Press, 1962.",
+        "note": "Opera classica su scienza normale, crisi e rivoluzioni.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Thomas S. Kuhn, The Essential Tension, University of Chicago Press, 1977.",
+        "note": "Saggi che chiariscono il modello storico kuhniano.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Scienza normale",
+        "explanation": "Ricerca condotta entro un quadro condiviso di problemi e pratiche."
+      },
+      {
+        "term": "Incommensurabilità",
+        "explanation": "Difficoltà di confronto diretto tra quadri concettuali non pienamente sovrapponibili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "problema-delle-altre-menti",
+    "id": "CON-000227",
+    "kind": "concetto",
+    "title": "Problema delle altre menti",
+    "subtitle": "La questione di come conoscere gli stati mentali di soggetti diversi da sé.",
+    "area": "Filosofia della mente",
+    "period": "Dalla filosofia moderna al dibattito contemporaneo",
+    "summary": "Il problema delle altre menti chiede su quali basi attribuiamo coscienza, pensieri ed esperienze agli altri. Il comportamento osservabile è sufficiente oppure la conoscenza mentale richiede un'inferenza?",
+    "sections": [
+      {
+        "heading": "Il problema epistemico",
+        "paragraphs": [
+          "L'esperienza soggettiva è accessibile in prima persona in un modo che non sembra disponibile agli osservatori esterni. Si pone così la domanda su come inferire che gli altri provino dolore, percepiscano o abbiano intenzioni.",
+          "L'argomento per analogia parte dal rapporto tra il proprio comportamento e le proprie esperienze, estendendo l'attribuzione agli altri. Dipende però da assunzioni sulla somiglianza."
+        ]
+      },
+      {
+        "heading": "Comportamento e linguaggio",
+        "paragraphs": [
+          "Le prospettive comportamentiste e alcune letture di Wittgenstein contestano l'immagine di una mente privata nascosta dietro il comportamento. Le espressioni psicologiche hanno criteri pubblici d'uso e sono apprese in pratiche condivise.",
+          "Ciò non implica che il dolore sia riducibile a un movimento corporeo: mette in discussione un modello troppo semplice dell'accesso alla mente altrui."
+        ]
+      },
+      {
+        "heading": "Conseguenze",
+        "paragraphs": [
+          "Il problema riguarda scetticismo, empatia, linguaggio, etica animale e riconoscimento di soggetti non umani."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il problema nasce dall'asimmetria tra esperienza in prima persona e osservazione in terza persona. Riconoscerla non obbliga a concludere che gli altri siano inconoscibili.",
+      "Le pratiche linguistiche e sociali contribuiscono a rendere intelligibili le espressioni di dolore, desiderio e intenzione.",
+      "La questione ha una posta etica: i criteri con cui riconosciamo una mente incidono su chi consideriamo interlocutore o soggetto di diritti."
+    ],
+    "tags": [
+      "coscienza",
+      "scetticismo",
+      "intersoggettività",
+      "filosofia della mente"
+    ],
+    "related": [
+      {
+        "label": "Mente e corpo",
+        "slug": "mente-corpo",
+        "relation": "rapporto tra esperienza soggettiva e comportamento corporeo"
+      },
+      {
+        "label": "Intenzionalità",
+        "slug": "intenzionalita",
+        "relation": "attribuzione di stati mentali diretti a oggetti e contenuti"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Ludwig Wittgenstein, Philosophical Investigations, Blackwell, 1953.",
+        "note": "Riflessione sul linguaggio psicologico e sulle pratiche condivise.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "John Stuart Mill, An Examination of Sir William Hamilton's Philosophy, 1865.",
+        "note": "Contiene una formulazione classica dell'argomento per analogia.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Argomento per analogia",
+        "explanation": "Inferenza dagli indizi osservabili altrui a esperienze simili alle proprie."
+      },
+      {
+        "term": "Criteri pubblici",
+        "explanation": "Pratiche condivise che rendono comprensibile l'uso delle espressioni psicologiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "libero-arbitrio",
+    "id": "CON-000228",
+    "kind": "concetto",
+    "title": "Libero arbitrio",
+    "subtitle": "La questione della libertà della volontà e della responsabilità in un mondo causale.",
+    "area": "Metafisica ed etica",
+    "period": "Dalla filosofia antica al dibattito contemporaneo",
+    "summary": "Il libero arbitrio riguarda la possibilità che gli agenti siano autori delle proprie azioni in un senso rilevante per la responsabilità. Il dibattito articola determinismo, compatibilismo, libertarismo e scetticismo sulla libertà.",
+    "sections": [
+      {
+        "heading": "Determinismo e libertà",
+        "paragraphs": [
+          "Il determinismo sostiene che, date le condizioni passate e le leggi della natura, il futuro sia fissato. La domanda è se questa struttura causale escluda la libertà o se essa possa consistere in altro rispetto all'assenza di cause.",
+          "Il problema non coincide con quello della prevedibilità: un'azione può essere determinata anche se nessuno è in grado di prevederla."
+        ]
+      },
+      {
+        "heading": "Compatibilismo e incompatibilismo",
+        "paragraphs": [
+          "Il compatibilismo sostiene che libertà e responsabilità possano coesistere con il determinismo, per esempio quando l'azione deriva dalle ragioni dell'agente senza coercizione.",
+          "Le posizioni incompatibiliste ritengono invece che il determinismo escluda una libertà necessaria alla responsabilità. Alcune difendono una libertà indeterministica; altre mettono in dubbio la responsabilità forte."
+        ]
+      },
+      {
+        "heading": "Alternative e controllo",
+        "paragraphs": [
+          "Il dibattito esamina se essere liberi richieda la possibilità di fare altrimenti, il controllo sulle origini delle decisioni o la capacità di rispondere a ragioni. I casi di Frankfurt contestano che la responsabilità richieda sempre alternative accessibili."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il libero arbitrio è un problema di metafisica dell'azione e di giustificazione delle pratiche morali. Occorre chiarire quale forma di controllo sia necessaria per attribuire responsabilità.",
+      "Le teorie divergono perché adottano criteri differenti: possibilità alternative, origine dell'azione, sensibilità alle ragioni o assenza di coercizione.",
+      "Le neuroscienze possono informare il dibattito, ma i dati empirici non risolvono da soli la questione normativa e metafisica."
+    ],
+    "tags": [
+      "libertà",
+      "determinismo",
+      "responsabilità",
+      "azione"
+    ],
+    "related": [
+      {
+        "label": "Sorte morale",
+        "slug": "sorte-morale",
+        "relation": "limiti del controllo sulle condizioni e sugli esiti dell'azione"
+      },
+      {
+        "label": "Responsabilità",
+        "slug": "responsabilita",
+        "relation": "fondamento dell'attribuzione di merito e colpa"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Peter van Inwagen, An Essay on Free Will, Oxford University Press, 1983.",
+        "note": "Esposizione influente dell'argomento incompatibilista.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Harry G. Frankfurt, “Alternate Possibilities and Moral Responsibility”, 1969.",
+        "note": "Saggio classico sulla necessità delle alternative per la responsabilità.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Compatibilismo",
+        "explanation": "Tesi secondo cui libertà e determinismo possono coesistere."
+      },
+      {
+        "term": "Determinismo",
+        "explanation": "Tesi secondo cui il passato e le leggi fissano un unico futuro possibile."
+      },
+      {
+        "term": "Libertarismo",
+        "explanation": "Posizione incompatibilista che difende una forma di libertà non deterministica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "olismo",
+    "id": "CON-000229",
+    "kind": "concetto",
+    "title": "Olismo",
+    "subtitle": "La tesi secondo cui proprietà, significati o conoscenze dipendono da sistemi e relazioni complessive.",
+    "area": "Metafisica ed epistemologia",
+    "period": "Dalla filosofia antica al dibattito contemporaneo",
+    "summary": "L'olismo raccoglie posizioni che attribuiscono priorità esplicativa al tutto o alla rete di relazioni rispetto agli elementi isolati. Si parla di olismo semantico, epistemologico, metodologico e metafisico.",
+    "sections": [
+      {
+        "heading": "Forme dell'olismo",
+        "paragraphs": [
+          "L'olismo semantico sostiene che il significato dipenda dalle relazioni con altre espressioni. L'olismo epistemologico considera le credenze come una rete in cui le revisioni coinvolgono spesso più elementi.",
+          "In metafisica, posizioni olistiche spiegano proprietà e identità attraverso strutture e relazioni complessive."
+        ]
+      },
+      {
+        "heading": "Olocismo e riduzionismo",
+        "paragraphs": [
+          "Il contrasto con il riduzionismo non è sempre assoluto. Una spiegazione può riconoscere dipendenze sistemiche e analizzare componenti e meccanismi locali.",
+          "L'olismo deve specificare quali relazioni producano dipendenza, evitando di trasformare il tutto in un'entità misteriosa separata dalle parti."
+        ]
+      },
+      {
+        "heading": "Applicazioni",
+        "paragraphs": [
+          "Il tema compare nella filosofia del linguaggio, della scienza, della mente e nelle scienze sociali. In ogni ambito occorre chiarire quale unità venga considerata."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'olismo contesta che ogni elemento possa essere compreso indipendentemente dal contesto: significati, credenze e proprietà possono dipendere dalla posizione occupata in una rete.",
+      "La tesi non implica che le parti siano irreali o che ogni analisi locale sia impossibile. Chiede di spiegare come le relazioni contribuiscano alle proprietà del sistema.",
+      "Olismo semantico, epistemologico e metafisico non sono sinonimi e richiedono argomenti distinti."
+    ],
+    "tags": [
+      "metafisica",
+      "epistemologia",
+      "sistemi",
+      "relazioni"
+    ],
+    "related": [
+      {
+        "label": "Riduzionismo",
+        "slug": "riduzionismo",
+        "relation": "posizione di confronto sul rapporto tra parti e livelli"
+      },
+      {
+        "label": "Supervenienza",
+        "slug": "supervenienza",
+        "relation": "dipendenza tra proprietà di livelli differenti"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "W. V. O. Quine, “Two Dogmas of Empiricism”, The Philosophical Review, 1951.",
+        "note": "Saggio influente per l'olismo della conferma.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Donald Davidson, Inquiries into Truth and Interpretation, Oxford University Press, 1984.",
+        "note": "Raccolta di saggi su significato e interpretazione.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Olismo semantico",
+        "explanation": "Dipendenza del significato dalle relazioni con altre espressioni."
+      },
+      {
+        "term": "Olismo della conferma",
+        "explanation": "Tesi secondo cui le ipotesi vengono confrontate con l'esperienza entro reti di credenze."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "fenomenologia",
+    "id": "CON-000230",
+    "kind": "concetto",
+    "title": "Fenomenologia",
+    "subtitle": "Metodo e tradizione che indagano le strutture dell'esperienza così come si manifestano.",
+    "area": "Filosofia contemporanea",
+    "period": "Dalla fine del XIX secolo",
+    "summary": "Avviata da Edmund Husserl e sviluppata da molte correnti successive, la fenomenologia descrive le strutture dell'esperienza, dell'intenzionalità, del corpo e del mondo vissuto senza ridurle subito a spiegazioni causali esterne.",
+    "sections": [
+      {
+        "heading": "Metodo fenomenologico",
+        "paragraphs": [
+          "Husserl propone di descrivere come gli oggetti si manifestano alla coscienza. L'epoché sospende l'assunzione ingenua dell'esistenza del mondo così come viene normalmente presupposta, per esaminare le modalità del suo apparire.",
+          "La riduzione fenomenologica non è una negazione del mondo, ma una trasformazione dell'atteggiamento con cui si indaga l'esperienza."
+        ]
+      },
+      {
+        "heading": "Intenzionalità e tempo",
+        "paragraphs": [
+          "La coscienza è intenzionale: è sempre coscienza di qualcosa. Percezione, ricordo, immaginazione e giudizio hanno strutture proprie.",
+          "L'esperienza presente include ritenzione del passato immediato e anticipazione del futuro, non una successione di istanti isolati."
+        ]
+      },
+      {
+        "heading": "Sviluppi",
+        "paragraphs": [
+          "Heidegger rilegge la fenomenologia come analitica dell'esistenza; Merleau-Ponty mette al centro il corpo vissuto; Edith Stein sviluppa l'analisi dell'empatia. La tradizione non è uniforme."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La fenomenologia indaga il modo in cui il mondo è dato nell'esperienza e le strutture che rendono possibile tale manifestazione. Non sostituisce le scienze naturali, ma chiarisce dimensioni dell'esperienza che una descrizione causale può lasciare sullo sfondo.",
+      "L'intenzionalità impedisce di concepire la coscienza come un contenitore chiuso: percepire, ricordare e desiderare sono modi di rapportarsi a qualcosa.",
+      "La tradizione si è ampliata verso corpo, temporalità, intersoggettività e mondo della vita; ogni autore rielabora il metodo in modo specifico."
+    ],
+    "tags": [
+      "Husserl",
+      "esperienza",
+      "intenzionalità",
+      "coscienza"
+    ],
+    "related": [
+      {
+        "label": "Intenzionalità",
+        "slug": "intenzionalita",
+        "relation": "struttura direzionale della coscienza"
+      },
+      {
+        "label": "Conoscenza situata",
+        "slug": "conoscenza-situata",
+        "relation": "ruolo della prospettiva e della collocazione del soggetto"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Edmund Husserl, Ideen zu einer reinen Phänomenologie, 1913.",
+        "note": "Opera fondamentale per la fenomenologia trascendentale.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Maurice Merleau-Ponty, Phénoménologie de la perception, Gallimard, 1945.",
+        "note": "Sviluppa una fenomenologia del corpo e della percezione.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Epoché",
+        "explanation": "Sospensione metodica dell'atteggiamento naturale."
+      },
+      {
+        "term": "Mondo della vita",
+        "explanation": "Orizzonte preteorico dell'esperienza quotidiana e condivisa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "pragmatismo",
+    "id": "CON-000231",
+    "kind": "concetto",
+    "title": "Pragmatismo",
+    "subtitle": "Tradizione che collega significato, indagine e verità alle pratiche e alle conseguenze dell'esperienza.",
+    "area": "Filosofia moderna e contemporanea",
+    "period": "Dalla seconda metà del XIX secolo",
+    "summary": "Il pragmatismo nasce negli Stati Uniti con Peirce, James e Dewey. Mette al centro l'indagine, le pratiche, gli effetti concepibili dei concetti e la revisione delle credenze.",
+    "sections": [
+      {
+        "heading": "Origini e massima pragmatica",
+        "paragraphs": [
+          "Peirce chiarisce il significato dei concetti attraverso gli effetti pratici concepibili che attribuiamo ai loro oggetti. La massima è una regola di chiarificazione, non l'affermazione che sia vero tutto ciò che risulta utile.",
+          "James sviluppa una concezione della verità legata alla verificazione nell'esperienza; Dewey interpreta la conoscenza come indagine che trasforma situazioni problematiche."
+        ]
+      },
+      {
+        "heading": "Verità e fallibilismo",
+        "paragraphs": [
+          "Il pragmatismo non coincide con l'opportunismo né con la riduzione della verità al vantaggio immediato. Le diverse versioni collegano credenze e ipotesi a processi di verifica, correzione e stabilizzazione pubblica.",
+          "Peirce insiste sulla comunità d'indagine; Dewey sul carattere operativo della ricerca; James sulla pluralità delle esperienze."
+        ]
+      },
+      {
+        "heading": "Ricezione",
+        "paragraphs": [
+          "Il pragmatismo ha influenzato filosofia del linguaggio, epistemologia, pedagogia, teoria democratica e filosofia della scienza."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il pragmatismo considera il pensiero come attività inserita in pratiche di indagine. Un concetto acquista chiarezza quando si comprendono le differenze che produrrebbe nelle esperienze possibili.",
+      "La verità non è un sinonimo di convenienza privata: le teorie pragmatiche la collegano, in modi differenti, a processi di verifica e correzione pubblica.",
+      "Peirce, James e Dewey non sostengono la stessa teoria della verità. Occorre distinguere massima pragmatica, teoria dell'indagine e concezioni dell'esperienza."
+    ],
+    "tags": [
+      "Peirce",
+      "James",
+      "Dewey",
+      "verità",
+      "indagine"
+    ],
+    "related": [
+      {
+        "label": "Falsificazionismo",
+        "slug": "falsificazionismo",
+        "relation": "ruolo dei controlli e della revisione delle credenze"
+      },
+      {
+        "label": "Epistemologia sociale",
+        "slug": "epistemologia-sociale",
+        "relation": "carattere collettivo e pubblico dell'indagine"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Charles S. Peirce, “How to Make Our Ideas Clear”, Popular Science Monthly, 1878.",
+        "note": "Testo classico per la massima pragmatica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "John Dewey, Logic: The Theory of Inquiry, Henry Holt, 1938.",
+        "note": "Concezione dell'indagine come trasformazione di situazioni problematiche.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Massima pragmatica",
+        "explanation": "Chiarificazione di un concetto attraverso i suoi effetti pratici concepibili."
+      },
+      {
+        "term": "Fallibilismo",
+        "explanation": "Riconoscimento che ogni credenza può richiedere revisione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dualismo",
+    "id": "CON-000232",
+    "kind": "concetto",
+    "title": "Dualismo",
+    "subtitle": "Posizione metafisica che distingue due tipi fondamentali di realtà, sostanza o proprietà.",
+    "area": "Metafisica e filosofia della mente",
+    "period": "Dall'antichità al dibattito contemporaneo",
+    "summary": "Il dualismo è una famiglia di teorie che distinguono due principi o livelli fondamentali. Nella filosofia della mente indica soprattutto la distinzione tra mentale e fisico, ma le sue forme e argomentazioni sono molteplici.",
+    "sections": [
+      {
+        "heading": "Dualismo delle sostanze e delle proprietà",
+        "paragraphs": [
+          "Il dualismo cartesiano sostiene che mente e corpo siano sostanze differenti: il pensiero caratterizza la mente, l'estensione il corpo.",
+          "Il dualismo delle proprietà ammette invece una sola sostanza fisica, ma sostiene che alcune proprietà mentali non siano riducibili a proprietà fisiche."
+        ]
+      },
+      {
+        "heading": "Argomenti e difficoltà",
+        "paragraphs": [
+          "Gli argomenti dualisti richiamano la coscienza soggettiva, l'intenzionalità o la concepibilità di una mente separata dal corpo. Una difficoltà classica riguarda il modo in cui entità o proprietà non fisiche possano interagire con processi fisici.",
+          "Le obiezioni materialiste insistono sulla dipendenza empirica della mente dal cervello e sui problemi esplicativi dell'interazione."
+        ]
+      },
+      {
+        "heading": "Forme contemporanee",
+        "paragraphs": [
+          "Il dibattito include dualismo interazionista, epifenomenismo e dualismo delle proprietà. Non tutte queste posizioni attribuiscono alla mente lo stesso ruolo causale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il dualismo rende esplicita la difficoltà di spiegare la coscienza soggettiva entro un quadro interamente fisico. La distinzione tra mente e corpo, tuttavia, non basta da sola a risolvere il problema.",
+      "Le versioni sostanziali e quelle delle proprietà hanno impegni ontologici differenti e non vanno confuse.",
+      "La discussione contemporanea valuta insieme argomenti concettuali, risultati delle scienze cognitive e problema della causalità mentale."
+    ],
+    "tags": [
+      "mente",
+      "corpo",
+      "coscienza",
+      "metafisica"
+    ],
+    "related": [
+      {
+        "label": "Mente e corpo",
+        "slug": "mente-corpo",
+        "relation": "problema centrale del rapporto tra dimensione mentale e fisica"
+      },
+      {
+        "label": "Supervenienza",
+        "slug": "supervenienza",
+        "relation": "tesi di dipendenza delle proprietà mentali da quelle fisiche"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "René Descartes, Meditationes de prima philosophia, 1641.",
+        "note": "Formulazione classica del dualismo cartesiano.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "David Chalmers, The Conscious Mind, Oxford University Press, 1996.",
+        "note": "Difesa contemporanea di una forma di dualismo delle proprietà.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Dualismo delle sostanze",
+        "explanation": "Tesi secondo cui mente e corpo sono sostanze distinte."
+      },
+      {
+        "term": "Dualismo delle proprietà",
+        "explanation": "Tesi secondo cui proprietà mentali e fisiche sono irriducibili, anche se appartengono a una sola sostanza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "realismo-critico",
+    "id": "CON-000233",
+    "kind": "concetto",
+    "title": "Realismo critico",
+    "subtitle": "Posizione che difende l'esistenza di una realtà indipendente dalla conoscenza, riconoscendo il carattere fallibile e mediato delle nostre descrizioni.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo e dibattito contemporaneo",
+    "summary": "Il realismo critico combina l'impegno ontologico verso una realtà indipendente con una concezione non ingenua della conoscenza: osservazioni, teorie e pratiche scientifiche sono storicamente situate e correggibili.",
+    "sections": [
+      {
+        "heading": "Realtà e conoscenza",
+        "paragraphs": [
+          "Il realismo critico distingue l'esistenza degli oggetti dal modo in cui li conosciamo. La realtà non dipende interamente dalle nostre descrizioni, ma ogni accesso conoscitivo è mediato da concetti, strumenti e condizioni storiche.",
+          "Questa distinzione permette di evitare sia il realismo ingenuo, che tratta le osservazioni come copie trasparenti del mondo, sia il costruttivismo radicale."
+        ]
+      },
+      {
+        "heading": "Strutture e meccanismi",
+        "paragraphs": [
+          "Nella filosofia della scienza e nelle scienze sociali, il realismo critico invita a cercare meccanismi e strutture che producono fenomeni osservabili, anche quando non sono direttamente visibili.",
+          "Le spiegazioni devono distinguere eventi osservati, processi che li generano e condizioni che ne rendono possibile il verificarsi."
+        ]
+      },
+      {
+        "heading": "Critiche e limiti",
+        "paragraphs": [
+          "La posizione deve chiarire come si giustifichino le affermazioni su strutture non osservabili e come si confrontino spiegazioni rivali. Il richiamo alla realtà indipendente non sostituisce l'argomentazione empirica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il realismo critico separa la realtà dalla nostra conoscenza di essa: il fatto che le descrizioni siano fallibili non implica che il mondo sia prodotto interamente dal discorso.",
+      "La ricerca mira a spiegare non soltanto ciò che appare, ma i meccanismi e le relazioni che rendono possibili gli eventi. Questa ambizione richiede controlli e confronto tra ipotesi.",
+      "Il termine designa tradizioni non identiche, dalla riflessione epistemologica alla proposta di Roy Bhaskar nelle scienze sociali; occorre specificare l'autore e il contesto."
+    ],
+    "tags": [
+      "realismo",
+      "fallibilismo",
+      "scienza",
+      "ontologia"
+    ],
+    "related": [
+      {
+        "label": "Realismo scientifico",
+        "slug": "realismo-scientifico",
+        "relation": "impegno verso la realtà delle entità e delle teorie scientifiche"
+      },
+      {
+        "label": "Conoscenza situata",
+        "slug": "conoscenza-situata",
+        "relation": "mediazione storica e prospettica della conoscenza"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Roy Bhaskar, A Realist Theory of Science, Leeds Books, 1975.",
+        "note": "Opera fondativa del realismo critico di Bhaskar.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Roy Bhaskar, The Possibility of Naturalism, Harvester Press, 1979.",
+        "note": "Applica il realismo critico alla spiegazione delle scienze sociali.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Realismo ontologico",
+        "explanation": "Tesi secondo cui la realtà esiste indipendentemente dalle nostre descrizioni."
+      },
+      {
+        "term": "Meccanismo generativo",
+        "explanation": "Struttura o processo causale che contribuisce a produrre un fenomeno."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 
