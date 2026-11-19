@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { terms } from "@/data/terms";
-import { entries } from "@/data/entries";
+import { terms } from "@/data/catalog";
+import { entries } from "@/data/catalog";
 const authors = entries.filter((entry) => entry.kind === "autore");
 const themes = [...new Set(entries.flatMap((entry) => entry.tags))];
 const works = entries.flatMap((entry) => entry.works ?? []);
