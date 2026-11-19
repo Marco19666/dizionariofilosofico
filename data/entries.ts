@@ -3617,7 +3617,303 @@ export const entries: EncyclopediaEntry[] = [
     ],
     editorialStatus: "edizione editoriale 1.0"
   }
-];
+  {
+    "slug": "mary-wollstonecraft",
+    "id": "AUT-000451",
+    "kind": "autore",
+    "title": "Mary Wollstonecraft",
+    "subtitle": "Ragione, educazione e uguaglianza delle donne",
+    "area": "Filosofia moderna",
+    "period": "1759–1797",
+    "summary": "Filosofa e scrittrice inglese, critica delle gerarchie educative e sociali che negano alle donne l'esercizio della ragione e l'autonomia morale.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "In A Vindication of the Rights of Woman (1792) Wollstonecraft interviene nei dibattiti illuministici su diritti, educazione e cittadinanza. Contesta l'educazione che rende le donne dipendenti e attribuisce poi la loro presunta inferiorità a una natura immutabile.",
+          "La ricostruzione va collocata nel contesto storico e intellettuale dell'autore, distinguendo i testi, le circostanze di composizione e le successive interpretazioni."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "L'educazione sviluppa capacità razionali e virtù: una società che nega alle donne un'istruzione adeguata produce artificialmente dipendenza e disuguaglianza. L'uguaglianza indica pari dignità morale e possibilità di sviluppare le proprie facoltà.",
+          "Le tesi vanno lette in rapporto agli argomenti sviluppati nelle opere e alle obiezioni che hanno suscitato."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "È un riferimento fondamentale per la storia del pensiero femminista. Il confronto con Rousseau chiarisce divergenze decisive sul ruolo dell'educazione femminile.",
+          "I confronti con altre tradizioni sono utili se mantengono visibili differenze di lessico, contesto e metodo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'educazione sviluppa capacità razionali e virtù: una società che nega alle donne un'istruzione adeguata produce artificialmente dipendenza e disuguaglianza. L'uguaglianza indica pari dignità morale e possibilità di sviluppare le proprie facoltà.",
+      "È un riferimento fondamentale per la storia del pensiero femminista. Il confronto con Rousseau chiarisce divergenze decisive sul ruolo dell'educazione femminile."
+    ],
+    "tags": [
+      "filosofia",
+      "storia della filosofia",
+      "Filosofia moderna"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "A Vindication of the Rights of Woman (1792)",
+        "type": "Testo primario / traduzione",
+        "note": "Difesa dell'istruzione e dell'uguaglianza morale e civile delle donne."
+      },
+      {
+        "label": "Studi storico-filosofici specialistici",
+        "type": "Studio secondario",
+        "note": "Integrare con studi critici aggiornati sulla contestualizzazione e sulla ricezione dell'autore."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "ragione",
+        "explanation": "L'educazione sviluppa capacità razionali e virtù: una società che nega alle donne un'istruzione adeguata produce artificialmente dipendenza e disuguaglianza. L'uguaglianza indica pari dignità morale e possibilità di sviluppare le proprie facoltà."
+      }
+    ],
+    "works": [
+      {
+        "title": "A Vindication of the Rights of Woman (1792)",
+        "note": "Difesa dell'istruzione e dell'uguaglianza morale e civile delle donne."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1759–1797",
+        "event": "Arco biografico e attività intellettuale dell'autore."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "simone-weil",
+    "id": "AUT-000452",
+    "kind": "autore",
+    "title": "Simone Weil",
+    "subtitle": "Attenzione, sventura, lavoro e obbligo",
+    "area": "Filosofia contemporanea",
+    "period": "1909–1943",
+    "summary": "Filosofa e attivista francese, la cui opera intreccia riflessione politica, esperienza del lavoro, mistica, giustizia e attenzione alla sofferenza.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Weil insegnò filosofia, partecipò alle lotte sindacali e lavorò in fabbrica per conoscere dall'interno la condizione operaia. I suoi scritti, pubblicati in larga parte postumi, comprendono saggi, quaderni e testi spirituali.",
+          "La ricostruzione va collocata nel contesto storico e intellettuale dell'autore, distinguendo i testi, le circostanze di composizione e le successive interpretazioni."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "L'attenzione è una disponibilità rigorosa al reale che sospende l'ego e riconosce la sofferenza altrui. La sventura investe corpo, posizione sociale e senso di sé; la forza può trasformare le persone in strumenti o cose.",
+          "Le tesi vanno lette in rapporto agli argomenti sviluppati nelle opere e alle obiezioni che hanno suscitato."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "La sua opera è discussa in filosofia morale, teoria politica e filosofia della religione. Il rapporto tra impegno politico e ricerca spirituale richiede una lettura non riduttiva.",
+          "I confronti con altre tradizioni sono utili se mantengono visibili differenze di lessico, contesto e metodo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'attenzione è una disponibilità rigorosa al reale che sospende l'ego e riconosce la sofferenza altrui. La sventura investe corpo, posizione sociale e senso di sé; la forza può trasformare le persone in strumenti o cose.",
+      "La sua opera è discussa in filosofia morale, teoria politica e filosofia della religione. Il rapporto tra impegno politico e ricerca spirituale richiede una lettura non riduttiva."
+    ],
+    "tags": [
+      "filosofia",
+      "storia della filosofia",
+      "Filosofia contemporanea"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "La prima radice",
+        "type": "Testo primario / traduzione",
+        "note": "Riflessione sui bisogni dell'anima e sugli obblighi verso l'essere umano."
+      },
+      {
+        "label": "Studi storico-filosofici specialistici",
+        "type": "Studio secondario",
+        "note": "Integrare con studi critici aggiornati sulla contestualizzazione e sulla ricezione dell'autore."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "attenzione",
+        "explanation": "L'attenzione è una disponibilità rigorosa al reale che sospende l'ego e riconosce la sofferenza altrui. La sventura investe corpo, posizione sociale e senso di sé; la forza può trasformare le persone in strumenti o cose."
+      }
+    ],
+    "works": [
+      {
+        "title": "La prima radice",
+        "note": "Riflessione sui bisogni dell'anima e sugli obblighi verso l'essere umano."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1909–1943",
+        "event": "Arco biografico e attività intellettuale dell'autore."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "hannah-arendt",
+    "id": "AUT-000453",
+    "kind": "autore",
+    "title": "Hannah Arendt",
+    "subtitle": "Azione, pluralità e responsabilità politica",
+    "area": "Filosofia contemporanea",
+    "period": "1906–1975",
+    "summary": "Filosofa e teorica politica, ha analizzato totalitarismo, libertà, giudizio e spazio pubblico, distinguendo lavoro, opera e azione.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nata ad Hannover, Arendt lasciò la Germania nel 1933 e si stabilì negli Stati Uniti dopo anni di esilio. L'esperienza del totalitarismo e dell'apolidia segnò la sua riflessione sulla fragilità dei diritti e delle istituzioni.",
+          "La ricostruzione va collocata nel contesto storico e intellettuale dell'autore, distinguendo i testi, le circostanze di composizione e le successive interpretazioni."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "In Vita activa distingue labor, opera e azione. La politica nasce quando persone differenti agiscono e parlano insieme in uno spazio pubblico; la libertà si manifesta nella capacità di iniziare qualcosa di nuovo in presenza degli altri.",
+          "Le tesi vanno lette in rapporto agli argomenti sviluppati nelle opere e alle obiezioni che hanno suscitato."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Le sue analisi sono centrali negli studi sul totalitarismo, sulla cittadinanza e sulla democrazia. La nozione di banalità del male ha aperto un ampio dibattito su pensiero e responsabilità.",
+          "I confronti con altre tradizioni sono utili se mantengono visibili differenze di lessico, contesto e metodo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "In Vita activa distingue labor, opera e azione. La politica nasce quando persone differenti agiscono e parlano insieme in uno spazio pubblico; la libertà si manifesta nella capacità di iniziare qualcosa di nuovo in presenza degli altri.",
+      "Le sue analisi sono centrali negli studi sul totalitarismo, sulla cittadinanza e sulla democrazia. La nozione di banalità del male ha aperto un ampio dibattito su pensiero e responsabilità."
+    ],
+    "tags": [
+      "filosofia",
+      "storia della filosofia",
+      "Filosofia contemporanea"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Vita activa. La condizione umana",
+        "type": "Testo primario / traduzione",
+        "note": "Indagine sulle attività fondamentali della vita umana e sulla pluralità."
+      },
+      {
+        "label": "Studi storico-filosofici specialistici",
+        "type": "Studio secondario",
+        "note": "Integrare con studi critici aggiornati sulla contestualizzazione e sulla ricezione dell'autore."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "azione",
+        "explanation": "In Vita activa distingue labor, opera e azione. La politica nasce quando persone differenti agiscono e parlano insieme in uno spazio pubblico; la libertà si manifesta nella capacità di iniziare qualcosa di nuovo in presenza degli altri."
+      }
+    ],
+    "works": [
+      {
+        "title": "Vita activa. La condizione umana",
+        "note": "Indagine sulle attività fondamentali della vita umana e sulla pluralità."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1906–1975",
+        "event": "Arco biografico e attività intellettuale dell'autore."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "w-e-b-du-bois",
+    "id": "AUT-000454",
+    "kind": "autore",
+    "title": "W. E. B. Du Bois",
+    "subtitle": "Doppia coscienza, razza e democrazia",
+    "area": "Filosofia contemporanea",
+    "period": "1868–1963",
+    "summary": "Sociologo, storico e pensatore politico statunitense, ha analizzato razzializzazione, cittadinanza e democrazia nell'esperienza afroamericana.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Du Bois fu tra i principali intellettuali afroamericani tra la fine dell'Ottocento e la metà del Novecento. La sua ricerca unì indagine empirica, storia e critica sociale contro la segregazione.",
+          "La ricostruzione va collocata nel contesto storico e intellettuale dell'autore, distinguendo i testi, le circostanze di composizione e le successive interpretazioni."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "La doppia coscienza descrive la tensione di chi è costretto a percepirsi attraverso lo sguardo di una società che lo svaluta. Du Bois contestò le spiegazioni biologiche della gerarchia razziale e ne analizzò le cause storiche, economiche e politiche.",
+          "Le tesi vanno lette in rapporto agli argomenti sviluppati nelle opere e alle obiezioni che hanno suscitato."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "È un riferimento per la sociologia critica, la filosofia politica, gli studi afroamericani e le teorie della razza; la sua opera dialoga con tradizioni panafricaniste e anticoloniali.",
+          "I confronti con altre tradizioni sono utili se mantengono visibili differenze di lessico, contesto e metodo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La doppia coscienza descrive la tensione di chi è costretto a percepirsi attraverso lo sguardo di una società che lo svaluta. Du Bois contestò le spiegazioni biologiche della gerarchia razziale e ne analizzò le cause storiche, economiche e politiche.",
+      "È un riferimento per la sociologia critica, la filosofia politica, gli studi afroamericani e le teorie della razza; la sua opera dialoga con tradizioni panafricaniste e anticoloniali."
+    ],
+    "tags": [
+      "filosofia",
+      "storia della filosofia",
+      "Filosofia contemporanea"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "The Souls of Black Folk (1903)",
+        "type": "Testo primario / traduzione",
+        "note": "Opera fondamentale per la formulazione della doppia coscienza e l'analisi dell'esperienza afroamericana."
+      },
+      {
+        "label": "Studi storico-filosofici specialistici",
+        "type": "Studio secondario",
+        "note": "Integrare con studi critici aggiornati sulla contestualizzazione e sulla ricezione dell'autore."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "doppia coscienza",
+        "explanation": "La doppia coscienza descrive la tensione di chi è costretto a percepirsi attraverso lo sguardo di una società che lo svaluta. Du Bois contestò le spiegazioni biologiche della gerarchia razziale e ne analizzò le cause storiche, economiche e politiche."
+      }
+    ],
+    "works": [
+      {
+        "title": "The Souls of Black Folk (1903)",
+        "note": "Opera fondamentale per la formulazione della doppia coscienza e l'analisi dell'esperienza afroamericana."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1868–1963",
+        "event": "Arco biografico e attività intellettuale dell'autore."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+]; 
 
 
 export interface ComparativePath {
