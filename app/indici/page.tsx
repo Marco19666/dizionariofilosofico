@@ -7,7 +7,7 @@ const sections = [
   { href: "/indici/autori", title: "Autori", description: "Filosofi e pensatori in ordine alfabetico.", count: authors.length },
   { href: "/indici/temi", title: "Temi", description: "Concetti, problemi e parole chiave.", count: themes.length },
   { href: "/indici/opere", title: "Opere", description: "Libri, dialoghi, trattati e testi.", count: works.length },
-  { href: "/lessico", title: "Lessico filosofico", description: "Termini, definizioni e distinzioni tra tradizioni.", count: 50 },
+  { href: "/lessico", title: "Lessico filosofico", description: "Termini, definizioni e distinzioni tra tradizioni.", count: 46 },
 ];
 export default function IndexesPage() {
   return <main className="indexes-page">
