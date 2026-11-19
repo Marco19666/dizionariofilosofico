@@ -416,94 +416,6 @@ export const entries: EncyclopediaEntry[] = [
   {"slug":"mary-astell","id":"AUT-000349","kind":"autore","title":"Mary Astell","subtitle":"Mary Astell: profilo e problemi filosofici","area":"Inghilterra","period":"1666–1731","summary":"Filosofa inglese, difende l'educazione intellettuale delle donne e critica la subordinazione nel matrimonio.","sections":[{"heading":"Profilo storico","paragraphs":["Filosofa inglese, difende l'educazione intellettuale delle donne e critica la subordinazione nel matrimonio.","La ricostruzione del contesto richiede di distinguere i dati biografici attestati, le testimonianze indirette e le interpretazioni storiografiche successive."]},{"heading":"Temi e problemi","paragraphs":["L'uguaglianza delle capacità razionali richiede accesso all'istruzione; la dipendenza domestica contraddice le pretese di libertà politica.","Questi problemi vanno collocati nelle controversie intellettuali e nelle istituzioni del periodo, evitando di proiettare categorie contemporanee senza mediazione."]},{"heading":"Metodo, contesto e ricezione","paragraphs":["L'opera va letta nel rapporto tra testi, pratiche intellettuali e condizioni storiche della sua produzione. La ricezione successiva ha reinterpretato queste tesi in contesti differenti.","È opportuno distinguere gli scritti attribuibili all'autore dalle sistemazioni scolastiche e dalle ricostruzioni posteriori."]}],"thoughtAnalysis":["L'uguaglianza delle capacità razionali richiede accesso all'istruzione; la dipendenza domestica contraddice le pretese di libertà politica.","Una lettura storicamente controllata confronta i testi disponibili, la loro trasmissione e le interpretazioni concorrenti, senza attribuire all'autore un sistema più unitario di quanto le fonti consentano."],"tags":["Inghilterra","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Mary Astell, A Serious Proposal to the Ladies.","note":"Riferimento al testo principale; per una citazione definitiva verificare traduzione, curatela, data e collana nel catalogo bibliografico.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Mary Astell","note":"Bibliografia secondaria da completare con monografie e articoli specialistici verificati; non sono indicati dati editoriali non controllati.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, istituzionali e sociali entro cui si sviluppa la riflessione."},{"term":"Ricezione","explanation":"Trasformazioni e interpretazioni del pensiero nelle epoche successive."}],"works":[{"title":"A Serious Proposal to the Ladies","note":"Opera o testo di riferimento associato all'autore; verificare edizione e traduzione adottate."}],"timeline":[{"date":"1666–1731","event":"Attività intellettuale di Mary Astell nel contesto storico indicato; cronologia da precisare secondo le fonti biografiche."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"olympe-de-gouges","id":"AUT-000350","kind":"autore","title":"Olympe de Gouges","subtitle":"Olympe de Gouges: profilo e problemi filosofici","area":"Francia","period":"1748–1793","summary":"Scrittrice e attivista rivoluzionaria, denuncia l'esclusione delle donne dai diritti proclamati dalla Rivoluzione francese.","sections":[{"heading":"Profilo storico","paragraphs":["Scrittrice e attivista rivoluzionaria, denuncia l'esclusione delle donne dai diritti proclamati dalla Rivoluzione francese.","La ricostruzione del contesto richiede di distinguere i dati biografici attestati, le testimonianze indirette e le interpretazioni storiografiche successive."]},{"heading":"Temi e problemi","paragraphs":["La Dichiarazione dei diritti della donna contesta l'universalismo dei diritti quando le donne sono escluse da cittadinanza e rappresentanza.","Questi problemi vanno collocati nelle controversie intellettuali e nelle istituzioni del periodo, evitando di proiettare categorie contemporanee senza mediazione."]},{"heading":"Metodo, contesto e ricezione","paragraphs":["L'opera va letta nel rapporto tra testi, pratiche intellettuali e condizioni storiche della sua produzione. La ricezione successiva ha reinterpretato queste tesi in contesti differenti.","È opportuno distinguere gli scritti attribuibili all'autore dalle sistemazioni scolastiche e dalle ricostruzioni posteriori."]}],"thoughtAnalysis":["La Dichiarazione dei diritti della donna contesta l'universalismo dei diritti quando le donne sono escluse da cittadinanza e rappresentanza.","Una lettura storicamente controllata confronta i testi disponibili, la loro trasmissione e le interpretazioni concorrenti, senza attribuire all'autore un sistema più unitario di quanto le fonti consentano."],"tags":["Francia","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Olympe de Gouges, Déclaration des droits de la femme et de la citoyenne.","note":"Riferimento al testo principale; per una citazione definitiva verificare traduzione, curatela, data e collana nel catalogo bibliografico.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Olympe de Gouges","note":"Bibliografia secondaria da completare con monografie e articoli specialistici verificati; non sono indicati dati editoriali non controllati.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, istituzionali e sociali entro cui si sviluppa la riflessione."},{"term":"Ricezione","explanation":"Trasformazioni e interpretazioni del pensiero nelle epoche successive."}],"works":[{"title":"Déclaration des droits de la femme et de la citoyenne","note":"Opera o testo di riferimento associato all'autore; verificare edizione e traduzione adottate."}],"timeline":[{"date":"1748–1793","event":"Attività intellettuale di Olympe de Gouges nel contesto storico indicato; cronologia da precisare secondo le fonti biografiche."}],"editorialStatus":"edizione editoriale 1.0"},
 
-];
-
-
-export interface ComparativePath {
-  slug: string;
-  title: string;
-  entries: string[];
-  question: string;
-  methodNote: string;
-}
-
-/**
- * Percorsi comparativi trasversali. Le connessioni indicano problemi da
- * mettere a confronto, non equivalenze concettuali né influenze automatiche.
- */
-export const comparativePaths: ComparativePath[] = [
-  {
-    slug: "dialogo-e-sistema",
-    title: "Dialogo, trattato e costruzione del sapere",
-    entries: ["platone", "aristotele"],
-    question: "In che modo la forma letteraria condiziona ciò che possiamo ricostruire di una filosofia?",
-    methodNote: "Il dialogo platonico e i trattati aristotelici appartengono a generi e storie di trasmissione differenti: non sono due semplici stili espositivi intercambiabili."
-  },
-  {
-    slug: "ordine-e-spontaneita",
-    title: "Rito, formazione e spontaneità",
-    entries: ["confucio", "laozi"],
-    question: "L'ordine umano nasce soprattutto dall'educazione rituale o da una riduzione dell'intervento artificiale?",
-    methodNote: "Il confronto riguarda testi e orientamenti della Cina antica; non autorizza a ridurre confucianesimo e daoismo a due blocchi uniformi o sempre contrapposti."
-  },
-  {
-    slug: "dao-e-logos",
-    title: "Dao e logos: linguaggio e principio",
-    entries: ["dao", "logos"],
-    question: "Come vengono pensati il principio, l'ordine e i limiti del linguaggio in contesti culturali differenti?",
-    methodNote: "Dao e logos hanno storie semantiche non sovrapponibili. Le analogie sono strumenti euristici e non dimostrano contatti o derivazioni."
-  },
-  {
-    slug: "essere-e-vacuita",
-    title: "Essere, dipendenza e vacuità",
-    entries: ["essere", "sunyata"],
-    question: "Che cosa presupponiamo quando diciamo che qualcosa è, esiste o possiede una natura propria?",
-    methodNote: "Il lessico ontologico greco e l'analisi buddhista della vacuità nascono da problemi e tradizioni differenti; il confronto deve mantenere visibili le rispettive cornici."
-  },
-  {
-    slug: "testo-e-tradizione",
-    title: "Testo fondativo e memoria di una tradizione",
-    entries: ["dialoghi", "confucio"],
-    question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
-    methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
-  },
-  {
-    slug: "nagarjuna-madhyamaka",
-    title: "Autore, argomentazione e scuola",
-    entries: ["nagarjuna", "madhyamaka"],
-    question: "Come si passa dagli argomenti di un autore alla formazione di una tradizione filosofica articolata?",
-    methodNote: "La scuola Madhyamaka comprende commentatori e sviluppi regionali: non ogni tesi successiva può essere attribuita direttamente a Nāgārjuna."
-  },
-  {
-    slug: "dharma-e-virtu",
-    title: "Dharma e virtù: norme, condotta e contesto",
-    entries: ["dharma", "virtu"],
-    question: "Come si articolano dovere, condotta appropriata ed eccellenza morale nelle diverse tradizioni?",
-    methodNote: "Dharma è un termine polisemico nelle tradizioni indiane; virtù traduce famiglie concettuali greche e cinesi non equivalenti. Occorre sempre specificare testo e contesto."
-  },
-  {
-    slug: "aristotele-avicenna",
-    title: "Aristotele nella filosofia di Avicenna",
-    entries: ["aristotele", "avicenna"],
-    question: "Come viene trasformato un lessico filosofico quando è tradotto, commentato e inserito in un nuovo sistema?",
-    methodNote: "Qui il confronto include una storia documentabile di ricezione, ma Avicenna non è un semplice ripetitore di Aristotele: rielabora problemi e soluzioni."
-  },
-  {
-    slug: "stoicismo-logos",
-    title: "Logos, natura e ordine cosmico",
-    entries: ["stoicismo", "logos"],
-    question: "Quale funzione assume il logos quando diventa principio di intelligibilità e ordine del cosmo?",
-    methodNote: "Le formulazioni stoiche sono specifiche e vanno distinte dagli usi presocratici, platonici e aristotelici del termine."
-  },
-  {
-    slug: "eta-assiale-comparazione",
-    title: "L'età assiale come problema di comparazione",
-    entries: ["eta-assiale", "confucio", "nagarjuna"],
-    question: "Quali criteri rendono confrontabili trasformazioni intellettuali collocate in regioni e secoli differenti?",
-    methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
-  },
-
-,
   {"slug":"porfirio","id":"AUT-000351","kind":"autore","title":"Porfirio","subtitle":"Porfirio: contesto, opere e problemi filosofici","area":"Tarda antichità greca","period":"III secolo","summary":"Porfirio è una figura di riferimento per tarda antichità greca. La sua opera Isagoge permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III secolo, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Porfirio è una figura di riferimento per tarda antichità greca. La sua opera Isagoge permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III secolo, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Isagoge richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Isagoge. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Porfirio è una figura di riferimento per tarda antichità greca. La sua opera Isagoge permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III secolo, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Porfirio."],"tags":["Tarda antichità greca","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Porfirio, Isagoge.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Porfirio.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Isagoge","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"III secolo","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"giamblico","id":"AUT-000352","kind":"autore","title":"Giamblico","subtitle":"Giamblico: contesto, opere e problemi filosofici","area":"Neoplatonismo siriaco","period":"III–IV secolo","summary":"Giamblico è una figura di riferimento per neoplatonismo siriaco. La sua opera I misteri degli Egizi permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III–IV secolo, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Giamblico è una figura di riferimento per neoplatonismo siriaco. La sua opera I misteri degli Egizi permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III–IV secolo, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di I misteri degli Egizi richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è I misteri degli Egizi. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Giamblico è una figura di riferimento per neoplatonismo siriaco. La sua opera I misteri degli Egizi permette di ricostruire problemi, lessico e pratiche intellettuali del periodo III–IV secolo, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Giamblico."],"tags":["Neoplatonismo siriaco","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Giamblico, I misteri degli Egizi.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Giamblico.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"I misteri degli Egizi","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"III–IV secolo","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"proclo","id":"AUT-000353","kind":"autore","title":"Proclo","subtitle":"Proclo: contesto, opere e problemi filosofici","area":"Neoplatonismo ateniese","period":"V secolo","summary":"Proclo è una figura di riferimento per neoplatonismo ateniese. La sua opera Elementi di teologia permette di ricostruire problemi, lessico e pratiche intellettuali del periodo V secolo, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Proclo è una figura di riferimento per neoplatonismo ateniese. La sua opera Elementi di teologia permette di ricostruire problemi, lessico e pratiche intellettuali del periodo V secolo, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Elementi di teologia richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Elementi di teologia. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Proclo è una figura di riferimento per neoplatonismo ateniese. La sua opera Elementi di teologia permette di ricostruire problemi, lessico e pratiche intellettuali del periodo V secolo, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Proclo."],"tags":["Neoplatonismo ateniese","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Proclo, Elementi di teologia.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Proclo.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Elementi di teologia","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"V secolo","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
@@ -604,6 +516,93 @@ export const comparativePaths: ComparativePath[] = [
   {"slug":"leopold-sedar-senghor","id":"AUT-000448","kind":"autore","title":"Léopold Sédar Senghor","subtitle":"Léopold Sédar Senghor: contesto, opere e problemi filosofici","area":"Pensiero africano","period":"1906–2001","summary":"Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Négritude e umanesimo richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Négritude e umanesimo. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Léopold Sédar Senghor."],"tags":["Pensiero africano","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Léopold Sédar Senghor, Négritude e umanesimo.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Léopold Sédar Senghor.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Négritude e umanesimo","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1906–2001","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"huang-zongxi","id":"AUT-000449","kind":"autore","title":"Huang Zongxi","subtitle":"Huang Zongxi: contesto, opere e problemi filosofici","area":"Filosofia cinese moderna","period":"1610–1695","summary":"Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Il piano per il principe in attesa richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Il piano per il principe in attesa. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Huang Zongxi."],"tags":["Filosofia cinese moderna","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Huang Zongxi, Il piano per il principe in attesa.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Huang Zongxi.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Il piano per il principe in attesa","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1610–1695","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"wang-fuzhi","id":"AUT-000450","kind":"autore","title":"Wang Fuzhi","subtitle":"Wang Fuzhi: contesto, opere e problemi filosofici","area":"Filosofia cinese moderna","period":"1619–1692","summary":"Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Commentari ai classici richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Commentari ai classici. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Wang Fuzhi."],"tags":["Filosofia cinese moderna","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Wang Fuzhi, Commentari ai classici.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Wang Fuzhi.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Commentari ai classici","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1619–1692","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"}
+ ];
+
+
+export interface ComparativePath {
+  slug: string;
+  title: string;
+  entries: string[];
+  question: string;
+  methodNote: string;
+}
+
+/**
+ * Percorsi comparativi trasversali. Le connessioni indicano problemi da
+ * mettere a confronto, non equivalenze concettuali né influenze automatiche.
+ */
+export const comparativePaths: ComparativePath[] = [
+  {
+    slug: "dialogo-e-sistema",
+    title: "Dialogo, trattato e costruzione del sapere",
+    entries: ["platone", "aristotele"],
+    question: "In che modo la forma letteraria condiziona ciò che possiamo ricostruire di una filosofia?",
+    methodNote: "Il dialogo platonico e i trattati aristotelici appartengono a generi e storie di trasmissione differenti: non sono due semplici stili espositivi intercambiabili."
+  },
+  {
+    slug: "ordine-e-spontaneita",
+    title: "Rito, formazione e spontaneità",
+    entries: ["confucio", "laozi"],
+    question: "L'ordine umano nasce soprattutto dall'educazione rituale o da una riduzione dell'intervento artificiale?",
+    methodNote: "Il confronto riguarda testi e orientamenti della Cina antica; non autorizza a ridurre confucianesimo e daoismo a due blocchi uniformi o sempre contrapposti."
+  },
+  {
+    slug: "dao-e-logos",
+    title: "Dao e logos: linguaggio e principio",
+    entries: ["dao", "logos"],
+    question: "Come vengono pensati il principio, l'ordine e i limiti del linguaggio in contesti culturali differenti?",
+    methodNote: "Dao e logos hanno storie semantiche non sovrapponibili. Le analogie sono strumenti euristici e non dimostrano contatti o derivazioni."
+  },
+  {
+    slug: "essere-e-vacuita",
+    title: "Essere, dipendenza e vacuità",
+    entries: ["essere", "sunyata"],
+    question: "Che cosa presupponiamo quando diciamo che qualcosa è, esiste o possiede una natura propria?",
+    methodNote: "Il lessico ontologico greco e l'analisi buddhista della vacuità nascono da problemi e tradizioni differenti; il confronto deve mantenere visibili le rispettive cornici."
+  },
+  {
+    slug: "testo-e-tradizione",
+    title: "Testo fondativo e memoria di una tradizione",
+    entries: ["dialoghi", "confucio"],
+    question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
+    methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
+  },
+  {
+    slug: "nagarjuna-madhyamaka",
+    title: "Autore, argomentazione e scuola",
+    entries: ["nagarjuna", "madhyamaka"],
+    question: "Come si passa dagli argomenti di un autore alla formazione di una tradizione filosofica articolata?",
+    methodNote: "La scuola Madhyamaka comprende commentatori e sviluppi regionali: non ogni tesi successiva può essere attribuita direttamente a Nāgārjuna."
+  },
+  {
+    slug: "dharma-e-virtu",
+    title: "Dharma e virtù: norme, condotta e contesto",
+    entries: ["dharma", "virtu"],
+    question: "Come si articolano dovere, condotta appropriata ed eccellenza morale nelle diverse tradizioni?",
+    methodNote: "Dharma è un termine polisemico nelle tradizioni indiane; virtù traduce famiglie concettuali greche e cinesi non equivalenti. Occorre sempre specificare testo e contesto."
+  },
+  {
+    slug: "aristotele-avicenna",
+    title: "Aristotele nella filosofia di Avicenna",
+    entries: ["aristotele", "avicenna"],
+    question: "Come viene trasformato un lessico filosofico quando è tradotto, commentato e inserito in un nuovo sistema?",
+    methodNote: "Qui il confronto include una storia documentabile di ricezione, ma Avicenna non è un semplice ripetitore di Aristotele: rielabora problemi e soluzioni."
+  },
+  {
+    slug: "stoicismo-logos",
+    title: "Logos, natura e ordine cosmico",
+    entries: ["stoicismo", "logos"],
+    question: "Quale funzione assume il logos quando diventa principio di intelligibilità e ordine del cosmo?",
+    methodNote: "Le formulazioni stoiche sono specifiche e vanno distinte dagli usi presocratici, platonici e aristotelici del termine."
+  },
+  {
+    slug: "eta-assiale-comparazione",
+    title: "L'età assiale come problema di comparazione",
+    entries: ["eta-assiale", "confucio", "nagarjuna"],
+    question: "Quali criteri rendono confrontabili trasformazioni intellettuali collocate in regioni e secoli differenti?",
+    methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
+  },
+
 ];
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
