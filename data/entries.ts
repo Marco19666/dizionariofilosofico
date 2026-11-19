@@ -12038,6 +12038,3307 @@ export const comparativePaths: ComparativePath[] = [
   },
 
 
+  {
+    "slug": "problema-induzione",
+    "id": "CON-000254",
+    "kind": "concetto",
+    "title": "Problema dell'induzione",
+    "subtitle": "Problema della giustificazione delle inferenze da casi osservati a casi non osservati o futuri.",
+    "area": "Epistemologia",
+    "period": "Età moderna–XXI secolo",
+    "summary": "Problema della giustificazione delle inferenze da casi osservati a casi non osservati o futuri.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Problema della giustificazione delle inferenze da casi osservati a casi non osservati o futuri.",
+          "Hume mostra che la regolarità passata non implica logicamente la sua continuazione; ogni tentativo di giustificare l'induzione mediante l'esperienza sembra presupporre ciò che deve dimostrare."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le risposte includono giustificazioni pragmatiche, probabilistiche e naturalistiche, nessuna delle quali elimina tutte le controversie.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Hume mostra che la regolarità passata non implica logicamente la sua continuazione; ogni tentativo di giustificare l'induzione mediante l'esperienza sembra presupporre ciò che deve dimostrare.",
+      "Le risposte includono giustificazioni pragmatiche, probabilistiche e naturalistiche, nessuna delle quali elimina tutte le controversie."
+    ],
+    "tags": [
+      "epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Problema dell'induzione",
+        "explanation": "Problema della giustificazione delle inferenze da casi osservati a casi non osservati o futuri."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le risposte includono giustificazioni pragmatiche, probabilistiche e naturalistiche, nessuna delle quali elimina tutte le controversie."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "olismo-semantico",
+    "id": "CON-000255",
+    "kind": "concetto",
+    "title": "Olismo semantico",
+    "subtitle": "Tesi secondo cui il significato di un'espressione dipende dalle relazioni che intrattiene con altre espressioni all'interno di una lingua o di una teoria.",
+    "area": "Filosofia del linguaggio",
+    "period": "XX secolo",
+    "summary": "Tesi secondo cui il significato di un'espressione dipende dalle relazioni che intrattiene con altre espressioni all'interno di una lingua o di una teoria.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi secondo cui il significato di un'espressione dipende dalle relazioni che intrattiene con altre espressioni all'interno di una lingua o di una teoria.",
+          "Il significato non è sempre determinabile isolando una parola: inferenze, pratiche e impegni teorici contribuiscono alla sua funzione."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le versioni differiscono sul grado di interdipendenza e sulle conseguenze per traduzione, apprendimento e cambiamento concettuale.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia del linguaggio. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il significato non è sempre determinabile isolando una parola: inferenze, pratiche e impegni teorici contribuiscono alla sua funzione.",
+      "Le versioni differiscono sul grado di interdipendenza e sulle conseguenze per traduzione, apprendimento e cambiamento concettuale."
+    ],
+    "tags": [
+      "filosofia-del-linguaggio",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Olismo semantico",
+        "explanation": "Tesi secondo cui il significato di un'espressione dipende dalle relazioni che intrattiene con altre espressioni all'interno di una lingua o di una teoria."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le versioni differiscono sul grado di interdipendenza e sulle conseguenze per traduzione, apprendimento e cambiamento concettuale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "monismo-anomalistico",
+    "id": "CON-000256",
+    "kind": "concetto",
+    "title": "Monismo anomalistico",
+    "subtitle": "Tesi di Donald Davidson secondo cui gli eventi mentali sono eventi fisici, pur non essendo governati da leggi psicofisiche strette.",
+    "area": "Filosofia della mente",
+    "period": "1970–oggi",
+    "summary": "Tesi di Donald Davidson secondo cui gli eventi mentali sono eventi fisici, pur non essendo governati da leggi psicofisiche strette.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi di Donald Davidson secondo cui gli eventi mentali sono eventi fisici, pur non essendo governati da leggi psicofisiche strette.",
+          "Il monismo preserva l'identità degli eventi e insieme l'autonomia descrittiva delle spiegazioni mentali, organizzate da criteri normativi e razionali."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il dibattito riguarda la compatibilità tra causalità fisica, spiegazione delle ragioni e assenza di leggi psicofisiche rigorose.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della mente. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il monismo preserva l'identità degli eventi e insieme l'autonomia descrittiva delle spiegazioni mentali, organizzate da criteri normativi e razionali.",
+      "Il dibattito riguarda la compatibilità tra causalità fisica, spiegazione delle ragioni e assenza di leggi psicofisiche rigorose."
+    ],
+    "tags": [
+      "filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Monismo anomalistico",
+        "explanation": "Tesi di Donald Davidson secondo cui gli eventi mentali sono eventi fisici, pur non essendo governati da leggi psicofisiche strette."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il dibattito riguarda la compatibilità tra causalità fisica, spiegazione delle ragioni e assenza di leggi psicofisiche rigorose."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "teoria-identita-mente-cervello",
+    "id": "CON-000257",
+    "kind": "concetto",
+    "title": "Teoria dell'identità mente-cervello",
+    "subtitle": "Posizione materialista secondo cui stati o processi mentali sono identici a stati o processi cerebrali, non semplicemente correlati ad essi.",
+    "area": "Filosofia della mente",
+    "period": "XX secolo",
+    "summary": "Posizione materialista secondo cui stati o processi mentali sono identici a stati o processi cerebrali, non semplicemente correlati ad essi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Posizione materialista secondo cui stati o processi mentali sono identici a stati o processi cerebrali, non semplicemente correlati ad essi.",
+          "Le teorie dell'identità cercano di integrare la mente nella descrizione scientifica della natura e si confrontano con i risultati delle neuroscienze."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le obiezioni riguardano realizzabilità multipla, esperienza soggettiva e differenze tra descrizioni mentali e neurobiologiche.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della mente. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie dell'identità cercano di integrare la mente nella descrizione scientifica della natura e si confrontano con i risultati delle neuroscienze.",
+      "Le obiezioni riguardano realizzabilità multipla, esperienza soggettiva e differenze tra descrizioni mentali e neurobiologiche."
+    ],
+    "tags": [
+      "filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Teoria dell'identità mente-cervello",
+        "explanation": "Posizione materialista secondo cui stati o processi mentali sono identici a stati o processi cerebrali, non semplicemente correlati ad essi."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le obiezioni riguardano realizzabilità multipla, esperienza soggettiva e differenze tra descrizioni mentali e neurobiologiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "sottodeterminazione-teoria-dati",
+    "id": "CON-000258",
+    "kind": "concetto",
+    "title": "Sottodeterminazione della teoria rispetto ai dati",
+    "subtitle": "Un insieme finito di osservazioni può risultare compatibile con più teorie differenti; i dati non determinano sempre una spiegazione unica.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "Novecento",
+    "summary": "Un insieme finito di osservazioni può risultare compatibile con più teorie differenti; i dati non determinano sempre una spiegazione unica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Un insieme finito di osservazioni può risultare compatibile con più teorie differenti; i dati non determinano sempre una spiegazione unica.",
+          "La sottodeterminazione può coinvolgere ipotesi ausiliarie, strumenti e criteri di interpretazione, non soltanto la teoria principale."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La pluralità non rende tutte le teorie equivalenti: coerenza, semplicità, potere predittivo e nuove prove orientano la scelta.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia e filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La sottodeterminazione può coinvolgere ipotesi ausiliarie, strumenti e criteri di interpretazione, non soltanto la teoria principale.",
+      "La pluralità non rende tutte le teorie equivalenti: coerenza, semplicità, potere predittivo e nuove prove orientano la scelta."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Sottodeterminazione della teoria rispetto ai dati",
+        "explanation": "Un insieme finito di osservazioni può risultare compatibile con più teorie differenti; i dati non determinano sempre una spiegazione unica."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La pluralità non rende tutte le teorie equivalenti: coerenza, semplicità, potere predittivo e nuove prove orientano la scelta."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "antirealismo-scientifico",
+    "id": "CON-000259",
+    "kind": "concetto",
+    "title": "Antirealismo scientifico",
+    "subtitle": "Famiglia di posizioni che limita l'impegno realistico verso entità e strutture non osservabili postulate dalle teorie.",
+    "area": "Filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Famiglia di posizioni che limita l'impegno realistico verso entità e strutture non osservabili postulate dalle teorie.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Famiglia di posizioni che limita l'impegno realistico verso entità e strutture non osservabili postulate dalle teorie.",
+          "Alcune versioni interpretano le teorie come strumenti predittivi; altre accettano la verità sugli osservabili senza impegnarsi sull'intera ontologia teorica."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Non coincide con il rifiuto della scienza: il dibattito riguarda la portata ontologica del successo empirico.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Alcune versioni interpretano le teorie come strumenti predittivi; altre accettano la verità sugli osservabili senza impegnarsi sull'intera ontologia teorica.",
+      "Non coincide con il rifiuto della scienza: il dibattito riguarda la portata ontologica del successo empirico."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Antirealismo scientifico",
+        "explanation": "Famiglia di posizioni che limita l'impegno realistico verso entità e strutture non osservabili postulate dalle teorie."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Non coincide con il rifiuto della scienza: il dibattito riguarda la portata ontologica del successo empirico."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "strumentalismo",
+    "id": "CON-000260",
+    "kind": "concetto",
+    "title": "Strumentalismo",
+    "subtitle": "Concezione che valuta le teorie soprattutto come strumenti per organizzare osservazioni, formulare previsioni e intervenire sui fenomeni.",
+    "area": "Filosofia della scienza",
+    "period": "Età moderna e contemporanea",
+    "summary": "Concezione che valuta le teorie soprattutto come strumenti per organizzare osservazioni, formulare previsioni e intervenire sui fenomeni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Concezione che valuta le teorie soprattutto come strumenti per organizzare osservazioni, formulare previsioni e intervenire sui fenomeni.",
+          "Lo strumentalismo mette in primo piano l'efficacia operativa dei modelli e la loro capacità di coordinare esperimenti e calcoli."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La critica realista osserva che spiegazione e unificazione sembrano richiedere più della previsione.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Lo strumentalismo mette in primo piano l'efficacia operativa dei modelli e la loro capacità di coordinare esperimenti e calcoli.",
+      "La critica realista osserva che spiegazione e unificazione sembrano richiedere più della previsione."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Strumentalismo",
+        "explanation": "Concezione che valuta le teorie soprattutto come strumenti per organizzare osservazioni, formulare previsioni e intervenire sui fenomeni."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La critica realista osserva che spiegazione e unificazione sembrano richiedere più della previsione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "empirismo-costruttivo",
+    "id": "CON-000261",
+    "kind": "concetto",
+    "title": "Empirismo costruttivo",
+    "subtitle": "Posizione di Bas van Fraassen secondo cui l'obiettivo della scienza è l'adeguatezza empirica delle teorie, non necessariamente la verità sugli inosservabili.",
+    "area": "Filosofia della scienza",
+    "period": "1980–oggi",
+    "summary": "Posizione di Bas van Fraassen secondo cui l'obiettivo della scienza è l'adeguatezza empirica delle teorie, non necessariamente la verità sugli inosservabili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Posizione di Bas van Fraassen secondo cui l'obiettivo della scienza è l'adeguatezza empirica delle teorie, non necessariamente la verità sugli inosservabili.",
+          "Accettare una teoria significa usarla e riconoscerne l'adeguatezza rispetto ai fenomeni osservabili, senza credere in ogni entità postulata."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La distinzione tra osservabile e inosservabile è centrale e discussa; non comporta la negazione degli inosservabili.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Accettare una teoria significa usarla e riconoscerne l'adeguatezza rispetto ai fenomeni osservabili, senza credere in ogni entità postulata.",
+      "La distinzione tra osservabile e inosservabile è centrale e discussa; non comporta la negazione degli inosservabili."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Empirismo costruttivo",
+        "explanation": "Posizione di Bas van Fraassen secondo cui l'obiettivo della scienza è l'adeguatezza empirica delle teorie, non necessariamente la verità sugli inosservabili."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La distinzione tra osservabile e inosservabile è centrale e discussa; non comporta la negazione degli inosservabili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "inferenza-migliore-spiegazione",
+    "id": "CON-000262",
+    "kind": "concetto",
+    "title": "Inferenza alla migliore spiegazione",
+    "subtitle": "Inferenza ampliativa che preferisce, tra spiegazioni disponibili, quella che rende meglio conto delle prove per semplicità, unificazione e potere esplicativo.",
+    "area": "Epistemologia",
+    "period": "XX secolo",
+    "summary": "Inferenza ampliativa che preferisce, tra spiegazioni disponibili, quella che rende meglio conto delle prove per semplicità, unificazione e potere esplicativo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Inferenza ampliativa che preferisce, tra spiegazioni disponibili, quella che rende meglio conto delle prove per semplicità, unificazione e potere esplicativo.",
+          "La conclusione non è dedotta necessariamente, ma proposta come ipotesi più plausibile tra le alternative considerate."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il problema è stabilire se le virtù esplicative siano indicatori di verità o soltanto qualità pragmatiche.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La conclusione non è dedotta necessariamente, ma proposta come ipotesi più plausibile tra le alternative considerate.",
+      "Il problema è stabilire se le virtù esplicative siano indicatori di verità o soltanto qualità pragmatiche."
+    ],
+    "tags": [
+      "epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Inferenza alla migliore spiegazione",
+        "explanation": "Inferenza ampliativa che preferisce, tra spiegazioni disponibili, quella che rende meglio conto delle prove per semplicità, unificazione e potere esplicativo."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il problema è stabilire se le virtù esplicative siano indicatori di verità o soltanto qualità pragmatiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "abduzione",
+    "id": "CON-000263",
+    "kind": "concetto",
+    "title": "Abduzione",
+    "subtitle": "Ragionamento che formula un'ipotesi capace di spiegare un fatto sorprendente, associato in particolare a Charles S.",
+    "area": "Logica e epistemologia",
+    "period": "XIX–XXI secolo",
+    "summary": "Ragionamento che formula un'ipotesi capace di spiegare un fatto sorprendente, associato in particolare a Charles S. Peirce.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Ragionamento che formula un'ipotesi capace di spiegare un fatto sorprendente, associato in particolare a Charles S. Peirce.",
+          "L'abduzione propone una spiegazione possibile e avvia un'indagine, a differenza della deduzione che conserva la verità."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "L'ipotesi abduttiva deve produrre conseguenze controllabili ed essere sottoposta a verifiche.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della logica e epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'abduzione propone una spiegazione possibile e avvia un'indagine, a differenza della deduzione che conserva la verità.",
+      "L'ipotesi abduttiva deve produrre conseguenze controllabili ed essere sottoposta a verifiche."
+    ],
+    "tags": [
+      "logica-e-epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Abduzione",
+        "explanation": "Ragionamento che formula un'ipotesi capace di spiegare un fatto sorprendente, associato in particolare a Charles S."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "L'ipotesi abduttiva deve produrre conseguenze controllabili ed essere sottoposta a verifiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "conferma-bayesiana",
+    "id": "CON-000264",
+    "kind": "concetto",
+    "title": "Conferma bayesiana",
+    "subtitle": "Approccio che rappresenta l'aggiornamento delle credenze mediante il teorema di Bayes, combinando probabilità iniziali e verosimiglianza delle prove.",
+    "area": "Epistemologia formale",
+    "period": "XX–XXI secolo",
+    "summary": "Approccio che rappresenta l'aggiornamento delle credenze mediante il teorema di Bayes, combinando probabilità iniziali e verosimiglianza delle prove.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Approccio che rappresenta l'aggiornamento delle credenze mediante il teorema di Bayes, combinando probabilità iniziali e verosimiglianza delle prove.",
+          "Una prova conferma un'ipotesi quando risulta più attesa se l'ipotesi è vera che se è falsa."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il metodo rende esplicite le assunzioni, ma non elimina il dissenso sui prior e sulla formulazione dei modelli.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia formale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Una prova conferma un'ipotesi quando risulta più attesa se l'ipotesi è vera che se è falsa.",
+      "Il metodo rende esplicite le assunzioni, ma non elimina il dissenso sui prior e sulla formulazione dei modelli."
+    ],
+    "tags": [
+      "epistemologia-formale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Conferma bayesiana",
+        "explanation": "Approccio che rappresenta l'aggiornamento delle credenze mediante il teorema di Bayes, combinando probabilità iniziali e verosimiglianza delle prove."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il metodo rende esplicite le assunzioni, ma non elimina il dissenso sui prior e sulla formulazione dei modelli."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "probabilita-epistemica",
+    "id": "CON-000265",
+    "kind": "concetto",
+    "title": "Probabilità epistemica",
+    "subtitle": "Grado di credibilità razionale attribuito a una proposizione in relazione alle informazioni disponibili, distinto dalla frequenza statistica.",
+    "area": "Epistemologia",
+    "period": "Età moderna–contemporanea",
+    "summary": "Grado di credibilità razionale attribuito a una proposizione in relazione alle informazioni disponibili, distinto dalla frequenza statistica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Grado di credibilità razionale attribuito a una proposizione in relazione alle informazioni disponibili, distinto dalla frequenza statistica.",
+          "Misura quanto sia ragionevole credere una tesi date le prove, anche senza una classe di eventi ripetibili."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni soggettive, logiche e oggettive divergono sui fondamenti dei valori assegnati.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Misura quanto sia ragionevole credere una tesi date le prove, anche senza una classe di eventi ripetibili.",
+      "Le interpretazioni soggettive, logiche e oggettive divergono sui fondamenti dei valori assegnati."
+    ],
+    "tags": [
+      "epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Probabilità epistemica",
+        "explanation": "Grado di credibilità razionale attribuito a una proposizione in relazione alle informazioni disponibili, distinto dalla frequenza statistica."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le interpretazioni soggettive, logiche e oggettive divergono sui fondamenti dei valori assegnati."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "problema-duhem-quine",
+    "id": "CON-000266",
+    "kind": "concetto",
+    "title": "Problema di Duhem–Quine",
+    "subtitle": "Un'ipotesi scientifica viene controllata insieme a teorie ausiliarie, condizioni iniziali e assunzioni strumentali.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Un'ipotesi scientifica viene controllata insieme a teorie ausiliarie, condizioni iniziali e assunzioni strumentali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Un'ipotesi scientifica viene controllata insieme a teorie ausiliarie, condizioni iniziali e assunzioni strumentali.",
+          "Duhem analizzò gli esperimenti fisici; Quine estese il problema alla rete complessiva delle credenze."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Una prova contraria non indica automaticamente quale componente abbandonare: la revisione richiede giudizi sull'intero sistema.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Duhem analizzò gli esperimenti fisici; Quine estese il problema alla rete complessiva delle credenze.",
+      "Una prova contraria non indica automaticamente quale componente abbandonare: la revisione richiede giudizi sull'intero sistema."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Problema di Duhem–Quine",
+        "explanation": "Un'ipotesi scientifica viene controllata insieme a teorie ausiliarie, condizioni iniziali e assunzioni strumentali."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Una prova contraria non indica automaticamente quale componente abbandonare: la revisione richiede giudizi sull'intero sistema."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "carico-teorico-osservazione",
+    "id": "CON-000267",
+    "kind": "concetto",
+    "title": "Carico teorico dell'osservazione",
+    "subtitle": "Osservare scientificamente non è un atto completamente neutrale: concetti, strumenti e aspettative influenzano ciò che viene riconosciuto come dato.",
+    "area": "Filosofia della scienza",
+    "period": "Novecento",
+    "summary": "Osservare scientificamente non è un atto completamente neutrale: concetti, strumenti e aspettative influenzano ciò che viene riconosciuto come dato.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Osservare scientificamente non è un atto completamente neutrale: concetti, strumenti e aspettative influenzano ciò che viene riconosciuto come dato.",
+          "La lettura di un'immagine strumentale presuppone competenze e categorie apprese; i dati sono prodotti in pratiche organizzate."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il carico teorico non rende arbitraria ogni osservazione: calibrazione, replicazione e confronto intersoggettivo possono correggere distorsioni.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La lettura di un'immagine strumentale presuppone competenze e categorie apprese; i dati sono prodotti in pratiche organizzate.",
+      "Il carico teorico non rende arbitraria ogni osservazione: calibrazione, replicazione e confronto intersoggettivo possono correggere distorsioni."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Carico teorico dell'osservazione",
+        "explanation": "Osservare scientificamente non è un atto completamente neutrale: concetti, strumenti e aspettative influenzano ciò che viene riconosciuto come dato."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il carico teorico non rende arbitraria ogni osservazione: calibrazione, replicazione e confronto intersoggettivo possono correggere distorsioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "scienza-normale",
+    "id": "CON-000268",
+    "kind": "concetto",
+    "title": "Scienza normale",
+    "subtitle": "Attività di ricerca svolta entro un paradigma condiviso, orientata a risolvere rompicapi senza rimettere continuamente in discussione i presupposti fondamentali.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Attività di ricerca svolta entro un paradigma condiviso, orientata a risolvere rompicapi senza rimettere continuamente in discussione i presupposti fondamentali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Attività di ricerca svolta entro un paradigma condiviso, orientata a risolvere rompicapi senza rimettere continuamente in discussione i presupposti fondamentali.",
+          "Per Thomas S. Kuhn è essenziale alla ricerca perché stabilizza strumenti, problemi esemplari e criteri di soluzione."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le anomalie possono accumularsi e acquistare significato critico in condizioni storiche determinate.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Per Thomas S. Kuhn è essenziale alla ricerca perché stabilizza strumenti, problemi esemplari e criteri di soluzione.",
+      "Le anomalie possono accumularsi e acquistare significato critico in condizioni storiche determinate."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Scienza normale",
+        "explanation": "Attività di ricerca svolta entro un paradigma condiviso, orientata a risolvere rompicapi senza rimettere continuamente in discussione i presupposti fondamentali."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le anomalie possono accumularsi e acquistare significato critico in condizioni storiche determinate."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "rivoluzione-scientifica",
+    "id": "CON-000269",
+    "kind": "concetto",
+    "title": "Rivoluzione scientifica",
+    "subtitle": "Trasformazione profonda di concetti, metodi e problemi che riorganizza una disciplina e modifica il quadro interpretativo dei fenomeni.",
+    "area": "Filosofia e storia della scienza",
+    "period": "Età moderna; modello novecentesco",
+    "summary": "Trasformazione profonda di concetti, metodi e problemi che riorganizza una disciplina e modifica il quadro interpretativo dei fenomeni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Trasformazione profonda di concetti, metodi e problemi che riorganizza una disciplina e modifica il quadro interpretativo dei fenomeni.",
+          "La categoria è stata resa influente da Kuhn, ma si applica anche a processi storici lunghi e disomogenei."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Non ogni innovazione è una rivoluzione: occorre identificare continuità, rotture, istituzioni e pratiche sperimentali.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia e storia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La categoria è stata resa influente da Kuhn, ma si applica anche a processi storici lunghi e disomogenei.",
+      "Non ogni innovazione è una rivoluzione: occorre identificare continuità, rotture, istituzioni e pratiche sperimentali."
+    ],
+    "tags": [
+      "filosofia-e-storia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Rivoluzione scientifica",
+        "explanation": "Trasformazione profonda di concetti, metodi e problemi che riorganizza una disciplina e modifica il quadro interpretativo dei fenomeni."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Non ogni innovazione è una rivoluzione: occorre identificare continuità, rotture, istituzioni e pratiche sperimentali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "anarchismo-epistemologico",
+    "id": "CON-000270",
+    "kind": "concetto",
+    "title": "Anarchismo epistemologico",
+    "subtitle": "Critica di Paul Feyerabend all'idea che un metodo scientifico universale e invariabile possa descrivere ogni progresso della conoscenza.",
+    "area": "Filosofia della scienza",
+    "period": "Seconda metà del Novecento",
+    "summary": "Critica di Paul Feyerabend all'idea che un metodo scientifico universale e invariabile possa descrivere ogni progresso della conoscenza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Critica di Paul Feyerabend all'idea che un metodo scientifico universale e invariabile possa descrivere ogni progresso della conoscenza.",
+          "Feyerabend sottolinea la pluralità storica delle pratiche e il ruolo talvolta fecondo di procedure non convenzionali."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La formula anything goes è una provocazione contro il dogmatismo metodologico, non una licenza per credere qualsiasi cosa.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Feyerabend sottolinea la pluralità storica delle pratiche e il ruolo talvolta fecondo di procedure non convenzionali.",
+      "La formula anything goes è una provocazione contro il dogmatismo metodologico, non una licenza per credere qualsiasi cosa."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Anarchismo epistemologico",
+        "explanation": "Critica di Paul Feyerabend all'idea che un metodo scientifico universale e invariabile possa descrivere ogni progresso della conoscenza."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La formula anything goes è una provocazione contro il dogmatismo metodologico, non una licenza per credere qualsiasi cosa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "programma-ricerca-scientifico",
+    "id": "CON-000271",
+    "kind": "concetto",
+    "title": "Programma di ricerca scientifico",
+    "subtitle": "Unità di valutazione di Imre Lakatos, composta da un nucleo teorico e da ipotesi ausiliarie modificabili.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Unità di valutazione di Imre Lakatos, composta da un nucleo teorico e da ipotesi ausiliarie modificabili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Unità di valutazione di Imre Lakatos, composta da un nucleo teorico e da ipotesi ausiliarie modificabili.",
+          "Un programma è progressivo quando le modifiche producono contenuti empirici nuovi e corroborati; degenerativo quando sono soltanto difensive."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La valutazione è storica e comparativa: un singolo successo non basta a giudicare un programma.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Un programma è progressivo quando le modifiche producono contenuti empirici nuovi e corroborati; degenerativo quando sono soltanto difensive.",
+      "La valutazione è storica e comparativa: un singolo successo non basta a giudicare un programma."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Programma di ricerca scientifico",
+        "explanation": "Unità di valutazione di Imre Lakatos, composta da un nucleo teorico e da ipotesi ausiliarie modificabili."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La valutazione è storica e comparativa: un singolo successo non basta a giudicare un programma."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "demarcazione-scientifica",
+    "id": "CON-000272",
+    "kind": "concetto",
+    "title": "Problema della demarcazione scientifica",
+    "subtitle": "Ricerca di criteri per distinguere la scienza da pseudoscienza e altre forme di discorso, senza presupporre una regola unica.",
+    "area": "Filosofia della scienza",
+    "period": "XIX–XXI secolo",
+    "summary": "Ricerca di criteri per distinguere la scienza da pseudoscienza e altre forme di discorso, senza presupporre una regola unica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Ricerca di criteri per distinguere la scienza da pseudoscienza e altre forme di discorso, senza presupporre una regola unica.",
+          "Popper propose la falsificabilità; altri approcci considerano pratiche, istituzioni e autocorrezione."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il confine è spesso graduale e storicamente mobile: un criterio deve evitare esclusioni arbitrarie e immunizzazioni dalle prove.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Popper propose la falsificabilità; altri approcci considerano pratiche, istituzioni e autocorrezione.",
+      "Il confine è spesso graduale e storicamente mobile: un criterio deve evitare esclusioni arbitrarie e immunizzazioni dalle prove."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Problema della demarcazione scientifica",
+        "explanation": "Ricerca di criteri per distinguere la scienza da pseudoscienza e altre forme di discorso, senza presupporre una regola unica."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il confine è spesso graduale e storicamente mobile: un criterio deve evitare esclusioni arbitrarie e immunizzazioni dalle prove."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "falsificabilita",
+    "id": "CON-000273",
+    "kind": "concetto",
+    "title": "Falsificabilità",
+    "subtitle": "Criterio popperiano secondo cui una teoria empirica deve esporsi alla possibilità di essere smentita da osservazioni concepibili.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Criterio popperiano secondo cui una teoria empirica deve esporsi alla possibilità di essere smentita da osservazioni concepibili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Criterio popperiano secondo cui una teoria empirica deve esporsi alla possibilità di essere smentita da osservazioni concepibili.",
+          "La falsificabilità distingue le teorie controllabili da quelle adattabili a qualsiasi esito senza rischio empirico."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Una singola osservazione non confuta meccanicamente una teoria: i controlli coinvolgono assunzioni ausiliarie.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia e filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La falsificabilità distingue le teorie controllabili da quelle adattabili a qualsiasi esito senza rischio empirico.",
+      "Una singola osservazione non confuta meccanicamente una teoria: i controlli coinvolgono assunzioni ausiliarie."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Falsificabilità",
+        "explanation": "Criterio popperiano secondo cui una teoria empirica deve esporsi alla possibilità di essere smentita da osservazioni concepibili."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Una singola osservazione non confuta meccanicamente una teoria: i controlli coinvolgono assunzioni ausiliarie."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "verificazionismo",
+    "id": "CON-000274",
+    "kind": "concetto",
+    "title": "Verificazionismo",
+    "subtitle": "Orientamento che collega il significato cognitivo di un enunciato alle condizioni della sua verifica empirica.",
+    "area": "Filosofia del linguaggio e della scienza",
+    "period": "Novecento",
+    "summary": "Orientamento che collega il significato cognitivo di un enunciato alle condizioni della sua verifica empirica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Orientamento che collega il significato cognitivo di un enunciato alle condizioni della sua verifica empirica.",
+          "Il principio fu impiegato dal positivismo logico per distinguere enunciati controllabili da proposizioni prive di contenuto fattuale."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le difficoltà riguardano il principio stesso, le leggi universali e gli enunciati teorici.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia del linguaggio e della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il principio fu impiegato dal positivismo logico per distinguere enunciati controllabili da proposizioni prive di contenuto fattuale.",
+      "Le difficoltà riguardano il principio stesso, le leggi universali e gli enunciati teorici."
+    ],
+    "tags": [
+      "filosofia-del-linguaggio-e-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Verificazionismo",
+        "explanation": "Orientamento che collega il significato cognitivo di un enunciato alle condizioni della sua verifica empirica."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le difficoltà riguardano il principio stesso, le leggi universali e gli enunciati teorici."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "positivismo-logico",
+    "id": "CON-000275",
+    "kind": "concetto",
+    "title": "Positivismo logico",
+    "subtitle": "Movimento del Circolo di Vienna, legato a Carnap, Schlick e Neurath, impegnato nella chiarificazione logica del linguaggio scientifico.",
+    "area": "Filosofia contemporanea",
+    "period": "Anni Venti–Quaranta del Novecento",
+    "summary": "Movimento del Circolo di Vienna, legato a Carnap, Schlick e Neurath, impegnato nella chiarificazione logica del linguaggio scientifico.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Movimento del Circolo di Vienna, legato a Carnap, Schlick e Neurath, impegnato nella chiarificazione logica del linguaggio scientifico.",
+          "Il programma univa analisi logica, attenzione all'esperienza e critica della metafisica intesa come discorso privo di funzione cognitiva."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il movimento fu plurale e si trasformò nel confronto con verificazione, probabilità e linguaggio teorico.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia contemporanea. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il programma univa analisi logica, attenzione all'esperienza e critica della metafisica intesa come discorso privo di funzione cognitiva.",
+      "Il movimento fu plurale e si trasformò nel confronto con verificazione, probabilità e linguaggio teorico."
+    ],
+    "tags": [
+      "filosofia-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Positivismo logico",
+        "explanation": "Movimento del Circolo di Vienna, legato a Carnap, Schlick e Neurath, impegnato nella chiarificazione logica del linguaggio scientifico."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il movimento fu plurale e si trasformò nel confronto con verificazione, probabilità e linguaggio teorico."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "olismo-conferma",
+    "id": "CON-000276",
+    "kind": "concetto",
+    "title": "Olismo della conferma",
+    "subtitle": "Tesi secondo cui le prove sostengono o mettono in difficoltà insiemi di ipotesi interconnesse, non sempre proposizioni isolate.",
+    "area": "Epistemologia",
+    "period": "XX secolo",
+    "summary": "Tesi secondo cui le prove sostengono o mettono in difficoltà insiemi di ipotesi interconnesse, non sempre proposizioni isolate.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi secondo cui le prove sostengono o mettono in difficoltà insiemi di ipotesi interconnesse, non sempre proposizioni isolate.",
+          "L'esito sperimentale dipende da teorie di sfondo, strumenti e assunzioni condivise."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La rete delle credenze può essere riorganizzata, ma semplicità, risultati acquisiti e coerenza limitano le revisioni.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'esito sperimentale dipende da teorie di sfondo, strumenti e assunzioni condivise.",
+      "La rete delle credenze può essere riorganizzata, ma semplicità, risultati acquisiti e coerenza limitano le revisioni."
+    ],
+    "tags": [
+      "epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Olismo della conferma",
+        "explanation": "Tesi secondo cui le prove sostengono o mettono in difficoltà insiemi di ipotesi interconnesse, non sempre proposizioni isolate."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La rete delle credenze può essere riorganizzata, ma semplicità, risultati acquisiti e coerenza limitano le revisioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "naturalismo-metodologico",
+    "id": "CON-000277",
+    "kind": "concetto",
+    "title": "Naturalismo metodologico",
+    "subtitle": "Principio secondo cui la ricerca scientifica indaga i fenomeni ricorrendo a cause, regolarità e spiegazioni accessibili all'indagine empirica.",
+    "area": "Filosofia della scienza",
+    "period": "Contemporaneità",
+    "summary": "Principio secondo cui la ricerca scientifica indaga i fenomeni ricorrendo a cause, regolarità e spiegazioni accessibili all'indagine empirica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Principio secondo cui la ricerca scientifica indaga i fenomeni ricorrendo a cause, regolarità e spiegazioni accessibili all'indagine empirica.",
+          "Delimita le procedure della ricerca senza decidere da solo se esista una realtà trascendente."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Va distinto dal naturalismo ontologico: è una regola operativa, non necessariamente una metafisica completa.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Delimita le procedure della ricerca senza decidere da solo se esista una realtà trascendente.",
+      "Va distinto dal naturalismo ontologico: è una regola operativa, non necessariamente una metafisica completa."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Naturalismo metodologico",
+        "explanation": "Principio secondo cui la ricerca scientifica indaga i fenomeni ricorrendo a cause, regolarità e spiegazioni accessibili all'indagine empirica."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Va distinto dal naturalismo ontologico: è una regola operativa, non necessariamente una metafisica completa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "naturalismo-ontologico",
+    "id": "CON-000278",
+    "kind": "concetto",
+    "title": "Naturalismo ontologico",
+    "subtitle": "Posizione secondo cui la realtà è interamente naturale o non richiede entità soprannaturali per essere compresa.",
+    "area": "Metafisica contemporanea",
+    "period": "XIX–XXI secolo",
+    "summary": "Posizione secondo cui la realtà è interamente naturale o non richiede entità soprannaturali per essere compresa.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Posizione secondo cui la realtà è interamente naturale o non richiede entità soprannaturali per essere compresa.",
+          "Le versioni contemporanee cercano continuità tra ontologia filosofica e risultati delle scienze, pur divergendo sul significato di naturale."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il naturalismo deve chiarire il rapporto tra normatività, coscienza, matematica e valori.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica contemporanea. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le versioni contemporanee cercano continuità tra ontologia filosofica e risultati delle scienze, pur divergendo sul significato di naturale.",
+      "Il naturalismo deve chiarire il rapporto tra normatività, coscienza, matematica e valori."
+    ],
+    "tags": [
+      "metafisica-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Naturalismo ontologico",
+        "explanation": "Posizione secondo cui la realtà è interamente naturale o non richiede entità soprannaturali per essere compresa."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il naturalismo deve chiarire il rapporto tra normatività, coscienza, matematica e valori."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "spiegazione-causale",
+    "id": "CON-000279",
+    "kind": "concetto",
+    "title": "Spiegazione causale",
+    "subtitle": "Spiegazione che rende intelligibile un fenomeno individuando fattori che contribuiscono a produrlo o modificarlo.",
+    "area": "Filosofia della scienza",
+    "period": "Età moderna–contemporanea",
+    "summary": "Spiegazione che rende intelligibile un fenomeno individuando fattori che contribuiscono a produrlo o modificarlo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Spiegazione che rende intelligibile un fenomeno individuando fattori che contribuiscono a produrlo o modificarlo.",
+          "Le teorie comprendono regolarità, meccanismi, dipendenze controfattuali e interventi."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Una correlazione non basta a stabilire causalità: occorre considerare direzione, confondenti e condizioni di validità.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie comprendono regolarità, meccanismi, dipendenze controfattuali e interventi.",
+      "Una correlazione non basta a stabilire causalità: occorre considerare direzione, confondenti e condizioni di validità."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Spiegazione causale",
+        "explanation": "Spiegazione che rende intelligibile un fenomeno individuando fattori che contribuiscono a produrlo o modificarlo."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Una correlazione non basta a stabilire causalità: occorre considerare direzione, confondenti e condizioni di validità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "spiegazione-nomologico-deduttiva",
+    "id": "CON-000280",
+    "kind": "concetto",
+    "title": "Spiegazione nomologico-deduttiva",
+    "subtitle": "Modello di Hempel nel quale l'evento da spiegare è dedotto da leggi generali e condizioni iniziali.",
+    "area": "Filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "Modello di Hempel nel quale l'evento da spiegare è dedotto da leggi generali e condizioni iniziali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Modello di Hempel nel quale l'evento da spiegare è dedotto da leggi generali e condizioni iniziali.",
+          "Il modello chiarisce il ruolo della generalizzazione e della struttura inferenziale nella spiegazione."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le obiezioni riguardano asimmetria esplicativa, leggi statistiche e deduzioni che non spiegano ciò che interessa.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il modello chiarisce il ruolo della generalizzazione e della struttura inferenziale nella spiegazione.",
+      "Le obiezioni riguardano asimmetria esplicativa, leggi statistiche e deduzioni che non spiegano ciò che interessa."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Spiegazione nomologico-deduttiva",
+        "explanation": "Modello di Hempel nel quale l'evento da spiegare è dedotto da leggi generali e condizioni iniziali."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le obiezioni riguardano asimmetria esplicativa, leggi statistiche e deduzioni che non spiegano ciò che interessa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "legge-scientifica",
+    "id": "CON-000281",
+    "kind": "concetto",
+    "title": "Legge scientifica",
+    "subtitle": "Enunciato generale che descrive regolarità o relazioni tra fenomeni e svolge un ruolo nella spiegazione e previsione.",
+    "area": "Filosofia della scienza",
+    "period": "Età moderna–contemporanea",
+    "summary": "Enunciato generale che descrive regolarità o relazioni tra fenomeni e svolge un ruolo nella spiegazione e previsione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Enunciato generale che descrive regolarità o relazioni tra fenomeni e svolge un ruolo nella spiegazione e previsione.",
+          "Le concezioni oscillano tra regolarità descrittive, necessità nomologiche e disposizioni delle cose."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Non ogni generalizzazione vera è una legge: idealizzazioni e domini di validità richiedono analisi contestuale.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le concezioni oscillano tra regolarità descrittive, necessità nomologiche e disposizioni delle cose.",
+      "Non ogni generalizzazione vera è una legge: idealizzazioni e domini di validità richiedono analisi contestuale."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Legge scientifica",
+        "explanation": "Enunciato generale che descrive regolarità o relazioni tra fenomeni e svolge un ruolo nella spiegazione e previsione."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Non ogni generalizzazione vera è una legge: idealizzazioni e domini di validità richiedono analisi contestuale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "causalita-probabilistica",
+    "id": "CON-000282",
+    "kind": "concetto",
+    "title": "Causalità probabilistica",
+    "subtitle": "Concezione secondo cui una causa modifica la probabilità di un effetto senza determinarlo invariabilmente.",
+    "area": "Metafisica e filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Concezione secondo cui una causa modifica la probabilità di un effetto senza determinarlo invariabilmente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Concezione secondo cui una causa modifica la probabilità di un effetto senza determinarlo invariabilmente.",
+          "È utile per fenomeni in cui intervengono molte variabili e gli esiti sono stocastici."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Un aumento di probabilità non identifica da solo una causa: occorre controllare confondenti e selezione dei casi.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "È utile per fenomeni in cui intervengono molte variabili e gli esiti sono stocastici.",
+      "Un aumento di probabilità non identifica da solo una causa: occorre controllare confondenti e selezione dei casi."
+    ],
+    "tags": [
+      "metafisica-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Causalità probabilistica",
+        "explanation": "Concezione secondo cui una causa modifica la probabilità di un effetto senza determinarlo invariabilmente."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Un aumento di probabilità non identifica da solo una causa: occorre controllare confondenti e selezione dei casi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "interventismo-causale",
+    "id": "CON-000283",
+    "kind": "concetto",
+    "title": "Interventismo causale",
+    "subtitle": "Teoria che interpreta la causalità attraverso interventi: una variazione isolata di X produce una variazione di Y.",
+    "area": "Filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Teoria che interpreta la causalità attraverso interventi: una variazione isolata di X produce una variazione di Y.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Teoria che interpreta la causalità attraverso interventi: una variazione isolata di X produce una variazione di Y.",
+          "L'approccio, associato a James Woodward, collega spiegazione causale a manipolabilità e invarianti controfattuali."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Gli interventi reali possono essere impossibili o eticamente inammissibili; modelli ed esperimenti naturali ne approssimano le condizioni.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia della scienza. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'approccio, associato a James Woodward, collega spiegazione causale a manipolabilità e invarianti controfattuali.",
+      "Gli interventi reali possono essere impossibili o eticamente inammissibili; modelli ed esperimenti naturali ne approssimano le condizioni."
+    ],
+    "tags": [
+      "filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Interventismo causale",
+        "explanation": "Teoria che interpreta la causalità attraverso interventi: una variazione isolata di X produce una variazione di Y."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Gli interventi reali possono essere impossibili o eticamente inammissibili; modelli ed esperimenti naturali ne approssimano le condizioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "controfattuale",
+    "id": "CON-000284",
+    "kind": "concetto",
+    "title": "Controfattuale",
+    "subtitle": "Enunciato condizionale che descrive ciò che sarebbe accaduto se una condizione diversa si fosse verificata.",
+    "area": "Logica, metafisica ed epistemologia",
+    "period": "Età moderna–contemporanea",
+    "summary": "Enunciato condizionale che descrive ciò che sarebbe accaduto se una condizione diversa si fosse verificata.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Enunciato condizionale che descrive ciò che sarebbe accaduto se una condizione diversa si fosse verificata.",
+          "I controfattuali sono centrali nelle analisi di causalità, responsabilità e possibilità."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La semantica dei mondi possibili e gli approcci causali divergono su come selezionare gli scenari pertinenti.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della logica, metafisica ed epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "I controfattuali sono centrali nelle analisi di causalità, responsabilità e possibilità.",
+      "La semantica dei mondi possibili e gli approcci causali divergono su come selezionare gli scenari pertinenti."
+    ],
+    "tags": [
+      "logica,-metafisica-ed-epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Controfattuale",
+        "explanation": "Enunciato condizionale che descrive ciò che sarebbe accaduto se una condizione diversa si fosse verificata."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La semantica dei mondi possibili e gli approcci causali divergono su come selezionare gli scenari pertinenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "identita-personale",
+    "id": "CON-000285",
+    "kind": "concetto",
+    "title": "Identità personale",
+    "subtitle": "Problema di ciò che rende una persona la stessa nel tempo nonostante mutamenti corporei, psicologici e biografici.",
+    "area": "Metafisica e filosofia della mente",
+    "period": "Antichità–XXI secolo",
+    "summary": "Problema di ciò che rende una persona la stessa nel tempo nonostante mutamenti corporei, psicologici e biografici.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Problema di ciò che rende una persona la stessa nel tempo nonostante mutamenti corporei, psicologici e biografici.",
+          "Le teorie privilegiano continuità del corpo, memoria, coscienza, relazioni psicologiche o criteri narrativi."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Casi di amnesia e duplicazione mostrano che identità numerica e continuità personale non sono sempre equivalenti.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e filosofia della mente. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie privilegiano continuità del corpo, memoria, coscienza, relazioni psicologiche o criteri narrativi.",
+      "Casi di amnesia e duplicazione mostrano che identità numerica e continuità personale non sono sempre equivalenti."
+    ],
+    "tags": [
+      "metafisica-e-filosofia-della-mente",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Identità personale",
+        "explanation": "Problema di ciò che rende una persona la stessa nel tempo nonostante mutamenti corporei, psicologici e biografici."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Casi di amnesia e duplicazione mostrano che identità numerica e continuità personale non sono sempre equivalenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "persistenza-nel-tempo",
+    "id": "CON-000286",
+    "kind": "concetto",
+    "title": "Persistenza nel tempo",
+    "subtitle": "Problema di come gli oggetti continuino a esistere attraverso il cambiamento e restino gli stessi individui.",
+    "area": "Metafisica",
+    "period": "XX–XXI secolo",
+    "summary": "Problema di come gli oggetti continuino a esistere attraverso il cambiamento e restino gli stessi individui.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Problema di come gli oggetti continuino a esistere attraverso il cambiamento e restino gli stessi individui.",
+          "Le teorie distinguono presenza intera in tempi diversi e persistenza attraverso parti temporali."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il problema si collega a identità, cambiamento, composizione e struttura del tempo.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie distinguono presenza intera in tempi diversi e persistenza attraverso parti temporali.",
+      "Il problema si collega a identità, cambiamento, composizione e struttura del tempo."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Persistenza nel tempo",
+        "explanation": "Problema di come gli oggetti continuino a esistere attraverso il cambiamento e restino gli stessi individui."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il problema si collega a identità, cambiamento, composizione e struttura del tempo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "endurantismo",
+    "id": "CON-000287",
+    "kind": "concetto",
+    "title": "Endurantismo",
+    "subtitle": "Teoria secondo cui un oggetto è interamente presente in ciascun momento in cui esiste, pur cambiando proprietà.",
+    "area": "Metafisica del tempo",
+    "period": "Contemporaneità",
+    "summary": "Teoria secondo cui un oggetto è interamente presente in ciascun momento in cui esiste, pur cambiando proprietà.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Teoria secondo cui un oggetto è interamente presente in ciascun momento in cui esiste, pur cambiando proprietà.",
+          "Il cambiamento è interpretato come possesso di proprietà differenti in tempi differenti da parte dello stesso individuo."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La teoria deve distinguere proprietà temporizzate e predicazioni per evitare contraddizioni apparenti.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica del tempo. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il cambiamento è interpretato come possesso di proprietà differenti in tempi differenti da parte dello stesso individuo.",
+      "La teoria deve distinguere proprietà temporizzate e predicazioni per evitare contraddizioni apparenti."
+    ],
+    "tags": [
+      "metafisica-del-tempo",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Endurantismo",
+        "explanation": "Teoria secondo cui un oggetto è interamente presente in ciascun momento in cui esiste, pur cambiando proprietà."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La teoria deve distinguere proprietà temporizzate e predicazioni per evitare contraddizioni apparenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "perdurantismo",
+    "id": "CON-000288",
+    "kind": "concetto",
+    "title": "Perdurantismo",
+    "subtitle": "Teoria secondo cui gli oggetti persistono avendo parti temporali differenti, ciascuna collocata in una porzione della loro storia.",
+    "area": "Metafisica del tempo",
+    "period": "Contemporaneità",
+    "summary": "Teoria secondo cui gli oggetti persistono avendo parti temporali differenti, ciascuna collocata in una porzione della loro storia.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Teoria secondo cui gli oggetti persistono avendo parti temporali differenti, ciascuna collocata in una porzione della loro storia.",
+          "L'individuo è esteso nel tempo in modo analogo a come un corpo è esteso nello spazio."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La teoria deve chiarire quali oggetti abbiano parti temporali e come queste si individuino.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica del tempo. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'individuo è esteso nel tempo in modo analogo a come un corpo è esteso nello spazio.",
+      "La teoria deve chiarire quali oggetti abbiano parti temporali e come queste si individuino."
+    ],
+    "tags": [
+      "metafisica-del-tempo",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Perdurantismo",
+        "explanation": "Teoria secondo cui gli oggetti persistono avendo parti temporali differenti, ciascuna collocata in una porzione della loro storia."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La teoria deve chiarire quali oggetti abbiano parti temporali e come queste si individuino."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "presentismo",
+    "id": "CON-000289",
+    "kind": "concetto",
+    "title": "Presentismo",
+    "subtitle": "Tesi secondo cui esiste soltanto ciò che è presente; passato e futuro non esistono nello stesso senso.",
+    "area": "Metafisica del tempo",
+    "period": "Contemporaneità",
+    "summary": "Tesi secondo cui esiste soltanto ciò che è presente; passato e futuro non esistono nello stesso senso.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi secondo cui esiste soltanto ciò che è presente; passato e futuro non esistono nello stesso senso.",
+          "Interpreta il divenire come caratteristica fondamentale della realtà e cerca di rendere conto dell'oggettività del tempo."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Deve affrontare verità sul passato e compatibilità con le teorie fisiche dello spazio-tempo.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica del tempo. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Interpreta il divenire come caratteristica fondamentale della realtà e cerca di rendere conto dell'oggettività del tempo.",
+      "Deve affrontare verità sul passato e compatibilità con le teorie fisiche dello spazio-tempo."
+    ],
+    "tags": [
+      "metafisica-del-tempo",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Presentismo",
+        "explanation": "Tesi secondo cui esiste soltanto ciò che è presente; passato e futuro non esistono nello stesso senso."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Deve affrontare verità sul passato e compatibilità con le teorie fisiche dello spazio-tempo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "eternalismo",
+    "id": "CON-000290",
+    "kind": "concetto",
+    "title": "Eternalismo",
+    "subtitle": "Tesi secondo cui eventi passati, presenti e futuri sono ugualmente reali, pur essendo temporalmente situati.",
+    "area": "Metafisica del tempo",
+    "period": "Contemporaneità",
+    "summary": "Tesi secondo cui eventi passati, presenti e futuri sono ugualmente reali, pur essendo temporalmente situati.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Tesi secondo cui eventi passati, presenti e futuri sono ugualmente reali, pur essendo temporalmente situati.",
+          "È spesso associato alla concezione quadridimensionale dello spazio-tempo."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Deve chiarire l'esperienza del divenire e il rapporto tra descrizione fisica e temporalità vissuta.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica del tempo. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "È spesso associato alla concezione quadridimensionale dello spazio-tempo.",
+      "Deve chiarire l'esperienza del divenire e il rapporto tra descrizione fisica e temporalità vissuta."
+    ],
+    "tags": [
+      "metafisica-del-tempo",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Eternalismo",
+        "explanation": "Tesi secondo cui eventi passati, presenti e futuri sono ugualmente reali, pur essendo temporalmente situati."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Deve chiarire l'esperienza del divenire e il rapporto tra descrizione fisica e temporalità vissuta."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "possibilismo-temporale",
+    "id": "CON-000291",
+    "kind": "concetto",
+    "title": "Possibilismo temporale",
+    "subtitle": "Posizione intermedia secondo cui esistono il presente e il passato, mentre il futuro non è ancora reale.",
+    "area": "Metafisica del tempo",
+    "period": "Contemporaneità",
+    "summary": "Posizione intermedia secondo cui esistono il presente e il passato, mentre il futuro non è ancora reale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Posizione intermedia secondo cui esistono il presente e il passato, mentre il futuro non è ancora reale.",
+          "Conserva una direzione privilegiata del divenire e interpreta il futuro come aperto o non attualizzato."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Deve precisare lo statuto degli eventi passati e distinguere indeterminazione epistemica e ontologica.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica del tempo. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Conserva una direzione privilegiata del divenire e interpreta il futuro come aperto o non attualizzato.",
+      "Deve precisare lo statuto degli eventi passati e distinguere indeterminazione epistemica e ontologica."
+    ],
+    "tags": [
+      "metafisica-del-tempo",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Possibilismo temporale",
+        "explanation": "Posizione intermedia secondo cui esistono il presente e il passato, mentre il futuro non è ancora reale."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Deve precisare lo statuto degli eventi passati e distinguere indeterminazione epistemica e ontologica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "necessita-metafisica",
+    "id": "CON-000292",
+    "kind": "concetto",
+    "title": "Necessità metafisica",
+    "subtitle": "Necessità che riguarda ciò che non potrebbe essere altrimenti, indipendentemente da convenzioni linguistiche o leggi naturali contingenti.",
+    "area": "Metafisica e logica modale",
+    "period": "Antichità–XXI secolo",
+    "summary": "Necessità che riguarda ciò che non potrebbe essere altrimenti, indipendentemente da convenzioni linguistiche o leggi naturali contingenti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Necessità che riguarda ciò che non potrebbe essere altrimenti, indipendentemente da convenzioni linguistiche o leggi naturali contingenti.",
+          "È spesso distinta da necessità logica, fisica e nomologica, anche se i confini sono discussi."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il dibattito verte su essenze, mondi possibili e verità necessarie a posteriori.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e logica modale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "È spesso distinta da necessità logica, fisica e nomologica, anche se i confini sono discussi.",
+      "Il dibattito verte su essenze, mondi possibili e verità necessarie a posteriori."
+    ],
+    "tags": [
+      "metafisica-e-logica-modale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Necessità metafisica",
+        "explanation": "Necessità che riguarda ciò che non potrebbe essere altrimenti, indipendentemente da convenzioni linguistiche o leggi naturali contingenti."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il dibattito verte su essenze, mondi possibili e verità necessarie a posteriori."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "possibilita-metafisica",
+    "id": "CON-000293",
+    "kind": "concetto",
+    "title": "Possibilità metafisica",
+    "subtitle": "Possibilità relativa a ciò che avrebbe potuto esistere o accadere, considerate le strutture fondamentali della realtà.",
+    "area": "Metafisica e logica modale",
+    "period": "Antichità–XXI secolo",
+    "summary": "Possibilità relativa a ciò che avrebbe potuto esistere o accadere, considerate le strutture fondamentali della realtà.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Possibilità relativa a ciò che avrebbe potuto esistere o accadere, considerate le strutture fondamentali della realtà.",
+          "Può includere scenari fisicamente irrealizzabili nel nostro universo ma coerenti con una diversa configurazione della realtà."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Richiede di distinguere impossibilità logica, fisica e metafisica.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e logica modale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Può includere scenari fisicamente irrealizzabili nel nostro universo ma coerenti con una diversa configurazione della realtà.",
+      "Richiede di distinguere impossibilità logica, fisica e metafisica."
+    ],
+    "tags": [
+      "metafisica-e-logica-modale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Possibilità metafisica",
+        "explanation": "Possibilità relativa a ciò che avrebbe potuto esistere o accadere, considerate le strutture fondamentali della realtà."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Richiede di distinguere impossibilità logica, fisica e metafisica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "antiessenzialismo",
+    "id": "CON-000294",
+    "kind": "concetto",
+    "title": "Antiessenzialismo",
+    "subtitle": "Orientamento critico verso l'idea che identità e categorie siano determinate da proprietà intrinseche, fisse e necessarie.",
+    "area": "Metafisica e filosofia sociale",
+    "period": "XIX–XXI secolo",
+    "summary": "Orientamento critico verso l'idea che identità e categorie siano determinate da proprietà intrinseche, fisse e necessarie.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Orientamento critico verso l'idea che identità e categorie siano determinate da proprietà intrinseche, fisse e necessarie.",
+          "Le posizioni antiessenzialiste sottolineano storia, relazioni, pratiche linguistiche e processi di classificazione."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Non nega necessariamente ogni stabilità: le tesi variano tra critica delle essenze naturali e analisi delle categorie sociali.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e filosofia sociale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le posizioni antiessenzialiste sottolineano storia, relazioni, pratiche linguistiche e processi di classificazione.",
+      "Non nega necessariamente ogni stabilità: le tesi variano tra critica delle essenze naturali e analisi delle categorie sociali."
+    ],
+    "tags": [
+      "metafisica-e-filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Antiessenzialismo",
+        "explanation": "Orientamento critico verso l'idea che identità e categorie siano determinate da proprietà intrinseche, fisse e necessarie."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Non nega necessariamente ogni stabilità: le tesi variano tra critica delle essenze naturali e analisi delle categorie sociali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "realismo-modale",
+    "id": "CON-000295",
+    "kind": "concetto",
+    "title": "Realismo modale",
+    "subtitle": "Posizione associata a David Lewis secondo cui i mondi possibili sono realtà concrete, distinte e causalmente isolate.",
+    "area": "Metafisica contemporanea",
+    "period": "XX secolo",
+    "summary": "Posizione associata a David Lewis secondo cui i mondi possibili sono realtà concrete, distinte e causalmente isolate.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Posizione associata a David Lewis secondo cui i mondi possibili sono realtà concrete, distinte e causalmente isolate.",
+          "Offre un'analisi di possibilità, necessità e controfattuali attraverso la quantificazione su mondi."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La teoria affronta obiezioni di parsimonia ontologica e accessibilità epistemica.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica contemporanea. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Offre un'analisi di possibilità, necessità e controfattuali attraverso la quantificazione su mondi.",
+      "La teoria affronta obiezioni di parsimonia ontologica e accessibilità epistemica."
+    ],
+    "tags": [
+      "metafisica-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Realismo modale",
+        "explanation": "Posizione associata a David Lewis secondo cui i mondi possibili sono realtà concrete, distinte e causalmente isolate."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La teoria affronta obiezioni di parsimonia ontologica e accessibilità epistemica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "fictionalismo-modale",
+    "id": "CON-000296",
+    "kind": "concetto",
+    "title": "Fictionalismo modale",
+    "subtitle": "Approccio che interpreta il discorso sui mondi possibili come finzione teorica utile, senza impegnarsi nella loro esistenza concreta.",
+    "area": "Metafisica contemporanea",
+    "period": "XX–XXI secolo",
+    "summary": "Approccio che interpreta il discorso sui mondi possibili come finzione teorica utile, senza impegnarsi nella loro esistenza concreta.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Approccio che interpreta il discorso sui mondi possibili come finzione teorica utile, senza impegnarsi nella loro esistenza concreta.",
+          "Il linguaggio modale può essere analizzato facendo riferimento a una rappresentazione o a una storia teorica."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il fictionalista deve spiegare perché il dispositivo è affidabile e come distinguere finzioni utili da descrizioni arbitrarie.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica contemporanea. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il linguaggio modale può essere analizzato facendo riferimento a una rappresentazione o a una storia teorica.",
+      "Il fictionalista deve spiegare perché il dispositivo è affidabile e come distinguere finzioni utili da descrizioni arbitrarie."
+    ],
+    "tags": [
+      "metafisica-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Fictionalismo modale",
+        "explanation": "Approccio che interpreta il discorso sui mondi possibili come finzione teorica utile, senza impegnarsi nella loro esistenza concreta."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il fictionalista deve spiegare perché il dispositivo è affidabile e come distinguere finzioni utili da descrizioni arbitrarie."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "mondi-possibili",
+    "id": "CON-000297",
+    "kind": "concetto",
+    "title": "Mondi possibili",
+    "subtitle": "Dispositivi teorici che rappresentano modi alternativi in cui la realtà avrebbe potuto essere, impiegati per analizzare possibilità e necessità.",
+    "area": "Logica modale e metafisica",
+    "period": "Antichità–XXI secolo",
+    "summary": "Dispositivi teorici che rappresentano modi alternativi in cui la realtà avrebbe potuto essere, impiegati per analizzare possibilità e necessità.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Dispositivi teorici che rappresentano modi alternativi in cui la realtà avrebbe potuto essere, impiegati per analizzare possibilità e necessità.",
+          "Nella semantica di Kripke gli enunciati modali sono valutati rispetto a mondi e relazioni di accessibilità."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Un mondo possibile non è necessariamente un universo fisico parallelo: può essere inteso come stato, modello o entità.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della logica modale e metafisica. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella semantica di Kripke gli enunciati modali sono valutati rispetto a mondi e relazioni di accessibilità.",
+      "Un mondo possibile non è necessariamente un universo fisico parallelo: può essere inteso come stato, modello o entità."
+    ],
+    "tags": [
+      "logica-modale-e-metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Mondi possibili",
+        "explanation": "Dispositivi teorici che rappresentano modi alternativi in cui la realtà avrebbe potuto essere, impiegati per analizzare possibilità e necessità."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Un mondo possibile non è necessariamente un universo fisico parallelo: può essere inteso come stato, modello o entità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "grounding",
+    "id": "CON-000298",
+    "kind": "concetto",
+    "title": "Grounding",
+    "subtitle": "Relazione di fondazione metafisica per cui un fatto è vero in virtù di fatti più fondamentali, senza essere necessariamente causato da essi.",
+    "area": "Metafisica contemporanea",
+    "period": "XXI secolo",
+    "summary": "Relazione di fondazione metafisica per cui un fatto è vero in virtù di fatti più fondamentali, senza essere necessariamente causato da essi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Relazione di fondazione metafisica per cui un fatto è vero in virtù di fatti più fondamentali, senza essere necessariamente causato da essi.",
+          "Il grounding descrive dipendenze esplicative e priorità ontologiche tra fatti o livelli della realtà."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "La natura della relazione è discussa: alcuni la considerano primitiva, altri la analizzano tramite spiegazione o necessità.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica contemporanea. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il grounding descrive dipendenze esplicative e priorità ontologiche tra fatti o livelli della realtà.",
+      "La natura della relazione è discussa: alcuni la considerano primitiva, altri la analizzano tramite spiegazione o necessità."
+    ],
+    "tags": [
+      "metafisica-contemporanea",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Grounding",
+        "explanation": "Relazione di fondazione metafisica per cui un fatto è vero in virtù di fatti più fondamentali, senza essere necessariamente causato da essi."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "La natura della relazione è discussa: alcuni la considerano primitiva, altri la analizzano tramite spiegazione o necessità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dipendenza-metafisica",
+    "id": "CON-000299",
+    "kind": "concetto",
+    "title": "Dipendenza metafisica",
+    "subtitle": "Relazione per cui l'essere o le proprietà di qualcosa dipendono da una realtà più fondamentale.",
+    "area": "Metafisica",
+    "period": "Antichità–XXI secolo",
+    "summary": "Relazione per cui l'essere o le proprietà di qualcosa dipendono da una realtà più fondamentale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Relazione per cui l'essere o le proprietà di qualcosa dipendono da una realtà più fondamentale.",
+          "Le teorie distinguono fondazione, realizzazione, costituzione e causalità, che non sono sinonimi."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Individuare una dipendenza richiede precisare che cosa dipende, da che cosa e in quale senso.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie distinguono fondazione, realizzazione, costituzione e causalità, che non sono sinonimi.",
+      "Individuare una dipendenza richiede precisare che cosa dipende, da che cosa e in quale senso."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Dipendenza metafisica",
+        "explanation": "Relazione per cui l'essere o le proprietà di qualcosa dipendono da una realtà più fondamentale."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Individuare una dipendenza richiede precisare che cosa dipende, da che cosa e in quale senso."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ontologia-sociale",
+    "id": "CON-000300",
+    "kind": "concetto",
+    "title": "Ontologia sociale",
+    "subtitle": "Indagine sulle entità e sui fatti sociali, come istituzioni, gruppi, ruoli, denaro e norme, e sulle condizioni della loro esistenza.",
+    "area": "Metafisica e filosofia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Indagine sulle entità e sui fatti sociali, come istituzioni, gruppi, ruoli, denaro e norme, e sulle condizioni della loro esistenza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Indagine sulle entità e sui fatti sociali, come istituzioni, gruppi, ruoli, denaro e norme, e sulle condizioni della loro esistenza.",
+          "Studia come pratiche condivise, riconoscimento, regole e potere costituiscano realtà sociali relativamente stabili."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le entità sociali possono essere reali pur dipendendo da pratiche umane e istituzioni.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della metafisica e filosofia sociale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Studia come pratiche condivise, riconoscimento, regole e potere costituiscano realtà sociali relativamente stabili.",
+      "Le entità sociali possono essere reali pur dipendendo da pratiche umane e istituzioni."
+    ],
+    "tags": [
+      "metafisica-e-filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ontologia sociale",
+        "explanation": "Indagine sulle entità e sui fatti sociali, come istituzioni, gruppi, ruoli, denaro e norme, e sulle condizioni della loro esistenza."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Le entità sociali possono essere reali pur dipendendo da pratiche umane e istituzioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "fatto-istituzionale",
+    "id": "CON-000301",
+    "kind": "concetto",
+    "title": "Fatto istituzionale",
+    "subtitle": "Fatto che esiste grazie a regole costitutive e riconoscimenti collettivi, come il valore di una banconota o uno status giuridico.",
+    "area": "Filosofia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Fatto che esiste grazie a regole costitutive e riconoscimenti collettivi, come il valore di una banconota o uno status giuridico.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Fatto che esiste grazie a regole costitutive e riconoscimenti collettivi, come il valore di una banconota o uno status giuridico.",
+          "Searle analizza la struttura dei fatti istituzionali attraverso regole del tipo X conta come Y nel contesto C."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Il riconoscimento collettivo non equivale a consenso unanime e non elimina conflitti e rapporti di potere.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia sociale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Searle analizza la struttura dei fatti istituzionali attraverso regole del tipo X conta come Y nel contesto C.",
+      "Il riconoscimento collettivo non equivale a consenso unanime e non elimina conflitti e rapporti di potere."
+    ],
+    "tags": [
+      "filosofia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Fatto istituzionale",
+        "explanation": "Fatto che esiste grazie a regole costitutive e riconoscimenti collettivi, come il valore di una banconota o uno status giuridico."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Il riconoscimento collettivo non equivale a consenso unanime e non elimina conflitti e rapporti di potere."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "costruzione-sociale",
+    "id": "CON-000302",
+    "kind": "concetto",
+    "title": "Costruzione sociale",
+    "subtitle": "Processo attraverso cui categorie, pratiche o istituzioni assumono forma e stabilità storica mediante interazioni, norme e rapporti di potere.",
+    "area": "Filosofia sociale ed epistemologia",
+    "period": "XX–XXI secolo",
+    "summary": "Processo attraverso cui categorie, pratiche o istituzioni assumono forma e stabilità storica mediante interazioni, norme e rapporti di potere.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Processo attraverso cui categorie, pratiche o istituzioni assumono forma e stabilità storica mediante interazioni, norme e rapporti di potere.",
+          "La nozione si applica a oggetti sociali e classificazioni, ma anche a conoscenze e identità."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Dire che qualcosa è costruito socialmente non significa che sia immaginario: occorre indicare i meccanismi che lo producono.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della filosofia sociale ed epistemologia. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La nozione si applica a oggetti sociali e classificazioni, ma anche a conoscenze e identità.",
+      "Dire che qualcosa è costruito socialmente non significa che sia immaginario: occorre indicare i meccanismi che lo producono."
+    ],
+    "tags": [
+      "filosofia-sociale-ed-epistemologia",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Costruzione sociale",
+        "explanation": "Processo attraverso cui categorie, pratiche o istituzioni assumono forma e stabilità storica mediante interazioni, norme e rapporti di potere."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "Dire che qualcosa è costruito socialmente non significa che sia immaginario: occorre indicare i meccanismi che lo producono."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "potere-epistemico",
+    "id": "CON-000303",
+    "kind": "concetto",
+    "title": "Potere epistemico",
+    "subtitle": "Capacità di influenzare ciò che viene riconosciuto come conoscenza, quali testimonianze sono credute e quali categorie diventano autorevoli.",
+    "area": "Epistemologia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Capacità di influenzare ciò che viene riconosciuto come conoscenza, quali testimonianze sono credute e quali categorie diventano autorevoli.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Capacità di influenzare ciò che viene riconosciuto come conoscenza, quali testimonianze sono credute e quali categorie diventano autorevoli.",
+          "Opera attraverso istituzioni, autorità, accesso alle risorse e distribuzione della credibilità."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "L'analisi distingue competenza, autorità e dominio e si collega alle forme di esclusione epistemica.",
+          "La discussione richiede di distinguere il significato tecnico del termine dai suoi usi più generali e di ricostruire gli argomenti nel loro contesto storico e teorico."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il concetto permette di formulare con precisione un problema centrale nell'ambito della epistemologia sociale. La sua portata dipende dalle assunzioni teoriche adottate e dal livello di analisi considerato.",
+          "Per approfondire è utile confrontare le formulazioni classiche con le discussioni recenti, verificando continuità terminologiche e differenze di contesto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Opera attraverso istituzioni, autorità, accesso alle risorse e distribuzione della credibilità.",
+      "L'analisi distingue competenza, autorità e dominio e si collega alle forme di esclusione epistemica."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Voce di riferimento per il dibattito e la bibliografia specialistica.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Internet Encyclopedia of Philosophy",
+        "note": "Introduzione ai principali problemi e autori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Potere epistemico",
+        "explanation": "Capacità di influenzare ciò che viene riconosciuto come conoscenza, quali testimonianze sono credute e quali categorie diventano autorevoli."
+      },
+      {
+        "term": "Problema teorico",
+        "explanation": "L'analisi distingue competenza, autorità e dominio e si collega alle forme di esclusione epistemica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
