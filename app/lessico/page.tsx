@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 
 type Term = { term: string; area: string; definition: string; distinction: string; related?: { label: string; slug: string }[] };
 
-export const terms: Term[] = [
+const terms: Term[] = [
 {term:"Abduzione",area:"Logica e metodo",definition:"Forma di inferenza che propone un’ipotesi capace di spiegare un fatto osservato. Non dimostra che l’ipotesi sia vera: indica una spiegazione da mettere alla prova.",distinction:"Diversamente dalla deduzione, non garantisce la conclusione; diversamente dall’induzione, cerca spesso la migliore spiegazione disponibile.",related:[{label:"Abduzione",slug:"abduzione"},{label:"Conoscenza",slug:"conoscenza"}]},
 {term:"Alienazione",area:"Etica, politica e società",definition:"Condizione in cui individui o gruppi si trovano separati dal controllo sulle proprie attività, dai loro prodotti, dagli altri o dalle proprie possibilità. Il significato cambia profondamente da Hegel a Marx e alle teorie successive.",distinction:"Non coincide con un semplice disagio psicologico: può indicare una struttura sociale e storica.",related:[{label:"Alienazione",slug:"alienazione"}]},
 {term:"Anātman (non-sé)",area:"India e buddhismo",definition:"Dottrina buddhista secondo cui non esiste un sé permanente, autonomo e immutabile. La persona è descritta attraverso processi e aggregati condizionati, soggetti al mutamento.",distinction:"Non equivale semplicemente a negare l’esistenza convenzionale della persona; mette in discussione l’idea di un’identità sostanziale.",related:[{label:"Śūnyatā",slug:"sunyata"},{label:"Dharma",slug:"dharma"}]},
