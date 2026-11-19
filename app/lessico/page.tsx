@@ -3,8 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import SearchAutocomplete from "@/components/search-autocomplete";
-import { terms } from "@/data/catalog";
-import { entries } from "@/data/catalog";
+import { entries, terms } from "@/data/catalog";
 
 
 
