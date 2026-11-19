@@ -2,8 +2,9 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { entries } from "@/data/entries";
-import { terms } from "@/data/terms";
+import SearchAutocomplete from "@/components/search-autocomplete";
+import { entries } from "@/data/catalog";
+import { terms } from "@/data/catalog";
 
 const areas = ["Tutte le aree", ...Array.from(new Set(entries.map((entry) => entry.area)))];
 const kinds = ["Tutte le tipologie", ...Array.from(new Set(entries.map((entry) => entry.kind)))];
@@ -37,8 +38,7 @@ export default function EncyclopediaPage() {
         <div className="section-heading"><div><p className="eyebrow">Le voci</p><h2>Esplora il repertorio</h2></div><span className="entry-count">{filtered.length} di {entries.length} voci</span></div>
         <div className="search-panel">
           <label className="search-label" htmlFor="archive-search">Cerca per autore, tema o parola chiave</label>
-          <input id="archive-search" type="search" list="archive-suggestions" autoComplete="off" placeholder="Es. etica, Cina, metafisica…" value={query} onChange={(event) => setQuery(event.target.value)} />
-          <datalist id="archive-suggestions">{suggestions.map((suggestion) => <option key={suggestion} value={suggestion} />)}</datalist>
+          <SearchAutocomplete id="archive-search" label="Cerca per autore, tema o parola chiave" placeholder="Es. etica, Cina, metafisica…" value={query} onChange={setQuery} options={suggestions} />
           <label className="filter-label" htmlFor="archive-area">Area culturale</label>
           <select id="archive-area" value={area} onChange={(event) => setArea(event.target.value)}>{areas.map((item) => <option key={item}>{item}</option>)}</select>
           <label className="filter-label" htmlFor="archive-kind">Tipologia di voce</label>
