@@ -7948,6 +7948,823 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "aletheia",
+    "id": "CON-000190",
+    "kind": "concetto",
+    "title": "Aletheia",
+    "subtitle": "Termine greco che indica la verità come disvelamento o non-nascondimento.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Termine greco che indica la verità come disvelamento o non-nascondimento.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Aletheia è il termine greco tradotto abitualmente con verità. Nella riflessione filosofica antica e, in modo particolare, nell’interpretazione di Martin Heidegger, può essere compreso come disvelamento: ciò che è vero si mostra sottraendosi al nascondimento. Questa lettura amplia la verità oltre la sola correttezza di una proposizione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La concezione del disvelamento non elimina il problema della verità proposizionale, ma ne interroga il presupposto: perché qualcosa possa essere detto vero, deve in qualche modo manifestarsi come accessibile. La ricostruzione etimologica e filosofica di aletheia è discussa dagli studiosi e non va assunta come unica definizione del concetto greco."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante nella filosofia presocratica, in Platone e nella fenomenologia. Permette di confrontare verità come corrispondenza, coerenza e manifestazione, e di interrogare il rapporto tra linguaggio e apparire del mondo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Aletheia è il termine greco tradotto abitualmente con verità. Nella riflessione filosofica antica e, in modo particolare, nell’interpretazione di Martin Heidegger, può essere compreso come disvelamento: ciò che è vero si mostra sottraendosi al nascondimento. Questa lettura amplia la verità oltre la sola correttezza di una proposizione.",
+      "La concezione del disvelamento non elimina il problema della verità proposizionale, ma ne interroga il presupposto: perché qualcosa possa essere detto vero, deve in qualche modo manifestarsi come accessibile. La ricostruzione etimologica e filosofica di aletheia è discussa dagli studiosi e non va assunta come unica definizione del concetto greco.",
+      "Il concetto è rilevante nella filosofia presocratica, in Platone e nella fenomenologia. Permette di confrontare verità come corrispondenza, coerenza e manifestazione, e di interrogare il rapporto tra linguaggio e apparire del mondo."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Aletheia",
+        "explanation": "Termine greco che indica la verità come disvelamento o non-nascondimento."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "antirealismo",
+    "id": "CON-000191",
+    "kind": "concetto",
+    "title": "Antirealismo",
+    "subtitle": "Famiglia di posizioni che contestano che la verità o l’esistenza degli oggetti dipenda sempre da una realtà indipendente dalle pratiche conoscitive.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Famiglia di posizioni che contestano che la verità o l’esistenza degli oggetti dipenda sempre da una realtà indipendente dalle pratiche conoscitive.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’antirealismo comprende teorie differenti che negano o limitano l’impegno verso una realtà totalmente indipendente dai nostri schemi concettuali, criteri di verifica o pratiche linguistiche. In filosofia della scienza può rifiutare l’impegno ontologico verso entità inosservabili; in filosofia del linguaggio può collegare l’asseribilità alle condizioni di verifica."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non esiste un unico antirealismo: alcune versioni sono strumentaliste, altre verificazioniste o dipendenti da schemi concettuali. L’antirealismo non implica necessariamente che il mondo sia una creazione arbitraria del soggetto. Il confronto con il realismo riguarda il significato di verità, oggettività e indipendenza dal conoscere."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il dibattito attraversa metafisica, filosofia della scienza e filosofia del linguaggio. Chiarisce quali impegni ontologici siano giustificati dalle nostre pratiche di conoscenza e quali limiti abbia la pretesa di descrivere il mondo in sé."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’antirealismo comprende teorie differenti che negano o limitano l’impegno verso una realtà totalmente indipendente dai nostri schemi concettuali, criteri di verifica o pratiche linguistiche. In filosofia della scienza può rifiutare l’impegno ontologico verso entità inosservabili; in filosofia del linguaggio può collegare l’asseribilità alle condizioni di verifica.",
+      "Non esiste un unico antirealismo: alcune versioni sono strumentaliste, altre verificazioniste o dipendenti da schemi concettuali. L’antirealismo non implica necessariamente che il mondo sia una creazione arbitraria del soggetto. Il confronto con il realismo riguarda il significato di verità, oggettività e indipendenza dal conoscere.",
+      "Il dibattito attraversa metafisica, filosofia della scienza e filosofia del linguaggio. Chiarisce quali impegni ontologici siano giustificati dalle nostre pratiche di conoscenza e quali limiti abbia la pretesa di descrivere il mondo in sé."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Antirealismo",
+        "explanation": "Famiglia di posizioni che contestano che la verità o l’esistenza degli oggetti dipenda sempre da una realtà indipendente dalle pratiche conoscitive."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "autopoiesi",
+    "id": "CON-000192",
+    "kind": "concetto",
+    "title": "Autopoiesi",
+    "subtitle": "Capacità di un sistema vivente di produrre e mantenere la propria organizzazione attraverso le proprie operazioni.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Capacità di un sistema vivente di produrre e mantenere la propria organizzazione attraverso le proprie operazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di autopoiesi, elaborato da Humberto Maturana e Francisco Varela, descrive i sistemi viventi come reti di processi che producono continuamente i componenti necessari alla propria organizzazione. Un organismo mantiene così la propria identità attraverso attività che rigenerano le condizioni della sua stessa esistenza."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’autopoiesi non significa isolamento dall’ambiente: il sistema scambia materia ed energia, ma conserva una propria organizzazione. Il concetto è stato esteso e discusso in biologia, teoria dei sistemi e sociologia; la sua applicazione a sistemi sociali solleva il problema di che cosa possa essere considerato un’unità capace di autoprodursi."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema collega filosofia della biologia, scienze cognitive e teoria dei sistemi. Consente di riflettere su vita, autonomia organizzativa e rapporto tra sistema e ambiente senza ridurre l’organismo a una macchina composta da parti indipendenti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di autopoiesi, elaborato da Humberto Maturana e Francisco Varela, descrive i sistemi viventi come reti di processi che producono continuamente i componenti necessari alla propria organizzazione. Un organismo mantiene così la propria identità attraverso attività che rigenerano le condizioni della sua stessa esistenza.",
+      "L’autopoiesi non significa isolamento dall’ambiente: il sistema scambia materia ed energia, ma conserva una propria organizzazione. Il concetto è stato esteso e discusso in biologia, teoria dei sistemi e sociologia; la sua applicazione a sistemi sociali solleva il problema di che cosa possa essere considerato un’unità capace di autoprodursi.",
+      "Il tema collega filosofia della biologia, scienze cognitive e teoria dei sistemi. Consente di riflettere su vita, autonomia organizzativa e rapporto tra sistema e ambiente senza ridurre l’organismo a una macchina composta da parti indipendenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Autopoiesi",
+        "explanation": "Capacità di un sistema vivente di produrre e mantenere la propria organizzazione attraverso le proprie operazioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "bene-comune",
+    "id": "CON-000193",
+    "kind": "concetto",
+    "title": "Bene comune",
+    "subtitle": "Insieme di condizioni e risorse condivise che rendono possibile la vita buona e la partecipazione dei membri di una comunità.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Insieme di condizioni e risorse condivise che rendono possibile la vita buona e la partecipazione dei membri di una comunità.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il bene comune indica ciò che favorisce la vita collettiva e le condizioni nelle quali persone e gruppi possono perseguire fini legittimi. Nella tradizione aristotelica e nella filosofia politica successiva, non è semplicemente la somma degli interessi privati, ma riguarda l’ordine delle relazioni e delle istituzioni condivise."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie divergono su come definire il bene comune in società pluralistiche e su chi abbia l’autorità di interpretarlo. Il rischio è che un richiamo al bene collettivo giustifichi il sacrificio dei diritti individuali; all’opposto, una concezione puramente aggregativa può ignorare beni che esistono soltanto grazie alla cooperazione."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella filosofia politica, nell’etica pubblica e nella teoria delle istituzioni. La sua analisi riguarda beni pubblici, solidarietà, partecipazione e rapporto tra libertà individuali e responsabilità condivise."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il bene comune indica ciò che favorisce la vita collettiva e le condizioni nelle quali persone e gruppi possono perseguire fini legittimi. Nella tradizione aristotelica e nella filosofia politica successiva, non è semplicemente la somma degli interessi privati, ma riguarda l’ordine delle relazioni e delle istituzioni condivise.",
+      "Le teorie divergono su come definire il bene comune in società pluralistiche e su chi abbia l’autorità di interpretarlo. Il rischio è che un richiamo al bene collettivo giustifichi il sacrificio dei diritti individuali; all’opposto, una concezione puramente aggregativa può ignorare beni che esistono soltanto grazie alla cooperazione.",
+      "Il concetto è centrale nella filosofia politica, nell’etica pubblica e nella teoria delle istituzioni. La sua analisi riguarda beni pubblici, solidarietà, partecipazione e rapporto tra libertà individuali e responsabilità condivise."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Bene comune",
+        "explanation": "Insieme di condizioni e risorse condivise che rendono possibile la vita buona e la partecipazione dei membri di una comunità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "compatibilismo",
+    "id": "CON-000194",
+    "kind": "concetto",
+    "title": "Compatibilismo",
+    "subtitle": "Tesi secondo cui libertà e responsabilità morale possono essere compatibili con il determinismo causale.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui libertà e responsabilità morale possono essere compatibili con il determinismo causale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il compatibilismo sostiene che un’azione possa essere libera anche se determinata da cause antecedenti. La libertà viene spesso definita in termini di assenza di coercizione, capacità di agire secondo le proprie ragioni o possibilità di rispondere a motivazioni senza costrizioni esterne. Hume è un riferimento classico, mentre le versioni contemporanee sviluppano criteri più articolati."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le obiezioni chiedono se un agente possa essere davvero responsabile quando le sue motivazioni e il suo carattere hanno cause che non controlla. I compatibilisti rispondono distinguendo causalità e costrizione; gli incompatibilisti ritengono invece che la responsabilità richieda un tipo di controllo non conciliabile con il determinismo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il compatibilismo è uno dei principali orientamenti nel dibattito sul libero arbitrio. Il confronto con libertarismo e determinismo duro chiarisce che cosa intendiamo per scelta, controllo e imputabilità morale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il compatibilismo sostiene che un’azione possa essere libera anche se determinata da cause antecedenti. La libertà viene spesso definita in termini di assenza di coercizione, capacità di agire secondo le proprie ragioni o possibilità di rispondere a motivazioni senza costrizioni esterne. Hume è un riferimento classico, mentre le versioni contemporanee sviluppano criteri più articolati.",
+      "Le obiezioni chiedono se un agente possa essere davvero responsabile quando le sue motivazioni e il suo carattere hanno cause che non controlla. I compatibilisti rispondono distinguendo causalità e costrizione; gli incompatibilisti ritengono invece che la responsabilità richieda un tipo di controllo non conciliabile con il determinismo.",
+      "Il compatibilismo è uno dei principali orientamenti nel dibattito sul libero arbitrio. Il confronto con libertarismo e determinismo duro chiarisce che cosa intendiamo per scelta, controllo e imputabilità morale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Compatibilismo",
+        "explanation": "Tesi secondo cui libertà e responsabilità morale possono essere compatibili con il determinismo causale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "disaccordo-epistemico",
+    "id": "CON-000195",
+    "kind": "concetto",
+    "title": "Disaccordo epistemico",
+    "subtitle": "Situazione in cui soggetti razionali sostengono giudizi incompatibili pur disponendo di informazioni o capacità comparabili.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Situazione in cui soggetti razionali sostengono giudizi incompatibili pur disponendo di informazioni o capacità comparabili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il disaccordo epistemico si verifica quando persone competenti e informate giungono a conclusioni differenti su una questione. Il problema filosofico è stabilire quale peso attribuire al giudizio altrui e se il disaccordo debba indurre a ridurre la fiducia nella propria posizione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie conciliatoriste invitano spesso a rivedere il proprio grado di fiducia alla luce del dissenso tra pari; le teorie steadfast sostengono che si possa mantenere il giudizio iniziale quando esistono ragioni indipendenti per farlo. La valutazione dipende da competenza, evidenze disponibili, imparzialità e storia del confronto."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema è centrale nell’epistemologia sociale e nella filosofia della scienza. Aiuta a comprendere pluralismo, revisione delle credenze e condizioni in cui il confronto con interlocutori competenti dovrebbe modificare il nostro giudizio."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il disaccordo epistemico si verifica quando persone competenti e informate giungono a conclusioni differenti su una questione. Il problema filosofico è stabilire quale peso attribuire al giudizio altrui e se il disaccordo debba indurre a ridurre la fiducia nella propria posizione.",
+      "Le teorie conciliatoriste invitano spesso a rivedere il proprio grado di fiducia alla luce del dissenso tra pari; le teorie steadfast sostengono che si possa mantenere il giudizio iniziale quando esistono ragioni indipendenti per farlo. La valutazione dipende da competenza, evidenze disponibili, imparzialità e storia del confronto.",
+      "Il tema è centrale nell’epistemologia sociale e nella filosofia della scienza. Aiuta a comprendere pluralismo, revisione delle credenze e condizioni in cui il confronto con interlocutori competenti dovrebbe modificare il nostro giudizio."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Disaccordo epistemico",
+        "explanation": "Situazione in cui soggetti razionali sostengono giudizi incompatibili pur disponendo di informazioni o capacità comparabili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dualismo-delle-proprieta",
+    "id": "CON-000196",
+    "kind": "concetto",
+    "title": "Dualismo delle proprietà",
+    "subtitle": "Tesi secondo cui esistono proprietà mentali non riducibili a proprietà fisiche, anche se ogni soggetto è fisicamente realizzato.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui esistono proprietà mentali non riducibili a proprietà fisiche, anche se ogni soggetto è fisicamente realizzato.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il dualismo delle proprietà sostiene che il mondo possa essere composto da una sola sostanza fisica e tuttavia includere proprietà mentali irriducibili, come la coscienza fenomenica. Si distingue dal dualismo delle sostanze, che postula due tipi fondamentali di enti, mente e corpo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La posizione cerca di riconoscere la specificità dell’esperienza cosciente senza introdurre una sostanza mentale separata. Deve però spiegare come proprietà non fisiche possano dipendere dal cervello e se possano esercitare efficacia causale. Il problema dell’esclusione causale è una delle principali obiezioni contemporanee."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nella filosofia della mente e nel dibattito sul fisicalismo. Permette di distinguere la riducibilità delle proprietà dalla natura degli oggetti che le esemplificano."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il dualismo delle proprietà sostiene che il mondo possa essere composto da una sola sostanza fisica e tuttavia includere proprietà mentali irriducibili, come la coscienza fenomenica. Si distingue dal dualismo delle sostanze, che postula due tipi fondamentali di enti, mente e corpo.",
+      "La posizione cerca di riconoscere la specificità dell’esperienza cosciente senza introdurre una sostanza mentale separata. Deve però spiegare come proprietà non fisiche possano dipendere dal cervello e se possano esercitare efficacia causale. Il problema dell’esclusione causale è una delle principali obiezioni contemporanee.",
+      "Il concetto è importante nella filosofia della mente e nel dibattito sul fisicalismo. Permette di distinguere la riducibilità delle proprietà dalla natura degli oggetti che le esemplificano."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Dualismo delle proprietà",
+        "explanation": "Tesi secondo cui esistono proprietà mentali non riducibili a proprietà fisiche, anche se ogni soggetto è fisicamente realizzato."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "egalitarismo",
+    "id": "CON-000197",
+    "kind": "concetto",
+    "title": "Egalitarismo",
+    "subtitle": "Orientamento normativo che attribuisce un valore fondamentale all’uguaglianza tra persone, beni o opportunità.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Orientamento normativo che attribuisce un valore fondamentale all’uguaglianza tra persone, beni o opportunità.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’egualitarismo sostiene che l’uguaglianza costituisca un criterio centrale della giustizia. Le sue versioni possono riguardare risorse, opportunità, capacità, status sociale o trattamento politico. Non tutte chiedono risultati identici: molte mirano a eliminare svantaggi ingiusti e rapporti di subordinazione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il dibattito riguarda ciò che debba essere reso uguale e perché. L’uguaglianza di risorse può trascurare differenze nei bisogni; quella di opportunità può lasciare intatte disuguaglianze negli esiti; l’uguaglianza di status si concentra sulle relazioni sociali e sul riconoscimento. Le critiche temono che l’eguaglianza venga perseguita a scapito della libertà o della responsabilità individuale."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella filosofia politica e nelle teorie della giustizia. La sua analisi richiede di specificare la dimensione dell’uguaglianza e di distinguere differenze legittime da disuguaglianze prodotte da strutture ingiuste."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’egualitarismo sostiene che l’uguaglianza costituisca un criterio centrale della giustizia. Le sue versioni possono riguardare risorse, opportunità, capacità, status sociale o trattamento politico. Non tutte chiedono risultati identici: molte mirano a eliminare svantaggi ingiusti e rapporti di subordinazione.",
+      "Il dibattito riguarda ciò che debba essere reso uguale e perché. L’uguaglianza di risorse può trascurare differenze nei bisogni; quella di opportunità può lasciare intatte disuguaglianze negli esiti; l’uguaglianza di status si concentra sulle relazioni sociali e sul riconoscimento. Le critiche temono che l’eguaglianza venga perseguita a scapito della libertà o della responsabilità individuale.",
+      "Il concetto è centrale nella filosofia politica e nelle teorie della giustizia. La sua analisi richiede di specificare la dimensione dell’uguaglianza e di distinguere differenze legittime da disuguaglianze prodotte da strutture ingiuste."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Egalitarismo",
+        "explanation": "Orientamento normativo che attribuisce un valore fondamentale all’uguaglianza tra persone, beni o opportunità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "fallacia-naturalistica",
+    "id": "CON-000198",
+    "kind": "concetto",
+    "title": "Fallacia naturalistica",
+    "subtitle": "Errore che consiste nel definire il bene morale mediante proprietà naturali o nel derivare direttamente un dover essere da fatti descrittivi.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Errore che consiste nel definire il bene morale mediante proprietà naturali o nel derivare direttamente un dover essere da fatti descrittivi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’espressione fallacia naturalistica è associata a G. E. Moore, che critica il tentativo di identificare il bene con una proprietà naturale, come il piacere o l’evoluzione. Il suo argomento della domanda aperta sostiene che abbia senso chiedere se ciò che è piacevole sia anche buono, segnalando che i due concetti non sono sinonimi."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La nozione è spesso confusa con la legge di Hume, che riguarda il passaggio logico da proposizioni descrittive a normative. Le due critiche sono distinte: Moore mette in discussione definizioni riduttive del bene, mentre il problema essere-dover essere riguarda la struttura dell’inferenza. L’interpretazione della fallacia naturalistica resta oggetto di dibattito metaetico."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è fondamentale nella metaetica e nella filosofia morale. Aiuta a distinguere spiegazioni naturalistiche del comportamento da tentativi di definire o giustificare il valore morale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’espressione fallacia naturalistica è associata a G. E. Moore, che critica il tentativo di identificare il bene con una proprietà naturale, come il piacere o l’evoluzione. Il suo argomento della domanda aperta sostiene che abbia senso chiedere se ciò che è piacevole sia anche buono, segnalando che i due concetti non sono sinonimi.",
+      "La nozione è spesso confusa con la legge di Hume, che riguarda il passaggio logico da proposizioni descrittive a normative. Le due critiche sono distinte: Moore mette in discussione definizioni riduttive del bene, mentre il problema essere-dover essere riguarda la struttura dell’inferenza. L’interpretazione della fallacia naturalistica resta oggetto di dibattito metaetico.",
+      "Il concetto è fondamentale nella metaetica e nella filosofia morale. Aiuta a distinguere spiegazioni naturalistiche del comportamento da tentativi di definire o giustificare il valore morale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Fallacia naturalistica",
+        "explanation": "Errore che consiste nel definire il bene morale mediante proprietà naturali o nel derivare direttamente un dover essere da fatti descrittivi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "identita-diacronica",
+    "id": "CON-000199",
+    "kind": "concetto",
+    "title": "Identità diacronica",
+    "subtitle": "Relazione di continuità che consente di considerare uno stesso ente o soggetto attraverso momenti temporali differenti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Relazione di continuità che consente di considerare uno stesso ente o soggetto attraverso momenti temporali differenti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’identità diacronica riguarda il modo in cui qualcosa permane nel tempo pur subendo cambiamenti. Nel caso della persona, il problema è stabilire che cosa renda qualcuno lo stesso individuo attraverso trasformazioni corporee, psicologiche e biografiche. Le teorie classiche richiamano continuità del corpo, memoria, coscienza o persistenza di un soggetto."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Nessun criterio è privo di difficoltà: la memoria può essere fallibile, il corpo cambia continuamente e la continuità psicologica può ramificarsi in casi immaginari. Le teorie contemporanee distinguono inoltre identità numerica, continuità qualitativa e connessione psicologica, evitando di trattarle come equivalenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema è centrale nella metafisica del tempo e nella filosofia della persona. Ha implicazioni per responsabilità, sopravvivenza, promesse, diritto e comprensione della trasformazione individuale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’identità diacronica riguarda il modo in cui qualcosa permane nel tempo pur subendo cambiamenti. Nel caso della persona, il problema è stabilire che cosa renda qualcuno lo stesso individuo attraverso trasformazioni corporee, psicologiche e biografiche. Le teorie classiche richiamano continuità del corpo, memoria, coscienza o persistenza di un soggetto.",
+      "Nessun criterio è privo di difficoltà: la memoria può essere fallibile, il corpo cambia continuamente e la continuità psicologica può ramificarsi in casi immaginari. Le teorie contemporanee distinguono inoltre identità numerica, continuità qualitativa e connessione psicologica, evitando di trattarle come equivalenti.",
+      "Il tema è centrale nella metafisica del tempo e nella filosofia della persona. Ha implicazioni per responsabilità, sopravvivenza, promesse, diritto e comprensione della trasformazione individuale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Identità diacronica",
+        "explanation": "Relazione di continuità che consente di considerare uno stesso ente o soggetto attraverso momenti temporali differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "incompatibilismo",
+    "id": "CON-000200",
+    "kind": "concetto",
+    "title": "Incompatibilismo",
+    "subtitle": "Tesi secondo cui il determinismo causale è incompatibile con la libertà o con la responsabilità morale.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui il determinismo causale è incompatibile con la libertà o con la responsabilità morale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’incompatibilismo sostiene che, se ogni evento e ogni decisione sono determinati in modo univoco da condizioni precedenti, gli agenti non possiedono il tipo di libertà necessario alla responsabilità morale. La posizione comprende sia il libertarismo, che difende una forma di libertà indeterministica, sia il determinismo duro, che nega la libertà in senso forte."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le versioni incompatibiliste divergono sulla condizione necessaria della libertà: possibilità alternative, origine ultima dell’azione o controllo dell’agente. Le obiezioni sottolineano che l’indeterminazione può introdurre casualità senza aumentare il controllo. Il confronto con il compatibilismo dipende quindi dalla definizione di libertà e responsabilità."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto struttura il dibattito contemporaneo sul libero arbitrio. Chiarisce perché la questione non sia soltanto se le decisioni abbiano cause, ma quale genere di controllo renda un soggetto responsabile."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’incompatibilismo sostiene che, se ogni evento e ogni decisione sono determinati in modo univoco da condizioni precedenti, gli agenti non possiedono il tipo di libertà necessario alla responsabilità morale. La posizione comprende sia il libertarismo, che difende una forma di libertà indeterministica, sia il determinismo duro, che nega la libertà in senso forte.",
+      "Le versioni incompatibiliste divergono sulla condizione necessaria della libertà: possibilità alternative, origine ultima dell’azione o controllo dell’agente. Le obiezioni sottolineano che l’indeterminazione può introdurre casualità senza aumentare il controllo. Il confronto con il compatibilismo dipende quindi dalla definizione di libertà e responsabilità.",
+      "Il concetto struttura il dibattito contemporaneo sul libero arbitrio. Chiarisce perché la questione non sia soltanto se le decisioni abbiano cause, ma quale genere di controllo renda un soggetto responsabile."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Incompatibilismo",
+        "explanation": "Tesi secondo cui il determinismo causale è incompatibile con la libertà o con la responsabilità morale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "nominalismo",
+    "id": "CON-000201",
+    "kind": "concetto",
+    "title": "Nominalismo",
+    "subtitle": "Posizione secondo cui gli universali non esistono come entità indipendenti e le realtà generali dipendono da nomi, concetti o individui particolari.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione secondo cui gli universali non esistono come entità indipendenti e le realtà generali dipendono da nomi, concetti o individui particolari.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il nominalismo è una famiglia di teorie che rifiuta l’esistenza autonoma degli universali, come la bellezza, la giustizia o la forma triangolare. Nella disputa medievale sugli universali si contrappone al realismo, che attribuisce agli universali uno statuto ontologico, e propone spiegazioni basate su individui e pratiche linguistiche."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le versioni nominaliste sono differenti: alcune considerano gli universali semplici nomi, altre classi di individui o predicati applicabili a più casi. La sfida è spiegare somiglianze, proprietà condivise e verità generali senza introdurre entità astratte. Le teorie realiste obiettano che il nominalismo rischia di rendere misteriosa la struttura comune delle cose."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il dibattito è centrale in metafisica, filosofia del linguaggio e filosofia della matematica. La questione riguarda che cosa esista quando parliamo di proprietà, generi e relazioni comuni a molti individui."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il nominalismo è una famiglia di teorie che rifiuta l’esistenza autonoma degli universali, come la bellezza, la giustizia o la forma triangolare. Nella disputa medievale sugli universali si contrappone al realismo, che attribuisce agli universali uno statuto ontologico, e propone spiegazioni basate su individui e pratiche linguistiche.",
+      "Le versioni nominaliste sono differenti: alcune considerano gli universali semplici nomi, altre classi di individui o predicati applicabili a più casi. La sfida è spiegare somiglianze, proprietà condivise e verità generali senza introdurre entità astratte. Le teorie realiste obiettano che il nominalismo rischia di rendere misteriosa la struttura comune delle cose.",
+      "Il dibattito è centrale in metafisica, filosofia del linguaggio e filosofia della matematica. La questione riguarda che cosa esista quando parliamo di proprietà, generi e relazioni comuni a molti individui."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Nominalismo",
+        "explanation": "Posizione secondo cui gli universali non esistono come entità indipendenti e le realtà generali dipendono da nomi, concetti o individui particolari."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "obbligazione-politica",
+    "id": "CON-000202",
+    "kind": "concetto",
+    "title": "Obbligazione politica",
+    "subtitle": "Problema filosofico relativo alle ragioni per cui i cittadini dovrebbero obbedire alle leggi e riconoscere l’autorità dello Stato.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Problema filosofico relativo alle ragioni per cui i cittadini dovrebbero obbedire alle leggi e riconoscere l’autorità dello Stato.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’obbligazione politica riguarda il fondamento del dovere di rispettare le leggi e sostenere le istituzioni politiche. Le teorie tradizionali richiamano consenso, equità, beneficio ricevuto, appartenenza o doveri naturali; le prospettive critiche chiedono se esista un obbligo generale di obbedienza in ogni Stato legittimo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il problema è distinguere l’obbligo giuridico, che deriva dall’ordinamento, dall’obbligo morale di obbedire. Una legge può essere valida e tuttavia ingiusta; in tali casi si discute il diritto e il dovere di resistenza. Anche il consenso tacito e la possibilità effettiva di rifiutare l’appartenenza sono temi controversi."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella filosofia politica e nella teoria della disobbedienza civile. Consente di valutare i limiti dell’autorità, la legittimità delle istituzioni e le condizioni in cui l’obbedienza può essere moralmente richiesta."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’obbligazione politica riguarda il fondamento del dovere di rispettare le leggi e sostenere le istituzioni politiche. Le teorie tradizionali richiamano consenso, equità, beneficio ricevuto, appartenenza o doveri naturali; le prospettive critiche chiedono se esista un obbligo generale di obbedienza in ogni Stato legittimo.",
+      "Il problema è distinguere l’obbligo giuridico, che deriva dall’ordinamento, dall’obbligo morale di obbedire. Una legge può essere valida e tuttavia ingiusta; in tali casi si discute il diritto e il dovere di resistenza. Anche il consenso tacito e la possibilità effettiva di rifiutare l’appartenenza sono temi controversi.",
+      "Il concetto è centrale nella filosofia politica e nella teoria della disobbedienza civile. Consente di valutare i limiti dell’autorità, la legittimità delle istituzioni e le condizioni in cui l’obbedienza può essere moralmente richiesta."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Obbligazione politica",
+        "explanation": "Problema filosofico relativo alle ragioni per cui i cittadini dovrebbero obbedire alle leggi e riconoscere l’autorità dello Stato."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "oggettivita",
+    "id": "CON-000203",
+    "kind": "concetto",
+    "title": "Oggettività",
+    "subtitle": "Carattere di un giudizio o di una conoscenza che non dipende soltanto da preferenze o prospettive individuali.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Carattere di un giudizio o di una conoscenza che non dipende soltanto da preferenze o prospettive individuali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’oggettività indica la pretesa che un’affermazione sia valida indipendentemente dalle inclinazioni personali di chi la formula. Può riguardare metodi di indagine, criteri di prova, proprietà del mondo o norme condivisibili. Nelle scienze è spesso collegata a procedure pubbliche, replicabilità e controllo intersoggettivo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Oggettività non significa assenza assoluta di prospettiva: osservazioni e teorie dipendono da strumenti, concetti e pratiche storiche. Il problema è capire quali procedure consentano di correggere i limiti individuali e di distinguere la validità condivisibile dal semplice consenso. Anche in etica si discute se i giudizi morali possano essere oggettivi."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto attraversa epistemologia, filosofia della scienza, etica ed estetica. La sua analisi richiede di chiarire se l’indipendenza riguardi il soggetto, il metodo, la verità o la giustificazione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’oggettività indica la pretesa che un’affermazione sia valida indipendentemente dalle inclinazioni personali di chi la formula. Può riguardare metodi di indagine, criteri di prova, proprietà del mondo o norme condivisibili. Nelle scienze è spesso collegata a procedure pubbliche, replicabilità e controllo intersoggettivo.",
+      "Oggettività non significa assenza assoluta di prospettiva: osservazioni e teorie dipendono da strumenti, concetti e pratiche storiche. Il problema è capire quali procedure consentano di correggere i limiti individuali e di distinguere la validità condivisibile dal semplice consenso. Anche in etica si discute se i giudizi morali possano essere oggettivi.",
+      "Il concetto attraversa epistemologia, filosofia della scienza, etica ed estetica. La sua analisi richiede di chiarire se l’indipendenza riguardi il soggetto, il metodo, la verità o la giustificazione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Oggettività",
+        "explanation": "Carattere di un giudizio o di una conoscenza che non dipende soltanto da preferenze o prospettive individuali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "paternalismo",
+    "id": "CON-000204",
+    "kind": "concetto",
+    "title": "Paternalismo",
+    "subtitle": "Interferenza nella libertà di una persona giustificata dal fine di proteggerne o promuoverne il bene.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Interferenza nella libertà di una persona giustificata dal fine di proteggerne o promuoverne il bene.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il paternalismo si verifica quando un’autorità o un soggetto limita le scelte di un individuo sostenendo di agire per il suo stesso bene. John Stuart Mill formula una critica influente: la coercizione è giustificabile per prevenire danni ad altri, non semplicemente per imporre a un adulto ciò che si ritiene vantaggioso per lui."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie distinguono paternalismo forte e debole, a seconda che si intervenga su scelte consapevoli o per verificare la volontarietà e l’informazione. Si discutono inoltre forme morbide, giuridiche, mediche e istituzionali. Il problema è stabilire quando vulnerabilità, incapacità o rischi giustifichino una limitazione dell’autonomia."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale in etica applicata, bioetica e filosofia politica. Permette di valutare i confini tra tutela, autonomia, coercizione e responsabilità pubblica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il paternalismo si verifica quando un’autorità o un soggetto limita le scelte di un individuo sostenendo di agire per il suo stesso bene. John Stuart Mill formula una critica influente: la coercizione è giustificabile per prevenire danni ad altri, non semplicemente per imporre a un adulto ciò che si ritiene vantaggioso per lui.",
+      "Le teorie distinguono paternalismo forte e debole, a seconda che si intervenga su scelte consapevoli o per verificare la volontarietà e l’informazione. Si discutono inoltre forme morbide, giuridiche, mediche e istituzionali. Il problema è stabilire quando vulnerabilità, incapacità o rischi giustifichino una limitazione dell’autonomia.",
+      "Il concetto è centrale in etica applicata, bioetica e filosofia politica. Permette di valutare i confini tra tutela, autonomia, coercizione e responsabilità pubblica."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Paternalismo",
+        "explanation": "Interferenza nella libertà di una persona giustificata dal fine di proteggerne o promuoverne il bene."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "teoria-della-decisione",
+    "id": "CON-000205",
+    "kind": "concetto",
+    "title": "Teoria della decisione",
+    "subtitle": "Disciplina che studia la scelta razionale tra alternative in condizioni di certezza, rischio o incertezza.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Disciplina che studia la scelta razionale tra alternative in condizioni di certezza, rischio o incertezza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La teoria della decisione analizza come un agente possa scegliere tra opzioni considerando preferenze, probabilità e conseguenze. Distingue decisioni in condizioni di certezza, rischio e incertezza e offre modelli formali per rappresentare coerenza delle preferenze e valutazione delle alternative."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "I modelli normativi non descrivono necessariamente il comportamento reale: spesso indicano come un agente dovrebbe scegliere secondo assiomi di razionalità. Le decisioni concrete sono influenzate da limiti cognitivi, emozioni, informazioni incomplete e problemi di misurazione del valore. Le teorie comportamentali studiano sistematicamente tali scostamenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante in filosofia pratica, economia, etica e scienze cognitive. Permette di esaminare razionalità individuale, responsabilità, rischio e scelte collettive, chiarendo i limiti dei modelli puramente formali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La teoria della decisione analizza come un agente possa scegliere tra opzioni considerando preferenze, probabilità e conseguenze. Distingue decisioni in condizioni di certezza, rischio e incertezza e offre modelli formali per rappresentare coerenza delle preferenze e valutazione delle alternative.",
+      "I modelli normativi non descrivono necessariamente il comportamento reale: spesso indicano come un agente dovrebbe scegliere secondo assiomi di razionalità. Le decisioni concrete sono influenzate da limiti cognitivi, emozioni, informazioni incomplete e problemi di misurazione del valore. Le teorie comportamentali studiano sistematicamente tali scostamenti.",
+      "Il concetto è rilevante in filosofia pratica, economia, etica e scienze cognitive. Permette di esaminare razionalità individuale, responsabilità, rischio e scelte collettive, chiarendo i limiti dei modelli puramente formali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Teoria della decisione",
+        "explanation": "Disciplina che studia la scelta razionale tra alternative in condizioni di certezza, rischio o incertezza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "verita-per-corrispondenza",
+    "id": "CON-000206",
+    "kind": "concetto",
+    "title": "Verità per corrispondenza",
+    "subtitle": "Teoria secondo cui una proposizione è vera quando corrisponde ai fatti o alla realtà cui si riferisce.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Teoria secondo cui una proposizione è vera quando corrisponde ai fatti o alla realtà cui si riferisce.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La teoria della corrispondenza concepisce la verità come relazione tra un enunciato e il modo in cui stanno le cose. Una proposizione è vera se descrive correttamente un fatto, falsa se non vi corrisponde. Forme di questa concezione sono presenti nella tradizione aristotelica e in numerose teorie contemporanee."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La difficoltà consiste nello spiegare che cosa siano i fatti e quale relazione colleghi linguaggio e mondo. Le versioni contemporanee distinguono corrispondenza, soddisfazione e riferimento; le teorie rivali, come quelle coerentiste e pragmatiche, contestano che la relazione possa essere definita senza presupporre già la verità."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale in logica, metafisica ed epistemologia. Il confronto con altre teorie della verità chiarisce il rapporto tra enunciati, realtà, significato e condizioni di verifica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La teoria della corrispondenza concepisce la verità come relazione tra un enunciato e il modo in cui stanno le cose. Una proposizione è vera se descrive correttamente un fatto, falsa se non vi corrisponde. Forme di questa concezione sono presenti nella tradizione aristotelica e in numerose teorie contemporanee.",
+      "La difficoltà consiste nello spiegare che cosa siano i fatti e quale relazione colleghi linguaggio e mondo. Le versioni contemporanee distinguono corrispondenza, soddisfazione e riferimento; le teorie rivali, come quelle coerentiste e pragmatiche, contestano che la relazione possa essere definita senza presupporre già la verità.",
+      "Il concetto è centrale in logica, metafisica ed epistemologia. Il confronto con altre teorie della verità chiarisce il rapporto tra enunciati, realtà, significato e condizioni di verifica."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Verità per corrispondenza",
+        "explanation": "Teoria secondo cui una proposizione è vera quando corrisponde ai fatti o alla realtà cui si riferisce."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
