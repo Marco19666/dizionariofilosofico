@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 import SearchAutocomplete from "@/components/search-autocomplete";
 
 import { entries, terms } from "@/data/catalog";
@@ -9,8 +10,15 @@ const areas = ["Tutte le aree", ...Array.from(new Set(entries.map((entry) => ent
   const suggestions = Array.from(new Set([...entries.map((entry) => entry.title), ...entries.flatMap((entry) => entry.tags), ...terms.map((item) => item.term)]));
 
 export default function Home() {
+  const router = useRouter();
   const [query, setQuery] = useState("");
   const [area, setArea] = useState("Tutte le aree");
+  function handleSearchSelect(value: string) {
+    const match = entries.find((entry) => entry.title.toLocaleLowerCase("it") === value.toLocaleLowerCase("it"));
+    if (match) router.push(`/enciclopedia/${match.slug}`);
+    else document.getElementById("entry-results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
   const filtered = useMemo(() => {
     const q = query.trim().toLocaleLowerCase("it");
     return entries.filter((entry) => {
@@ -44,11 +52,11 @@ export default function Home() {
         <div className="section-heading"><div><p className="eyebrow">Il repertorio</p><h2>Esplora l&apos;enciclopedia</h2></div><span className="entry-count">{filtered.length} di {entries.length} voci</span></div>
         <div className="search-panel">
           <label className="search-label" htmlFor="entry-search">Cerca nel dizionario</label>
-          <SearchAutocomplete id="entry-search" label="Cerca nel dizionario" placeholder="Autore, concetto, opera, tradizione…" value={query} onChange={setQuery} options={suggestions} />
+          <SearchAutocomplete id="entry-search" label="Cerca nel dizionario" placeholder="Autore, concetto, opera, tradizione…" value={query} onChange={setQuery} onSelect={handleSearchSelect} options={suggestions} />
           <label className="filter-label" htmlFor="area-filter">Area culturale</label>
           <select id="area-filter" value={area} onChange={(e) => setArea(e.target.value)}>{areas.map((item) => <option key={item}>{item}</option>)}</select>
         </div>
-        {filtered.length ? <div className="entry-grid">{filtered.map((entry) => <a className="entry-card" href={`/enciclopedia/${entry.slug}`} key={entry.id}>
+        {filtered.length ? <div className="entry-grid" id="entry-results">{filtered.map((entry) => <a className="entry-card" href={`/enciclopedia/${entry.slug}`} key={entry.id}>
           <div className="card-meta"><span>{entry.kind}</span><span>{entry.id}</span></div><p className="entry-area">{entry.area}</p><h3>{entry.title}</h3><p className="entry-period">{entry.period}</p><p className="entry-description">{entry.summary}</p>
           <div className="tag-list">{entry.tags.map((tag) => <span key={tag}>{tag}</span>)}</div><span className="card-foot">Apri la scheda ↗</span>
         </a>)}</div> : <p className="empty-state">Nessuna voce trovata. Prova un altro termine o modifica il filtro.</p>}
