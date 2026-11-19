@@ -516,7 +516,3108 @@ export const entries: EncyclopediaEntry[] = [
   {"slug":"leopold-sedar-senghor","id":"AUT-000448","kind":"autore","title":"Léopold Sédar Senghor","subtitle":"Léopold Sédar Senghor: contesto, opere e problemi filosofici","area":"Pensiero africano","period":"1906–2001","summary":"Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Négritude e umanesimo richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Négritude e umanesimo. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Léopold Sédar Senghor è una figura di riferimento per pensiero africano. La sua opera Négritude e umanesimo permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1906–2001, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Léopold Sédar Senghor."],"tags":["Pensiero africano","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Léopold Sédar Senghor, Négritude e umanesimo.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Léopold Sédar Senghor.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Négritude e umanesimo","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1906–2001","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"huang-zongxi","id":"AUT-000449","kind":"autore","title":"Huang Zongxi","subtitle":"Huang Zongxi: contesto, opere e problemi filosofici","area":"Filosofia cinese moderna","period":"1610–1695","summary":"Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Il piano per il principe in attesa richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Il piano per il principe in attesa. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Huang Zongxi è una figura di riferimento per filosofia cinese moderna. La sua opera Il piano per il principe in attesa permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1610–1695, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Huang Zongxi."],"tags":["Filosofia cinese moderna","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Huang Zongxi, Il piano per il principe in attesa.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Huang Zongxi.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Il piano per il principe in attesa","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1610–1695","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"},
   {"slug":"wang-fuzhi","id":"AUT-000450","kind":"autore","title":"Wang Fuzhi","subtitle":"Wang Fuzhi: contesto, opere e problemi filosofici","area":"Filosofia cinese moderna","period":"1619–1692","summary":"Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","sections":[{"heading":"Profilo storico","paragraphs":["Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","La ricostruzione del profilo richiede di distinguere i dati biografici attestati, le testimonianze disponibili e le interpretazioni storiografiche successive. Il contesto linguistico, istituzionale e politico è parte integrante della lettura filosofica."]},{"heading":"Temi e problemi","paragraphs":["L’analisi di Commentari ai classici richiede di ricostruire le tesi attraverso argomenti, fonti e controversie, evitando di trasformare una formula sintetica in un sistema chiuso.","È necessario distinguere le formulazioni dell’autore dalle sistemazioni scolastiche, dalle traduzioni e dalle interpretazioni moderne."]},{"heading":"Opere, ricezione e questioni interpretative","paragraphs":["Un testo di riferimento è Commentari ai classici. Per valutarne la portata occorre considerare genere, destinatari, storia della trasmissione e contesto di composizione.","La ricezione è variata secondo epoche e tradizioni: confronti e analogie sono utili se non cancellano differenze storiche, linguistiche e concettuali."]}],"thoughtAnalysis":["Wang Fuzhi è una figura di riferimento per filosofia cinese moderna. La sua opera Commentari ai classici permette di ricostruire problemi, lessico e pratiche intellettuali del periodo 1619–1692, nel loro contesto storico e nella ricezione successiva.","Una lettura storico-filosofica rigorosa mette in rapporto concetti, argomentazioni e condizioni di produzione dei testi associati a Wang Fuzhi."],"tags":["Filosofia cinese moderna","storia della filosofia","filosofia comparata"],"related":[],"bibliography":[{"label":"Wang Fuzhi, Commentari ai classici.","note":"Testo primario o opera di riferimento. Verificare edizione critica, traduzione, curatela e dati editoriali prima di fissare una citazione bibliografica definitiva.","type":"Testo primario / traduzione"},{"label":"Studi storico-filosofici su Wang Fuzhi.","note":"Voce di orientamento: integrare con monografie e articoli specialistici identificati e verificati in cataloghi e repertori accademici.","type":"Studio secondario"}],"keyTerms":[{"term":"Contesto storico","explanation":"Coordinate linguistiche, politiche e istituzionali necessarie a interpretare i testi."},{"term":"Ricezione","explanation":"Trasformazioni e letture successive dell’opera in tradizioni e ambienti differenti."}],"works":[{"title":"Commentari ai classici","note":"Opera o testo di riferimento; verificare attribuzione, titolo dell’edizione e traduzione adottata."}],"timeline":[{"date":"1619–1692","event":"Attività intellettuale collocata nel periodo indicato; cronologia e dettagli biografici da precisare sulla base delle fonti."}],"editorialStatus":"edizione editoriale 1.0"}
- ];
+ ,
+  {
+    slug: "causalita", id: "CON-000007", kind: "concetto",
+    title: "Causalità", subtitle: "Causalità: significati, problemi e contesti", area: "Metafisica e filosofia della scienza", period: "Problema trasversale",
+    summary: "La causalità riguarda i modi in cui eventi, processi o stati dipendono da altri. Le teorie filosofiche distinguono regolarità, necessità, poteri causali e spiegazione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La causalità riguarda i modi in cui eventi, processi o stati dipendono da altri. Le teorie filosofiche distinguono regolarità, necessità, poteri causali e spiegazione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La causalità riguarda i modi in cui eventi, processi o stati dipendono da altri. Le teorie filosofiche distinguono regolarità, necessità, poteri causali e spiegazione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Causalità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su causalità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Causalità", explanation: "La causalità riguarda i modi in cui eventi, processi o stati dipendono da altri. Le teorie filosofiche distinguono regolarità, necessità, poteri causali e spiegazione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "necessita", id: "CON-000008", kind: "concetto",
+    title: "Necessità", subtitle: "Necessità: significati, problemi e contesti", area: "Logica e metafisica", period: "Tradizioni antiche e moderne",
+    summary: "La necessità può essere logica, metafisica, nomologica o pratica. Confondere questi significati porta a identificare ciò che non può essere altrimenti con ciò che è soltanto stabile o previsto.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La necessità può essere logica, metafisica, nomologica o pratica. Confondere questi significati porta a identificare ciò che non può essere altrimenti con ciò che è soltanto stabile o previsto.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La necessità può essere logica, metafisica, nomologica o pratica. Confondere questi significati porta a identificare ciò che non può essere altrimenti con ciò che è soltanto stabile o previsto. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Necessità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su necessità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Necessità", explanation: "La necessità può essere logica, metafisica, nomologica o pratica. Confondere questi significati porta a identificare ciò che non può essere altrimenti con ciò che è soltanto stabile o previsto." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "contingenza", id: "CON-000009", kind: "concetto",
+    title: "Contingenza", subtitle: "Contingenza: significati, problemi e contesti", area: "Metafisica", period: "Tradizioni antiche e medievali",
+    summary: "La contingenza indica ciò che può essere o accadere altrimenti. Il suo rapporto con causalità, libertà e provvidenza è stato discusso in molte tradizioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La contingenza indica ciò che può essere o accadere altrimenti. Il suo rapporto con causalità, libertà e provvidenza è stato discusso in molte tradizioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La contingenza indica ciò che può essere o accadere altrimenti. Il suo rapporto con causalità, libertà e provvidenza è stato discusso in molte tradizioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Contingenza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su contingenza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Contingenza", explanation: "La contingenza indica ciò che può essere o accadere altrimenti. Il suo rapporto con causalità, libertà e provvidenza è stato discusso in molte tradizioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e medievali", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "liberta", id: "CON-000010", kind: "concetto",
+    title: "Libertà", subtitle: "Libertà: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Problema trasversale",
+    summary: "La libertà può indicare assenza di coercizione, autodeterminazione, autonomia o capacità effettiva di agire. Le teorie divergono su come conciliarla con causalità e istituzioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La libertà può indicare assenza di coercizione, autodeterminazione, autonomia o capacità effettiva di agire. Le teorie divergono su come conciliarla con causalità e istituzioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La libertà può indicare assenza di coercizione, autodeterminazione, autonomia o capacità effettiva di agire. Le teorie divergono su come conciliarla con causalità e istituzioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Libertà", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su libertà", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Libertà", explanation: "La libertà può indicare assenza di coercizione, autodeterminazione, autonomia o capacità effettiva di agire. Le teorie divergono su come conciliarla con causalità e istituzioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "determinismo", id: "CON-000011", kind: "concetto",
+    title: "Determinismo", subtitle: "Determinismo: significati, problemi e contesti", area: "Metafisica e filosofia della scienza", period: "Età moderna e contemporanea",
+    summary: "Il determinismo sostiene che, date certe condizioni e leggi, il corso degli eventi sia fissato. Non coincide automaticamente con fatalismo o previsione infallibile.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il determinismo sostiene che, date certe condizioni e leggi, il corso degli eventi sia fissato. Non coincide automaticamente con fatalismo o previsione infallibile.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il determinismo sostiene che, date certe condizioni e leggi, il corso degli eventi sia fissato. Non coincide automaticamente con fatalismo o previsione infallibile. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Determinismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su determinismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Determinismo", explanation: "Il determinismo sostiene che, date certe condizioni e leggi, il corso degli eventi sia fissato. Non coincide automaticamente con fatalismo o previsione infallibile." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "identita-personale", id: "CON-000012", kind: "concetto",
+    title: "Identità personale", subtitle: "Identità personale: significati, problemi e contesti", area: "Filosofia della mente", period: "Dall'antichità alla contemporaneità",
+    summary: "L'identità personale riguarda ciò che rende una persona la stessa nel tempo. Memoria, continuità corporea, coscienza e relazioni offrono criteri differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'identità personale riguarda ciò che rende una persona la stessa nel tempo. Memoria, continuità corporea, coscienza e relazioni offrono criteri differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'identità personale riguarda ciò che rende una persona la stessa nel tempo. Memoria, continuità corporea, coscienza e relazioni offrono criteri differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Identità personale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su identità personale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Identità personale", explanation: "L'identità personale riguarda ciò che rende una persona la stessa nel tempo. Memoria, continuità corporea, coscienza e relazioni offrono criteri differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "coscienza", id: "CON-000013", kind: "concetto",
+    title: "Coscienza", subtitle: "Coscienza: significati, problemi e contesti", area: "Filosofia della mente", period: "Problema contemporaneo con antecedenti antichi",
+    summary: "La coscienza comprende esperienza soggettiva, consapevolezza e accesso ai propri stati mentali. La distinzione tra fenomenalità e funzioni cognitive resta centrale.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La coscienza comprende esperienza soggettiva, consapevolezza e accesso ai propri stati mentali. La distinzione tra fenomenalità e funzioni cognitive resta centrale.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La coscienza comprende esperienza soggettiva, consapevolezza e accesso ai propri stati mentali. La distinzione tra fenomenalità e funzioni cognitive resta centrale. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Coscienza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su coscienza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Coscienza", explanation: "La coscienza comprende esperienza soggettiva, consapevolezza e accesso ai propri stati mentali. La distinzione tra fenomenalità e funzioni cognitive resta centrale." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema contemporaneo con antecedenti antichi", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "mente-corpo", id: "CON-000014", kind: "concetto",
+    title: "Mente e corpo", subtitle: "Mente e corpo: significati, problemi e contesti", area: "Filosofia della mente", period: "Dall'antichità alla contemporaneità",
+    summary: "Il problema mente-corpo interroga il rapporto tra esperienza, pensiero e organismo. Dualismo, materialismo, idealismo e teorie incarnate propongono risposte differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il problema mente-corpo interroga il rapporto tra esperienza, pensiero e organismo. Dualismo, materialismo, idealismo e teorie incarnate propongono risposte differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il problema mente-corpo interroga il rapporto tra esperienza, pensiero e organismo. Dualismo, materialismo, idealismo e teorie incarnate propongono risposte differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Mente e corpo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su mente e corpo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Mente e corpo", explanation: "Il problema mente-corpo interroga il rapporto tra esperienza, pensiero e organismo. Dualismo, materialismo, idealismo e teorie incarnate propongono risposte differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "intenzionalita", id: "CON-000015", kind: "concetto",
+    title: "Intenzionalità", subtitle: "Intenzionalità: significati, problemi e contesti", area: "Fenomenologia e filosofia della mente", period: "Medioevo, fenomenologia e dibattito contemporaneo",
+    summary: "L'intenzionalità è la direzionalità della mente verso oggetti, stati di cose o significati. Il termine ha storie diverse nella scolastica e nella fenomenologia.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'intenzionalità è la direzionalità della mente verso oggetti, stati di cose o significati. Il termine ha storie diverse nella scolastica e nella fenomenologia.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'intenzionalità è la direzionalità della mente verso oggetti, stati di cose o significati. Il termine ha storie diverse nella scolastica e nella fenomenologia. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Fenomenologia e filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Intenzionalità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su intenzionalità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Intenzionalità", explanation: "L'intenzionalità è la direzionalità della mente verso oggetti, stati di cose o significati. Il termine ha storie diverse nella scolastica e nella fenomenologia." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Medioevo, fenomenologia e dibattito contemporaneo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "percezione", id: "CON-000016", kind: "concetto",
+    title: "Percezione", subtitle: "Percezione: significati, problemi e contesti", area: "Epistemologia e filosofia della mente", period: "Tradizioni antiche e moderne",
+    summary: "La percezione riguarda il modo in cui il mondo si presenta attraverso i sensi. Le teorie discutono il rapporto tra dati sensoriali, oggetti, concetti e attività del soggetto.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La percezione riguarda il modo in cui il mondo si presenta attraverso i sensi. Le teorie discutono il rapporto tra dati sensoriali, oggetti, concetti e attività del soggetto.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La percezione riguarda il modo in cui il mondo si presenta attraverso i sensi. Le teorie discutono il rapporto tra dati sensoriali, oggetti, concetti e attività del soggetto. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia e filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Percezione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su percezione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Percezione", explanation: "La percezione riguarda il modo in cui il mondo si presenta attraverso i sensi. Le teorie discutono il rapporto tra dati sensoriali, oggetti, concetti e attività del soggetto." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "memoria", id: "CON-000017", kind: "concetto",
+    title: "Memoria", subtitle: "Memoria: significati, problemi e contesti", area: "Filosofia della mente e del tempo", period: "Dall'antichità alla contemporaneità",
+    summary: "La memoria collega esperienza passata e identità presente, ma può essere ricostruttiva, selettiva e socialmente mediata. Le sue funzioni epistemiche ed etiche sono distinte.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La memoria collega esperienza passata e identità presente, ma può essere ricostruttiva, selettiva e socialmente mediata. Le sue funzioni epistemiche ed etiche sono distinte.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La memoria collega esperienza passata e identità presente, ma può essere ricostruttiva, selettiva e socialmente mediata. Le sue funzioni epistemiche ed etiche sono distinte. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della mente e del tempo", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Memoria", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su memoria", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Memoria", explanation: "La memoria collega esperienza passata e identità presente, ma può essere ricostruttiva, selettiva e socialmente mediata. Le sue funzioni epistemiche ed etiche sono distinte." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "immaginazione", id: "CON-000018", kind: "concetto",
+    title: "Immaginazione", subtitle: "Immaginazione: significati, problemi e contesti", area: "Estetica e filosofia della mente", period: "Tradizioni antiche e moderne",
+    summary: "L'immaginazione produce, combina o trasforma rappresentazioni non immediatamente presenti. Il suo ruolo varia tra conoscenza, creatività, desiderio e finzione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'immaginazione produce, combina o trasforma rappresentazioni non immediatamente presenti. Il suo ruolo varia tra conoscenza, creatività, desiderio e finzione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'immaginazione produce, combina o trasforma rappresentazioni non immediatamente presenti. Il suo ruolo varia tra conoscenza, creatività, desiderio e finzione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Estetica e filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Immaginazione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su immaginazione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Immaginazione", explanation: "L'immaginazione produce, combina o trasforma rappresentazioni non immediatamente presenti. Il suo ruolo varia tra conoscenza, creatività, desiderio e finzione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "linguaggio", id: "CON-000019", kind: "concetto",
+    title: "Linguaggio", subtitle: "Linguaggio: significati, problemi e contesti", area: "Filosofia del linguaggio", period: "Antichità e dibattito contemporaneo",
+    summary: "Il linguaggio è insieme sistema di segni, pratica sociale e mezzo di articolazione del pensiero. Le teorie ne studiano riferimento, significato, uso e potere performativo.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il linguaggio è insieme sistema di segni, pratica sociale e mezzo di articolazione del pensiero. Le teorie ne studiano riferimento, significato, uso e potere performativo.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il linguaggio è insieme sistema di segni, pratica sociale e mezzo di articolazione del pensiero. Le teorie ne studiano riferimento, significato, uso e potere performativo. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia del linguaggio", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Linguaggio", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su linguaggio", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Linguaggio", explanation: "Il linguaggio è insieme sistema di segni, pratica sociale e mezzo di articolazione del pensiero. Le teorie ne studiano riferimento, significato, uso e potere performativo." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e dibattito contemporaneo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "significato", id: "CON-000020", kind: "concetto",
+    title: "Significato", subtitle: "Significato: significati, problemi e contesti", area: "Filosofia del linguaggio", period: "Dall'antichità alla contemporaneità",
+    summary: "Il significato può essere studiato come riferimento, contenuto mentale, ruolo inferenziale o uso in pratiche condivise. Nessuna di queste prospettive esaurisce tutti i casi.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il significato può essere studiato come riferimento, contenuto mentale, ruolo inferenziale o uso in pratiche condivise. Nessuna di queste prospettive esaurisce tutti i casi.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il significato può essere studiato come riferimento, contenuto mentale, ruolo inferenziale o uso in pratiche condivise. Nessuna di queste prospettive esaurisce tutti i casi. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia del linguaggio", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Significato", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su significato", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Significato", explanation: "Il significato può essere studiato come riferimento, contenuto mentale, ruolo inferenziale o uso in pratiche condivise. Nessuna di queste prospettive esaurisce tutti i casi." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "verita", id: "CON-000021", kind: "concetto",
+    title: "Verità", subtitle: "Verità: significati, problemi e contesti", area: "Logica ed epistemologia", period: "Problema trasversale",
+    summary: "Le teorie della verità includono corrispondenza, coerenza, pragmatismo, deflazionismo e concezioni semantiche. Occorre distinguere verità di proposizioni, sincerità e autenticità.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Le teorie della verità includono corrispondenza, coerenza, pragmatismo, deflazionismo e concezioni semantiche. Occorre distinguere verità di proposizioni, sincerità e autenticità.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Le teorie della verità includono corrispondenza, coerenza, pragmatismo, deflazionismo e concezioni semantiche. Occorre distinguere verità di proposizioni, sincerità e autenticità. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica ed epistemologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Verità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su verità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Verità", explanation: "Le teorie della verità includono corrispondenza, coerenza, pragmatismo, deflazionismo e concezioni semantiche. Occorre distinguere verità di proposizioni, sincerità e autenticità." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "opinione", id: "CON-000022", kind: "concetto",
+    title: "Opinione", subtitle: "Opinione: significati, problemi e contesti", area: "Epistemologia", period: "Tradizioni antiche e moderne",
+    summary: "L'opinione è spesso distinta dalla conoscenza, ma può avere gradi di giustificazione e affidabilità. La distinzione assume significati differenti nei dialoghi platonici e nelle teorie moderne.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'opinione è spesso distinta dalla conoscenza, ma può avere gradi di giustificazione e affidabilità. La distinzione assume significati differenti nei dialoghi platonici e nelle teorie moderne.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'opinione è spesso distinta dalla conoscenza, ma può avere gradi di giustificazione e affidabilità. La distinzione assume significati differenti nei dialoghi platonici e nelle teorie moderne. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Opinione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su opinione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Opinione", explanation: "L'opinione è spesso distinta dalla conoscenza, ma può avere gradi di giustificazione e affidabilità. La distinzione assume significati differenti nei dialoghi platonici e nelle teorie moderne." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "conoscenza", id: "CON-000023", kind: "concetto",
+    title: "Conoscenza", subtitle: "Conoscenza: significati, problemi e contesti", area: "Epistemologia", period: "Problema trasversale",
+    summary: "La conoscenza è stata analizzata come credenza vera giustificata, capacità affidabile, comprensione o pratica situata. Le definizioni classiche sono oggetto di controesempi e revisioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La conoscenza è stata analizzata come credenza vera giustificata, capacità affidabile, comprensione o pratica situata. Le definizioni classiche sono oggetto di controesempi e revisioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La conoscenza è stata analizzata come credenza vera giustificata, capacità affidabile, comprensione o pratica situata. Le definizioni classiche sono oggetto di controesempi e revisioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Conoscenza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su conoscenza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Conoscenza", explanation: "La conoscenza è stata analizzata come credenza vera giustificata, capacità affidabile, comprensione o pratica situata. Le definizioni classiche sono oggetto di controesempi e revisioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "scetticismo", id: "CON-000024", kind: "concetto",
+    title: "Scetticismo", subtitle: "Scetticismo: significati, problemi e contesti", area: "Epistemologia", period: "Antichità e modernità",
+    summary: "Lo scetticismo mette in questione la possibilità o la giustificazione della conoscenza. Le sue forme vanno distinte: sospensione del giudizio, dubbio metodico e critica dei fondamenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Lo scetticismo mette in questione la possibilità o la giustificazione della conoscenza. Le sue forme vanno distinte: sospensione del giudizio, dubbio metodico e critica dei fondamenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Lo scetticismo mette in questione la possibilità o la giustificazione della conoscenza. Le sue forme vanno distinte: sospensione del giudizio, dubbio metodico e critica dei fondamenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Scetticismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su scetticismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Scetticismo", explanation: "Lo scetticismo mette in questione la possibilità o la giustificazione della conoscenza. Le sue forme vanno distinte: sospensione del giudizio, dubbio metodico e critica dei fondamenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "ragione", id: "CON-000025", kind: "concetto",
+    title: "Ragione", subtitle: "Ragione: significati, problemi e contesti", area: "Epistemologia ed etica", period: "Tradizioni antiche e moderne",
+    summary: "La ragione designa facoltà di inferenza, giustificazione e deliberazione, ma anche ideali storici di razionalità. Il suo rapporto con emozioni e pratiche è controverso.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La ragione designa facoltà di inferenza, giustificazione e deliberazione, ma anche ideali storici di razionalità. Il suo rapporto con emozioni e pratiche è controverso.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La ragione designa facoltà di inferenza, giustificazione e deliberazione, ma anche ideali storici di razionalità. Il suo rapporto con emozioni e pratiche è controverso. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia ed etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Ragione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su ragione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Ragione", explanation: "La ragione designa facoltà di inferenza, giustificazione e deliberazione, ma anche ideali storici di razionalità. Il suo rapporto con emozioni e pratiche è controverso." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "intuizione", id: "CON-000026", kind: "concetto",
+    title: "Intuizione", subtitle: "Intuizione: significati, problemi e contesti", area: "Epistemologia", period: "Tradizioni antiche e contemporanee",
+    summary: "L'intuizione può indicare apprensione immediata, giudizio non inferenziale o competenza tacita. Le teorie differiscono sul suo valore probatorio e sulla sua affidabilità.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'intuizione può indicare apprensione immediata, giudizio non inferenziale o competenza tacita. Le teorie differiscono sul suo valore probatorio e sulla sua affidabilità.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'intuizione può indicare apprensione immediata, giudizio non inferenziale o competenza tacita. Le teorie differiscono sul suo valore probatorio e sulla sua affidabilità. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Intuizione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su intuizione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Intuizione", explanation: "L'intuizione può indicare apprensione immediata, giudizio non inferenziale o competenza tacita. Le teorie differiscono sul suo valore probatorio e sulla sua affidabilità." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "induzione", id: "CON-000027", kind: "concetto",
+    title: "Induzione", subtitle: "Induzione: significati, problemi e contesti", area: "Logica e filosofia della scienza", period: "Antichità e modernità",
+    summary: "L'induzione generalizza da casi osservati o formula ipotesi sulla base di evidenze. Il problema classico riguarda la giustificazione del passaggio dal passato al futuro.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'induzione generalizza da casi osservati o formula ipotesi sulla base di evidenze. Il problema classico riguarda la giustificazione del passaggio dal passato al futuro.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'induzione generalizza da casi osservati o formula ipotesi sulla base di evidenze. Il problema classico riguarda la giustificazione del passaggio dal passato al futuro. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Induzione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su induzione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Induzione", explanation: "L'induzione generalizza da casi osservati o formula ipotesi sulla base di evidenze. Il problema classico riguarda la giustificazione del passaggio dal passato al futuro." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "deduzione", id: "CON-000028", kind: "concetto",
+    title: "Deduzione", subtitle: "Deduzione: significati, problemi e contesti", area: "Logica", period: "Dall'antichità alla contemporaneità",
+    summary: "La deduzione è un'inferenza in cui la verità delle premesse garantisce quella della conclusione. La validità formale va distinta dalla verità delle premesse.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La deduzione è un'inferenza in cui la verità delle premesse garantisce quella della conclusione. La validità formale va distinta dalla verità delle premesse.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La deduzione è un'inferenza in cui la verità delle premesse garantisce quella della conclusione. La validità formale va distinta dalla verità delle premesse. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Deduzione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su deduzione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Deduzione", explanation: "La deduzione è un'inferenza in cui la verità delle premesse garantisce quella della conclusione. La validità formale va distinta dalla verità delle premesse." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "abduzione", id: "CON-000029", kind: "concetto",
+    title: "Abduzione", subtitle: "Abduzione: significati, problemi e contesti", area: "Logica e filosofia della scienza", period: "Età moderna e contemporanea",
+    summary: "L'abduzione è inferenza alla migliore spiegazione: propone ipotesi che rendono intelligibili i dati. Non garantisce la verità della conclusione e richiede controllo ulteriore.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'abduzione è inferenza alla migliore spiegazione: propone ipotesi che rendono intelligibili i dati. Non garantisce la verità della conclusione e richiede controllo ulteriore.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'abduzione è inferenza alla migliore spiegazione: propone ipotesi che rendono intelligibili i dati. Non garantisce la verità della conclusione e richiede controllo ulteriore. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Abduzione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su abduzione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Abduzione", explanation: "L'abduzione è inferenza alla migliore spiegazione: propone ipotesi che rendono intelligibili i dati. Non garantisce la verità della conclusione e richiede controllo ulteriore." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "dialettica", id: "CON-000030", kind: "concetto",
+    title: "Dialettica", subtitle: "Dialettica: significati, problemi e contesti", area: "Logica e metafisica", period: "Tradizioni greche e sviluppi successivi",
+    summary: "Dialettica indica pratiche di confronto argomentativo e, in alcune filosofie, il movimento delle determinazioni concettuali. I significati platonico, aristotelico, hegeliano e marxiano non sono identici.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Dialettica indica pratiche di confronto argomentativo e, in alcune filosofie, il movimento delle determinazioni concettuali. I significati platonico, aristotelico, hegeliano e marxiano non sono identici.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Dialettica indica pratiche di confronto argomentativo e, in alcune filosofie, il movimento delle determinazioni concettuali. I significati platonico, aristotelico, hegeliano e marxiano non sono identici. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Dialettica", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su dialettica", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Dialettica", explanation: "Dialettica indica pratiche di confronto argomentativo e, in alcune filosofie, il movimento delle determinazioni concettuali. I significati platonico, aristotelico, hegeliano e marxiano non sono identici." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni greche e sviluppi successivi", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "contraddizione", id: "CON-000031", kind: "concetto",
+    title: "Contraddizione", subtitle: "Contraddizione: significati, problemi e contesti", area: "Logica e metafisica", period: "Tradizioni antiche e contemporanee",
+    summary: "La contraddizione riguarda l'affermazione e la negazione dello stesso contenuto sotto il medesimo rispetto. Le logiche non classiche studiano come trattare sistemi inconsistenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La contraddizione riguarda l'affermazione e la negazione dello stesso contenuto sotto il medesimo rispetto. Le logiche non classiche studiano come trattare sistemi inconsistenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La contraddizione riguarda l'affermazione e la negazione dello stesso contenuto sotto il medesimo rispetto. Le logiche non classiche studiano come trattare sistemi inconsistenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Contraddizione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su contraddizione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Contraddizione", explanation: "La contraddizione riguarda l'affermazione e la negazione dello stesso contenuto sotto il medesimo rispetto. Le logiche non classiche studiano come trattare sistemi inconsistenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "paradosso", id: "CON-000032", kind: "concetto",
+    title: "Paradosso", subtitle: "Paradosso: significati, problemi e contesti", area: "Logica e filosofia del linguaggio", period: "Dall'antichità alla contemporaneità",
+    summary: "Un paradosso conduce a una conclusione controintuitiva o a una tensione tra premesse plausibili. I paradossi possono rivelare limiti di concetti e teorie.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Un paradosso conduce a una conclusione controintuitiva o a una tensione tra premesse plausibili. I paradossi possono rivelare limiti di concetti e teorie.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Un paradosso conduce a una conclusione controintuitiva o a una tensione tra premesse plausibili. I paradossi possono rivelare limiti di concetti e teorie. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica e filosofia del linguaggio", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Paradosso", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su paradosso", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Paradosso", explanation: "Un paradosso conduce a una conclusione controintuitiva o a una tensione tra premesse plausibili. I paradossi possono rivelare limiti di concetti e teorie." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Dall'antichità alla contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "universali", id: "CON-000033", kind: "concetto",
+    title: "Universali", subtitle: "Universali: significati, problemi e contesti", area: "Metafisica e logica", period: "Antichità e medioevo",
+    summary: "Il problema degli universali riguarda lo statuto di proprietà e generi comuni a più individui. Realismo, nominalismo e concettualismo offrono soluzioni differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il problema degli universali riguarda lo statuto di proprietà e generi comuni a più individui. Realismo, nominalismo e concettualismo offrono soluzioni differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il problema degli universali riguarda lo statuto di proprietà e generi comuni a più individui. Realismo, nominalismo e concettualismo offrono soluzioni differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e logica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Universali", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su universali", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Universali", explanation: "Il problema degli universali riguarda lo statuto di proprietà e generi comuni a più individui. Realismo, nominalismo e concettualismo offrono soluzioni differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e medioevo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "sostanza", id: "CON-000034", kind: "concetto",
+    title: "Sostanza", subtitle: "Sostanza: significati, problemi e contesti", area: "Metafisica", period: "Aristotele e tradizioni successive",
+    summary: "La sostanza è ciò che esiste in un senso fondamentale o funge da soggetto di proprietà. Il suo statuto varia tra metafisica aristotelica, scolastica e moderna.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La sostanza è ciò che esiste in un senso fondamentale o funge da soggetto di proprietà. Il suo statuto varia tra metafisica aristotelica, scolastica e moderna.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La sostanza è ciò che esiste in un senso fondamentale o funge da soggetto di proprietà. Il suo statuto varia tra metafisica aristotelica, scolastica e moderna. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Sostanza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su sostanza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Sostanza", explanation: "La sostanza è ciò che esiste in un senso fondamentale o funge da soggetto di proprietà. Il suo statuto varia tra metafisica aristotelica, scolastica e moderna." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Aristotele e tradizioni successive", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "essenza", id: "CON-000035", kind: "concetto",
+    title: "Essenza", subtitle: "Essenza: significati, problemi e contesti", area: "Metafisica", period: "Tradizioni antiche e medievali",
+    summary: "L'essenza risponde alla domanda su che cosa una cosa è. Il rapporto tra essenza, esistenza e definizione è stato rielaborato in contesti greci, arabi, latini e moderni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'essenza risponde alla domanda su che cosa una cosa è. Il rapporto tra essenza, esistenza e definizione è stato rielaborato in contesti greci, arabi, latini e moderni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'essenza risponde alla domanda su che cosa una cosa è. Il rapporto tra essenza, esistenza e definizione è stato rielaborato in contesti greci, arabi, latini e moderni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Essenza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su essenza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Essenza", explanation: "L'essenza risponde alla domanda su che cosa una cosa è. Il rapporto tra essenza, esistenza e definizione è stato rielaborato in contesti greci, arabi, latini e moderni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e medievali", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "esistenza", id: "CON-000036", kind: "concetto",
+    title: "Esistenza", subtitle: "Esistenza: significati, problemi e contesti", area: "Metafisica", period: "Tradizioni medievali e moderne",
+    summary: "L'esistenza riguarda il fatto che qualcosa sia, ma il suo statuto logico e ontologico è controverso. Non va confusa con una proprietà ordinaria in ogni teoria.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'esistenza riguarda il fatto che qualcosa sia, ma il suo statuto logico e ontologico è controverso. Non va confusa con una proprietà ordinaria in ogni teoria.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'esistenza riguarda il fatto che qualcosa sia, ma il suo statuto logico e ontologico è controverso. Non va confusa con una proprietà ordinaria in ogni teoria. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Esistenza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su esistenza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Esistenza", explanation: "L'esistenza riguarda il fatto che qualcosa sia, ma il suo statuto logico e ontologico è controverso. Non va confusa con una proprietà ordinaria in ogni teoria." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni medievali e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "possibilita", id: "CON-000037", kind: "concetto",
+    title: "Possibilità", subtitle: "Possibilità: significati, problemi e contesti", area: "Logica modale e metafisica", period: "Tradizioni antiche e moderne",
+    summary: "La possibilità può essere logica, metafisica, fisica o pratica. Le logiche modali formalizzano alcune relazioni tra possibilità e necessità.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La possibilità può essere logica, metafisica, fisica o pratica. Le logiche modali formalizzano alcune relazioni tra possibilità e necessità.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La possibilità può essere logica, metafisica, fisica o pratica. Le logiche modali formalizzano alcune relazioni tra possibilità e necessità. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Logica modale e metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Possibilità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su possibilità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Possibilità", explanation: "La possibilità può essere logica, metafisica, fisica o pratica. Le logiche modali formalizzano alcune relazioni tra possibilità e necessità." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "tempo", id: "CON-000038", kind: "concetto",
+    title: "Tempo", subtitle: "Tempo: significati, problemi e contesti", area: "Metafisica e filosofia della natura", period: "Tradizioni antiche e contemporanee",
+    summary: "Il tempo è stato concepito come misura del movimento, forma dell'intuizione, durata vissuta o dimensione dello spazio-tempo. Le teorie divergono su passato, presente e futuro.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il tempo è stato concepito come misura del movimento, forma dell'intuizione, durata vissuta o dimensione dello spazio-tempo. Le teorie divergono su passato, presente e futuro.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il tempo è stato concepito come misura del movimento, forma dell'intuizione, durata vissuta o dimensione dello spazio-tempo. Le teorie divergono su passato, presente e futuro. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della natura", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Tempo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su tempo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Tempo", explanation: "Il tempo è stato concepito come misura del movimento, forma dell'intuizione, durata vissuta o dimensione dello spazio-tempo. Le teorie divergono su passato, presente e futuro." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "spazio", id: "CON-000039", kind: "concetto",
+    title: "Spazio", subtitle: "Spazio: significati, problemi e contesti", area: "Metafisica e filosofia della scienza", period: "Tradizioni antiche e moderne",
+    summary: "Lo spazio può essere inteso come contenitore, sistema di relazioni, forma dell'intuizione o struttura fisica. Le concezioni filosofiche si trasformano con la matematica e la fisica.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Lo spazio può essere inteso come contenitore, sistema di relazioni, forma dell'intuizione o struttura fisica. Le concezioni filosofiche si trasformano con la matematica e la fisica.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Lo spazio può essere inteso come contenitore, sistema di relazioni, forma dell'intuizione o struttura fisica. Le concezioni filosofiche si trasformano con la matematica e la fisica. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Spazio", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su spazio", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Spazio", explanation: "Lo spazio può essere inteso come contenitore, sistema di relazioni, forma dell'intuizione o struttura fisica. Le concezioni filosofiche si trasformano con la matematica e la fisica." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "infinito", id: "CON-000040", kind: "concetto",
+    title: "Infinito", subtitle: "Infinito: significati, problemi e contesti", area: "Metafisica e matematica", period: "Antichità e modernità",
+    summary: "L'infinito può essere potenziale o attuale, matematico o metafisico. Le distinzioni antiche e medievali non coincidono con il trattamento della matematica moderna.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'infinito può essere potenziale o attuale, matematico o metafisico. Le distinzioni antiche e medievali non coincidono con il trattamento della matematica moderna.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'infinito può essere potenziale o attuale, matematico o metafisico. Le distinzioni antiche e medievali non coincidono con il trattamento della matematica moderna. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e matematica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Infinito", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su infinito", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Infinito", explanation: "L'infinito può essere potenziale o attuale, matematico o metafisico. Le distinzioni antiche e medievali non coincidono con il trattamento della matematica moderna." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "nulla", id: "CON-000041", kind: "concetto",
+    title: "Nulla e non-essere", subtitle: "Nulla e non-essere: significati, problemi e contesti", area: "Metafisica", period: "Parmenide e tradizioni successive",
+    summary: "Il nulla può indicare negazione, assenza, privazione o non-esistenza. Il problema richiede di distinguere il nulla assoluto dalle forme determinate di negazione e differenza.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il nulla può indicare negazione, assenza, privazione o non-esistenza. Il problema richiede di distinguere il nulla assoluto dalle forme determinate di negazione e differenza.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il nulla può indicare negazione, assenza, privazione o non-esistenza. Il problema richiede di distinguere il nulla assoluto dalle forme determinate di negazione e differenza. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Nulla e non-essere", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su nulla e non-essere", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Nulla e non-essere", explanation: "Il nulla può indicare negazione, assenza, privazione o non-esistenza. Il problema richiede di distinguere il nulla assoluto dalle forme determinate di negazione e differenza." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Parmenide e tradizioni successive", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "materia", id: "CON-000042", kind: "concetto",
+    title: "Materia", subtitle: "Materia: significati, problemi e contesti", area: "Metafisica e filosofia della natura", period: "Tradizioni antiche e moderne",
+    summary: "La materia è stata pensata come sostrato, principio di individuazione, potenzialità o struttura fisica. Le teorie dipendono dalle concezioni di forma, causa e mutamento.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La materia è stata pensata come sostrato, principio di individuazione, potenzialità o struttura fisica. Le teorie dipendono dalle concezioni di forma, causa e mutamento.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La materia è stata pensata come sostrato, principio di individuazione, potenzialità o struttura fisica. Le teorie dipendono dalle concezioni di forma, causa e mutamento. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della natura", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Materia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su materia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Materia", explanation: "La materia è stata pensata come sostrato, principio di individuazione, potenzialità o struttura fisica. Le teorie dipendono dalle concezioni di forma, causa e mutamento." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "forma", id: "CON-000043", kind: "concetto",
+    title: "Forma", subtitle: "Forma: significati, problemi e contesti", area: "Metafisica", period: "Tradizioni greche e medievali",
+    summary: "La forma può essere struttura intelligibile, principio di organizzazione o configurazione di una cosa. Non va identificata senza cautele con la figura geometrica.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La forma può essere struttura intelligibile, principio di organizzazione o configurazione di una cosa. Non va identificata senza cautele con la figura geometrica.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La forma può essere struttura intelligibile, principio di organizzazione o configurazione di una cosa. Non va identificata senza cautele con la figura geometrica. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Forma", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su forma", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Forma", explanation: "La forma può essere struttura intelligibile, principio di organizzazione o configurazione di una cosa. Non va identificata senza cautele con la figura geometrica." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni greche e medievali", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "causa-finale", id: "CON-000044", kind: "concetto",
+    title: "Causa finale", subtitle: "Causa finale: significati, problemi e contesti", area: "Metafisica e filosofia della natura", period: "Aristotele e tradizioni successive",
+    summary: "La causa finale spiega qualcosa in riferimento al fine o alla funzione verso cui tende. Il suo ruolo nella natura è stato contestato dalla scienza moderna e riformulato in altri ambiti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La causa finale spiega qualcosa in riferimento al fine o alla funzione verso cui tende. Il suo ruolo nella natura è stato contestato dalla scienza moderna e riformulato in altri ambiti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La causa finale spiega qualcosa in riferimento al fine o alla funzione verso cui tende. Il suo ruolo nella natura è stato contestato dalla scienza moderna e riformulato in altri ambiti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della natura", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Causa finale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su causa finale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Causa finale", explanation: "La causa finale spiega qualcosa in riferimento al fine o alla funzione verso cui tende. Il suo ruolo nella natura è stato contestato dalla scienza moderna e riformulato in altri ambiti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Aristotele e tradizioni successive", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "teleologia", id: "CON-000045", kind: "concetto",
+    title: "Teleologia", subtitle: "Teleologia: significati, problemi e contesti", area: "Filosofia della natura e della storia", period: "Antichità e modernità",
+    summary: "La teleologia interpreta processi in rapporto a fini, funzioni o direzioni. Occorre distinguere finalità intenzionale, funzione biologica e narrazioni di progresso storico.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La teleologia interpreta processi in rapporto a fini, funzioni o direzioni. Occorre distinguere finalità intenzionale, funzione biologica e narrazioni di progresso storico.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La teleologia interpreta processi in rapporto a fini, funzioni o direzioni. Occorre distinguere finalità intenzionale, funzione biologica e narrazioni di progresso storico. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della natura e della storia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Teleologia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su teleologia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Teleologia", explanation: "La teleologia interpreta processi in rapporto a fini, funzioni o direzioni. Occorre distinguere finalità intenzionale, funzione biologica e narrazioni di progresso storico." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "natura", id: "CON-000046", kind: "concetto",
+    title: "Natura", subtitle: "Natura: significati, problemi e contesti", area: "Metafisica e filosofia della scienza", period: "Tradizioni antiche e moderne",
+    summary: "Natura può significare essenza, insieme dei fenomeni, principio interno di mutamento o ambiente non artificiale. Le opposizioni natura/cultura e natura/tecnica sono storicamente variabili.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Natura può significare essenza, insieme dei fenomeni, principio interno di mutamento o ambiente non artificiale. Le opposizioni natura/cultura e natura/tecnica sono storicamente variabili.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Natura può significare essenza, insieme dei fenomeni, principio interno di mutamento o ambiente non artificiale. Le opposizioni natura/cultura e natura/tecnica sono storicamente variabili. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica e filosofia della scienza", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Natura", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su natura", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Natura", explanation: "Natura può significare essenza, insieme dei fenomeni, principio interno di mutamento o ambiente non artificiale. Le opposizioni natura/cultura e natura/tecnica sono storicamente variabili." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "legge-naturale", id: "CON-000047", kind: "concetto",
+    title: "Legge naturale", subtitle: "Legge naturale: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Antichità, medioevo e modernità",
+    summary: "La legge naturale indica principi normativi ritenuti fondati sulla natura o sulla ragione. Le teorie divergono su universalità, conoscibilità e rapporto con diritto positivo.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La legge naturale indica principi normativi ritenuti fondati sulla natura o sulla ragione. Le teorie divergono su universalità, conoscibilità e rapporto con diritto positivo.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La legge naturale indica principi normativi ritenuti fondati sulla natura o sulla ragione. Le teorie divergono su universalità, conoscibilità e rapporto con diritto positivo. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Legge naturale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su legge naturale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Legge naturale", explanation: "La legge naturale indica principi normativi ritenuti fondati sulla natura o sulla ragione. Le teorie divergono su universalità, conoscibilità e rapporto con diritto positivo." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità, medioevo e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "diritto-naturale", id: "CON-000048", kind: "concetto",
+    title: "Diritto naturale", subtitle: "Diritto naturale: significati, problemi e contesti", area: "Filosofia del diritto", period: "Antichità e modernità",
+    summary: "Il diritto naturale fonda criteri di giustizia non riducibili alla legislazione vigente. Le sue formulazioni religiose, razionalistiche e giusnaturalistiche sono differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il diritto naturale fonda criteri di giustizia non riducibili alla legislazione vigente. Le sue formulazioni religiose, razionalistiche e giusnaturalistiche sono differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il diritto naturale fonda criteri di giustizia non riducibili alla legislazione vigente. Le sue formulazioni religiose, razionalistiche e giusnaturalistiche sono differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia del diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Diritto naturale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su diritto naturale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Diritto naturale", explanation: "Il diritto naturale fonda criteri di giustizia non riducibili alla legislazione vigente. Le sue formulazioni religiose, razionalistiche e giusnaturalistiche sono differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "giustizia", id: "CON-000049", kind: "concetto",
+    title: "Giustizia", subtitle: "Giustizia: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Problema trasversale",
+    summary: "La giustizia riguarda distribuzione, procedure, riconoscimento, diritti e riparazione. Le teorie possono privilegiare uguaglianza, merito, bisogno, libertà o equità.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La giustizia riguarda distribuzione, procedure, riconoscimento, diritti e riparazione. Le teorie possono privilegiare uguaglianza, merito, bisogno, libertà o equità.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La giustizia riguarda distribuzione, procedure, riconoscimento, diritti e riparazione. Le teorie possono privilegiare uguaglianza, merito, bisogno, libertà o equità. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Giustizia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su giustizia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Giustizia", explanation: "La giustizia riguarda distribuzione, procedure, riconoscimento, diritti e riparazione. Le teorie possono privilegiare uguaglianza, merito, bisogno, libertà o equità." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "uguaglianza", id: "CON-000050", kind: "concetto",
+    title: "Uguaglianza", subtitle: "Uguaglianza: significati, problemi e contesti", area: "Filosofia politica", period: "Età moderna e contemporanea",
+    summary: "Uguaglianza può significare pari status, diritti, opportunità, risorse o capacità. Le diverse dimensioni non si implicano automaticamente.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Uguaglianza può significare pari status, diritti, opportunità, risorse o capacità. Le diverse dimensioni non si implicano automaticamente.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Uguaglianza può significare pari status, diritti, opportunità, risorse o capacità. Le diverse dimensioni non si implicano automaticamente. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Uguaglianza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su uguaglianza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Uguaglianza", explanation: "Uguaglianza può significare pari status, diritti, opportunità, risorse o capacità. Le diverse dimensioni non si implicano automaticamente." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "equita", id: "CON-000051", kind: "concetto",
+    title: "Equità", subtitle: "Equità: significati, problemi e contesti", area: "Etica e diritto", period: "Aristotele e tradizioni successive",
+    summary: "L'equità corregge la generalità della norma quando la sua applicazione letterale produce un esito inadeguato. Il suo ruolo dipende dal rapporto tra regola e caso particolare.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'equità corregge la generalità della norma quando la sua applicazione letterale produce un esito inadeguato. Il suo ruolo dipende dal rapporto tra regola e caso particolare.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'equità corregge la generalità della norma quando la sua applicazione letterale produce un esito inadeguato. Il suo ruolo dipende dal rapporto tra regola e caso particolare. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Equità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su equità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Equità", explanation: "L'equità corregge la generalità della norma quando la sua applicazione letterale produce un esito inadeguato. Il suo ruolo dipende dal rapporto tra regola e caso particolare." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Aristotele e tradizioni successive", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "diritti", id: "CON-000052", kind: "concetto",
+    title: "Diritti", subtitle: "Diritti: significati, problemi e contesti", area: "Filosofia politica e del diritto", period: "Età moderna e contemporanea",
+    summary: "I diritti sono pretese, libertà o immunità riconosciute a persone e gruppi. Le teorie discutono fondamento, titolari, conflitti e garanzie istituzionali.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["I diritti sono pretese, libertà o immunità riconosciute a persone e gruppi. Le teorie discutono fondamento, titolari, conflitti e garanzie istituzionali.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "I diritti sono pretese, libertà o immunità riconosciute a persone e gruppi. Le teorie discutono fondamento, titolari, conflitti e garanzie istituzionali. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica e del diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Diritti", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su diritti", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Diritti", explanation: "I diritti sono pretese, libertà o immunità riconosciute a persone e gruppi. Le teorie discutono fondamento, titolari, conflitti e garanzie istituzionali." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "dignita", id: "CON-000053", kind: "concetto",
+    title: "Dignità", subtitle: "Dignità: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Tradizioni antiche e moderne",
+    summary: "La dignità designa uno status o valore intrinseco attribuito alle persone. Le sue genealogie filosofiche e religiose sono plurali e non vanno appiattite su una sola origine.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La dignità designa uno status o valore intrinseco attribuito alle persone. Le sue genealogie filosofiche e religiose sono plurali e non vanno appiattite su una sola origine.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La dignità designa uno status o valore intrinseco attribuito alle persone. Le sue genealogie filosofiche e religiose sono plurali e non vanno appiattite su una sola origine. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Dignità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su dignità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Dignità", explanation: "La dignità designa uno status o valore intrinseco attribuito alle persone. Le sue genealogie filosofiche e religiose sono plurali e non vanno appiattite su una sola origine." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "autonomia", id: "CON-000054", kind: "concetto",
+    title: "Autonomia", subtitle: "Autonomia: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Modernità e contemporaneità",
+    summary: "Autonomia indica la capacità di darsi norme o orientare la propria vita. In Kant ha un significato morale specifico, diverso dall'indipendenza sociale o politica.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Autonomia indica la capacità di darsi norme o orientare la propria vita. In Kant ha un significato morale specifico, diverso dall'indipendenza sociale o politica.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Autonomia indica la capacità di darsi norme o orientare la propria vita. In Kant ha un significato morale specifico, diverso dall'indipendenza sociale o politica. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Autonomia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su autonomia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Autonomia", explanation: "Autonomia indica la capacità di darsi norme o orientare la propria vita. In Kant ha un significato morale specifico, diverso dall'indipendenza sociale o politica." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Modernità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "responsabilita", id: "CON-000055", kind: "concetto",
+    title: "Responsabilità", subtitle: "Responsabilità: significati, problemi e contesti", area: "Etica", period: "Tradizioni moderne e contemporanee",
+    summary: "La responsabilità riguarda imputazione, risposta e obbligo verso altri. Può essere individuale, collettiva, istituzionale o intergenerazionale.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La responsabilità riguarda imputazione, risposta e obbligo verso altri. Può essere individuale, collettiva, istituzionale o intergenerazionale.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La responsabilità riguarda imputazione, risposta e obbligo verso altri. Può essere individuale, collettiva, istituzionale o intergenerazionale. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Responsabilità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su responsabilità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Responsabilità", explanation: "La responsabilità riguarda imputazione, risposta e obbligo verso altri. Può essere individuale, collettiva, istituzionale o intergenerazionale." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni moderne e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "dovere", id: "CON-000056", kind: "concetto",
+    title: "Dovere", subtitle: "Dovere: significati, problemi e contesti", area: "Etica", period: "Tradizioni antiche e moderne",
+    summary: "Il dovere indica ciò che si deve fare in virtù di norme, ruoli o ragioni morali. Le teorie deontologiche lo distinguono dalle conseguenze, ma non tutte le etiche lo concepiscono allo stesso modo.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il dovere indica ciò che si deve fare in virtù di norme, ruoli o ragioni morali. Le teorie deontologiche lo distinguono dalle conseguenze, ma non tutte le etiche lo concepiscono allo stesso modo.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il dovere indica ciò che si deve fare in virtù di norme, ruoli o ragioni morali. Le teorie deontologiche lo distinguono dalle conseguenze, ma non tutte le etiche lo concepiscono allo stesso modo. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Dovere", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su dovere", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Dovere", explanation: "Il dovere indica ciò che si deve fare in virtù di norme, ruoli o ragioni morali. Le teorie deontologiche lo distinguono dalle conseguenze, ma non tutte le etiche lo concepiscono allo stesso modo." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "virtu-etica", id: "CON-000057", kind: "concetto",
+    title: "Virtù", subtitle: "Virtù: significati, problemi e contesti", area: "Etica delle virtù", period: "Antichità e contemporaneità",
+    summary: "La virtù è una disposizione stabile a percepire, scegliere e agire bene. Le teorie aristoteliche, stoiche e contemporanee divergono su ruolo dell'abitudine, ragione e comunità.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La virtù è una disposizione stabile a percepire, scegliere e agire bene. Le teorie aristoteliche, stoiche e contemporanee divergono su ruolo dell'abitudine, ragione e comunità.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La virtù è una disposizione stabile a percepire, scegliere e agire bene. Le teorie aristoteliche, stoiche e contemporanee divergono su ruolo dell'abitudine, ragione e comunità. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica delle virtù", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Virtù", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su virtù", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Virtù", explanation: "La virtù è una disposizione stabile a percepire, scegliere e agire bene. Le teorie aristoteliche, stoiche e contemporanee divergono su ruolo dell'abitudine, ragione e comunità." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "felicita", id: "CON-000058", kind: "concetto",
+    title: "Felicità", subtitle: "Felicità: significati, problemi e contesti", area: "Etica", period: "Tradizioni antiche e moderne",
+    summary: "Felicità può indicare piacere, soddisfazione, fioritura o vita riuscita. Le tradizioni filosofiche distinguono spesso il benessere momentaneo dalla qualità complessiva di una vita.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Felicità può indicare piacere, soddisfazione, fioritura o vita riuscita. Le tradizioni filosofiche distinguono spesso il benessere momentaneo dalla qualità complessiva di una vita.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Felicità può indicare piacere, soddisfazione, fioritura o vita riuscita. Le tradizioni filosofiche distinguono spesso il benessere momentaneo dalla qualità complessiva di una vita. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Felicità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su felicità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Felicità", explanation: "Felicità può indicare piacere, soddisfazione, fioritura o vita riuscita. Le tradizioni filosofiche distinguono spesso il benessere momentaneo dalla qualità complessiva di una vita." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "piacere", id: "CON-000059", kind: "concetto",
+    title: "Piacere", subtitle: "Piacere: significati, problemi e contesti", area: "Etica", period: "Antichità e modernità",
+    summary: "Il piacere è stato assunto come bene, segno di vita riuscita o elemento da disciplinare. Epicureismo, cirenaici e utilitarismo ne propongono interpretazioni differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il piacere è stato assunto come bene, segno di vita riuscita o elemento da disciplinare. Epicureismo, cirenaici e utilitarismo ne propongono interpretazioni differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il piacere è stato assunto come bene, segno di vita riuscita o elemento da disciplinare. Epicureismo, cirenaici e utilitarismo ne propongono interpretazioni differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Piacere", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su piacere", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Piacere", explanation: "Il piacere è stato assunto come bene, segno di vita riuscita o elemento da disciplinare. Epicureismo, cirenaici e utilitarismo ne propongono interpretazioni differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "desiderio", id: "CON-000060", kind: "concetto",
+    title: "Desiderio", subtitle: "Desiderio: significati, problemi e contesti", area: "Etica e filosofia della mente", period: "Tradizioni antiche e contemporanee",
+    summary: "Il desiderio orienta l'azione verso ciò che appare mancante o desiderabile. Le filosofie lo interpretano come impulso da educare, potenza costitutiva o fonte di alienazione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il desiderio orienta l'azione verso ciò che appare mancante o desiderabile. Le filosofie lo interpretano come impulso da educare, potenza costitutiva o fonte di alienazione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il desiderio orienta l'azione verso ciò che appare mancante o desiderabile. Le filosofie lo interpretano come impulso da educare, potenza costitutiva o fonte di alienazione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Desiderio", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su desiderio", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Desiderio", explanation: "Il desiderio orienta l'azione verso ciò che appare mancante o desiderabile. Le filosofie lo interpretano come impulso da educare, potenza costitutiva o fonte di alienazione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "emozioni", id: "CON-000061", kind: "concetto",
+    title: "Emozioni", subtitle: "Emozioni: significati, problemi e contesti", area: "Etica e filosofia della mente", period: "Tradizioni antiche e contemporanee",
+    summary: "Le emozioni coinvolgono valutazioni, corpo e relazioni. Le teorie discutono se siano giudizi, percezioni, disposizioni o processi incarnati.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Le emozioni coinvolgono valutazioni, corpo e relazioni. Le teorie discutono se siano giudizi, percezioni, disposizioni o processi incarnati.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Le emozioni coinvolgono valutazioni, corpo e relazioni. Le teorie discutono se siano giudizi, percezioni, disposizioni o processi incarnati. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia della mente", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Emozioni", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su emozioni", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Emozioni", explanation: "Le emozioni coinvolgono valutazioni, corpo e relazioni. Le teorie discutono se siano giudizi, percezioni, disposizioni o processi incarnati." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "amicizia", id: "CON-000062", kind: "concetto",
+    title: "Amicizia", subtitle: "Amicizia: significati, problemi e contesti", area: "Etica", period: "Antichità e contemporaneità",
+    summary: "L'amicizia è stata analizzata come bene relazionale, forma di reciprocità e pratica di cura. La sua funzione nella vita buona è centrale nell'etica aristotelica e in altre tradizioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'amicizia è stata analizzata come bene relazionale, forma di reciprocità e pratica di cura. La sua funzione nella vita buona è centrale nell'etica aristotelica e in altre tradizioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'amicizia è stata analizzata come bene relazionale, forma di reciprocità e pratica di cura. La sua funzione nella vita buona è centrale nell'etica aristotelica e in altre tradizioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Amicizia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su amicizia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Amicizia", explanation: "L'amicizia è stata analizzata come bene relazionale, forma di reciprocità e pratica di cura. La sua funzione nella vita buona è centrale nell'etica aristotelica e in altre tradizioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "amore", id: "CON-000063", kind: "concetto",
+    title: "Amore", subtitle: "Amore: significati, problemi e contesti", area: "Etica, metafisica e filosofia della religione", period: "Tradizioni antiche e moderne",
+    summary: "Amore può designare desiderio, benevolenza, eros, agape o legame personale. Le tradizioni filosofiche ne discutono dimensioni etiche, conoscitive e metafisiche.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Amore può designare desiderio, benevolenza, eros, agape o legame personale. Le tradizioni filosofiche ne discutono dimensioni etiche, conoscitive e metafisiche.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Amore può designare desiderio, benevolenza, eros, agape o legame personale. Le tradizioni filosofiche ne discutono dimensioni etiche, conoscitive e metafisiche. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica, metafisica e filosofia della religione", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Amore", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su amore", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Amore", explanation: "Amore può designare desiderio, benevolenza, eros, agape o legame personale. Le tradizioni filosofiche ne discutono dimensioni etiche, conoscitive e metafisiche." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "cura", id: "CON-000064", kind: "concetto",
+    title: "Cura", subtitle: "Cura: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Contemporaneità con antecedenti storici",
+    summary: "L'etica della cura valorizza dipendenza, vulnerabilità e responsabilità relazionale. Non coincide con altruismo spontaneo e interroga la distribuzione sociale del lavoro di cura.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'etica della cura valorizza dipendenza, vulnerabilità e responsabilità relazionale. Non coincide con altruismo spontaneo e interroga la distribuzione sociale del lavoro di cura.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'etica della cura valorizza dipendenza, vulnerabilità e responsabilità relazionale. Non coincide con altruismo spontaneo e interroga la distribuzione sociale del lavoro di cura. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Cura", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su cura", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Cura", explanation: "L'etica della cura valorizza dipendenza, vulnerabilità e responsabilità relazionale. Non coincide con altruismo spontaneo e interroga la distribuzione sociale del lavoro di cura." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Contemporaneità con antecedenti storici", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "riconoscimento", id: "CON-000065", kind: "concetto",
+    title: "Riconoscimento", subtitle: "Riconoscimento: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Idealismo tedesco e contemporaneità",
+    summary: "Il riconoscimento riguarda la costituzione intersoggettiva dell'identità e la richiesta di pari status. Le teorie divergono su conflitto, reciprocità e istituzioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il riconoscimento riguarda la costituzione intersoggettiva dell'identità e la richiesta di pari status. Le teorie divergono su conflitto, reciprocità e istituzioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il riconoscimento riguarda la costituzione intersoggettiva dell'identità e la richiesta di pari status. Le teorie divergono su conflitto, reciprocità e istituzioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Riconoscimento", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su riconoscimento", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Riconoscimento", explanation: "Il riconoscimento riguarda la costituzione intersoggettiva dell'identità e la richiesta di pari status. Le teorie divergono su conflitto, reciprocità e istituzioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Idealismo tedesco e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "alienazione", id: "CON-000066", kind: "concetto",
+    title: "Alienazione", subtitle: "Alienazione: significati, problemi e contesti", area: "Filosofia sociale", period: "Modernità",
+    summary: "Alienazione indica estraneità rispetto a sé, al lavoro, ai prodotti o alle relazioni sociali. Il concetto assume significati diversi in Hegel, Marx e nelle teorie contemporanee.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Alienazione indica estraneità rispetto a sé, al lavoro, ai prodotti o alle relazioni sociali. Il concetto assume significati diversi in Hegel, Marx e nelle teorie contemporanee.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Alienazione indica estraneità rispetto a sé, al lavoro, ai prodotti o alle relazioni sociali. Il concetto assume significati diversi in Hegel, Marx e nelle teorie contemporanee. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia sociale", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Alienazione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su alienazione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Alienazione", explanation: "Alienazione indica estraneità rispetto a sé, al lavoro, ai prodotti o alle relazioni sociali. Il concetto assume significati diversi in Hegel, Marx e nelle teorie contemporanee." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "ideologia", id: "CON-000067", kind: "concetto",
+    title: "Ideologia", subtitle: "Ideologia: significati, problemi e contesti", area: "Filosofia sociale e politica", period: "Modernità e contemporaneità",
+    summary: "Ideologia può indicare sistema di idee, falsa coscienza o cornice che organizza pratiche e potere. La storia del termine è segnata da usi teorici e politici differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Ideologia può indicare sistema di idee, falsa coscienza o cornice che organizza pratiche e potere. La storia del termine è segnata da usi teorici e politici differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Ideologia può indicare sistema di idee, falsa coscienza o cornice che organizza pratiche e potere. La storia del termine è segnata da usi teorici e politici differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia sociale e politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Ideologia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su ideologia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Ideologia", explanation: "Ideologia può indicare sistema di idee, falsa coscienza o cornice che organizza pratiche e potere. La storia del termine è segnata da usi teorici e politici differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Modernità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "potere", id: "CON-000068", kind: "concetto",
+    title: "Potere", subtitle: "Potere: significati, problemi e contesti", area: "Filosofia politica", period: "Tradizioni antiche e contemporanee",
+    summary: "Il potere è capacità di influire su azioni, istituzioni e possibilità altrui. Può essere coercitivo, relazionale, produttivo, legittimo o contestato.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il potere è capacità di influire su azioni, istituzioni e possibilità altrui. Può essere coercitivo, relazionale, produttivo, legittimo o contestato.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il potere è capacità di influire su azioni, istituzioni e possibilità altrui. Può essere coercitivo, relazionale, produttivo, legittimo o contestato. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Potere", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su potere", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Potere", explanation: "Il potere è capacità di influire su azioni, istituzioni e possibilità altrui. Può essere coercitivo, relazionale, produttivo, legittimo o contestato." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "sovranita", id: "CON-000069", kind: "concetto",
+    title: "Sovranità", subtitle: "Sovranità: significati, problemi e contesti", area: "Filosofia politica e diritto", period: "Età moderna e contemporanea",
+    summary: "La sovranità riguarda l'autorità ultima su un territorio o una comunità politica. Le teorie moderne la collegano a Stato, popolo, legge e poteri di eccezione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La sovranità riguarda l'autorità ultima su un territorio o una comunità politica. Le teorie moderne la collegano a Stato, popolo, legge e poteri di eccezione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La sovranità riguarda l'autorità ultima su un territorio o una comunità politica. Le teorie moderne la collegano a Stato, popolo, legge e poteri di eccezione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica e diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Sovranità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su sovranità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Sovranità", explanation: "La sovranità riguarda l'autorità ultima su un territorio o una comunità politica. Le teorie moderne la collegano a Stato, popolo, legge e poteri di eccezione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "democrazia", id: "CON-000070", kind: "concetto",
+    title: "Democrazia", subtitle: "Democrazia: significati, problemi e contesti", area: "Filosofia politica", period: "Antichità e modernità",
+    summary: "Democrazia indica governo del popolo, ma le sue forme includono partecipazione diretta, rappresentanza e deliberazione. Le teorie discutono inclusione, competenza e limiti maggioritari.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Democrazia indica governo del popolo, ma le sue forme includono partecipazione diretta, rappresentanza e deliberazione. Le teorie discutono inclusione, competenza e limiti maggioritari.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Democrazia indica governo del popolo, ma le sue forme includono partecipazione diretta, rappresentanza e deliberazione. Le teorie discutono inclusione, competenza e limiti maggioritari. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Democrazia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su democrazia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Democrazia", explanation: "Democrazia indica governo del popolo, ma le sue forme includono partecipazione diretta, rappresentanza e deliberazione. Le teorie discutono inclusione, competenza e limiti maggioritari." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "repubblicanesimo", id: "CON-000071", kind: "concetto",
+    title: "Repubblicanesimo", subtitle: "Repubblicanesimo: significati, problemi e contesti", area: "Filosofia politica", period: "Antichità e modernità",
+    summary: "Il repubblicanesimo valorizza libertà come non-dominio, partecipazione civica e controllo del potere. Le sue versioni classiche e contemporanee presentano differenze importanti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il repubblicanesimo valorizza libertà come non-dominio, partecipazione civica e controllo del potere. Le sue versioni classiche e contemporanee presentano differenze importanti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il repubblicanesimo valorizza libertà come non-dominio, partecipazione civica e controllo del potere. Le sue versioni classiche e contemporanee presentano differenze importanti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Repubblicanesimo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su repubblicanesimo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Repubblicanesimo", explanation: "Il repubblicanesimo valorizza libertà come non-dominio, partecipazione civica e controllo del potere. Le sue versioni classiche e contemporanee presentano differenze importanti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "contratto-sociale", id: "CON-000072", kind: "concetto",
+    title: "Contratto sociale", subtitle: "Contratto sociale: significati, problemi e contesti", area: "Filosofia politica", period: "Età moderna",
+    summary: "Il contratto sociale è un modello per spiegare o giustificare l'autorità politica attraverso accordo, consenso o condizioni di reciprocità. Non è necessariamente un evento storico.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il contratto sociale è un modello per spiegare o giustificare l'autorità politica attraverso accordo, consenso o condizioni di reciprocità. Non è necessariamente un evento storico.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il contratto sociale è un modello per spiegare o giustificare l'autorità politica attraverso accordo, consenso o condizioni di reciprocità. Non è necessariamente un evento storico. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Contratto sociale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su contratto sociale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Contratto sociale", explanation: "Il contratto sociale è un modello per spiegare o giustificare l'autorità politica attraverso accordo, consenso o condizioni di reciprocità. Non è necessariamente un evento storico." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "stato-di-natura", id: "CON-000073", kind: "concetto",
+    title: "Stato di natura", subtitle: "Stato di natura: significati, problemi e contesti", area: "Filosofia politica", period: "Età moderna",
+    summary: "Lo stato di natura è un esperimento teorico sulle condizioni umane prima o fuori dall'ordine politico. Hobbes, Locke e Rousseau ne offrono descrizioni differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Lo stato di natura è un esperimento teorico sulle condizioni umane prima o fuori dall'ordine politico. Hobbes, Locke e Rousseau ne offrono descrizioni differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Lo stato di natura è un esperimento teorico sulle condizioni umane prima o fuori dall'ordine politico. Hobbes, Locke e Rousseau ne offrono descrizioni differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Stato di natura", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su stato di natura", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Stato di natura", explanation: "Lo stato di natura è un esperimento teorico sulle condizioni umane prima o fuori dall'ordine politico. Hobbes, Locke e Rousseau ne offrono descrizioni differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "colonialismo", id: "CON-000074", kind: "concetto",
+    title: "Colonialismo", subtitle: "Colonialismo: significati, problemi e contesti", area: "Filosofia politica e storia", period: "Età moderna e contemporanea",
+    summary: "Il colonialismo è un sistema di conquista e dominio territoriale, economico e culturale. Le filosofie anticoloniali ne analizzano gerarchie, violenze e persistenze istituzionali.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il colonialismo è un sistema di conquista e dominio territoriale, economico e culturale. Le filosofie anticoloniali ne analizzano gerarchie, violenze e persistenze istituzionali.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il colonialismo è un sistema di conquista e dominio territoriale, economico e culturale. Le filosofie anticoloniali ne analizzano gerarchie, violenze e persistenze istituzionali. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica e storia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Colonialismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su colonialismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Colonialismo", explanation: "Il colonialismo è un sistema di conquista e dominio territoriale, economico e culturale. Le filosofie anticoloniali ne analizzano gerarchie, violenze e persistenze istituzionali." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "decolonizzazione", id: "CON-000075", kind: "concetto",
+    title: "Decolonizzazione", subtitle: "Decolonizzazione: significati, problemi e contesti", area: "Filosofia politica", period: "XX secolo e contemporaneità",
+    summary: "La decolonizzazione comprende indipendenza politica e trasformazione di saperi, istituzioni e categorie ereditate dal dominio coloniale. Non è un processo concluso con il trasferimento formale del potere.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La decolonizzazione comprende indipendenza politica e trasformazione di saperi, istituzioni e categorie ereditate dal dominio coloniale. Non è un processo concluso con il trasferimento formale del potere.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La decolonizzazione comprende indipendenza politica e trasformazione di saperi, istituzioni e categorie ereditate dal dominio coloniale. Non è un processo concluso con il trasferimento formale del potere. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Decolonizzazione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su decolonizzazione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Decolonizzazione", explanation: "La decolonizzazione comprende indipendenza politica e trasformazione di saperi, istituzioni e categorie ereditate dal dominio coloniale. Non è un processo concluso con il trasferimento formale del potere." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "XX secolo e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "secolarizzazione", id: "CON-000076", kind: "concetto",
+    title: "Secolarizzazione", subtitle: "Secolarizzazione: significati, problemi e contesti", area: "Filosofia della religione e politica", period: "Età moderna e contemporanea",
+    summary: "Secolarizzazione può indicare differenziazione istituzionale, declino della pratica religiosa o trasformazione delle credenze. Le teorie sociologiche e filosofiche non concordano su una traiettoria unica.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Secolarizzazione può indicare differenziazione istituzionale, declino della pratica religiosa o trasformazione delle credenze. Le teorie sociologiche e filosofiche non concordano su una traiettoria unica.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Secolarizzazione può indicare differenziazione istituzionale, declino della pratica religiosa o trasformazione delle credenze. Le teorie sociologiche e filosofiche non concordano su una traiettoria unica. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della religione e politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Secolarizzazione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su secolarizzazione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Secolarizzazione", explanation: "Secolarizzazione può indicare differenziazione istituzionale, declino della pratica religiosa o trasformazione delle credenze. Le teorie sociologiche e filosofiche non concordano su una traiettoria unica." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "laicita", id: "CON-000077", kind: "concetto",
+    title: "Laicità", subtitle: "Laicità: significati, problemi e contesti", area: "Filosofia politica e diritto", period: "Età moderna e contemporanea",
+    summary: "La laicità organizza il rapporto tra istituzioni pubbliche e convinzioni religiose. Le sue forme variano tra neutralità, cooperazione e separazione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La laicità organizza il rapporto tra istituzioni pubbliche e convinzioni religiose. Le sue forme variano tra neutralità, cooperazione e separazione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La laicità organizza il rapporto tra istituzioni pubbliche e convinzioni religiose. Le sue forme variano tra neutralità, cooperazione e separazione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica e diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Laicità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su laicità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Laicità", explanation: "La laicità organizza il rapporto tra istituzioni pubbliche e convinzioni religiose. Le sue forme variano tra neutralità, cooperazione e separazione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "religione", id: "CON-000078", kind: "concetto",
+    title: "Religione", subtitle: "Religione: significati, problemi e contesti", area: "Filosofia della religione", period: "Problema comparativo",
+    summary: "Religione è una categoria comparativa moderna che raccoglie pratiche e tradizioni molto diverse. La sua definizione deve evitare di assumere un modello unico basato su credenza o istituzione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Religione è una categoria comparativa moderna che raccoglie pratiche e tradizioni molto diverse. La sua definizione deve evitare di assumere un modello unico basato su credenza o istituzione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Religione è una categoria comparativa moderna che raccoglie pratiche e tradizioni molto diverse. La sua definizione deve evitare di assumere un modello unico basato su credenza o istituzione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della religione", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Religione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su religione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Religione", explanation: "Religione è una categoria comparativa moderna che raccoglie pratiche e tradizioni molto diverse. La sua definizione deve evitare di assumere un modello unico basato su credenza o istituzione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema comparativo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "fede", id: "CON-000079", kind: "concetto",
+    title: "Fede", subtitle: "Fede: significati, problemi e contesti", area: "Filosofia della religione", period: "Tradizioni antiche e medievali",
+    summary: "La fede può indicare fiducia, assenso, fedeltà o orientamento esistenziale. Il rapporto tra fede e ragione varia nelle tradizioni teologiche e filosofiche.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La fede può indicare fiducia, assenso, fedeltà o orientamento esistenziale. Il rapporto tra fede e ragione varia nelle tradizioni teologiche e filosofiche.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La fede può indicare fiducia, assenso, fedeltà o orientamento esistenziale. Il rapporto tra fede e ragione varia nelle tradizioni teologiche e filosofiche. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della religione", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Fede", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su fede", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Fede", explanation: "La fede può indicare fiducia, assenso, fedeltà o orientamento esistenziale. Il rapporto tra fede e ragione varia nelle tradizioni teologiche e filosofiche." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e medievali", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "male", id: "CON-000080", kind: "concetto",
+    title: "Male", subtitle: "Male: significati, problemi e contesti", area: "Etica e filosofia della religione", period: "Tradizioni antiche e moderne",
+    summary: "Il problema del male riguarda sofferenza, colpa, ingiustizia e possibilità di un ordine buono del mondo. Le teodicee e le filosofie tragiche propongono risposte differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il problema del male riguarda sofferenza, colpa, ingiustizia e possibilità di un ordine buono del mondo. Le teodicee e le filosofie tragiche propongono risposte differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il problema del male riguarda sofferenza, colpa, ingiustizia e possibilità di un ordine buono del mondo. Le teodicee e le filosofie tragiche propongono risposte differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia della religione", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Male", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su male", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Male", explanation: "Il problema del male riguarda sofferenza, colpa, ingiustizia e possibilità di un ordine buono del mondo. Le teodicee e le filosofie tragiche propongono risposte differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "bellezza", id: "CON-000081", kind: "concetto",
+    title: "Bellezza", subtitle: "Bellezza: significati, problemi e contesti", area: "Estetica", period: "Antichità e modernità",
+    summary: "La bellezza è stata pensata come proporzione, armonia, esperienza soggettiva o valore estetico. Il suo rapporto con verità, piacere e giudizio è storicamente variabile.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La bellezza è stata pensata come proporzione, armonia, esperienza soggettiva o valore estetico. Il suo rapporto con verità, piacere e giudizio è storicamente variabile.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La bellezza è stata pensata come proporzione, armonia, esperienza soggettiva o valore estetico. Il suo rapporto con verità, piacere e giudizio è storicamente variabile. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Estetica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Bellezza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su bellezza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Bellezza", explanation: "La bellezza è stata pensata come proporzione, armonia, esperienza soggettiva o valore estetico. Il suo rapporto con verità, piacere e giudizio è storicamente variabile." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "arte", id: "CON-000082", kind: "concetto",
+    title: "Arte", subtitle: "Arte: significati, problemi e contesti", area: "Estetica", period: "Tradizioni antiche e contemporanee",
+    summary: "Arte può designare tecnica, produzione simbolica, istituzione o pratica di esperienza. Le definizioni filosofiche cambiano con le forme artistiche e i contesti storici.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Arte può designare tecnica, produzione simbolica, istituzione o pratica di esperienza. Le definizioni filosofiche cambiano con le forme artistiche e i contesti storici.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Arte può designare tecnica, produzione simbolica, istituzione o pratica di esperienza. Le definizioni filosofiche cambiano con le forme artistiche e i contesti storici. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Estetica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Arte", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su arte", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Arte", explanation: "Arte può designare tecnica, produzione simbolica, istituzione o pratica di esperienza. Le definizioni filosofiche cambiano con le forme artistiche e i contesti storici." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "sublime", id: "CON-000083", kind: "concetto",
+    title: "Sublime", subtitle: "Sublime: significati, problemi e contesti", area: "Estetica", period: "Antichità e modernità",
+    summary: "Il sublime riguarda esperienze di grandezza, potenza o eccedenza che mettono alla prova immaginazione e giudizio. Longino, Burke e Kant ne propongono teorie differenti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il sublime riguarda esperienze di grandezza, potenza o eccedenza che mettono alla prova immaginazione e giudizio. Longino, Burke e Kant ne propongono teorie differenti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il sublime riguarda esperienze di grandezza, potenza o eccedenza che mettono alla prova immaginazione e giudizio. Longino, Burke e Kant ne propongono teorie differenti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Estetica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Sublime", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su sublime", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Sublime", explanation: "Il sublime riguarda esperienze di grandezza, potenza o eccedenza che mettono alla prova immaginazione e giudizio. Longino, Burke e Kant ne propongono teorie differenti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "mimesi", id: "CON-000084", kind: "concetto",
+    title: "Mimesi", subtitle: "Mimesi: significati, problemi e contesti", area: "Estetica e filosofia dell'arte", period: "Grecia antica e sviluppi successivi",
+    summary: "Mimesi significa imitazione o rappresentazione, ma il suo ruolo varia tra Platone, Aristotele e teorie moderne dell'arte. Non equivale sempre a copia passiva.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Mimesi significa imitazione o rappresentazione, ma il suo ruolo varia tra Platone, Aristotele e teorie moderne dell'arte. Non equivale sempre a copia passiva.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Mimesi significa imitazione o rappresentazione, ma il suo ruolo varia tra Platone, Aristotele e teorie moderne dell'arte. Non equivale sempre a copia passiva. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Estetica e filosofia dell'arte", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Mimesi", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su mimesi", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Mimesi", explanation: "Mimesi significa imitazione o rappresentazione, ma il suo ruolo varia tra Platone, Aristotele e teorie moderne dell'arte. Non equivale sempre a copia passiva." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Grecia antica e sviluppi successivi", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "interpretazione", id: "CON-000085", kind: "concetto",
+    title: "Interpretazione", subtitle: "Interpretazione: significati, problemi e contesti", area: "Ermeneutica", period: "Antichità e contemporaneità",
+    summary: "Interpretare significa ricostruire senso in testi, azioni e pratiche. Le teorie ermeneutiche discutono intenzione, contesto, tradizione e pluralità delle letture.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Interpretare significa ricostruire senso in testi, azioni e pratiche. Le teorie ermeneutiche discutono intenzione, contesto, tradizione e pluralità delle letture.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Interpretare significa ricostruire senso in testi, azioni e pratiche. Le teorie ermeneutiche discutono intenzione, contesto, tradizione e pluralità delle letture. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Ermeneutica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Interpretazione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su interpretazione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Interpretazione", explanation: "Interpretare significa ricostruire senso in testi, azioni e pratiche. Le teorie ermeneutiche discutono intenzione, contesto, tradizione e pluralità delle letture." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "tradizione", id: "CON-000086", kind: "concetto",
+    title: "Tradizione", subtitle: "Tradizione: significati, problemi e contesti", area: "Ermeneutica e filosofia politica", period: "Problema trasversale",
+    summary: "La tradizione è trasmissione selettiva di pratiche e significati, non semplice ripetizione del passato. Può essere risorsa critica, autorità o oggetto di contestazione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La tradizione è trasmissione selettiva di pratiche e significati, non semplice ripetizione del passato. Può essere risorsa critica, autorità o oggetto di contestazione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La tradizione è trasmissione selettiva di pratiche e significati, non semplice ripetizione del passato. Può essere risorsa critica, autorità o oggetto di contestazione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Ermeneutica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Tradizione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su tradizione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Tradizione", explanation: "La tradizione è trasmissione selettiva di pratiche e significati, non semplice ripetizione del passato. Può essere risorsa critica, autorità o oggetto di contestazione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "memoria-collettiva", id: "CON-000087", kind: "concetto",
+    title: "Memoria collettiva", subtitle: "Memoria collettiva: significati, problemi e contesti", area: "Filosofia sociale e politica", period: "XX secolo e contemporaneità",
+    summary: "La memoria collettiva organizza il rapporto dei gruppi con il passato attraverso narrazioni, monumenti e pratiche. Non è la somma delle memorie individuali.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La memoria collettiva organizza il rapporto dei gruppi con il passato attraverso narrazioni, monumenti e pratiche. Non è la somma delle memorie individuali.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La memoria collettiva organizza il rapporto dei gruppi con il passato attraverso narrazioni, monumenti e pratiche. Non è la somma delle memorie individuali. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia sociale e politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Memoria collettiva", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su memoria collettiva", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Memoria collettiva", explanation: "La memoria collettiva organizza il rapporto dei gruppi con il passato attraverso narrazioni, monumenti e pratiche. Non è la somma delle memorie individuali." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "XX secolo e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "storia", id: "CON-000088", kind: "concetto",
+    title: "Storia", subtitle: "Storia: significati, problemi e contesti", area: "Filosofia della storia", period: "Antichità e modernità",
+    summary: "La filosofia della storia interroga senso, causalità, periodizzazione e possibilità di progresso. Le narrazioni storiche devono distinguere spiegazione, interpretazione e giudizio.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La filosofia della storia interroga senso, causalità, periodizzazione e possibilità di progresso. Le narrazioni storiche devono distinguere spiegazione, interpretazione e giudizio.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La filosofia della storia interroga senso, causalità, periodizzazione e possibilità di progresso. Le narrazioni storiche devono distinguere spiegazione, interpretazione e giudizio. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della storia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Storia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su storia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Storia", explanation: "La filosofia della storia interroga senso, causalità, periodizzazione e possibilità di progresso. Le narrazioni storiche devono distinguere spiegazione, interpretazione e giudizio." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "progresso", id: "CON-000089", kind: "concetto",
+    title: "Progresso", subtitle: "Progresso: significati, problemi e contesti", area: "Filosofia della storia", period: "Illuminismo e modernità",
+    summary: "Il progresso indica un miglioramento cumulativo o orientato della condizione umana. Le critiche mostrano che sviluppo tecnico, emancipazione morale e giustizia non coincidono automaticamente.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il progresso indica un miglioramento cumulativo o orientato della condizione umana. Le critiche mostrano che sviluppo tecnico, emancipazione morale e giustizia non coincidono automaticamente.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il progresso indica un miglioramento cumulativo o orientato della condizione umana. Le critiche mostrano che sviluppo tecnico, emancipazione morale e giustizia non coincidono automaticamente. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della storia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Progresso", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su progresso", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Progresso", explanation: "Il progresso indica un miglioramento cumulativo o orientato della condizione umana. Le critiche mostrano che sviluppo tecnico, emancipazione morale e giustizia non coincidono automaticamente." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Illuminismo e modernità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "tecnica", id: "CON-000090", kind: "concetto",
+    title: "Tecnica", subtitle: "Tecnica: significati, problemi e contesti", area: "Filosofia della tecnologia", period: "Antichità e contemporaneità",
+    summary: "La tecnica comprende saperi e pratiche di trasformazione del mondo. Le filosofie contemporanee indagano come gli strumenti riorganizzino percezione, lavoro, potere e ambiente.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La tecnica comprende saperi e pratiche di trasformazione del mondo. Le filosofie contemporanee indagano come gli strumenti riorganizzino percezione, lavoro, potere e ambiente.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La tecnica comprende saperi e pratiche di trasformazione del mondo. Le filosofie contemporanee indagano come gli strumenti riorganizzino percezione, lavoro, potere e ambiente. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della tecnologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Tecnica", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su tecnica", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Tecnica", explanation: "La tecnica comprende saperi e pratiche di trasformazione del mondo. Le filosofie contemporanee indagano come gli strumenti riorganizzino percezione, lavoro, potere e ambiente." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "tecnologia", id: "CON-000091", kind: "concetto",
+    title: "Tecnologia", subtitle: "Tecnologia: significati, problemi e contesti", area: "Filosofia della tecnologia", period: "Età moderna e contemporanea",
+    summary: "Tecnologia indica sistemi tecnici, infrastrutture e conoscenze applicate. Le analisi filosofiche studiano autonomia dei sistemi, responsabilità e conseguenze sociali.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Tecnologia indica sistemi tecnici, infrastrutture e conoscenze applicate. Le analisi filosofiche studiano autonomia dei sistemi, responsabilità e conseguenze sociali.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Tecnologia indica sistemi tecnici, infrastrutture e conoscenze applicate. Le analisi filosofiche studiano autonomia dei sistemi, responsabilità e conseguenze sociali. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia della tecnologia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Tecnologia", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su tecnologia", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Tecnologia", explanation: "Tecnologia indica sistemi tecnici, infrastrutture e conoscenze applicate. Le analisi filosofiche studiano autonomia dei sistemi, responsabilità e conseguenze sociali." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "natura-cultura", id: "CON-000092", kind: "concetto",
+    title: "Natura e cultura", subtitle: "Natura e cultura: significati, problemi e contesti", area: "Antropologia filosofica", period: "Problema comparativo",
+    summary: "La distinzione natura/cultura organizza molte teorie moderne, ma non è universale né neutrale. Le prospettive antropologiche e indigene ne mostrano varianti e limiti.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La distinzione natura/cultura organizza molte teorie moderne, ma non è universale né neutrale. Le prospettive antropologiche e indigene ne mostrano varianti e limiti.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La distinzione natura/cultura organizza molte teorie moderne, ma non è universale né neutrale. Le prospettive antropologiche e indigene ne mostrano varianti e limiti. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Antropologia filosofica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Natura e cultura", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su natura e cultura", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Natura e cultura", explanation: "La distinzione natura/cultura organizza molte teorie moderne, ma non è universale né neutrale. Le prospettive antropologiche e indigene ne mostrano varianti e limiti." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema comparativo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "persona", id: "CON-000093", kind: "concetto",
+    title: "Persona", subtitle: "Persona: significati, problemi e contesti", area: "Metafisica, etica e diritto", period: "Antichità e contemporaneità",
+    summary: "Persona può indicare individuo, soggetto morale, titolare di diritti o essere relazionale. Le definizioni cambiano tra teologia, metafisica, diritto e filosofie comunitarie.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Persona può indicare individuo, soggetto morale, titolare di diritti o essere relazionale. Le definizioni cambiano tra teologia, metafisica, diritto e filosofie comunitarie.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Persona può indicare individuo, soggetto morale, titolare di diritti o essere relazionale. Le definizioni cambiano tra teologia, metafisica, diritto e filosofie comunitarie. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metafisica, etica e diritto", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Persona", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su persona", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Persona", explanation: "Persona può indicare individuo, soggetto morale, titolare di diritti o essere relazionale. Le definizioni cambiano tra teologia, metafisica, diritto e filosofie comunitarie." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "corpo", id: "CON-000094", kind: "concetto",
+    title: "Corpo", subtitle: "Corpo: significati, problemi e contesti", area: "Antropologia filosofica", period: "Tradizioni antiche e contemporanee",
+    summary: "Il corpo è stato inteso come materia, organismo, soggetto vissuto o costruzione sociale. Le teorie incarnate contestano la riduzione della persona a mente disincarnata.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il corpo è stato inteso come materia, organismo, soggetto vissuto o costruzione sociale. Le teorie incarnate contestano la riduzione della persona a mente disincarnata.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il corpo è stato inteso come materia, organismo, soggetto vissuto o costruzione sociale. Le teorie incarnate contestano la riduzione della persona a mente disincarnata. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Antropologia filosofica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Corpo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su corpo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Corpo", explanation: "Il corpo è stato inteso come materia, organismo, soggetto vissuto o costruzione sociale. Le teorie incarnate contestano la riduzione della persona a mente disincarnata." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e contemporanee", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "vulnerabilita", id: "CON-000095", kind: "concetto",
+    title: "Vulnerabilità", subtitle: "Vulnerabilità: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Contemporaneità",
+    summary: "La vulnerabilità indica esposizione alla dipendenza, al danno e alla cura. È una condizione umana condivisa ma distribuita in modo diseguale da istituzioni e rapporti di potere.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La vulnerabilità indica esposizione alla dipendenza, al danno e alla cura. È una condizione umana condivisa ma distribuita in modo diseguale da istituzioni e rapporti di potere.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La vulnerabilità indica esposizione alla dipendenza, al danno e alla cura. È una condizione umana condivisa ma distribuita in modo diseguale da istituzioni e rapporti di potere. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Vulnerabilità", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su vulnerabilità", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Vulnerabilità", explanation: "La vulnerabilità indica esposizione alla dipendenza, al danno e alla cura. È una condizione umana condivisa ma distribuita in modo diseguale da istituzioni e rapporti di potere." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "ambiente", id: "CON-000096", kind: "concetto",
+    title: "Ambiente", subtitle: "Ambiente: significati, problemi e contesti", area: "Etica ambientale", period: "XX–XXI secolo",
+    summary: "L'ambiente comprende relazioni ecologiche e condizioni materiali della vita. L'etica ambientale discute valore della natura, responsabilità e giustizia intergenerazionale.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'ambiente comprende relazioni ecologiche e condizioni materiali della vita. L'etica ambientale discute valore della natura, responsabilità e giustizia intergenerazionale.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'ambiente comprende relazioni ecologiche e condizioni materiali della vita. L'etica ambientale discute valore della natura, responsabilità e giustizia intergenerazionale. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica ambientale", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Ambiente", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su ambiente", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Ambiente", explanation: "L'ambiente comprende relazioni ecologiche e condizioni materiali della vita. L'etica ambientale discute valore della natura, responsabilità e giustizia intergenerazionale." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "XX–XXI secolo", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "antropocentrismo", id: "CON-000097", kind: "concetto",
+    title: "Antropocentrismo", subtitle: "Antropocentrismo: significati, problemi e contesti", area: "Etica ambientale", period: "Modernità e contemporaneità",
+    summary: "L'antropocentrismo attribuisce agli interessi umani priorità morale. Le critiche ecocentriche e biocentriche propongono di riconoscere valore anche a esseri e sistemi non umani.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'antropocentrismo attribuisce agli interessi umani priorità morale. Le critiche ecocentriche e biocentriche propongono di riconoscere valore anche a esseri e sistemi non umani.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'antropocentrismo attribuisce agli interessi umani priorità morale. Le critiche ecocentriche e biocentriche propongono di riconoscere valore anche a esseri e sistemi non umani. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica ambientale", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Antropocentrismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su antropocentrismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Antropocentrismo", explanation: "L'antropocentrismo attribuisce agli interessi umani priorità morale. Le critiche ecocentriche e biocentriche propongono di riconoscere valore anche a esseri e sistemi non umani." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Modernità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "giustizia-intergenerazionale", id: "CON-000098", kind: "concetto",
+    title: "Giustizia intergenerazionale", subtitle: "Giustizia intergenerazionale: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Contemporaneità",
+    summary: "La giustizia intergenerazionale riguarda obblighi verso persone future e distribuzione di risorse, rischi e debiti nel tempo. Il problema coinvolge clima, tecnologia e istituzioni.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La giustizia intergenerazionale riguarda obblighi verso persone future e distribuzione di risorse, rischi e debiti nel tempo. Il problema coinvolge clima, tecnologia e istituzioni.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La giustizia intergenerazionale riguarda obblighi verso persone future e distribuzione di risorse, rischi e debiti nel tempo. Il problema coinvolge clima, tecnologia e istituzioni. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Giustizia intergenerazionale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su giustizia intergenerazionale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Giustizia intergenerazionale", explanation: "La giustizia intergenerazionale riguarda obblighi verso persone future e distribuzione di risorse, rischi e debiti nel tempo. Il problema coinvolge clima, tecnologia e istituzioni." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "pluralismo", id: "CON-000099", kind: "concetto",
+    title: "Pluralismo", subtitle: "Pluralismo: significati, problemi e contesti", area: "Filosofia politica e religiosa", period: "Modernità e contemporaneità",
+    summary: "Il pluralismo riconosce la coesistenza di valori, visioni del mondo e forme di vita differenti. Le teorie discutono tolleranza, conflitto e condizioni della convivenza.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il pluralismo riconosce la coesistenza di valori, visioni del mondo e forme di vita differenti. Le teorie discutono tolleranza, conflitto e condizioni della convivenza.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il pluralismo riconosce la coesistenza di valori, visioni del mondo e forme di vita differenti. Le teorie discutono tolleranza, conflitto e condizioni della convivenza. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica e religiosa", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Pluralismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su pluralismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Pluralismo", explanation: "Il pluralismo riconosce la coesistenza di valori, visioni del mondo e forme di vita differenti. Le teorie discutono tolleranza, conflitto e condizioni della convivenza." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Modernità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "tolleranza", id: "CON-000100", kind: "concetto",
+    title: "Tolleranza", subtitle: "Tolleranza: significati, problemi e contesti", area: "Filosofia politica", period: "Età moderna e contemporanea",
+    summary: "La tolleranza riguarda la convivenza con credenze o pratiche disapprovate. Il suo fondamento può essere prudenziale, liberale, religioso o legato al riconoscimento reciproco.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La tolleranza riguarda la convivenza con credenze o pratiche disapprovate. Il suo fondamento può essere prudenziale, liberale, religioso o legato al riconoscimento reciproco.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La tolleranza riguarda la convivenza con credenze o pratiche disapprovate. Il suo fondamento può essere prudenziale, liberale, religioso o legato al riconoscimento reciproco. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Tolleranza", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su tolleranza", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Tolleranza", explanation: "La tolleranza riguarda la convivenza con credenze o pratiche disapprovate. Il suo fondamento può essere prudenziale, liberale, religioso o legato al riconoscimento reciproco." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età moderna e contemporanea", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "universalismo", id: "CON-000101", kind: "concetto",
+    title: "Universalismo", subtitle: "Universalismo: significati, problemi e contesti", area: "Etica e filosofia politica", period: "Tradizioni antiche e moderne",
+    summary: "L'universalismo sostiene che alcune norme o ragioni valgano per tutti. Le critiche interrogano chi definisce l'universale e quali esperienze siano state escluse.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["L'universalismo sostiene che alcune norme o ragioni valgano per tutti. Le critiche interrogano chi definisce l'universale e quali esperienze siano state escluse.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "L'universalismo sostiene che alcune norme o ragioni valgano per tutti. Le critiche interrogano chi definisce l'universale e quali esperienze siano state escluse. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Etica e filosofia politica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Universalismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su universalismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Universalismo", explanation: "L'universalismo sostiene che alcune norme o ragioni valgano per tutti. Le critiche interrogano chi definisce l'universale e quali esperienze siano state escluse." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Tradizioni antiche e moderne", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "relativismo", id: "CON-000102", kind: "concetto",
+    title: "Relativismo", subtitle: "Relativismo: significati, problemi e contesti", area: "Epistemologia ed etica", period: "Antichità e contemporaneità",
+    summary: "Il relativismo lega verità o validità a schemi, culture o prospettive. Occorre distinguere relativismo epistemico, morale, linguistico e culturale.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il relativismo lega verità o validità a schemi, culture o prospettive. Occorre distinguere relativismo epistemico, morale, linguistico e culturale.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il relativismo lega verità o validità a schemi, culture o prospettive. Occorre distinguere relativismo epistemico, morale, linguistico e culturale. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Epistemologia ed etica", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Relativismo", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su relativismo", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Relativismo", explanation: "Il relativismo lega verità o validità a schemi, culture o prospettive. Occorre distinguere relativismo epistemico, morale, linguistico e culturale." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "comparazione-interculturale", id: "CON-000103", kind: "concetto",
+    title: "Comparazione interculturale", subtitle: "Comparazione interculturale: significati, problemi e contesti", area: "Metodo filosofico", period: "Contemporaneità",
+    summary: "La comparazione interculturale mette in relazione problemi e concetti di tradizioni differenti senza presupporre equivalenze. Richiede attenzione a lingue, contesti e asimmetrie storiche.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La comparazione interculturale mette in relazione problemi e concetti di tradizioni differenti senza presupporre equivalenze. Richiede attenzione a lingue, contesti e asimmetrie storiche.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La comparazione interculturale mette in relazione problemi e concetti di tradizioni differenti senza presupporre equivalenze. Richiede attenzione a lingue, contesti e asimmetrie storiche. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Metodo filosofico", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Comparazione interculturale", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su comparazione interculturale", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Comparazione interculturale", explanation: "La comparazione interculturale mette in relazione problemi e concetti di tradizioni differenti senza presupporre equivalenze. Richiede attenzione a lingue, contesti e asimmetrie storiche." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "traduzione", id: "CON-000104", kind: "concetto",
+    title: "Traduzione", subtitle: "Traduzione: significati, problemi e contesti", area: "Filosofia del linguaggio e metodo", period: "Problema trasversale",
+    summary: "La traduzione trasferisce significati tra lingue ma comporta scelte interpretative. I concetti filosofici possono perdere o acquisire sfumature quando passano tra sistemi linguistici.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["La traduzione trasferisce significati tra lingue ma comporta scelte interpretative. I concetti filosofici possono perdere o acquisire sfumature quando passano tra sistemi linguistici.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "La traduzione trasferisce significati tra lingue ma comporta scelte interpretative. I concetti filosofici possono perdere o acquisire sfumature quando passano tra sistemi linguistici. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia del linguaggio e metodo", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Traduzione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su traduzione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Traduzione", explanation: "La traduzione trasferisce significati tra lingue ma comporta scelte interpretative. I concetti filosofici possono perdere o acquisire sfumature quando passano tra sistemi linguistici." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Problema trasversale", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "oralita-scrittura", id: "CON-000105", kind: "concetto",
+    title: "Oralità e scrittura", subtitle: "Oralità e scrittura: significati, problemi e contesti", area: "Filosofia del linguaggio e storia culturale", period: "Antichità e contemporaneità",
+    summary: "Oralità e scrittura sono modalità di trasmissione con effetti diversi su memoria, autorità e interpretazione. La distinzione non coincide con opposizione tra culture senza e con filosofia.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Oralità e scrittura sono modalità di trasmissione con effetti diversi su memoria, autorità e interpretazione. La distinzione non coincide con opposizione tra culture senza e con filosofia.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Oralità e scrittura sono modalità di trasmissione con effetti diversi su memoria, autorità e interpretazione. La distinzione non coincide con opposizione tra culture senza e con filosofia. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Filosofia del linguaggio e storia culturale", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Oralità e scrittura", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su oralità e scrittura", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Oralità e scrittura", explanation: "Oralità e scrittura sono modalità di trasmissione con effetti diversi su memoria, autorità e interpretazione. La distinzione non coincide con opposizione tra culture senza e con filosofia." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Antichità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  },
+  {
+    slug: "canone", id: "CON-000106", kind: "concetto",
+    title: "Canone", subtitle: "Canone: significati, problemi e contesti", area: "Storia della filosofia", period: "Età antica e sviluppi successivi",
+    summary: "Il canone è una selezione storica di testi e autori ritenuti fondamentali. La sua formazione riflette istituzioni, traduzioni, poteri culturali e processi di esclusione.",
+    sections: [
+      { heading: "Significati e contesti", paragraphs: ["Il canone è una selezione storica di testi e autori ritenuti fondamentali. La sua formazione riflette istituzioni, traduzioni, poteri culturali e processi di esclusione.", "Il termine assume funzioni differenti secondo lingua, autore, genere testuale e problema affrontato. La sua storia non va ridotta a una definizione unica né a una linea di sviluppo uniforme."] },
+      { heading: "Problemi filosofici", paragraphs: ["L'analisi richiede di distinguere i diversi livelli del problema e le risposte proposte dalle tradizioni filosofiche. Le definizioni vanno confrontate con gli argomenti e con gli usi effettivi nei testi.", "Una ricostruzione accurata deve considerare le obiezioni, le trasformazioni storiche e le conseguenze teoriche del concetto, evitando di proiettare categorie contemporanee su contesti più antichi."] },
+      { heading: "Confronti e cautele", paragraphs: ["Il confronto interculturale è utile quando individua una domanda determinata e mantiene visibili le differenze linguistiche e storiche. Somiglianze terminologiche non dimostrano da sole equivalenze o influenze.", "La voce costituisce una mappa introduttiva del problema. Per un approfondimento occorre individuare testi primari, traduzioni affidabili e studi specialistici relativi ai singoli contesti."] }
+    ],
+    thoughtAnalysis: [
+      "Il canone è una selezione storica di testi e autori ritenuti fondamentali. La sua formazione riflette istituzioni, traduzioni, poteri culturali e processi di esclusione. Il problema filosofico emerge dalle diverse soluzioni e dalle controversie che ne hanno accompagnato la storia.",
+      "Ogni uso deve essere ricondotto al proprio contesto. La comparazione può chiarire analogie e differenze, ma non deve cancellare le specificità delle tradizioni coinvolte."
+    ],
+    tags: ["Storia della filosofia", "filosofia", "storia dei concetti"],
+    related: [],
+    bibliography: [
+      { label: "Fonti primarie sul tema: Canone", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+      { label: "Studi storico-filosofici su canone", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
+    ],
+    keyTerms: [
+      { term: "Canone", explanation: "Il canone è una selezione storica di testi e autori ritenuti fondamentali. La sua formazione riflette istituzioni, traduzioni, poteri culturali e processi di esclusione." },
+      { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
+    ],
+    works: [
+      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    ],
+    timeline: [
+      { date: "Età antica e sviluppi successivi", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
+    ],
+    editorialStatus: "edizione editoriale 1.0"
+  }
+];
 
 
 export interface ComparativePath {
