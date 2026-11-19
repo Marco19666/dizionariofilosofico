@@ -12,7 +12,26 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
   const entry = getEntryBySlug(slug);
   if (!entry) notFound();
   const titleKey = entry.title.toLocaleLowerCase("it").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-  const expandedAnalysis = expandedThoughts[slug] ?? expandedThoughts[titleKey];
+  const expandedAliases: Record<string, string> = {
+    "agostino-d-ippona": "agostino",
+    "galileo": "galileo-galilei",
+    "francesco-bacone": "francis-bacon",
+    "bacone": "francis-bacon",
+    "ockham": "guglielmo-di-ockham",
+    "bruno": "giordano-bruno",
+    "vico": "giambattista-vico",
+    "mill": "john-stuart-mill",
+    "comte": "auguste-comte",
+    "sartre": "jean-paul-sartre",
+    "beauvoir": "simone-de-beauvoir",
+    "benjamin": "walter-benjamin",
+    "adorno": "theodor-adorno",
+    "popper": "karl-popper",
+    "kuhn": "thomas-kuhn",
+    "habermas": "jurgen-habermas",
+    "rawls": "john-rawls"
+  };
+  const expandedAnalysis = expandedThoughts[slug] ?? expandedThoughts[titleKey] ?? expandedThoughts[expandedAliases[slug] ?? expandedAliases[titleKey]];
 
   return (
     <main className="entry-page">
