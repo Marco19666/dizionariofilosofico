@@ -56,7 +56,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "gorgia",
@@ -99,7 +99,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "averroè",
@@ -142,7 +142,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "al-ghazali",
@@ -185,7 +185,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "maimonide",
@@ -228,7 +228,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "duns-scoto",
@@ -271,7 +271,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "george-berkeley",
@@ -314,7 +314,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "johann-fichte",
@@ -357,7 +357,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "friedrich-schelling",
@@ -400,7 +400,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "ludwig-feuerbach",
@@ -443,7 +443,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "charles-peirce",
@@ -486,7 +486,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "william-james",
@@ -529,7 +529,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "john-dewey",
@@ -572,7 +572,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "gottlob-frege",
@@ -615,7 +615,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "hans-georg-gadamer",
@@ -658,7 +658,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "jacques-derrida",
@@ -701,7 +701,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "gilles-deleuze",
@@ -744,7 +744,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "emmanuel-levinas",
@@ -787,7 +787,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "frantz-fanon",
@@ -830,7 +830,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   },
   {
     "slug": "judith-butler",
@@ -873,6 +873,6 @@ export const supplementalEntries: EncyclopediaEntry[] = [
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
-    "editorialStatus": "approfondimento editoriale 1.0"
+    "editorialStatus": "edizione editoriale 1.0"
   }
 ];
