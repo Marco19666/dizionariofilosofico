@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { entries } from "@/data/entries";
+import { entries } from "@/data/catalog";
 
 export default function IndexPage() {
  return <main className="indexes-page">
