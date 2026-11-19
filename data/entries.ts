@@ -5253,6 +5253,535 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
+  {
+    "slug": "fallibilismo",
+    "id": "CON-000134",
+    "kind": "concetto",
+    "title": "Fallibilismo",
+    "subtitle": "Tesi secondo cui ogni conoscenza umana resta esposta alla possibilità di revisione e correzione.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui ogni conoscenza umana resta esposta alla possibilità di revisione e correzione.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il fallibilismo sostiene che anche le convinzioni meglio giustificate non sono immuni da errore. In Peirce e in Popper assume forme diverse: nel pragmatismo è legato alla ricerca comunitaria e autocorrettiva, mentre nel razionalismo critico è connesso alla controllabilità delle teorie e alla loro esposizione a possibili confutazioni."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Fallibilismo non equivale a scetticismo radicale né implica che tutte le opinioni abbiano lo stesso valore. Le credenze possono essere più o meno giustificate, pur senza diventare infallibili."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La questione centrale è come combinare fallibilità e razionalità: quali procedure, istituzioni e pratiche permettono di correggere gli errori senza cadere nel relativismo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il fallibilismo sostiene che anche le convinzioni meglio giustificate non sono immuni da errore. In Peirce e in Popper assume forme diverse: nel pragmatismo è legato alla ricerca comunitaria e autocorrettiva, mentre nel razionalismo critico è connesso alla controllabilità delle teorie e alla loro esposizione a possibili confutazioni.",
+      "Fallibilismo non equivale a scetticismo radicale né implica che tutte le opinioni abbiano lo stesso valore. Le credenze possono essere più o meno giustificate, pur senza diventare infallibili.",
+      "La questione centrale è come combinare fallibilità e razionalità: quali procedure, istituzioni e pratiche permettono di correggere gli errori senza cadere nel relativismo."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Fallibilismo",
+        "explanation": "Tesi secondo cui ogni conoscenza umana resta esposta alla possibilità di revisione e correzione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "eteronomia",
+    "id": "CON-000135",
+    "kind": "concetto",
+    "title": "Eteronomia",
+    "subtitle": "Condizione in cui la volontà o l'azione ricevono la propria legge da un principio esterno.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Condizione in cui la volontà o l'azione ricevono la propria legge da un principio esterno.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nella filosofia morale di Kant l'eteronomia si contrappone all'autonomia: la volontà è eteronoma quando assume come fondamento determinante un oggetto del desiderio, un'autorità o un fine empirico, invece di riconoscere una legge razionale che possa valere universalmente."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il termine non indica sempre una costrizione imposta da un'altra persona. In senso kantiano anche una scelta apparentemente spontanea può essere eteronoma se dipende da inclinazioni o ricompense assunte come fondamento ultimo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto apre un problema politico e morale: come distinguere l'influenza inevitabile di relazioni e istituzioni dalla rinuncia alla capacità di giudicare e darsi ragioni."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella filosofia morale di Kant l'eteronomia si contrappone all'autonomia: la volontà è eteronoma quando assume come fondamento determinante un oggetto del desiderio, un'autorità o un fine empirico, invece di riconoscere una legge razionale che possa valere universalmente.",
+      "Il termine non indica sempre una costrizione imposta da un'altra persona. In senso kantiano anche una scelta apparentemente spontanea può essere eteronoma se dipende da inclinazioni o ricompense assunte come fondamento ultimo.",
+      "Il concetto apre un problema politico e morale: come distinguere l'influenza inevitabile di relazioni e istituzioni dalla rinuncia alla capacità di giudicare e darsi ragioni."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Eteronomia",
+        "explanation": "Condizione in cui la volontà o l'azione ricevono la propria legge da un principio esterno."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "finitudine",
+    "id": "CON-000136",
+    "kind": "concetto",
+    "title": "Finitudine",
+    "subtitle": "Condizione dell'esistenza umana segnata da limiti, temporalità e impossibilità di disporre integralmente di sé e del mondo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Condizione dell'esistenza umana segnata da limiti, temporalità e impossibilità di disporre integralmente di sé e del mondo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La finitudine è un tema centrale nell'esistenzialismo e nell'ermeneutica contemporanea. In Heidegger si lega alla temporalità e all'essere-per-la-morte; in altre tradizioni indica la dipendenza umana da condizioni corporee, storiche e linguistiche che non possono essere completamente superate."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Finitudine non significa soltanto mortalità biologica. Comprende limiti della conoscenza, vulnerabilità, situatezza e impossibilità di dominare tutte le condizioni della propria esistenza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il riconoscimento della finitudine può essere interpretato come rinuncia a ogni pretesa di universalità oppure come condizione per una forma più consapevole e responsabile di sapere."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La finitudine è un tema centrale nell'esistenzialismo e nell'ermeneutica contemporanea. In Heidegger si lega alla temporalità e all'essere-per-la-morte; in altre tradizioni indica la dipendenza umana da condizioni corporee, storiche e linguistiche che non possono essere completamente superate.",
+      "Finitudine non significa soltanto mortalità biologica. Comprende limiti della conoscenza, vulnerabilità, situatezza e impossibilità di dominare tutte le condizioni della propria esistenza.",
+      "Il riconoscimento della finitudine può essere interpretato come rinuncia a ogni pretesa di universalità oppure come condizione per una forma più consapevole e responsabile di sapere."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Finitudine",
+        "explanation": "Condizione dell'esistenza umana segnata da limiti, temporalità e impossibilità di disporre integralmente di sé e del mondo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "formalismo",
+    "id": "CON-000137",
+    "kind": "concetto",
+    "title": "Formalismo",
+    "subtitle": "Orientamento che attribuisce valore decisivo alla forma, alla struttura o alle regole di un sistema.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Orientamento che attribuisce valore decisivo alla forma, alla struttura o alle regole di un sistema.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il formalismo assume significati differenti in logica, matematica, estetica, diritto e filosofia morale. In filosofia della matematica può identificare la matematica con la manipolazione regolata di simboli; in estetica privilegia l'organizzazione formale dell'opera rispetto a contenuti rappresentativi o biografici."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non esiste un unico formalismo valido in tutti gli ambiti. Un'analisi formale può chiarire la struttura di un argomento o di un'opera senza per questo negare che contesto, significato e uso siano rilevanti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La questione è stabilire che cosa la forma consenta di spiegare e quali aspetti rischi di lasciare fuori: contenuti, storia, intenzioni, effetti o condizioni materiali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il formalismo assume significati differenti in logica, matematica, estetica, diritto e filosofia morale. In filosofia della matematica può identificare la matematica con la manipolazione regolata di simboli; in estetica privilegia l'organizzazione formale dell'opera rispetto a contenuti rappresentativi o biografici.",
+      "Non esiste un unico formalismo valido in tutti gli ambiti. Un'analisi formale può chiarire la struttura di un argomento o di un'opera senza per questo negare che contesto, significato e uso siano rilevanti.",
+      "La questione è stabilire che cosa la forma consenta di spiegare e quali aspetti rischi di lasciare fuori: contenuti, storia, intenzioni, effetti o condizioni materiali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Formalismo",
+        "explanation": "Orientamento che attribuisce valore decisivo alla forma, alla struttura o alle regole di un sistema."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "genealogia",
+    "id": "CON-000138",
+    "kind": "concetto",
+    "title": "Genealogia",
+    "subtitle": "Metodo storico-critico che ricostruisce l'origine contingente e le trasformazioni di valori, pratiche e concetti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Metodo storico-critico che ricostruisce l'origine contingente e le trasformazioni di valori, pratiche e concetti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La genealogia filosofica, associata soprattutto a Nietzsche e Foucault, indaga come ciò che appare naturale o universale sia emerso da conflitti, pratiche e rapporti di potere. Non cerca soltanto un'origine cronologica, ma ricostruisce le condizioni storiche che hanno reso possibile una determinata forma di pensiero."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La genealogia non è una semplice ricerca delle cause remote né dimostra automaticamente che una norma sia falsa perché ha un'origine contingente. Il suo compito è rendere visibili presupposti e rapporti di forza spesso occultati."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Resta da chiarire se la ricostruzione genealogica possa fondare una critica normativa e con quali criteri distinguere una pratica emancipatrice da una nuova forma di dominio."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La genealogia filosofica, associata soprattutto a Nietzsche e Foucault, indaga come ciò che appare naturale o universale sia emerso da conflitti, pratiche e rapporti di potere. Non cerca soltanto un'origine cronologica, ma ricostruisce le condizioni storiche che hanno reso possibile una determinata forma di pensiero.",
+      "La genealogia non è una semplice ricerca delle cause remote né dimostra automaticamente che una norma sia falsa perché ha un'origine contingente. Il suo compito è rendere visibili presupposti e rapporti di forza spesso occultati.",
+      "Resta da chiarire se la ricostruzione genealogica possa fondare una critica normativa e con quali criteri distinguere una pratica emancipatrice da una nuova forma di dominio."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Genealogia",
+        "explanation": "Metodo storico-critico che ricostruisce l'origine contingente e le trasformazioni di valori, pratiche e concetti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "giustizia-distributiva",
+    "id": "CON-000139",
+    "kind": "concetto",
+    "title": "Giustizia distributiva",
+    "subtitle": "Teoria dei criteri con cui beni, opportunità, oneri e risorse devono essere ripartiti tra persone e gruppi.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Teoria dei criteri con cui beni, opportunità, oneri e risorse devono essere ripartiti tra persone e gruppi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La giustizia distributiva affronta la distribuzione di risorse, diritti, opportunità e responsabilità. Aristotele la collega a proporzioni e merito; il dibattito contemporaneo comprende l'egualitarismo, il principio di differenza di Rawls e approcci basati sulle capacità, come quello di Sen e Nussbaum."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Uguaglianza non significa necessariamente assegnare a tutti quantità identiche. Le teorie divergono su quali beni contino, quale unità di distribuzione sia rilevante e come trattare bisogni, merito, libertà e svantaggi di partenza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema consiste nel giustificare criteri distributivi applicabili a società pluralistiche e globalmente interdipendenti, includendo anche generazioni future e condizioni ambientali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La giustizia distributiva affronta la distribuzione di risorse, diritti, opportunità e responsabilità. Aristotele la collega a proporzioni e merito; il dibattito contemporaneo comprende l'egualitarismo, il principio di differenza di Rawls e approcci basati sulle capacità, come quello di Sen e Nussbaum.",
+      "Uguaglianza non significa necessariamente assegnare a tutti quantità identiche. Le teorie divergono su quali beni contino, quale unità di distribuzione sia rilevante e come trattare bisogni, merito, libertà e svantaggi di partenza.",
+      "Il problema consiste nel giustificare criteri distributivi applicabili a società pluralistiche e globalmente interdipendenti, includendo anche generazioni future e condizioni ambientali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Giustizia distributiva",
+        "explanation": "Teoria dei criteri con cui beni, opportunità, oneri e risorse devono essere ripartiti tra persone e gruppi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "legittimita",
+    "id": "CON-000140",
+    "kind": "concetto",
+    "title": "Legittimità",
+    "subtitle": "Qualità di un potere, di una norma o di un'istituzione riconosciuti come giustificabili o validi.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Qualità di un potere, di una norma o di un'istituzione riconosciuti come giustificabili o validi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La legittimità riguarda le ragioni per cui un'autorità può pretendere obbedienza e per cui un ordinamento viene considerato giustificato. In Weber il concetto è studiato anche attraverso le credenze sociali che sostengono il dominio; nella filosofia politica normativa si interroga invece sulle condizioni della giustificazione del potere."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Legittimità e legalità non coincidono: una decisione può essere conforme alle procedure vigenti e tuttavia risultare ingiusta o priva di giustificazione. Allo stesso modo, il consenso di fatto non basta sempre a fondare un'autorità legittima."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Occorre distinguere riconoscimento sociologico, validità giuridica e giustificazione morale, chiedendo come possano sostenersi o entrare in conflitto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La legittimità riguarda le ragioni per cui un'autorità può pretendere obbedienza e per cui un ordinamento viene considerato giustificato. In Weber il concetto è studiato anche attraverso le credenze sociali che sostengono il dominio; nella filosofia politica normativa si interroga invece sulle condizioni della giustificazione del potere.",
+      "Legittimità e legalità non coincidono: una decisione può essere conforme alle procedure vigenti e tuttavia risultare ingiusta o priva di giustificazione. Allo stesso modo, il consenso di fatto non basta sempre a fondare un'autorità legittima.",
+      "Occorre distinguere riconoscimento sociologico, validità giuridica e giustificazione morale, chiedendo come possano sostenersi o entrare in conflitto."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Legittimità",
+        "explanation": "Qualità di un potere, di una norma o di un'istituzione riconosciuti come giustificabili o validi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "metafilosofia",
+    "id": "CON-000141",
+    "kind": "concetto",
+    "title": "Metafilosofia",
+    "subtitle": "Riflessione critica sulla natura, i metodi, gli scopi e i limiti della filosofia.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Riflessione critica sulla natura, i metodi, gli scopi e i limiti della filosofia.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La metafilosofia esamina che cosa renda filosofica una domanda, quali metodi siano appropriati e in che rapporto la disciplina si trovi con scienze, arti, religioni e pratiche politiche. Può assumere una forma storica, metodologica, normativa o autoriflessiva."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non coincide con la sola storia della filosofia: può interrogare anche le pratiche contemporanee di argomentazione, la funzione dei concetti e i criteri con cui si valuta il progresso filosofico."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La domanda decisiva è se la filosofia possieda un metodo unitario o se la sua identità consista proprio nella pluralità di pratiche critiche e forme di indagine."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La metafilosofia esamina che cosa renda filosofica una domanda, quali metodi siano appropriati e in che rapporto la disciplina si trovi con scienze, arti, religioni e pratiche politiche. Può assumere una forma storica, metodologica, normativa o autoriflessiva.",
+      "Non coincide con la sola storia della filosofia: può interrogare anche le pratiche contemporanee di argomentazione, la funzione dei concetti e i criteri con cui si valuta il progresso filosofico.",
+      "La domanda decisiva è se la filosofia possieda un metodo unitario o se la sua identità consista proprio nella pluralità di pratiche critiche e forme di indagine."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Metafilosofia",
+        "explanation": "Riflessione critica sulla natura, i metodi, gli scopi e i limiti della filosofia."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "normativita",
+    "id": "CON-000142",
+    "kind": "concetto",
+    "title": "Normatività",
+    "subtitle": "Carattere di regole, ragioni o criteri che stabiliscono ciò che si deve fare, credere o valutare.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Carattere di regole, ragioni o criteri che stabiliscono ciò che si deve fare, credere o valutare.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La normatività è il tratto per cui un principio non si limita a descrivere ciò che accade, ma orienta giudizi e condotte. Compare nell'etica, nella logica, nella filosofia del diritto e nell'epistemologia, dove si discute quali ragioni rendano corretto credere o agire."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Una regolarità statistica non è di per sé una norma: dal fatto che una condotta sia frequente non segue che sia giusta o obbligatoria. La normatività richiede una dimensione di giustificazione o di vincolo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Le teorie discutono se le norme dipendano da pratiche sociali, ragioni oggettive, procedure condivise o forme di riconoscimento, e come possano motivare soggetti concreti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La normatività è il tratto per cui un principio non si limita a descrivere ciò che accade, ma orienta giudizi e condotte. Compare nell'etica, nella logica, nella filosofia del diritto e nell'epistemologia, dove si discute quali ragioni rendano corretto credere o agire.",
+      "Una regolarità statistica non è di per sé una norma: dal fatto che una condotta sia frequente non segue che sia giusta o obbligatoria. La normatività richiede una dimensione di giustificazione o di vincolo.",
+      "Le teorie discutono se le norme dipendano da pratiche sociali, ragioni oggettive, procedure condivise o forme di riconoscimento, e come possano motivare soggetti concreti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Normatività",
+        "explanation": "Carattere di regole, ragioni o criteri che stabiliscono ciò che si deve fare, credere o valutare."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "realismo-morale",
+    "id": "CON-000143",
+    "kind": "concetto",
+    "title": "Realismo morale",
+    "subtitle": "Tesi secondo cui almeno alcune proposizioni morali sono vere indipendentemente dalle opinioni o convenzioni dei soggetti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui almeno alcune proposizioni morali sono vere indipendentemente dalle opinioni o convenzioni dei soggetti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il realismo morale afferma che giudizi come l'ingiustizia della tortura non sono veri soltanto perché una comunità li approva. Le sue versioni divergono sulla natura dei fatti morali, sul loro rapporto con il mondo naturale e sul modo in cui possano essere conosciuti."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il realismo morale non coincide con l'idea che esista un codice etico semplice e indiscutibile. Può riconoscere disaccordi profondi e difficoltà epistemiche, sostenendo comunque che alcune risposte siano oggettivamente migliori di altre."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il confronto con antirealismo, costruttivismo ed espressivismo riguarda soprattutto che cosa renda veri i giudizi morali e come si possa giustificarne l'autorità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il realismo morale afferma che giudizi come l'ingiustizia della tortura non sono veri soltanto perché una comunità li approva. Le sue versioni divergono sulla natura dei fatti morali, sul loro rapporto con il mondo naturale e sul modo in cui possano essere conosciuti.",
+      "Il realismo morale non coincide con l'idea che esista un codice etico semplice e indiscutibile. Può riconoscere disaccordi profondi e difficoltà epistemiche, sostenendo comunque che alcune risposte siano oggettivamente migliori di altre.",
+      "Il confronto con antirealismo, costruttivismo ed espressivismo riguarda soprattutto che cosa renda veri i giudizi morali e come si possa giustificarne l'autorità."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Realismo morale",
+        "explanation": "Tesi secondo cui almeno alcune proposizioni morali sono vere indipendentemente dalle opinioni o convenzioni dei soggetti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "riduzionismo",
+    "id": "CON-000144",
+    "kind": "concetto",
+    "title": "Riduzionismo",
+    "subtitle": "Tesi secondo cui fenomeni o spiegazioni di un livello possono essere ricondotti a componenti o principi più fondamentali.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui fenomeni o spiegazioni di un livello possono essere ricondotti a componenti o principi più fondamentali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il riduzionismo compare in metafisica, filosofia della scienza, filosofia della mente e biologia. Può sostenere che entità complesse siano composte da elementi più semplici oppure che teorie di un ambito possano essere spiegate mediante teorie di un altro livello."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Ridurre non significa sempre eliminare: una spiegazione riduttiva può conservare il fenomeno mostrando come dipenda da processi più fondamentali. Occorre distinguere riduzione ontologica, teorica, metodologica ed esplicativa."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La questione è se la riduzione preservi tutto ciò che conta del fenomeno, inclusi livelli organizzativi, proprietà relazionali e poteri causali, oppure produca una perdita esplicativa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il riduzionismo compare in metafisica, filosofia della scienza, filosofia della mente e biologia. Può sostenere che entità complesse siano composte da elementi più semplici oppure che teorie di un ambito possano essere spiegate mediante teorie di un altro livello.",
+      "Ridurre non significa sempre eliminare: una spiegazione riduttiva può conservare il fenomeno mostrando come dipenda da processi più fondamentali. Occorre distinguere riduzione ontologica, teorica, metodologica ed esplicativa.",
+      "La questione è se la riduzione preservi tutto ciò che conta del fenomeno, inclusi livelli organizzativi, proprietà relazionali e poteri causali, oppure produca una perdita esplicativa."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Riduzionismo",
+        "explanation": "Tesi secondo cui fenomeni o spiegazioni di un livello possono essere ricondotti a componenti o principi più fondamentali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
