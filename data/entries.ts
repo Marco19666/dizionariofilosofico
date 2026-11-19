@@ -11949,7 +11949,3307 @@ export const entries: EncyclopediaEntry[] = [
       }
     ],
     "editorialStatus": "edizione editoriale 1.0"
-  }
+  },
+  {
+  "slug": "realismo-strutturale",
+  "id": "CON-000304",
+  "kind": "concetto",
+  "title": "Realismo strutturale",
+  "subtitle": "Posizione secondo cui la scienza coglie soprattutto le strutture e le relazioni del mondo, anche quando la natura intrinseca delle entità resta incerta.",
+  "area": "Filosofia della scienza",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Posizione secondo cui la scienza coglie soprattutto le strutture e le relazioni del mondo, anche quando la natura intrinseca delle entità resta incerta.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Posizione secondo cui la scienza coglie soprattutto le strutture e le relazioni del mondo, anche quando la natura intrinseca delle entità resta incerta.",
+        "La continuità tra teorie scientifiche successive può essere spiegata osservando che alcune relazioni matematiche e strutture formali vengono conservate anche quando cambiano le interpretazioni degli oggetti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La versione epistemica limita ciò che possiamo conoscere alla struttura; quella ontica sostiene che la struttura costituisca la realtà fondamentale.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo strutturale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-scienza",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo strutturale",
+      "explanation": "Posizione secondo cui la scienza coglie soprattutto le strutture e le relazioni del mondo, anche quando la natura intrinseca delle entità resta incerta."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "realismo-entita",
+  "id": "CON-000305",
+  "kind": "concetto",
+  "title": "Realismo delle entità",
+  "subtitle": "Tesi secondo cui abbiamo buone ragioni per credere nell'esistenza di entità teoriche quando possiamo manipolarle e usarle causalmente negli esperimenti.",
+  "area": "Filosofia della scienza",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Tesi secondo cui abbiamo buone ragioni per credere nell'esistenza di entità teoriche quando possiamo manipolarle e usarle causalmente negli esperimenti.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Tesi secondo cui abbiamo buone ragioni per credere nell'esistenza di entità teoriche quando possiamo manipolarle e usarle causalmente negli esperimenti.",
+        "Ian Hacking ha reso influente l'idea che intervenire su un'entità, impiegandola per produrre effetti controllati, offra una ragione realista particolarmente forte."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il realismo delle entità può essere più selettivo del realismo delle teorie: si può credere nell'esistenza di elettroni senza considerare vera ogni teoria che li descrive.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo delle entità consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-scienza",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo delle entità",
+      "explanation": "Tesi secondo cui abbiamo buone ragioni per credere nell'esistenza di entità teoriche quando possiamo manipolarle e usarle causalmente negli esperimenti."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "realismo-prospettico",
+  "id": "CON-000306",
+  "kind": "concetto",
+  "title": "Realismo prospettico",
+  "subtitle": "Concezione secondo cui la conoscenza scientifica è sempre prodotta da prospettive situate, ma può nondimeno riferirsi a un mondo indipendente.",
+  "area": "Filosofia della scienza",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Concezione secondo cui la conoscenza scientifica è sempre prodotta da prospettive situate, ma può nondimeno riferirsi a un mondo indipendente.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Concezione secondo cui la conoscenza scientifica è sempre prodotta da prospettive situate, ma può nondimeno riferirsi a un mondo indipendente.",
+        "Gli strumenti, i modelli e le pratiche di ricerca rendono accessibili aspetti differenti della realtà, senza offrire un punto di vista assoluto e privo di prospettiva."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La pluralità delle prospettive non implica che tutte le descrizioni siano equivalenti: alcune sono più affidabili, coerenti e adeguate ai fenomeni di altre.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo prospettico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-scienza",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo prospettico",
+      "explanation": "Concezione secondo cui la conoscenza scientifica è sempre prodotta da prospettive situate, ma può nondimeno riferirsi a un mondo indipendente."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "realismo-interno",
+  "id": "CON-000307",
+  "kind": "concetto",
+  "title": "Realismo interno",
+  "subtitle": "Posizione associata a Hilary Putnam secondo cui gli oggetti e i fatti sono descritti entro schemi concettuali, senza che ciò comporti un relativismo illimitato.",
+  "area": "Metafisica ed epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Posizione associata a Hilary Putnam secondo cui gli oggetti e i fatti sono descritti entro schemi concettuali, senza che ciò comporti un relativismo illimitato.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Posizione associata a Hilary Putnam secondo cui gli oggetti e i fatti sono descritti entro schemi concettuali, senza che ciò comporti un relativismo illimitato.",
+        "Non esiste una descrizione del mondo completamente indipendente da ogni linguaggio o criterio di individuazione; ciò che conta come oggetto dipende anche da pratiche concettuali."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il realismo interno rifiuta l'immagine di una corrispondenza semplice tra parole e cose viste da un punto di vista esterno a ogni schema.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo interno consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "metafisica-ed-epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo interno",
+      "explanation": "Posizione associata a Hilary Putnam secondo cui gli oggetti e i fatti sono descritti entro schemi concettuali, senza che ciò comporti un relativismo illimitato."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "realismo-esterno",
+  "id": "CON-000308",
+  "kind": "concetto",
+  "title": "Realismo esterno",
+  "subtitle": "Tesi secondo cui il mondo esiste indipendentemente dai nostri schemi concettuali e dalle nostre pratiche linguistiche.",
+  "area": "Metafisica ed epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Tesi secondo cui il mondo esiste indipendentemente dai nostri schemi concettuali e dalle nostre pratiche linguistiche.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Tesi secondo cui il mondo esiste indipendentemente dai nostri schemi concettuali e dalle nostre pratiche linguistiche.",
+        "Il realismo esterno assume che le nostre descrizioni possano essere vere o false in virtù di come stanno le cose, anche se ogni accesso conoscitivo è mediato da concetti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La posizione si contrappone alle forme di idealismo e ad alcune interpretazioni del relativismo concettuale, pur ammettendo il carattere fallibile della conoscenza.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo esterno consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "metafisica-ed-epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo esterno",
+      "explanation": "Tesi secondo cui il mondo esiste indipendentemente dai nostri schemi concettuali e dalle nostre pratiche linguistiche."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "realismo-scientifico-strutturale",
+  "id": "CON-000309",
+  "kind": "concetto",
+  "title": "Realismo scientifico strutturale",
+  "subtitle": "Versione del realismo scientifico che attribuisce priorità alla conoscenza delle strutture matematiche e relazionali descritte dalle teorie.",
+  "area": "Filosofia della scienza",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Versione del realismo scientifico che attribuisce priorità alla conoscenza delle strutture matematiche e relazionali descritte dalle teorie.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Versione del realismo scientifico che attribuisce priorità alla conoscenza delle strutture matematiche e relazionali descritte dalle teorie.",
+        "La continuità delle strutture attraverso cambiamenti teorici viene considerata un indizio che la scienza colga aspetti reali del mondo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il realismo strutturale può essere epistemico, se limita la conoscenza alla struttura, oppure ontico, se considera le strutture ontologicamente fondamentali.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di realismo scientifico strutturale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-scienza",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Realismo scientifico strutturale",
+      "explanation": "Versione del realismo scientifico che attribuisce priorità alla conoscenza delle strutture matematiche e relazionali descritte dalle teorie."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "empirismo-radicale",
+  "id": "CON-000310",
+  "kind": "concetto",
+  "title": "Empirismo radicale",
+  "subtitle": "Orientamento empirista che considera l'esperienza il punto di partenza e il materiale fondamentale della conoscenza, ampliando il concetto di esperienza.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Orientamento empirista che considera l'esperienza il punto di partenza e il materiale fondamentale della conoscenza, ampliando il concetto di esperienza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Orientamento empirista che considera l'esperienza il punto di partenza e il materiale fondamentale della conoscenza, ampliando il concetto di esperienza.",
+        "In William James l'esperienza non è ridotta a sensazioni atomiche: include relazioni, continuità e connessioni vissute tra gli eventi."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'empirismo radicale cerca di evitare sia il dualismo tra soggetto e oggetto sia la riduzione dell'esperienza a dati isolati.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di empirismo radicale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Empirismo radicale",
+      "explanation": "Orientamento empirista che considera l'esperienza il punto di partenza e il materiale fondamentale della conoscenza, ampliando il concetto di esperienza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "empirismo-logico",
+  "id": "CON-000311",
+  "kind": "concetto",
+  "title": "Empirismo logico",
+  "subtitle": "Programma filosofico che combina l'orientamento empirista con gli strumenti della logica moderna per chiarire il linguaggio della conoscenza.",
+  "area": "Filosofia contemporanea",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Programma filosofico che combina l'orientamento empirista con gli strumenti della logica moderna per chiarire il linguaggio della conoscenza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Programma filosofico che combina l'orientamento empirista con gli strumenti della logica moderna per chiarire il linguaggio della conoscenza.",
+        "Il programma mira a ricostruire gli enunciati scientifici, distinguere i livelli del linguaggio e precisare i rapporti tra termini teorici e osservazione."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Rispetto al positivismo più tradizionale, l'empirismo logico sviluppa strumenti formali più sofisticati e ammette forme indirette di connessione tra teoria ed esperienza.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di empirismo logico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-contemporanea",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Empirismo logico",
+      "explanation": "Programma filosofico che combina l'orientamento empirista con gli strumenti della logica moderna per chiarire il linguaggio della conoscenza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "coherentismo",
+  "id": "CON-000312",
+  "kind": "concetto",
+  "title": "Coherentismo",
+  "subtitle": "Teoria della giustificazione secondo cui una credenza è giustificata in virtù della sua coerenza con un sistema di credenze.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Teoria della giustificazione secondo cui una credenza è giustificata in virtù della sua coerenza con un sistema di credenze.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Teoria della giustificazione secondo cui una credenza è giustificata in virtù della sua coerenza con un sistema di credenze.",
+        "La giustificazione non dipende necessariamente da una base privilegiata di credenze autoevidenti: le proposizioni si sostengono reciprocamente all'interno di una rete."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La coerenza può comprendere consistenza logica, connessioni esplicative, integrazione e capacità di rispondere alle obiezioni.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di coherentismo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Coherentismo",
+      "explanation": "Teoria della giustificazione secondo cui una credenza è giustificata in virtù della sua coerenza con un sistema di credenze."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "foundherentismo",
+  "id": "CON-000313",
+  "kind": "concetto",
+  "title": "Foundherentismo",
+  "subtitle": "Teoria di Susan Haack che combina elementi del fondazionalismo e del coherentismo nella giustificazione delle credenze.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Teoria di Susan Haack che combina elementi del fondazionalismo e del coherentismo nella giustificazione delle credenze.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Teoria di Susan Haack che combina elementi del fondazionalismo e del coherentismo nella giustificazione delle credenze.",
+        "Le credenze sono sostenute sia dall'esperienza, che offre un ancoraggio, sia dalle relazioni reciproche con altre credenze, che formano una rete di supporto."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'immagine del cruciverba illustra come gli indizi esperienziali e gli incroci tra risposte contribuiscano insieme alla soluzione.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di foundherentismo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Foundherentismo",
+      "explanation": "Teoria di Susan Haack che combina elementi del fondazionalismo e del coherentismo nella giustificazione delle credenze."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "fondazionalismo",
+  "id": "CON-000314",
+  "kind": "concetto",
+  "title": "Fondazionalismo",
+  "subtitle": "Teoria secondo cui alcune credenze di base giustificate sostengono, direttamente o indirettamente, le altre credenze.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Teoria secondo cui alcune credenze di base giustificate sostengono, direttamente o indirettamente, le altre credenze.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Teoria secondo cui alcune credenze di base giustificate sostengono, direttamente o indirettamente, le altre credenze.",
+        "Le credenze fondamentali possono essere considerate autoevidenti, non inferenziali o giustificate da esperienze immediate, a seconda della versione teorica."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le credenze derivate ricevono giustificazione attraverso inferenze che risalgono, in ultima istanza, a questa base.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di fondazionalismo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Fondazionalismo",
+      "explanation": "Teoria secondo cui alcune credenze di base giustificate sostengono, direttamente o indirettamente, le altre credenze."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "infinitismo",
+  "id": "CON-000315",
+  "kind": "concetto",
+  "title": "Infinitismo epistemico",
+  "subtitle": "Teoria secondo cui la giustificazione può consistere in una catena potenzialmente infinita e non circolare di ragioni.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Teoria secondo cui la giustificazione può consistere in una catena potenzialmente infinita e non circolare di ragioni.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Teoria secondo cui la giustificazione può consistere in una catena potenzialmente infinita e non circolare di ragioni.",
+        "L'infinitista rifiuta l'idea che ogni catena giustificativa debba terminare in credenze fondamentali o ripetersi in un circolo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La catena non deve essere percorsa interamente da un soggetto in un singolo momento: conta che ogni ragione possa essere ulteriormente sostenuta.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di infinitismo epistemico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Infinitismo epistemico",
+      "explanation": "Teoria secondo cui la giustificazione può consistere in una catena potenzialmente infinita e non circolare di ragioni."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "regresso-epistemico",
+  "id": "CON-000316",
+  "kind": "concetto",
+  "title": "Regresso epistemico",
+  "subtitle": "Problema generato dalla richiesta che ogni credenza giustificata sia sostenuta da un'ulteriore ragione giustificata.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Problema generato dalla richiesta che ogni credenza giustificata sia sostenuta da un'ulteriore ragione giustificata.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Problema generato dalla richiesta che ogni credenza giustificata sia sostenuta da un'ulteriore ragione giustificata.",
+        "Se ogni ragione richiede un'altra ragione, sembra aprirsi una catena senza termine, un circolo oppure la necessità di ammettere credenze di base."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il problema è al centro del confronto tra fondazionalismo, coherentismo e infinitismo.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di regresso epistemico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Regresso epistemico",
+      "explanation": "Problema generato dalla richiesta che ogni credenza giustificata sia sostenuta da un'ulteriore ragione giustificata."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "problema-gettier",
+  "id": "CON-000317",
+  "kind": "concetto",
+  "title": "Problema di Gettier",
+  "subtitle": "Problema che mostra come una credenza vera e giustificata possa non costituire conoscenza quando la verità è raggiunta per fortuna epistemica.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Problema che mostra come una credenza vera e giustificata possa non costituire conoscenza quando la verità è raggiunta per fortuna epistemica.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Problema che mostra come una credenza vera e giustificata possa non costituire conoscenza quando la verità è raggiunta per fortuna epistemica.",
+        "Gli esempi di Edmund Gettier mettono in crisi la definizione tradizionale della conoscenza come credenza vera e giustificata, mostrando casi in cui la giustificazione conduce accidentalmente a una conclusione vera."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le risposte hanno introdotto condizioni ulteriori, come assenza di defeaters, affidabilità del processo o connessioni non accidentali tra credenza e fatto.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di problema di gettier consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Problema di Gettier",
+      "explanation": "Problema che mostra come una credenza vera e giustificata possa non costituire conoscenza quando la verità è raggiunta per fortuna epistemica."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "conoscenza-percezione",
+  "id": "CON-000318",
+  "kind": "concetto",
+  "title": "Conoscenza percettiva",
+  "subtitle": "Conoscenza acquisita attraverso la percezione sensoriale e la capacità di discriminare aspetti dell'ambiente.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Conoscenza acquisita attraverso la percezione sensoriale e la capacità di discriminare aspetti dell'ambiente.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Conoscenza acquisita attraverso la percezione sensoriale e la capacità di discriminare aspetti dell'ambiente.",
+        "La percezione può giustificare credenze senza richiedere sempre un'inferenza esplicita, ma resta esposta a illusioni, allucinazioni e condizioni ambientali ingannevoli."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie discutono se l'esperienza fornisca contenuti rappresentazionali, stati non concettuali o un accesso diretto agli oggetti.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di conoscenza percettiva consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Conoscenza percettiva",
+      "explanation": "Conoscenza acquisita attraverso la percezione sensoriale e la capacità di discriminare aspetti dell'ambiente."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "conoscenza-testimoniale",
+  "id": "CON-000319",
+  "kind": "concetto",
+  "title": "Conoscenza testimoniale",
+  "subtitle": "Conoscenza acquisita attraverso le parole, le attestazioni e le comunicazioni di altre persone.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Conoscenza acquisita attraverso le parole, le attestazioni e le comunicazioni di altre persone.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Conoscenza acquisita attraverso le parole, le attestazioni e le comunicazioni di altre persone.",
+        "Gran parte di ciò che sappiamo dipende da fonti testimoniali: esperti, documenti, istituzioni e interlocutori ordinari."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie divergono sul fatto che la testimonianza sia una fonte epistemica fondamentale o richieda una riduzione a ragioni indipendenti per fidarsi del testimone.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di conoscenza testimoniale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Conoscenza testimoniale",
+      "explanation": "Conoscenza acquisita attraverso le parole, le attestazioni e le comunicazioni di altre persone."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "conoscenza-a-priori",
+  "id": "CON-000320",
+  "kind": "concetto",
+  "title": "Conoscenza a priori",
+  "subtitle": "Conoscenza giustificata indipendentemente da specifiche esperienze sensoriali, almeno secondo il criterio tradizionale.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Conoscenza giustificata indipendentemente da specifiche esperienze sensoriali, almeno secondo il criterio tradizionale.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Conoscenza giustificata indipendentemente da specifiche esperienze sensoriali, almeno secondo il criterio tradizionale.",
+        "La conoscenza a priori è spesso associata a verità logiche, matematiche e concettuali, ma il suo ambito e la sua natura sono oggetto di controversia."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Alcune teorie la spiegano attraverso intuizioni razionali, altre attraverso competenze concettuali, convenzioni o capacità inferenziali.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di conoscenza a priori consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Conoscenza a priori",
+      "explanation": "Conoscenza giustificata indipendentemente da specifiche esperienze sensoriali, almeno secondo il criterio tradizionale."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "giustificazione-epistemica",
+  "id": "CON-000321",
+  "kind": "concetto",
+  "title": "Giustificazione epistemica",
+  "subtitle": "Qualità normativa in virtù della quale una credenza è sostenuta da ragioni o processi adeguati alla ricerca della verità.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Qualità normativa in virtù della quale una credenza è sostenuta da ragioni o processi adeguati alla ricerca della verità.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Qualità normativa in virtù della quale una credenza è sostenuta da ragioni o processi adeguati alla ricerca della verità.",
+        "La giustificazione distingue una credenza ragionevole da una semplice supposizione fortunata, pur non garantendo da sola che la credenza sia vera."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie fondazionaliste, coherentiste, affidabiliste e internaliste propongono criteri differenti per spiegare quando una credenza sia giustificata.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di giustificazione epistemica consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Giustificazione epistemica",
+      "explanation": "Qualità normativa in virtù della quale una credenza è sostenuta da ragioni o processi adeguati alla ricerca della verità."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "internalismo-epistemico",
+  "id": "CON-000322",
+  "kind": "concetto",
+  "title": "Internalismo epistemico",
+  "subtitle": "Posizione secondo cui i fattori che giustificano una credenza devono essere in qualche modo accessibili alla riflessione del soggetto.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Posizione secondo cui i fattori che giustificano una credenza devono essere in qualche modo accessibili alla riflessione del soggetto.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Posizione secondo cui i fattori che giustificano una credenza devono essere in qualche modo accessibili alla riflessione del soggetto.",
+        "L'accessibilità può essere intesa come consapevolezza effettiva o come possibilità di riconoscere le proprie ragioni mediante riflessione."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'internalismo collega la giustificazione alla responsabilità epistemica e alla capacità del soggetto di rispondere delle proprie credenze.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di internalismo epistemico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Internalismo epistemico",
+      "explanation": "Posizione secondo cui i fattori che giustificano una credenza devono essere in qualche modo accessibili alla riflessione del soggetto."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "esternalismo-epistemico",
+  "id": "CON-000323",
+  "kind": "concetto",
+  "title": "Esternalismo epistemico",
+  "subtitle": "Famiglia di teorie secondo cui la giustificazione o la conoscenza dipendono anche da fattori esterni alla consapevolezza del soggetto.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Famiglia di teorie secondo cui la giustificazione o la conoscenza dipendono anche da fattori esterni alla consapevolezza del soggetto.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Famiglia di teorie secondo cui la giustificazione o la conoscenza dipendono anche da fattori esterni alla consapevolezza del soggetto.",
+        "L'affidabilità dei processi cognitivi, il rapporto causale con i fatti e l'ambiente epistemico possono contribuire allo status conoscitivo di una credenza."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'esternalismo consente di spiegare come bambini e soggetti non esperti possano conoscere senza possedere una teoria riflessiva delle proprie ragioni.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di esternalismo epistemico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Esternalismo epistemico",
+      "explanation": "Famiglia di teorie secondo cui la giustificazione o la conoscenza dipendono anche da fattori esterni alla consapevolezza del soggetto."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "affidabilismo",
+  "id": "CON-000324",
+  "kind": "concetto",
+  "title": "Affidabilismo",
+  "subtitle": "Teoria secondo cui una credenza è giustificata o conoscitiva quando è prodotta da un processo generalmente affidabile.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Teoria secondo cui una credenza è giustificata o conoscitiva quando è prodotta da un processo generalmente affidabile.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Teoria secondo cui una credenza è giustificata o conoscitiva quando è prodotta da un processo generalmente affidabile.",
+        "La valutazione riguarda il modo in cui la credenza viene formata: percezione in condizioni normali, memoria, inferenza competente o procedure di controllo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'affidabilismo sposta l'attenzione dalle ragioni consapevoli alle proprietà oggettive dei processi cognitivi.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di affidabilismo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Affidabilismo",
+      "explanation": "Teoria secondo cui una credenza è giustificata o conoscitiva quando è prodotta da un processo generalmente affidabile."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "virtu-epistemiche",
+  "id": "CON-000325",
+  "kind": "concetto",
+  "title": "Virtù epistemiche",
+  "subtitle": "Disposizioni intellettuali stabili che favoriscono la ricerca, l'acquisizione e la comunicazione responsabile della conoscenza.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Disposizioni intellettuali stabili che favoriscono la ricerca, l'acquisizione e la comunicazione responsabile della conoscenza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Disposizioni intellettuali stabili che favoriscono la ricerca, l'acquisizione e la comunicazione responsabile della conoscenza.",
+        "Tra le virtù epistemiche si annoverano accuratezza, apertura mentale, coraggio intellettuale, umiltà, perseveranza e capacità di riconoscere i propri limiti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'epistemologia delle virtù studia sia le qualità del carattere conoscitivo sia le competenze cognitive che rendono affidabile un agente.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di virtù epistemiche consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Virtù epistemiche",
+      "explanation": "Disposizioni intellettuali stabili che favoriscono la ricerca, l'acquisizione e la comunicazione responsabile della conoscenza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "epistemologia-virtu",
+  "id": "CON-000326",
+  "kind": "concetto",
+  "title": "Epistemologia delle virtù",
+  "subtitle": "Approccio che spiega la conoscenza e la giustificazione facendo riferimento alle capacità e alle disposizioni intellettuali del soggetto.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Approccio che spiega la conoscenza e la giustificazione facendo riferimento alle capacità e alle disposizioni intellettuali del soggetto.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Approccio che spiega la conoscenza e la giustificazione facendo riferimento alle capacità e alle disposizioni intellettuali del soggetto.",
+        "Una credenza può essere epistemicamente meritoria quando deriva dall'esercizio competente di capacità cognitive, non soltanto quando soddisfa condizioni formali."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le versioni responsibiliste valorizzano il carattere intellettuale; quelle affidabiliste insistono sulle competenze cognitive che conducono alla verità.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di epistemologia delle virtù consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Epistemologia delle virtù",
+      "explanation": "Approccio che spiega la conoscenza e la giustificazione facendo riferimento alle capacità e alle disposizioni intellettuali del soggetto."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "ingiustizia-testimoniale",
+  "id": "CON-000327",
+  "kind": "concetto",
+  "title": "Ingiustizia testimoniale",
+  "subtitle": "Forma di ingiustizia epistemica in cui a una persona viene attribuita meno credibilità a causa di pregiudizi identitari.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Forma di ingiustizia epistemica in cui a una persona viene attribuita meno credibilità a causa di pregiudizi identitari.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Forma di ingiustizia epistemica in cui a una persona viene attribuita meno credibilità a causa di pregiudizi identitari.",
+        "Il deficit di credibilità può colpire il testimone prima ancora che il contenuto della sua affermazione venga valutato, compromettendo la sua partecipazione come soggetto conoscente."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Miranda Fricker ha reso centrale il concetto, mostrando come stereotipi sociali possano alterare la distribuzione dell'autorità testimoniale.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di ingiustizia testimoniale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Ingiustizia testimoniale",
+      "explanation": "Forma di ingiustizia epistemica in cui a una persona viene attribuita meno credibilità a causa di pregiudizi identitari."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "ingiustizia-ermeneutica",
+  "id": "CON-000328",
+  "kind": "concetto",
+  "title": "Ingiustizia ermeneutica",
+  "subtitle": "Forma di ingiustizia che si verifica quando gruppi marginalizzati non dispongono di risorse interpretative condivise per rendere comprensibili le proprie esperienze.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Forma di ingiustizia che si verifica quando gruppi marginalizzati non dispongono di risorse interpretative condivise per rendere comprensibili le proprie esperienze.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Forma di ingiustizia che si verifica quando gruppi marginalizzati non dispongono di risorse interpretative condivise per rendere comprensibili le proprie esperienze.",
+        "La lacuna nei concetti pubblici può rendere difficile nominare, comunicare e far riconoscere esperienze sociali rilevanti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il problema non è una carenza individuale di linguaggio, ma una partecipazione diseguale alla produzione delle categorie interpretative collettive.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di ingiustizia ermeneutica consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Ingiustizia ermeneutica",
+      "explanation": "Forma di ingiustizia che si verifica quando gruppi marginalizzati non dispongono di risorse interpretative condivise per rendere comprensibili le proprie esperienze."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "ignoranza-strategica",
+  "id": "CON-000329",
+  "kind": "concetto",
+  "title": "Ignoranza strategica",
+  "subtitle": "Mancanza di conoscenza mantenuta o coltivata deliberatamente perché conoscere comporterebbe responsabilità, costi o cambiamenti indesiderati.",
+  "area": "Epistemologia sociale e filosofia politica",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Mancanza di conoscenza mantenuta o coltivata deliberatamente perché conoscere comporterebbe responsabilità, costi o cambiamenti indesiderati.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Mancanza di conoscenza mantenuta o coltivata deliberatamente perché conoscere comporterebbe responsabilità, costi o cambiamenti indesiderati.",
+        "L'ignoranza strategica può essere prodotta da organizzazioni, istituzioni o individui attraverso selezione delle informazioni, procedure opache e delega della responsabilità."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Non ogni mancata conoscenza è intenzionale: la nozione riguarda pratiche in cui il non sapere diventa funzionale a interessi o rapporti di potere.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di ignoranza strategica consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale-e-filosofia-politica",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Ignoranza strategica",
+      "explanation": "Mancanza di conoscenza mantenuta o coltivata deliberatamente perché conoscere comporterebbe responsabilità, costi o cambiamenti indesiderati."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "ignoranza-collettiva",
+  "id": "CON-000330",
+  "kind": "concetto",
+  "title": "Ignoranza collettiva",
+  "subtitle": "Condizione in cui una comunità non possiede o non riconosce informazioni rilevanti, anche quando esse sono distribuite tra i suoi membri.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Condizione in cui una comunità non possiede o non riconosce informazioni rilevanti, anche quando esse sono distribuite tra i suoi membri.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Condizione in cui una comunità non possiede o non riconosce informazioni rilevanti, anche quando esse sono distribuite tra i suoi membri.",
+        "La frammentazione delle competenze, la polarizzazione e le strutture comunicative possono impedire che conoscenze locali diventino patrimonio comune."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'ignoranza collettiva può persistere anche quando singoli individui dispongono di informazioni corrette, se mancano canali di coordinamento e fiducia.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di ignoranza collettiva consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Ignoranza collettiva",
+      "explanation": "Condizione in cui una comunità non possiede o non riconosce informazioni rilevanti, anche quando esse sono distribuite tra i suoi membri."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "disaccordo-tra-pari",
+  "id": "CON-000331",
+  "kind": "concetto",
+  "title": "Disaccordo tra pari epistemici",
+  "subtitle": "Problema relativo a come un soggetto debba reagire quando una persona altrettanto competente e informata sostiene una conclusione opposta.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Problema relativo a come un soggetto debba reagire quando una persona altrettanto competente e informata sostiene una conclusione opposta.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Problema relativo a come un soggetto debba reagire quando una persona altrettanto competente e informata sostiene una conclusione opposta.",
+        "Il disaccordo tra pari mette in discussione la sicurezza delle proprie credenze, perché l'altro interlocutore appare dotato di capacità e informazioni comparabili."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie conciliatoriste invitano a ridurre la fiducia nella propria posizione; le teorie ferme sostengono che sia talvolta razionale mantenere il giudizio iniziale.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di disaccordo tra pari epistemici consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Disaccordo tra pari epistemici",
+      "explanation": "Problema relativo a come un soggetto debba reagire quando una persona altrettanto competente e informata sostiene una conclusione opposta."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "pluralismo-epistemico",
+  "id": "CON-000332",
+  "kind": "concetto",
+  "title": "Pluralismo epistemico",
+  "subtitle": "Tesi secondo cui la conoscenza può richiedere una pluralità di metodi, prospettive e forme di competenza.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Tesi secondo cui la conoscenza può richiedere una pluralità di metodi, prospettive e forme di competenza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Tesi secondo cui la conoscenza può richiedere una pluralità di metodi, prospettive e forme di competenza.",
+        "Fenomeni complessi possono essere compresi meglio combinando approcci disciplinari e punti di vista differenti, senza ridurli a un unico metodo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il pluralismo non implica che ogni opinione abbia lo stesso valore: le prospettive devono essere valutate per capacità esplicativa, evidenza e adeguatezza al problema.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di pluralismo epistemico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Pluralismo epistemico",
+      "explanation": "Tesi secondo cui la conoscenza può richiedere una pluralità di metodi, prospettive e forme di competenza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "democrazia-epistemica",
+  "id": "CON-000333",
+  "kind": "concetto",
+  "title": "Democrazia epistemica",
+  "subtitle": "Concezione che valuta le istituzioni democratiche anche per la loro capacità di raccogliere, correggere e utilizzare conoscenze distribuite tra i cittadini.",
+  "area": "Filosofia politica",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Concezione che valuta le istituzioni democratiche anche per la loro capacità di raccogliere, correggere e utilizzare conoscenze distribuite tra i cittadini.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Concezione che valuta le istituzioni democratiche anche per la loro capacità di raccogliere, correggere e utilizzare conoscenze distribuite tra i cittadini.",
+        "La partecipazione può migliorare le decisioni pubbliche facendo emergere informazioni locali, esperienze trascurate e una pluralità di competenze."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie epistemiche della democrazia non sostengono necessariamente che la maggioranza abbia sempre ragione, ma indagano le condizioni in cui procedure inclusive possono produrre decisioni migliori.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di democrazia epistemica consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-politica",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Democrazia epistemica",
+      "explanation": "Concezione che valuta le istituzioni democratiche anche per la loro capacità di raccogliere, correggere e utilizzare conoscenze distribuite tra i cittadini."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "epistemologia-femminista",
+  "id": "CON-000334",
+  "kind": "concetto",
+  "title": "Epistemologia femminista",
+  "subtitle": "Approccio che studia come genere, potere e posizione sociale influenzino la produzione, la distribuzione e la valutazione della conoscenza.",
+  "area": "Epistemologia sociale",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Approccio che studia come genere, potere e posizione sociale influenzino la produzione, la distribuzione e la valutazione della conoscenza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Approccio che studia come genere, potere e posizione sociale influenzino la produzione, la distribuzione e la valutazione della conoscenza.",
+        "Le pratiche conoscitive non sono separate dai contesti sociali: esperienze marginalizzate possono rivelare presupposti e punti ciechi delle prospettive dominanti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il campo comprende teoria del punto di vista, analisi dell'ingiustizia epistemica e critica della presunta neutralità di alcune istituzioni scientifiche.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di epistemologia femminista consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-sociale",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Epistemologia femminista",
+      "explanation": "Approccio che studia come genere, potere e posizione sociale influenzino la produzione, la distribuzione e la valutazione della conoscenza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "epistemologia-naturalizzata",
+  "id": "CON-000335",
+  "kind": "concetto",
+  "title": "Epistemologia naturalizzata",
+  "subtitle": "Programma che studia la conoscenza anche attraverso metodi empirici delle scienze cognitive, della psicologia e della biologia.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Programma che studia la conoscenza anche attraverso metodi empirici delle scienze cognitive, della psicologia e della biologia.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Programma che studia la conoscenza anche attraverso metodi empirici delle scienze cognitive, della psicologia e della biologia.",
+        "W. V. O. Quine propone di avvicinare l'epistemologia allo studio scientifico di come gli esseri umani ricevono stimoli e costruiscono teorie sul mondo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'approccio descrittivo può essere integrato da domande normative su quali procedure siano affidabili e quali credenze siano giustificate.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di epistemologia naturalizzata consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Epistemologia naturalizzata",
+      "explanation": "Programma che studia la conoscenza anche attraverso metodi empirici delle scienze cognitive, della psicologia e della biologia."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "epistemologia-formale",
+  "id": "CON-000336",
+  "kind": "concetto",
+  "title": "Epistemologia formale",
+  "subtitle": "Studio di problemi epistemologici mediante strumenti matematici e logici, come probabilità, teoria della decisione e modelli di aggiornamento.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Studio di problemi epistemologici mediante strumenti matematici e logici, come probabilità, teoria della decisione e modelli di aggiornamento.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Studio di problemi epistemologici mediante strumenti matematici e logici, come probabilità, teoria della decisione e modelli di aggiornamento.",
+        "Gli strumenti formali permettono di rappresentare gradi di credenza, dipendenze tra evidenze, aggregazione di giudizi e dinamiche del disaccordo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il campo comprende epistemologia bayesiana, logiche epistemiche e modelli di conoscenza distribuita.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di epistemologia formale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Epistemologia formale",
+      "explanation": "Studio di problemi epistemologici mediante strumenti matematici e logici, come probabilità, teoria della decisione e modelli di aggiornamento."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "epistemologia-sperimentale",
+  "id": "CON-000337",
+  "kind": "concetto",
+  "title": "Epistemologia sperimentale",
+  "subtitle": "Approccio che utilizza metodi empirici per studiare intuizioni, giudizi e pratiche effettive legate alla conoscenza.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Approccio che utilizza metodi empirici per studiare intuizioni, giudizi e pratiche effettive legate alla conoscenza.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Approccio che utilizza metodi empirici per studiare intuizioni, giudizi e pratiche effettive legate alla conoscenza.",
+        "La ricerca sperimentale indaga come persone diverse attribuiscano conoscenza, responsabilità epistemica e giustificazione in scenari controllati."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "I risultati possono mettere alla prova l'universalità delle intuizioni filosofiche e mostrare variazioni culturali o contestuali.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di epistemologia sperimentale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Epistemologia sperimentale",
+      "explanation": "Approccio che utilizza metodi empirici per studiare intuizioni, giudizi e pratiche effettive legate alla conoscenza."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "scetticismo-cartesiano",
+  "id": "CON-000338",
+  "kind": "concetto",
+  "title": "Scetticismo cartesiano",
+  "subtitle": "Forma di dubbio radicale che mette in questione la possibilità di distinguere con certezza la veglia dal sogno o l'esperienza autentica dall'inganno.",
+  "area": "Epistemologia moderna",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Forma di dubbio radicale che mette in questione la possibilità di distinguere con certezza la veglia dal sogno o l'esperienza autentica dall'inganno.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Forma di dubbio radicale che mette in questione la possibilità di distinguere con certezza la veglia dal sogno o l'esperienza autentica dall'inganno.",
+        "Nelle Meditazioni metafisiche, Cartesio utilizza ipotesi di errore estremo per cercare un fondamento indubitabile della conoscenza."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il dubbio è metodico: non costituisce necessariamente la conclusione scettica, ma uno strumento per verificare quali credenze resistano alla sospensione del giudizio.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di scetticismo cartesiano consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-moderna",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Scetticismo cartesiano",
+      "explanation": "Forma di dubbio radicale che mette in questione la possibilità di distinguere con certezza la veglia dal sogno o l'esperienza autentica dall'inganno."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "scetticismo-induttivo",
+  "id": "CON-000339",
+  "kind": "concetto",
+  "title": "Scetticismo induttivo",
+  "subtitle": "Dubbio sulla giustificazione razionale delle inferenze che estendono osservazioni passate a casi futuri o non osservati.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Dubbio sulla giustificazione razionale delle inferenze che estendono osservazioni passate a casi futuri o non osservati.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Dubbio sulla giustificazione razionale delle inferenze che estendono osservazioni passate a casi futuri o non osservati.",
+        "Il problema di Hume mostra che l'induzione non può essere giustificata senza circolarità mediante il principio che il futuro assomiglierà al passato."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La pratica scientifica dipende ampiamente da generalizzazioni induttive, ma la loro affidabilità non deriva da una dimostrazione deduttiva.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di scetticismo induttivo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Scetticismo induttivo",
+      "explanation": "Dubbio sulla giustificazione razionale delle inferenze che estendono osservazioni passate a casi futuri o non osservati."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "scetticismo-humeano",
+  "id": "CON-000340",
+  "kind": "concetto",
+  "title": "Scetticismo humeano",
+  "subtitle": "Orientamento scettico che mette in luce i limiti della ragione nel fondare causalità, induzione e credenze sul mondo esterno.",
+  "area": "Epistemologia moderna",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Orientamento scettico che mette in luce i limiti della ragione nel fondare causalità, induzione e credenze sul mondo esterno.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Orientamento scettico che mette in luce i limiti della ragione nel fondare causalità, induzione e credenze sul mondo esterno.",
+        "Hume sostiene che molte aspettative quotidiane derivano dall'abitudine e dall'associazione, non da dimostrazioni razionali necessarie."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il suo scetticismo è spesso mitigato: la vita ordinaria e la ricerca continuano grazie a disposizioni naturali che la ragione non fonda completamente.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di scetticismo humeano consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia-moderna",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Scetticismo humeano",
+      "explanation": "Orientamento scettico che mette in luce i limiti della ragione nel fondare causalità, induzione e credenze sul mondo esterno."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "scetticismo-mondo-esterno",
+  "id": "CON-000341",
+  "kind": "concetto",
+  "title": "Scetticismo sul mondo esterno",
+  "subtitle": "Posizione problematica secondo cui potremmo non avere conoscenza certa dell'esistenza di un mondo esterno indipendente dalla mente.",
+  "area": "Epistemologia",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Posizione problematica secondo cui potremmo non avere conoscenza certa dell'esistenza di un mondo esterno indipendente dalla mente.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Posizione problematica secondo cui potremmo non avere conoscenza certa dell'esistenza di un mondo esterno indipendente dalla mente.",
+        "Argomenti scettici sfruttano la possibilità di sogni, illusioni o scenari di inganno globale per mettere in dubbio le credenze percettive."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le risposte includono strategie fondazionaliste, inferenze alla migliore spiegazione, contestualismo e forme di esternalismo epistemico.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di scetticismo sul mondo esterno consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "epistemologia",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Scetticismo sul mondo esterno",
+      "explanation": "Posizione problematica secondo cui potremmo non avere conoscenza certa dell'esistenza di un mondo esterno indipendente dalla mente."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "problema-altre-menti",
+  "id": "CON-000342",
+  "kind": "concetto",
+  "title": "Problema delle altre menti",
+  "subtitle": "Problema epistemologico relativo a come possiamo conoscere gli stati mentali e le esperienze coscienti degli altri.",
+  "area": "Filosofia della mente",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Problema epistemologico relativo a come possiamo conoscere gli stati mentali e le esperienze coscienti degli altri.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Problema epistemologico relativo a come possiamo conoscere gli stati mentali e le esperienze coscienti degli altri.",
+        "L'esperienza soggettiva altrui non è accessibile nello stesso modo della propria; osserviamo comportamenti, espressioni e contesti da cui inferiamo la presenza di una mente."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le risposte richiamano analogia, inferenza alla migliore spiegazione, criteri pubblici del mentale e pratiche intersoggettive di attribuzione.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di problema delle altre menti consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-mente",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Problema delle altre menti",
+      "explanation": "Problema epistemologico relativo a come possiamo conoscere gli stati mentali e le esperienze coscienti degli altri."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "solipsismo-metodologico",
+  "id": "CON-000343",
+  "kind": "concetto",
+  "title": "Solipsismo metodologico",
+  "subtitle": "Strategia teorica che assume il soggetto individuale e i suoi stati interni come punto di partenza privilegiato per spiegare il mentale.",
+  "area": "Filosofia della mente",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Strategia teorica che assume il soggetto individuale e i suoi stati interni come punto di partenza privilegiato per spiegare il mentale.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Strategia teorica che assume il soggetto individuale e i suoi stati interni come punto di partenza privilegiato per spiegare il mentale.",
+        "In alcune teorie della mente, il contenuto viene definito indipendentemente dall'ambiente esterno e dalle relazioni sociali del soggetto."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La strategia è stata criticata dall'esternalismo semantico, secondo cui il contenuto di molti pensieri dipende anche dal mondo e dalla comunità linguistica.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di solipsismo metodologico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-mente",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Solipsismo metodologico",
+      "explanation": "Strategia teorica che assume il soggetto individuale e i suoi stati interni come punto di partenza privilegiato per spiegare il mentale."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "contenuto-mentale",
+  "id": "CON-000344",
+  "kind": "concetto",
+  "title": "Contenuto mentale",
+  "subtitle": "Ciò che un pensiero, una credenza, un desiderio o un'intenzione rappresenta o riguarda.",
+  "area": "Filosofia della mente",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Ciò che un pensiero, una credenza, un desiderio o un'intenzione rappresenta o riguarda.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Ciò che un pensiero, una credenza, un desiderio o un'intenzione rappresenta o riguarda.",
+        "Il contenuto può essere proposizionale, come nel credere che piova, oppure assumere forme non proposizionali legate a percezioni, immagini e stati affettivi."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le teorie discutono se il contenuto dipenda da relazioni causali, ruoli funzionali, condizioni ambientali o pratiche linguistiche.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di contenuto mentale consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-mente",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Contenuto mentale",
+      "explanation": "Ciò che un pensiero, una credenza, un desiderio o un'intenzione rappresenta o riguarda."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "esternalismo-semantico",
+  "id": "CON-000345",
+  "kind": "concetto",
+  "title": "Esternalismo semantico",
+  "subtitle": "Tesi secondo cui il significato o il contenuto di un'espressione dipende anche da fattori esterni al soggetto che la usa.",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Tesi secondo cui il significato o il contenuto di un'espressione dipende anche da fattori esterni al soggetto che la usa.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Tesi secondo cui il significato o il contenuto di un'espressione dipende anche da fattori esterni al soggetto che la usa.",
+        "L'ambiente naturale e la comunità linguistica contribuiscono a determinare il riferimento dei termini, anche quando il parlante non ne conosce tutti i dettagli."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Gli argomenti di Hilary Putnam e Tyler Burge mostrano come soggetti internamente simili possano esprimere pensieri con contenuti differenti in ambienti diversi.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di esternalismo semantico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Esternalismo semantico",
+      "explanation": "Tesi secondo cui il significato o il contenuto di un'espressione dipende anche da fattori esterni al soggetto che la usa."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "internalismo-semantico",
+  "id": "CON-000346",
+  "kind": "concetto",
+  "title": "Internalismo semantico",
+  "subtitle": "Tesi secondo cui il contenuto semantico è determinato da fattori interni al soggetto o dal suo stato mentale individuale.",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Tesi secondo cui il contenuto semantico è determinato da fattori interni al soggetto o dal suo stato mentale individuale.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Tesi secondo cui il contenuto semantico è determinato da fattori interni al soggetto o dal suo stato mentale individuale.",
+        "L'internalismo attribuisce un ruolo centrale alle rappresentazioni, alle intenzioni e alle strutture cognitive del parlante nella determinazione del contenuto."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La posizione si confronta con l'esternalismo, che attribuisce un ruolo costitutivo all'ambiente e alle pratiche linguistiche condivise.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di internalismo semantico consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Internalismo semantico",
+      "explanation": "Tesi secondo cui il contenuto semantico è determinato da fattori interni al soggetto o dal suo stato mentale individuale."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "contenuto-largo",
+  "id": "CON-000347",
+  "kind": "concetto",
+  "title": "Contenuto largo",
+  "subtitle": "Contenuto mentale che dipende non soltanto dagli stati interni del soggetto, ma anche da relazioni con l'ambiente o con la comunità linguistica.",
+  "area": "Filosofia della mente",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Contenuto mentale che dipende non soltanto dagli stati interni del soggetto, ma anche da relazioni con l'ambiente o con la comunità linguistica.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Contenuto mentale che dipende non soltanto dagli stati interni del soggetto, ma anche da relazioni con l'ambiente o con la comunità linguistica.",
+        "Due individui internamente indistinguibili possono avere pensieri differenti se vivono in ambienti o comunità linguistiche diverse."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il contenuto largo è una conseguenza dell'esternalismo semantico e mette in questione l'autosufficienza della descrizione psicologica interna.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di contenuto largo consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-mente",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Contenuto largo",
+      "explanation": "Contenuto mentale che dipende non soltanto dagli stati interni del soggetto, ma anche da relazioni con l'ambiente o con la comunità linguistica."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "contenuto-stretto",
+  "id": "CON-000348",
+  "kind": "concetto",
+  "title": "Contenuto stretto",
+  "subtitle": "Aspetto del contenuto mentale determinato da caratteristiche interne del soggetto, indipendentemente da specifiche relazioni ambientali.",
+  "area": "Filosofia della mente",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Aspetto del contenuto mentale determinato da caratteristiche interne del soggetto, indipendentemente da specifiche relazioni ambientali.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Aspetto del contenuto mentale determinato da caratteristiche interne del soggetto, indipendentemente da specifiche relazioni ambientali.",
+        "Il concetto viene impiegato per spiegare ciò che resta invariato tra soggetti internamente simili anche quando i loro pensieri hanno riferimenti esterni differenti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Alcune teorie lo considerano una componente del contenuto complessivo, altre contestano che possa costituire un contenuto semantico autonomo.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di contenuto stretto consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-della-mente",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Contenuto stretto",
+      "explanation": "Aspetto del contenuto mentale determinato da caratteristiche interne del soggetto, indipendentemente da specifiche relazioni ambientali."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "indessicalita",
+  "id": "CON-000349",
+  "kind": "concetto",
+  "title": "Indessicalità",
+  "subtitle": "Proprietà delle espressioni il cui riferimento varia sistematicamente in funzione del contesto d'uso.",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Proprietà delle espressioni il cui riferimento varia sistematicamente in funzione del contesto d'uso.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Proprietà delle espressioni il cui riferimento varia sistematicamente in funzione del contesto d'uso.",
+        "Pronomi come «io», «qui» e «ora» cambiano referente a seconda di chi parla, del luogo e del momento dell'enunciazione."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "L'indessicalità è importante per distinguere carattere linguistico e contenuto contestuale, nonché per analizzare prospettiva e autoriferimento.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di indessicalità consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Indessicalità",
+      "explanation": "Proprietà delle espressioni il cui riferimento varia sistematicamente in funzione del contesto d'uso."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "dimostrativi",
+  "id": "CON-000350",
+  "kind": "concetto",
+  "title": "Dimostrativi",
+  "subtitle": "Espressioni come «questo» e «quello» il cui riferimento dipende da un gesto, da un'attenzione condivisa o da elementi contestuali.",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Espressioni come «questo» e «quello» il cui riferimento dipende da un gesto, da un'attenzione condivisa o da elementi contestuali.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Espressioni come «questo» e «quello» il cui riferimento dipende da un gesto, da un'attenzione condivisa o da elementi contestuali.",
+        "I dimostrativi richiedono spesso un coordinamento tra parlante e interlocutore, che individua l'oggetto pertinente in una situazione concreta."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La filosofia del linguaggio distingue il contributo linguistico dell'espressione dal ruolo dell'attenzione e dell'ostensione.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di dimostrativi consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Dimostrativi",
+      "explanation": "Espressioni come «questo» e «quello» il cui riferimento dipende da un gesto, da un'attenzione condivisa o da elementi contestuali."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "rigidita-designatori",
+  "id": "CON-000351",
+  "kind": "concetto",
+  "title": "Rigidità dei designatori",
+  "subtitle": "Proprietà di un termine che designa lo stesso oggetto in tutti i mondi possibili in cui quell'oggetto esiste.",
+  "area": "Filosofia del linguaggio e metafisica",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Proprietà di un termine che designa lo stesso oggetto in tutti i mondi possibili in cui quell'oggetto esiste.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Proprietà di un termine che designa lo stesso oggetto in tutti i mondi possibili in cui quell'oggetto esiste.",
+        "Saul Kripke distingue i designatori rigidi dalle descrizioni che possono individuare oggetti diversi in scenari controfattuali differenti."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "La rigidità è centrale per comprendere identità necessarie a posteriori e il comportamento semantico dei nomi propri e di alcuni termini di genere naturale.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di rigidità dei designatori consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio-e-metafisica",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Rigidità dei designatori",
+      "explanation": "Proprietà di un termine che designa lo stesso oggetto in tutti i mondi possibili in cui quell'oggetto esiste."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "descrizioni-definite",
+  "id": "CON-000352",
+  "kind": "concetto",
+  "title": "Descrizioni definite",
+  "subtitle": "Espressioni nominali introdotte tipicamente dall'articolo determinativo, come «il presidente» o «l'autore del libro».",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Espressioni nominali introdotte tipicamente dall'articolo determinativo, come «il presidente» o «l'autore del libro».",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Espressioni nominali introdotte tipicamente dall'articolo determinativo, come «il presidente» o «l'autore del libro».",
+        "La teoria di Bertrand Russell analizza alcune descrizioni definite come strutture quantificazionali, anziché come nomi che designano direttamente un individuo."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Le descrizioni possono essere usate per identificare un referente in un contesto oppure per attribuire una proprietà a un unico oggetto.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di descrizioni definite consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Descrizioni definite",
+      "explanation": "Espressioni nominali introdotte tipicamente dall'articolo determinativo, come «il presidente» o «l'autore del libro»."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+},
+  {
+  "slug": "nomi-propri",
+  "id": "CON-000353",
+  "kind": "concetto",
+  "title": "Nomi propri",
+  "subtitle": "Espressioni linguistiche impiegate per riferirsi a individui, luoghi o entità particolari.",
+  "area": "Filosofia del linguaggio",
+  "period": "Dalla filosofia moderna al dibattito contemporaneo",
+  "summary": "Espressioni linguistiche impiegate per riferirsi a individui, luoghi o entità particolari.",
+  "sections": [
+    {
+      "heading": "Definizione e quadro teorico",
+      "paragraphs": [
+        "Espressioni linguistiche impiegate per riferirsi a individui, luoghi o entità particolari.",
+        "Le teorie descrittiviste spiegano il riferimento attraverso insiemi di descrizioni associate al nome; le teorie causali richiamano catene storiche di trasmissione del riferimento."
+      ]
+    },
+    {
+      "heading": "Sviluppi e problemi",
+      "paragraphs": [
+        "Il problema è spiegare come un nome continui a riferirsi allo stesso individuo anche quando il parlante possiede informazioni incomplete o erronee.",
+        "Le diverse interpretazioni della nozione si distinguono per le assunzioni che adottano e per il tipo di problema filosofico che intendono risolvere."
+      ]
+    },
+    {
+      "heading": "Rilevanza filosofica",
+      "paragraphs": [
+        "Il concetto di nomi propri consente di precisare questioni centrali dell'area di riferimento e di rendere espliciti presupposti spesso lasciati impliciti.",
+        "La sua valutazione richiede di confrontare gli argomenti favorevoli con le obiezioni e di chiarire quali conseguenze derivino dall'accettarlo."
+      ]
+    }
+  ],
+  "thoughtAnalysis": [
+    "La nozione va interpretata nel quadro teorico in cui nasce: definizioni simili possono svolgere funzioni differenti in tradizioni filosofiche diverse.",
+    "Il suo valore dipende dalla capacità di chiarire un problema senza introdurre difficoltà maggiori di quelle che intende risolvere."
+  ],
+  "tags": [
+    "filosofia-del-linguaggio",
+    "filosofia",
+    "concetto"
+  ],
+  "related": [],
+  "bibliography": [
+    {
+      "label": "Stanford Encyclopedia of Philosophy",
+      "note": "Riferimento enciclopedico per la ricostruzione del dibattito e della bibliografia specialistica.",
+      "type": "enciclopedia"
+    },
+    {
+      "label": "Internet Encyclopedia of Philosophy",
+      "note": "Introduzione critica al tema e alle principali linee interpretative.",
+      "type": "enciclopedia"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Nomi propri",
+      "explanation": "Espressioni linguistiche impiegate per riferirsi a individui, luoghi o entità particolari."
+    },
+    {
+      "term": "Giustificazione teorica",
+      "explanation": "Insieme delle ragioni e dei criteri utilizzati per sostenere una tesi o una distinzione concettuale."
+    }
+  ],
+  "editorialStatus": "edizione editoriale 1.0"
+}
 ]; 
 
 
