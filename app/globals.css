@@ -348,3 +348,13 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 .lexicon-related a{color:var(--ink);font-size:12px;text-decoration:underline;text-decoration-color:var(--ochre);text-underline-offset:3px}
 @media(max-width:850px){.lexicon-search{grid-template-columns:1fr 1fr}.lexicon-terms{grid-template-columns:1fr}}
 @media(max-width:600px){.lexicon-hero{padding:54px 7vw 44px}.lexicon-content{padding-left:7vw;padding-right:7vw}.lexicon-search{grid-template-columns:1fr}.lexicon-letter{grid-template-columns:38px minmax(0,1fr);gap:10px}.lexicon-letter>h2{font-size:30px}.lexicon-term-heading{align-items:flex-start;flex-direction:column}.lexicon-term-heading span{text-align:left}}
+
+
+/* Accessible live search suggestions */
+.search-autocomplete{position:relative;width:100%}
+.search-autocomplete>input{width:100%}
+.search-suggestions{position:absolute;z-index:30;top:calc(100% + 4px);left:0;right:0;max-height: min(19rem, 55vh);overflow-y:auto;margin:0;padding:6px;list-style:none;background:#fffdf8;border:1px solid #b9b0a1;box-shadow:0 12px 28px rgba(32,28,22,.14);border-radius:4px}
+.search-suggestions li{margin:0;padding:0}
+.search-suggestions button{display:block;width:100%;padding:9px 11px;border:0;border-radius:3px;background:transparent;color:#27251f;text-align:left;font:inherit;cursor:pointer}
+.search-suggestions button:hover,.search-suggestions [aria-selected="true"] button{background:#eee8dc}
+.search-autocomplete input:focus-visible,.search-suggestions button:focus-visible{outline:2px solid #77664b;outline-offset:2px}

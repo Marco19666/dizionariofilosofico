@@ -1,9 +1,9 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import SearchAutocomplete from "@/components/search-autocomplete";
 
-import { entries } from "@/data/entries";
-import { terms } from "@/data/terms";
+import { entries, terms } from "@/data/catalog";
 
 const areas = ["Tutte le aree", ...Array.from(new Set(entries.map((entry) => entry.area)))];
   const suggestions = Array.from(new Set([...entries.map((entry) => entry.title), ...entries.flatMap((entry) => entry.tags), ...terms.map((item) => item.term)]));
@@ -44,8 +44,7 @@ export default function Home() {
         <div className="section-heading"><div><p className="eyebrow">Il repertorio</p><h2>Esplora l&apos;enciclopedia</h2></div><span className="entry-count">{filtered.length} di {entries.length} voci</span></div>
         <div className="search-panel">
           <label className="search-label" htmlFor="entry-search">Cerca nel dizionario</label>
-          <input id="entry-search" type="search" list="entry-suggestions" autoComplete="off" placeholder="Autore, concetto, opera, tradizione…" value={query} onChange={(e) => setQuery(e.target.value)} />
-          <datalist id="entry-suggestions">{suggestions.map((suggestion) => <option key={suggestion} value={suggestion} />)}</datalist>
+          <SearchAutocomplete id="entry-search" label="Cerca nel dizionario" placeholder="Autore, concetto, opera, tradizione…" value={query} onChange={setQuery} options={suggestions} />
           <label className="filter-label" htmlFor="area-filter">Area culturale</label>
           <select id="area-filter" value={area} onChange={(e) => setArea(e.target.value)}>{areas.map((item) => <option key={item}>{item}</option>)}</select>
         </div>
