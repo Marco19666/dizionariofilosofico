@@ -7034,6 +7034,439 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "eidetica",
+    "id": "CON-000171",
+    "kind": "concetto",
+    "title": "Eidetica",
+    "subtitle": "Metodo o indagine rivolta a cogliere le strutture essenziali dei fenomeni e le loro caratteristiche invarianti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Metodo o indagine rivolta a cogliere le strutture essenziali dei fenomeni e le loro caratteristiche invarianti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il termine eidetica deriva da eidos, forma o essenza. Nella fenomenologia di Edmund Husserl indica l’indagine che, attraverso variazioni immaginative, cerca di individuare ciò che deve rimanere invariato affinché un fenomeno sia riconoscibile come tale. L’obiettivo è distinguere le caratteristiche essenziali da quelle contingenti."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’intuizione eidetica non è una semplice generalizzazione empirica: mira a strutture necessarie o invarianti. Il metodo è stato discusso per il rischio di dipendere da intuizioni soggettive e per la difficoltà di stabilire quando una variazione sia davvero possibile o pertinente."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "L’eidetica è importante nella fenomenologia e nella filosofia della conoscenza. Consente di interrogare le condizioni di possibilità dell’esperienza e il rapporto tra descrizione concreta e analisi delle essenze."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il termine eidetica deriva da eidos, forma o essenza. Nella fenomenologia di Edmund Husserl indica l’indagine che, attraverso variazioni immaginative, cerca di individuare ciò che deve rimanere invariato affinché un fenomeno sia riconoscibile come tale. L’obiettivo è distinguere le caratteristiche essenziali da quelle contingenti.",
+      "L’intuizione eidetica non è una semplice generalizzazione empirica: mira a strutture necessarie o invarianti. Il metodo è stato discusso per il rischio di dipendere da intuizioni soggettive e per la difficoltà di stabilire quando una variazione sia davvero possibile o pertinente.",
+      "L’eidetica è importante nella fenomenologia e nella filosofia della conoscenza. Consente di interrogare le condizioni di possibilità dell’esperienza e il rapporto tra descrizione concreta e analisi delle essenze."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Eidetica",
+        "explanation": "Metodo o indagine rivolta a cogliere le strutture essenziali dei fenomeni e le loro caratteristiche invarianti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "filosofia-sperimentale",
+    "id": "CON-000172",
+    "kind": "concetto",
+    "title": "Filosofia sperimentale",
+    "subtitle": "Approccio che utilizza metodi empirici, soprattutto indagini su intuizioni e giudizi, per studiare problemi filosofici.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Approccio che utilizza metodi empirici, soprattutto indagini su intuizioni e giudizi, per studiare problemi filosofici.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La filosofia sperimentale applica strumenti delle scienze cognitive e sociali allo studio di questioni tradizionalmente affrontate attraverso l’analisi concettuale. Ricercatori raccolgono giudizi di persone diverse su casi ipotetici per verificare se le intuizioni filosofiche siano condivise, variabili culturalmente o sensibili alla formulazione delle domande."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’approccio non sostituisce automaticamente l’argomentazione filosofica con i dati statistici. Un sondaggio può descrivere ciò che le persone pensano, ma non stabilisce da solo ciò che è vero o giustificato. Il dibattito riguarda il ruolo epistemico delle intuizioni e il modo in cui i risultati empirici debbano modificare le teorie."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La filosofia sperimentale contribuisce a epistemologia, etica, filosofia del linguaggio e metafisica. La sua utilità consiste nel rendere controllabili alcune assunzioni sui giudizi ordinari e nel mettere alla prova la generalità delle intuizioni."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La filosofia sperimentale applica strumenti delle scienze cognitive e sociali allo studio di questioni tradizionalmente affrontate attraverso l’analisi concettuale. Ricercatori raccolgono giudizi di persone diverse su casi ipotetici per verificare se le intuizioni filosofiche siano condivise, variabili culturalmente o sensibili alla formulazione delle domande.",
+      "L’approccio non sostituisce automaticamente l’argomentazione filosofica con i dati statistici. Un sondaggio può descrivere ciò che le persone pensano, ma non stabilisce da solo ciò che è vero o giustificato. Il dibattito riguarda il ruolo epistemico delle intuizioni e il modo in cui i risultati empirici debbano modificare le teorie.",
+      "La filosofia sperimentale contribuisce a epistemologia, etica, filosofia del linguaggio e metafisica. La sua utilità consiste nel rendere controllabili alcune assunzioni sui giudizi ordinari e nel mettere alla prova la generalità delle intuizioni."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Filosofia sperimentale",
+        "explanation": "Approccio che utilizza metodi empirici, soprattutto indagini su intuizioni e giudizi, per studiare problemi filosofici."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "giustizia-procedurale",
+    "id": "CON-000173",
+    "kind": "concetto",
+    "title": "Giustizia procedurale",
+    "subtitle": "Concezione della giustizia che valuta l’equità delle procedure attraverso cui si prendono decisioni e si distribuiscono esiti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione della giustizia che valuta l’equità delle procedure attraverso cui si prendono decisioni e si distribuiscono esiti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La giustizia procedurale riguarda la correttezza dei processi decisionali: imparzialità, trasparenza, possibilità di partecipazione, coerenza delle regole e diritto di contestazione. In alcune teorie, una procedura equa contribuisce a legittimare l’esito anche quando i partecipanti non ottengono ciò che desiderano."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Occorre distinguere procedure pure, in cui l’esito giusto è definito dalla correttezza del procedimento, procedure perfette, che garantiscono un risultato indipendentemente dal metodo, e procedure imperfette, che mirano a un esito corretto senza poterlo assicurare. Una procedura formalmente regolare può comunque riprodurre disuguaglianze sostanziali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante nella filosofia politica, nel diritto e nelle istituzioni democratiche. Permette di valutare non solo che cosa viene deciso, ma chi partecipa, secondo quali regole e con quali possibilità di far valere le proprie ragioni."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La giustizia procedurale riguarda la correttezza dei processi decisionali: imparzialità, trasparenza, possibilità di partecipazione, coerenza delle regole e diritto di contestazione. In alcune teorie, una procedura equa contribuisce a legittimare l’esito anche quando i partecipanti non ottengono ciò che desiderano.",
+      "Occorre distinguere procedure pure, in cui l’esito giusto è definito dalla correttezza del procedimento, procedure perfette, che garantiscono un risultato indipendentemente dal metodo, e procedure imperfette, che mirano a un esito corretto senza poterlo assicurare. Una procedura formalmente regolare può comunque riprodurre disuguaglianze sostanziali.",
+      "Il concetto è rilevante nella filosofia politica, nel diritto e nelle istituzioni democratiche. Permette di valutare non solo che cosa viene deciso, ma chi partecipa, secondo quali regole e con quali possibilità di far valere le proprie ragioni."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Giustizia procedurale",
+        "explanation": "Concezione della giustizia che valuta l’equità delle procedure attraverso cui si prendono decisioni e si distribuiscono esiti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "identita-narrativa",
+    "id": "CON-000174",
+    "kind": "concetto",
+    "title": "Identità narrativa",
+    "subtitle": "Concezione dell’identità personale come configurazione dinamica costruita attraverso racconti che collegano esperienze e azioni nel tempo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione dell’identità personale come configurazione dinamica costruita attraverso racconti che collegano esperienze e azioni nel tempo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’identità narrativa, sviluppata in particolare da Paul Ricoeur, interpreta il sé come una continuità che si forma attraverso l’interpretazione della propria storia. Raccontare la propria vita consente di collegare eventi eterogenei, assumere responsabilità e riconoscere trasformazioni senza postulare un nucleo immutabile."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La narrazione non è una registrazione neutrale del passato: seleziona, ordina e interpreta gli eventi, e può essere riveduta alla luce di nuove esperienze. L’identità narrativa deve quindi confrontarsi con memoria fallibile, testimonianze altrui e vincoli fattuali, evitando sia la rigidità sia l’invenzione arbitraria di sé."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto collega ermeneutica, filosofia della persona, psicologia e teoria sociale. Aiuta a comprendere come memoria, promessa, responsabilità e riconoscimento contribuiscano alla continuità personale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’identità narrativa, sviluppata in particolare da Paul Ricoeur, interpreta il sé come una continuità che si forma attraverso l’interpretazione della propria storia. Raccontare la propria vita consente di collegare eventi eterogenei, assumere responsabilità e riconoscere trasformazioni senza postulare un nucleo immutabile.",
+      "La narrazione non è una registrazione neutrale del passato: seleziona, ordina e interpreta gli eventi, e può essere riveduta alla luce di nuove esperienze. L’identità narrativa deve quindi confrontarsi con memoria fallibile, testimonianze altrui e vincoli fattuali, evitando sia la rigidità sia l’invenzione arbitraria di sé.",
+      "Il concetto collega ermeneutica, filosofia della persona, psicologia e teoria sociale. Aiuta a comprendere come memoria, promessa, responsabilità e riconoscimento contribuiscano alla continuità personale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Identità narrativa",
+        "explanation": "Concezione dell’identità personale come configurazione dinamica costruita attraverso racconti che collegano esperienze e azioni nel tempo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "indeterminismo",
+    "id": "CON-000175",
+    "kind": "concetto",
+    "title": "Indeterminismo",
+    "subtitle": "Tesi secondo cui non tutti gli eventi sono determinati in modo univoco da condizioni antecedenti e leggi.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui non tutti gli eventi sono determinati in modo univoco da condizioni antecedenti e leggi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’indeterminismo nega che, date le condizioni iniziali e le leggi della natura, ogni evento futuro sia fissato in modo necessario. Può essere inteso come tesi metafisica generale o come interpretazione di specifici processi fisici, soprattutto nel dibattito sulla meccanica quantistica."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’indeterminismo non equivale alla libertà: un evento casuale non è per questo controllato da un agente. Per spiegare la responsabilità morale occorre chiarire se e come l’apertura del futuro possa essere compatibile con ragioni, intenzioni e controllo. Inoltre, le interpretazioni della probabilità fisica non coincidono tutte con una negazione del determinismo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella metafisica, nella filosofia della fisica e nel dibattito sul libero arbitrio. La questione è comprendere se l’indeterminazione sia reale e quale ruolo possa svolgere nella spiegazione dell’azione umana."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’indeterminismo nega che, date le condizioni iniziali e le leggi della natura, ogni evento futuro sia fissato in modo necessario. Può essere inteso come tesi metafisica generale o come interpretazione di specifici processi fisici, soprattutto nel dibattito sulla meccanica quantistica.",
+      "L’indeterminismo non equivale alla libertà: un evento casuale non è per questo controllato da un agente. Per spiegare la responsabilità morale occorre chiarire se e come l’apertura del futuro possa essere compatibile con ragioni, intenzioni e controllo. Inoltre, le interpretazioni della probabilità fisica non coincidono tutte con una negazione del determinismo.",
+      "Il concetto è centrale nella metafisica, nella filosofia della fisica e nel dibattito sul libero arbitrio. La questione è comprendere se l’indeterminazione sia reale e quale ruolo possa svolgere nella spiegazione dell’azione umana."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Indeterminismo",
+        "explanation": "Tesi secondo cui non tutti gli eventi sono determinati in modo univoco da condizioni antecedenti e leggi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "intersoggettivita",
+    "id": "CON-000176",
+    "kind": "concetto",
+    "title": "Intersoggettività",
+    "subtitle": "Dimensione condivisa dell’esperienza e del significato che si costituisce nella relazione tra soggetti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Dimensione condivisa dell’esperienza e del significato che si costituisce nella relazione tra soggetti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’intersoggettività indica il modo in cui il mondo e i significati sono esperiti come comuni a più soggetti. Nella fenomenologia, soprattutto in Husserl e nelle elaborazioni successive, il problema è spiegare come si riconoscano gli altri come soggetti dotati di esperienza e come si costituisca un mondo oggettivo condiviso."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’intersoggettività non si riduce all’accordo esplicito: include pratiche, linguaggi, aspettative e forme di riconoscimento che precedono molte decisioni individuali. Resta aperta la questione di come comprendere l’esperienza altrui senza assimilarla alla propria e di come il dissenso possa emergere da un orizzonte comune."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è fondamentale in fenomenologia, filosofia sociale, epistemologia e teoria politica. Consente di analizzare empatia, comunicazione, oggettività e costituzione delle comunità di significato."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’intersoggettività indica il modo in cui il mondo e i significati sono esperiti come comuni a più soggetti. Nella fenomenologia, soprattutto in Husserl e nelle elaborazioni successive, il problema è spiegare come si riconoscano gli altri come soggetti dotati di esperienza e come si costituisca un mondo oggettivo condiviso.",
+      "L’intersoggettività non si riduce all’accordo esplicito: include pratiche, linguaggi, aspettative e forme di riconoscimento che precedono molte decisioni individuali. Resta aperta la questione di come comprendere l’esperienza altrui senza assimilarla alla propria e di come il dissenso possa emergere da un orizzonte comune.",
+      "Il concetto è fondamentale in fenomenologia, filosofia sociale, epistemologia e teoria politica. Consente di analizzare empatia, comunicazione, oggettività e costituzione delle comunità di significato."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Intersoggettività",
+        "explanation": "Dimensione condivisa dell’esperienza e del significato che si costituisce nella relazione tra soggetti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "legge-di-hume",
+    "id": "CON-000177",
+    "kind": "concetto",
+    "title": "Legge di Hume",
+    "subtitle": "Tesi secondo cui da premesse esclusivamente descrittive non segue una conclusione normativa senza un passaggio ulteriore.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui da premesse esclusivamente descrittive non segue una conclusione normativa senza un passaggio ulteriore.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La cosiddetta legge di Hume, o problema essere-dover essere, richiama l’osservazione che molti ragionamenti morali passano da proposizioni su ciò che è a conclusioni su ciò che deve essere senza giustificare il passaggio. David Hume segnala così una discontinuità logica tra descrizione e prescrizione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La tesi non dimostra che fatti e valori siano del tutto separati né che le norme non possano essere fondate razionalmente. Richiede piuttosto di esplicitare le premesse normative implicite in un argomento. Il dibattito contemporaneo discute se esistano fatti morali e in che senso le valutazioni possano essere collegate a proprietà naturali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema è centrale in metaetica, filosofia del diritto e metodologia delle scienze sociali. Aiuta a riconoscere i passaggi normativi nascosti e a distinguere una spiegazione di ciò che accade da una giustificazione di ciò che dovrebbe accadere."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La cosiddetta legge di Hume, o problema essere-dover essere, richiama l’osservazione che molti ragionamenti morali passano da proposizioni su ciò che è a conclusioni su ciò che deve essere senza giustificare il passaggio. David Hume segnala così una discontinuità logica tra descrizione e prescrizione.",
+      "La tesi non dimostra che fatti e valori siano del tutto separati né che le norme non possano essere fondate razionalmente. Richiede piuttosto di esplicitare le premesse normative implicite in un argomento. Il dibattito contemporaneo discute se esistano fatti morali e in che senso le valutazioni possano essere collegate a proprietà naturali.",
+      "Il problema è centrale in metaetica, filosofia del diritto e metodologia delle scienze sociali. Aiuta a riconoscere i passaggi normativi nascosti e a distinguere una spiegazione di ciò che accade da una giustificazione di ciò che dovrebbe accadere."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Legge di Hume",
+        "explanation": "Tesi secondo cui da premesse esclusivamente descrittive non segue una conclusione normativa senza un passaggio ulteriore."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "principio-di-carita",
+    "id": "CON-000178",
+    "kind": "concetto",
+    "title": "Principio di carità",
+    "subtitle": "Regola interpretativa che invita a ricostruire le affermazioni altrui nella versione più coerente e razionale compatibile con il contesto.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Regola interpretativa che invita a ricostruire le affermazioni altrui nella versione più coerente e razionale compatibile con il contesto.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il principio di carità, nella filosofia del linguaggio e nell’ermeneutica, suggerisce di interpretare gli interlocutori attribuendo loro un grado ragionevole di coerenza e verità. È associato, in forme diverse, a Quine, Davidson e alla teoria dell’interpretazione radicale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La carità non autorizza a correggere arbitrariamente ciò che una persona dice né a cancellare divergenze reali. È un criterio metodologico per rendere possibile la comprensione: senza una base minima di coerenza condivisa, l’interpretazione e l’attribuzione di significato diventano difficili. Il suo uso deve restare sensibile al contesto e alle intenzioni comunicative."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il principio è importante nell’interpretazione dei testi, nella filosofia del linguaggio e nel dibattito pubblico. Favorisce letture rigorose e non caricaturali, pur lasciando spazio alla critica delle tesi effettivamente sostenute."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il principio di carità, nella filosofia del linguaggio e nell’ermeneutica, suggerisce di interpretare gli interlocutori attribuendo loro un grado ragionevole di coerenza e verità. È associato, in forme diverse, a Quine, Davidson e alla teoria dell’interpretazione radicale.",
+      "La carità non autorizza a correggere arbitrariamente ciò che una persona dice né a cancellare divergenze reali. È un criterio metodologico per rendere possibile la comprensione: senza una base minima di coerenza condivisa, l’interpretazione e l’attribuzione di significato diventano difficili. Il suo uso deve restare sensibile al contesto e alle intenzioni comunicative.",
+      "Il principio è importante nell’interpretazione dei testi, nella filosofia del linguaggio e nel dibattito pubblico. Favorisce letture rigorose e non caricaturali, pur lasciando spazio alla critica delle tesi effettivamente sostenute."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Principio di carità",
+        "explanation": "Regola interpretativa che invita a ricostruire le affermazioni altrui nella versione più coerente e razionale compatibile con il contesto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "realismo-ingenuo",
+    "id": "CON-000179",
+    "kind": "concetto",
+    "title": "Realismo ingenuo",
+    "subtitle": "Concezione secondo cui gli oggetti sono percepiti direttamente e possiedono le proprietà che appaiono nell’esperienza ordinaria.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione secondo cui gli oggetti sono percepiti direttamente e possiedono le proprietà che appaiono nell’esperienza ordinaria.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il realismo ingenuo, detto anche realismo diretto in alcune formulazioni, sostiene che la percezione ci mette in rapporto immediato con oggetti e proprietà del mondo. Nella versione ordinaria, le cose appaiono sostanzialmente come sono, senza che l’esperienza debba essere interpretata come una rappresentazione interna separata dall’oggetto."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le illusioni, le allucinazioni e la variabilità percettiva pongono difficoltà alla versione ingenua: lo stesso oggetto può apparire diversamente a seconda delle condizioni e non sempre esiste un oggetto corrispondente all’esperienza. Le teorie contemporanee del realismo diretto cercano di rispondere senza ridurre la percezione a una copia mentale."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella filosofia della percezione e nell’epistemologia. Il confronto tra realismo diretto e teorie rappresentazionali chiarisce che cosa significhi percepire il mondo e quale rapporto sussista tra esperienza e realtà."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il realismo ingenuo, detto anche realismo diretto in alcune formulazioni, sostiene che la percezione ci mette in rapporto immediato con oggetti e proprietà del mondo. Nella versione ordinaria, le cose appaiono sostanzialmente come sono, senza che l’esperienza debba essere interpretata come una rappresentazione interna separata dall’oggetto.",
+      "Le illusioni, le allucinazioni e la variabilità percettiva pongono difficoltà alla versione ingenua: lo stesso oggetto può apparire diversamente a seconda delle condizioni e non sempre esiste un oggetto corrispondente all’esperienza. Le teorie contemporanee del realismo diretto cercano di rispondere senza ridurre la percezione a una copia mentale.",
+      "Il concetto è centrale nella filosofia della percezione e nell’epistemologia. Il confronto tra realismo diretto e teorie rappresentazionali chiarisce che cosa significhi percepire il mondo e quale rapporto sussista tra esperienza e realtà."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Realismo ingenuo",
+        "explanation": "Concezione secondo cui gli oggetti sono percepiti direttamente e possiedono le proprietà che appaiono nell’esperienza ordinaria."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
