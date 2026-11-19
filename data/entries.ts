@@ -8765,6 +8765,487 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "agnosticismo",
+    "id": "CON-000207",
+    "kind": "concetto",
+    "title": "Agnosticismo",
+    "subtitle": "Posizione che sospende il giudizio sulla possibilità di conoscere l’esistenza di realtà divine o ultime.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione che sospende il giudizio sulla possibilità di conoscere l’esistenza di realtà divine o ultime.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’agnosticismo sostiene che determinate questioni, in particolare l’esistenza di Dio, non siano conoscibili o non dispongano di prove sufficienti per un giudizio conclusivo. Il termine viene introdotto da Thomas Huxley nel XIX secolo per indicare un atteggiamento fondato sui limiti della conoscenza e sulla sospensione dell’assenso."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’agnosticismo non coincide necessariamente con l’ateismo: quest’ultimo nega o non accetta l’esistenza di divinità, mentre l’agnostico sottolinea l’insufficienza o l’impossibilità della conoscenza. Esistono forme deboli, che dichiarano di non sapere, e forme forti, che ritengono la questione inconoscibile in linea di principio."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante nella filosofia della religione e nell’epistemologia. La sua analisi distingue credenza, conoscenza e sospensione del giudizio e chiarisce quali standard di prova siano appropriati per le questioni metafisiche."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’agnosticismo sostiene che determinate questioni, in particolare l’esistenza di Dio, non siano conoscibili o non dispongano di prove sufficienti per un giudizio conclusivo. Il termine viene introdotto da Thomas Huxley nel XIX secolo per indicare un atteggiamento fondato sui limiti della conoscenza e sulla sospensione dell’assenso.",
+      "L’agnosticismo non coincide necessariamente con l’ateismo: quest’ultimo nega o non accetta l’esistenza di divinità, mentre l’agnostico sottolinea l’insufficienza o l’impossibilità della conoscenza. Esistono forme deboli, che dichiarano di non sapere, e forme forti, che ritengono la questione inconoscibile in linea di principio.",
+      "Il concetto è rilevante nella filosofia della religione e nell’epistemologia. La sua analisi distingue credenza, conoscenza e sospensione del giudizio e chiarisce quali standard di prova siano appropriati per le questioni metafisiche."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Agnosticismo",
+        "explanation": "Posizione che sospende il giudizio sulla possibilità di conoscere l’esistenza di realtà divine o ultime."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "analogia",
+    "id": "CON-000208",
+    "kind": "concetto",
+    "title": "Analogia",
+    "subtitle": "Relazione di somiglianza strutturale tra realtà differenti, che consente un uso proporzionato di concetti comuni.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Relazione di somiglianza strutturale tra realtà differenti, che consente un uso proporzionato di concetti comuni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’analogia permette di parlare di realtà diverse sulla base di una somiglianza non perfettamente univoca. Nella tradizione aristotelica e scolastica ha un ruolo importante per comprendere termini che si applicano a enti differenti senza avere in tutti i casi lo stesso significato né essere del tutto equivoci."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’analogia si distingue dall’identità e dalla semplice metafora. La sua validità richiede di precisare quali aspetti siano condivisi e quali differiscano. In filosofia della religione è stata usata per discutere il linguaggio su Dio; in logica e scienze, per trasferire strutture tra domini senza confonderli."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante in metafisica, teologia filosofica e teoria del linguaggio. Aiuta a comprendere come il pensiero possa estendere concetti oltre il loro ambito originario senza cancellare le differenze tra gli oggetti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’analogia permette di parlare di realtà diverse sulla base di una somiglianza non perfettamente univoca. Nella tradizione aristotelica e scolastica ha un ruolo importante per comprendere termini che si applicano a enti differenti senza avere in tutti i casi lo stesso significato né essere del tutto equivoci.",
+      "L’analogia si distingue dall’identità e dalla semplice metafora. La sua validità richiede di precisare quali aspetti siano condivisi e quali differiscano. In filosofia della religione è stata usata per discutere il linguaggio su Dio; in logica e scienze, per trasferire strutture tra domini senza confonderli.",
+      "Il concetto è importante in metafisica, teologia filosofica e teoria del linguaggio. Aiuta a comprendere come il pensiero possa estendere concetti oltre il loro ambito originario senza cancellare le differenze tra gli oggetti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Analogia",
+        "explanation": "Relazione di somiglianza strutturale tra realtà differenti, che consente un uso proporzionato di concetti comuni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "antifondazionalismo",
+    "id": "CON-000209",
+    "kind": "concetto",
+    "title": "Antifondazionalismo",
+    "subtitle": "Orientamento epistemologico che rifiuta l’idea di un fondamento ultimo, indubitabile e indipendente per tutte le conoscenze.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Orientamento epistemologico che rifiuta l’idea di un fondamento ultimo, indubitabile e indipendente per tutte le conoscenze.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’antifondazionalismo contesta che il sapere debba poggiare su un insieme privilegiato di credenze autoevidenti o indubitabili. Le credenze sono giustificate all’interno di pratiche, reti inferenziali, tradizioni di ricerca o procedure di controllo che possono essere riviste nel tempo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Rifiutare un fondamento assoluto non significa sostenere che tutte le opinioni si equivalgano. Le posizioni antifondazionaliste devono spiegare come distinguere giustificazioni migliori e peggiori e come evitare circoli viziosi o regressi infiniti. Coerentismo, pragmatismo e alcune forme di ermeneutica offrono risposte differenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema attraversa epistemologia, filosofia della scienza e teoria sociale. La discussione riguarda la possibilità di una razionalità fallibile e pubblica senza ricorrere a certezze ultime."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’antifondazionalismo contesta che il sapere debba poggiare su un insieme privilegiato di credenze autoevidenti o indubitabili. Le credenze sono giustificate all’interno di pratiche, reti inferenziali, tradizioni di ricerca o procedure di controllo che possono essere riviste nel tempo.",
+      "Rifiutare un fondamento assoluto non significa sostenere che tutte le opinioni si equivalgano. Le posizioni antifondazionaliste devono spiegare come distinguere giustificazioni migliori e peggiori e come evitare circoli viziosi o regressi infiniti. Coerentismo, pragmatismo e alcune forme di ermeneutica offrono risposte differenti.",
+      "Il tema attraversa epistemologia, filosofia della scienza e teoria sociale. La discussione riguarda la possibilità di una razionalità fallibile e pubblica senza ricorrere a certezze ultime."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Antifondazionalismo",
+        "explanation": "Orientamento epistemologico che rifiuta l’idea di un fondamento ultimo, indubitabile e indipendente per tutte le conoscenze."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "arbitrarieta-del-segno",
+    "id": "CON-000210",
+    "kind": "concetto",
+    "title": "Arbitrarietà del segno",
+    "subtitle": "Carattere convenzionale del rapporto tra forma linguistica e significato, non fondato su una somiglianza naturale necessaria.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Carattere convenzionale del rapporto tra forma linguistica e significato, non fondato su una somiglianza naturale necessaria.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nella linguistica di Ferdinand de Saussure, l’arbitrarietà del segno indica che il legame tra significante e significato è stabilito da convenzioni linguistiche e non da una connessione naturale necessaria. Lingue diverse possono associare forme sonore differenti allo stesso concetto."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Arbitrarietà non significa scelta individuale libera: il segno è convenzionale per il sistema linguistico e vincola i parlanti che lo apprendono. Esistono inoltre fenomeni di iconicità, onomatopea e motivazione parziale che mostrano come il rapporto tra suono e significato possa presentare gradi di somiglianza senza annullare il carattere sistemico della lingua."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella filosofia del linguaggio e nella semiotica. Permette di comprendere la natura sociale dei significati e la differenza tra convenzione, somiglianza e riferimento."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella linguistica di Ferdinand de Saussure, l’arbitrarietà del segno indica che il legame tra significante e significato è stabilito da convenzioni linguistiche e non da una connessione naturale necessaria. Lingue diverse possono associare forme sonore differenti allo stesso concetto.",
+      "Arbitrarietà non significa scelta individuale libera: il segno è convenzionale per il sistema linguistico e vincola i parlanti che lo apprendono. Esistono inoltre fenomeni di iconicità, onomatopea e motivazione parziale che mostrano come il rapporto tra suono e significato possa presentare gradi di somiglianza senza annullare il carattere sistemico della lingua.",
+      "Il concetto è centrale nella filosofia del linguaggio e nella semiotica. Permette di comprendere la natura sociale dei significati e la differenza tra convenzione, somiglianza e riferimento."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Arbitrarietà del segno",
+        "explanation": "Carattere convenzionale del rapporto tra forma linguistica e significato, non fondato su una somiglianza naturale necessaria."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "autonomia-relazionale",
+    "id": "CON-000211",
+    "kind": "concetto",
+    "title": "Autonomia relazionale",
+    "subtitle": "Concezione dell’autonomia che riconosce il ruolo costitutivo delle relazioni sociali e delle condizioni di riconoscimento.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione dell’autonomia che riconosce il ruolo costitutivo delle relazioni sociali e delle condizioni di riconoscimento.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’autonomia relazionale nasce dalle critiche all’immagine dell’individuo autosufficiente. Sottolinea che la capacità di scegliere e governare la propria vita si sviluppa attraverso relazioni, linguaggi, istituzioni e forme di sostegno. L’autonomia non è quindi assenza di dipendenze, ma possibilità di orientarsi in modo riflessivo entro legami che non annullino la soggettività."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il modello deve distinguere relazioni che sostengono l’autodeterminazione da rapporti di dominio, manipolazione o dipendenza coercitiva. La presenza di legami non rende automaticamente autonoma una scelta: contano la possibilità di contestare aspettative, accedere a risorse e partecipare alla definizione dei propri fini."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nell’etica femminista, nella bioetica e nella filosofia politica. Consente di ripensare consenso, cura e responsabilità senza contrapporre in modo rigido indipendenza individuale e interdipendenza sociale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’autonomia relazionale nasce dalle critiche all’immagine dell’individuo autosufficiente. Sottolinea che la capacità di scegliere e governare la propria vita si sviluppa attraverso relazioni, linguaggi, istituzioni e forme di sostegno. L’autonomia non è quindi assenza di dipendenze, ma possibilità di orientarsi in modo riflessivo entro legami che non annullino la soggettività.",
+      "Il modello deve distinguere relazioni che sostengono l’autodeterminazione da rapporti di dominio, manipolazione o dipendenza coercitiva. La presenza di legami non rende automaticamente autonoma una scelta: contano la possibilità di contestare aspettative, accedere a risorse e partecipare alla definizione dei propri fini.",
+      "Il concetto è importante nell’etica femminista, nella bioetica e nella filosofia politica. Consente di ripensare consenso, cura e responsabilità senza contrapporre in modo rigido indipendenza individuale e interdipendenza sociale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Autonomia relazionale",
+        "explanation": "Concezione dell’autonomia che riconosce il ruolo costitutivo delle relazioni sociali e delle condizioni di riconoscimento."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "causalita-controfattuale",
+    "id": "CON-000212",
+    "kind": "concetto",
+    "title": "Causalità controfattuale",
+    "subtitle": "Teoria che interpreta il rapporto causale attraverso la dipendenza tra ciò che accade e ciò che sarebbe accaduto in circostanze alternative.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Teoria che interpreta il rapporto causale attraverso la dipendenza tra ciò che accade e ciò che sarebbe accaduto in circostanze alternative.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Le teorie controfattuali della causalità definiscono una causa chiedendo se, in assenza di essa, l’effetto si sarebbe verificato. David Lewis sviluppa una formulazione influente basata su mondi possibili vicini: un evento è causa di un altro quando, nel controfattuale pertinente, la sua assenza comporterebbe l’assenza dell’effetto."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il modello chiarisce molti casi ordinari, ma incontra difficoltà con sovradeterminazione, pre-emption e catene causali complesse. Se un effetto ha più cause sufficienti, l’eliminazione di una può non modificarlo; se una causa viene anticipata da un’altra, la semplice dipendenza controfattuale può fallire."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella metafisica della causalità, nella filosofia della scienza e nel diritto. La sua analisi mostra come scenari alternativi possano chiarire responsabilità e dipendenze, ma anche perché servano criteri ulteriori nei casi complessi."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie controfattuali della causalità definiscono una causa chiedendo se, in assenza di essa, l’effetto si sarebbe verificato. David Lewis sviluppa una formulazione influente basata su mondi possibili vicini: un evento è causa di un altro quando, nel controfattuale pertinente, la sua assenza comporterebbe l’assenza dell’effetto.",
+      "Il modello chiarisce molti casi ordinari, ma incontra difficoltà con sovradeterminazione, pre-emption e catene causali complesse. Se un effetto ha più cause sufficienti, l’eliminazione di una può non modificarlo; se una causa viene anticipata da un’altra, la semplice dipendenza controfattuale può fallire.",
+      "Il concetto è centrale nella metafisica della causalità, nella filosofia della scienza e nel diritto. La sua analisi mostra come scenari alternativi possano chiarire responsabilità e dipendenze, ma anche perché servano criteri ulteriori nei casi complessi."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Causalità controfattuale",
+        "explanation": "Teoria che interpreta il rapporto causale attraverso la dipendenza tra ciò che accade e ciò che sarebbe accaduto in circostanze alternative."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "egoismo-psicologico",
+    "id": "CON-000213",
+    "kind": "concetto",
+    "title": "Egoismo psicologico",
+    "subtitle": "Tesi descrittiva secondo cui ogni azione umana è motivata, in ultima analisi, dall’interesse personale dell’agente.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi descrittiva secondo cui ogni azione umana è motivata, in ultima analisi, dall’interesse personale dell’agente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’egoismo psicologico sostiene che gli esseri umani agiscano sempre per ottenere un vantaggio proprio, anche quando sembrano compiere gesti altruistici. La tesi riguarda la motivazione effettiva e va distinta dall’egoismo etico, che afferma invece che ciascuno dovrebbe perseguire il proprio interesse."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Una difficoltà classica è che la teoria può diventare infalsificabile se ogni comportamento viene reinterpretato come ricerca di soddisfazione personale. Il fatto che un’azione produca piacere all’agente non dimostra che il piacere fosse il suo fine. Le spiegazioni dell’altruismo richiedono quindi di distinguere conseguenze, motivazioni e intenzioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante in etica, psicologia filosofica e teoria dell’azione. Il confronto tra egoismo psicologico e altruismo mette alla prova le spiegazioni della motivazione e i presupposti delle teorie morali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’egoismo psicologico sostiene che gli esseri umani agiscano sempre per ottenere un vantaggio proprio, anche quando sembrano compiere gesti altruistici. La tesi riguarda la motivazione effettiva e va distinta dall’egoismo etico, che afferma invece che ciascuno dovrebbe perseguire il proprio interesse.",
+      "Una difficoltà classica è che la teoria può diventare infalsificabile se ogni comportamento viene reinterpretato come ricerca di soddisfazione personale. Il fatto che un’azione produca piacere all’agente non dimostra che il piacere fosse il suo fine. Le spiegazioni dell’altruismo richiedono quindi di distinguere conseguenze, motivazioni e intenzioni.",
+      "Il concetto è rilevante in etica, psicologia filosofica e teoria dell’azione. Il confronto tra egoismo psicologico e altruismo mette alla prova le spiegazioni della motivazione e i presupposti delle teorie morali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Egoismo psicologico",
+        "explanation": "Tesi descrittiva secondo cui ogni azione umana è motivata, in ultima analisi, dall’interesse personale dell’agente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "espressivismo",
+    "id": "CON-000214",
+    "kind": "concetto",
+    "title": "Espressivismo",
+    "subtitle": "Posizione metaetica secondo cui i giudizi morali esprimono atteggiamenti pratici anziché descrivere fatti morali indipendenti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione metaetica secondo cui i giudizi morali esprimono atteggiamenti pratici anziché descrivere fatti morali indipendenti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’espressivismo interpreta enunciati come «rubare è sbagliato» come espressioni di disapprovazione, impegno o orientamento pratico, piuttosto che come descrizioni di proprietà morali. Una forma influente è l’emotivismo di A. J. Ayer e Charles Stevenson; sviluppi successivi, come il quasi-realismo di Simon Blackburn, cercano di spiegare il linguaggio morale ordinario."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’espressivismo deve rendere conto della complessità logica del discorso morale: i giudizi entrano in negazioni, condizionali e inferenze. Le versioni contemporanee cercano di spiegare come sia possibile parlare di verità morale e disaccordo senza postulare fatti morali indipendenti dagli atteggiamenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella metaetica. Il confronto con cognitivismo e realismo morale chiarisce se il linguaggio etico descriva il mondo, esprima atteggiamenti o svolga entrambe le funzioni."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’espressivismo interpreta enunciati come «rubare è sbagliato» come espressioni di disapprovazione, impegno o orientamento pratico, piuttosto che come descrizioni di proprietà morali. Una forma influente è l’emotivismo di A. J. Ayer e Charles Stevenson; sviluppi successivi, come il quasi-realismo di Simon Blackburn, cercano di spiegare il linguaggio morale ordinario.",
+      "L’espressivismo deve rendere conto della complessità logica del discorso morale: i giudizi entrano in negazioni, condizionali e inferenze. Le versioni contemporanee cercano di spiegare come sia possibile parlare di verità morale e disaccordo senza postulare fatti morali indipendenti dagli atteggiamenti.",
+      "Il concetto è centrale nella metaetica. Il confronto con cognitivismo e realismo morale chiarisce se il linguaggio etico descriva il mondo, esprima atteggiamenti o svolga entrambe le funzioni."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Espressivismo",
+        "explanation": "Posizione metaetica secondo cui i giudizi morali esprimono atteggiamenti pratici anziché descrivere fatti morali indipendenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "filosofia-della-storia",
+    "id": "CON-000215",
+    "kind": "concetto",
+    "title": "Filosofia della storia",
+    "subtitle": "Indagine sui significati, i metodi e le possibili strutture intelligibili del processo storico.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Indagine sui significati, i metodi e le possibili strutture intelligibili del processo storico.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La filosofia della storia riflette sul senso della storia, sulle forme della spiegazione storica e sul rapporto tra eventi, strutture e azioni umane. Può assumere una forma speculativa, quando cerca un orientamento complessivo del processo storico, oppure critica, quando analizza metodi e condizioni della conoscenza storica."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le filosofie speculative, da Hegel a Marx in modi differenti, hanno cercato di individuare logiche e direzioni del divenire storico. Le prospettive critiche contemporanee mettono in guardia dalle narrazioni teleologiche e interrogano la selezione delle fonti, la causalità e il ruolo dei soggetti. La storia può essere intelligibile senza essere governata da un fine necessario."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il campo collega metafisica, epistemologia e teoria politica. Aiuta a distinguere spiegazione storica e filosofia del progresso, e a valutare criticamente i racconti che attribuiscono alla storia un significato unitario."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La filosofia della storia riflette sul senso della storia, sulle forme della spiegazione storica e sul rapporto tra eventi, strutture e azioni umane. Può assumere una forma speculativa, quando cerca un orientamento complessivo del processo storico, oppure critica, quando analizza metodi e condizioni della conoscenza storica.",
+      "Le filosofie speculative, da Hegel a Marx in modi differenti, hanno cercato di individuare logiche e direzioni del divenire storico. Le prospettive critiche contemporanee mettono in guardia dalle narrazioni teleologiche e interrogano la selezione delle fonti, la causalità e il ruolo dei soggetti. La storia può essere intelligibile senza essere governata da un fine necessario.",
+      "Il campo collega metafisica, epistemologia e teoria politica. Aiuta a distinguere spiegazione storica e filosofia del progresso, e a valutare criticamente i racconti che attribuiscono alla storia un significato unitario."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Filosofia della storia",
+        "explanation": "Indagine sui significati, i metodi e le possibili strutture intelligibili del processo storico."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "heteronomia",
+    "id": "CON-000216",
+    "kind": "concetto",
+    "title": "Heteronomia",
+    "subtitle": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di eteronomia è centrale nell’etica di Kant. Una volontà è eteronoma quando il principio che la determina deriva da un oggetto del desiderio, da un interesse particolare o da un’autorità esterna. L’autonomia, al contrario, consiste nel riconoscere la legge morale attraverso la ragione pratica."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’eteronomia non coincide con ogni influenza sociale o con l’apprendimento di regole: riguarda il fondamento della massima dell’azione. Il problema è stabilire quando un soggetto agisca per rispetto della legge e quando sia mosso da ricompense, inclinazioni o pressioni. La distinzione kantiana è stata discussa per il suo rigore e per il rapporto tra ragione, affetti e relazioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nell’etica kantiana e nei dibattiti sull’autodeterminazione. Chiarisce la differenza tra obbedienza esterna e autolegislazione morale, nonché il rapporto tra libertà e motivazione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di eteronomia è centrale nell’etica di Kant. Una volontà è eteronoma quando il principio che la determina deriva da un oggetto del desiderio, da un interesse particolare o da un’autorità esterna. L’autonomia, al contrario, consiste nel riconoscere la legge morale attraverso la ragione pratica.",
+      "L’eteronomia non coincide con ogni influenza sociale o con l’apprendimento di regole: riguarda il fondamento della massima dell’azione. Il problema è stabilire quando un soggetto agisca per rispetto della legge e quando sia mosso da ricompense, inclinazioni o pressioni. La distinzione kantiana è stata discussa per il suo rigore e per il rapporto tra ragione, affetti e relazioni.",
+      "Il concetto è importante nell’etica kantiana e nei dibattiti sull’autodeterminazione. Chiarisce la differenza tra obbedienza esterna e autolegislazione morale, nonché il rapporto tra libertà e motivazione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Heteronomia",
+        "explanation": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
