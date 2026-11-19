@@ -4677,6 +4677,582 @@ export const comparativePaths: ComparativePath[] = [
     methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
   },
 
-];
+  {
+    "slug": "anomia",
+    "id": "CON-000107",
+    "kind": "concetto",
+    "title": "Anomia",
+    "subtitle": "Indebolimento o insufficienza delle norme che regolano la vita sociale.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Indebolimento o insufficienza delle norme che regolano la vita sociale.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il termine indica una condizione nella quale le regole condivise perdono forza orientativa o risultano inadeguate rispetto a mutamenti e aspettative. Nella sociologia di Émile Durkheim l'anomia è legata alla crisi della regolazione sociale e alla difficoltà di dare misura ai desideri individuali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Anomia non significa semplicemente assenza totale di leggi. Può emergere anche quando le norme esistono formalmente ma non riescono a coordinare aspettative, aspirazioni e istituzioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La categoria invita a distinguere la trasgressione individuale dalla disorganizzazione normativa. Una società può produrre anomia proprio attraverso trasformazioni economiche e istituzionali rapide."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il termine indica una condizione nella quale le regole condivise perdono forza orientativa o risultano inadeguate rispetto a mutamenti e aspettative. Nella sociologia di Émile Durkheim l'anomia è legata alla crisi della regolazione sociale e alla difficoltà di dare misura ai desideri individuali.",
+      "Anomia non significa semplicemente assenza totale di leggi. Può emergere anche quando le norme esistono formalmente ma non riescono a coordinare aspettative, aspirazioni e istituzioni.",
+      "La categoria invita a distinguere la trasgressione individuale dalla disorganizzazione normativa. Una società può produrre anomia proprio attraverso trasformazioni economiche e istituzionali rapide."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Anomia",
+        "explanation": "Indebolimento o insufficienza delle norme che regolano la vita sociale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "antinomia",
+    "id": "CON-000108",
+    "kind": "concetto",
+    "title": "Antinomia",
+    "subtitle": "Conflitto tra proposizioni o principi che sembrano entrambi razionalmente sostenibili.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Conflitto tra proposizioni o principi che sembrano entrambi razionalmente sostenibili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "In filosofia un'antinomia si presenta quando due tesi incompatibili sembrano poter essere dimostrate con argomenti di pari forza. Kant usa il termine per descrivere conflitti della ragione quando essa applica le proprie idee oltre i limiti dell'esperienza possibile."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Un'antinomia non coincide con una semplice contraddizione dovuta a un errore formale. La sua forza diagnostica dipende dal fatto che entrambe le posizioni sembrano derivare da presupposti razionali condivisi."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "L'analisi richiede di ricostruire i passaggi inferenziali di ciascuna tesi e di verificare se il conflitto dipenda da un uso illegittimo di concetti o da presupposti non dichiarati."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "In filosofia un'antinomia si presenta quando due tesi incompatibili sembrano poter essere dimostrate con argomenti di pari forza. Kant usa il termine per descrivere conflitti della ragione quando essa applica le proprie idee oltre i limiti dell'esperienza possibile.",
+      "Un'antinomia non coincide con una semplice contraddizione dovuta a un errore formale. La sua forza diagnostica dipende dal fatto che entrambe le posizioni sembrano derivare da presupposti razionali condivisi.",
+      "L'analisi richiede di ricostruire i passaggi inferenziali di ciascuna tesi e di verificare se il conflitto dipenda da un uso illegittimo di concetti o da presupposti non dichiarati."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Antinomia",
+        "explanation": "Conflitto tra proposizioni o principi che sembrano entrambi razionalmente sostenibili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "aporia",
+    "id": "CON-000109",
+    "kind": "concetto",
+    "title": "Aporia",
+    "subtitle": "Difficoltà argomentativa che blocca il passaggio a una soluzione univoca.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Difficoltà argomentativa che blocca il passaggio a una soluzione univoca.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il termine greco indica letteralmente una mancanza di passaggio. Nei dialoghi platonici l'aporia può essere l'esito di un esame dialettico che dissolve definizioni iniziali senza sostituirle subito con una dottrina conclusiva."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L'aporia non è necessariamente un fallimento del pensiero. Può rendere visibili presupposti nascosti e impedire che una risposta prematura venga scambiata per conoscenza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Resta aperta la questione se l'aporia sia una tappa provvisoria verso una teoria oppure una condizione strutturale di alcuni problemi filosofici."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il termine greco indica letteralmente una mancanza di passaggio. Nei dialoghi platonici l'aporia può essere l'esito di un esame dialettico che dissolve definizioni iniziali senza sostituirle subito con una dottrina conclusiva.",
+      "L'aporia non è necessariamente un fallimento del pensiero. Può rendere visibili presupposti nascosti e impedire che una risposta prematura venga scambiata per conoscenza.",
+      "Resta aperta la questione se l'aporia sia una tappa provvisoria verso una teoria oppure una condizione strutturale di alcuni problemi filosofici."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Aporia",
+        "explanation": "Difficoltà argomentativa che blocca il passaggio a una soluzione univoca."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "assiologia",
+    "id": "CON-000110",
+    "kind": "concetto",
+    "title": "Assiologia",
+    "subtitle": "Indagine filosofica sulla natura, la gerarchia e la validità dei valori.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Indagine filosofica sulla natura, la gerarchia e la validità dei valori.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'assiologia studia che cosa siano i valori, come si distinguano da fatti e preferenze e se possano essere ordinati secondo criteri razionali. Si sviluppa come ambito riconoscibile tra Otto e Novecento, in dialogo con etica, estetica e filosofia della cultura."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Un valore non coincide automaticamente con ciò che una persona desidera o con ciò che una società approva. La riflessione assiologica interroga proprio la possibilità di valutare desideri e consuetudini."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Le teorie dei valori divergono sulla loro oggettività, sulla dipendenza da soggetti e pratiche e sulla possibilità di confrontare valori in conflitto."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'assiologia studia che cosa siano i valori, come si distinguano da fatti e preferenze e se possano essere ordinati secondo criteri razionali. Si sviluppa come ambito riconoscibile tra Otto e Novecento, in dialogo con etica, estetica e filosofia della cultura.",
+      "Un valore non coincide automaticamente con ciò che una persona desidera o con ciò che una società approva. La riflessione assiologica interroga proprio la possibilità di valutare desideri e consuetudini.",
+      "Le teorie dei valori divergono sulla loro oggettività, sulla dipendenza da soggetti e pratiche e sulla possibilità di confrontare valori in conflitto."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Assiologia",
+        "explanation": "Indagine filosofica sulla natura, la gerarchia e la validità dei valori."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "biopolitica",
+    "id": "CON-000111",
+    "kind": "concetto",
+    "title": "Biopolitica",
+    "subtitle": "Modalità di potere che prendono la vita e i processi delle popolazioni come oggetto di governo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Modalità di potere che prendono la vita e i processi delle popolazioni come oggetto di governo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Michel Foucault impiega il concetto per analizzare pratiche e saperi che intervengono su natalità, salute, mortalità, igiene e condizioni collettive dell'esistenza. Il potere moderno non agisce soltanto attraverso divieti e sovranità, ma anche amministrando e ottimizzando processi vitali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Biopolitica non è sinonimo generico di politica sanitaria né indica sempre un controllo centralizzato. Designa una griglia analitica per studiare l'intreccio di istituzioni, saperi, statistiche e tecniche di governo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Le letture contemporanee discutono se il concetto descriva soprattutto la gestione produttiva della vita, l'esposizione differenziale alla morte o entrambe le dinamiche."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Michel Foucault impiega il concetto per analizzare pratiche e saperi che intervengono su natalità, salute, mortalità, igiene e condizioni collettive dell'esistenza. Il potere moderno non agisce soltanto attraverso divieti e sovranità, ma anche amministrando e ottimizzando processi vitali.",
+      "Biopolitica non è sinonimo generico di politica sanitaria né indica sempre un controllo centralizzato. Designa una griglia analitica per studiare l'intreccio di istituzioni, saperi, statistiche e tecniche di governo.",
+      "Le letture contemporanee discutono se il concetto descriva soprattutto la gestione produttiva della vita, l'esposizione differenziale alla morte o entrambe le dinamiche."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Biopolitica",
+        "explanation": "Modalità di potere che prendono la vita e i processi delle popolazioni come oggetto di governo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "cattiva-fede",
+    "id": "CON-000112",
+    "kind": "concetto",
+    "title": "Cattiva fede",
+    "subtitle": "Autoinganno con cui la coscienza maschera la propria libertà e responsabilità.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Autoinganno con cui la coscienza maschera la propria libertà e responsabilità.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nell'esistenzialismo di Jean-Paul Sartre la cattiva fede è una modalità di fuga dalla tensione tra fatticità e trascendenza: l'individuo si rappresenta come una cosa determinata oppure come libertà senza vincoli, per sottrarsi alla propria situazione concreta."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non coincide semplicemente con una menzogna consapevole rivolta a un altro. La difficoltà sta nel fatto che chi agisce in cattiva fede è insieme ingannatore e ingannato, pur senza ridursi a un inconscio del tutto opaco."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto solleva interrogativi sulla possibilità di un autoinganno stabile e sul rapporto tra responsabilità, condizionamenti sociali e capacità di riconoscere le proprie possibilità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nell'esistenzialismo di Jean-Paul Sartre la cattiva fede è una modalità di fuga dalla tensione tra fatticità e trascendenza: l'individuo si rappresenta come una cosa determinata oppure come libertà senza vincoli, per sottrarsi alla propria situazione concreta.",
+      "Non coincide semplicemente con una menzogna consapevole rivolta a un altro. La difficoltà sta nel fatto che chi agisce in cattiva fede è insieme ingannatore e ingannato, pur senza ridursi a un inconscio del tutto opaco.",
+      "Il concetto solleva interrogativi sulla possibilità di un autoinganno stabile e sul rapporto tra responsabilità, condizionamenti sociali e capacità di riconoscere le proprie possibilità."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Cattiva fede",
+        "explanation": "Autoinganno con cui la coscienza maschera la propria libertà e responsabilità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "coscienza-fenomenica",
+    "id": "CON-000113",
+    "kind": "concetto",
+    "title": "Coscienza fenomenica",
+    "subtitle": "Carattere soggettivo e qualitativo dell'esperienza cosciente.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Carattere soggettivo e qualitativo dell'esperienza cosciente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La nozione indica il fatto che un'esperienza si presenta in un certo modo a chi la vive: il dolore fa male, un colore appare in un certo modo, un suono possiede una qualità vissuta. Nella filosofia della mente contemporanea è spesso distinta dalle funzioni cognitive e dall'accesso all'informazione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La coscienza fenomenica non coincide con la capacità di riferire verbalmente un contenuto né con la semplice elaborazione di dati. Il dibattito riguarda il rapporto tra descrizioni funzionali e carattere soggettivo dell'esperienza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema è se e come proprietà fenomeniche possano essere spiegate da processi fisici, computazionali o funzionali, e quali criteri consentano di attribuire esperienza ad altri sistemi."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La nozione indica il fatto che un'esperienza si presenta in un certo modo a chi la vive: il dolore fa male, un colore appare in un certo modo, un suono possiede una qualità vissuta. Nella filosofia della mente contemporanea è spesso distinta dalle funzioni cognitive e dall'accesso all'informazione.",
+      "La coscienza fenomenica non coincide con la capacità di riferire verbalmente un contenuto né con la semplice elaborazione di dati. Il dibattito riguarda il rapporto tra descrizioni funzionali e carattere soggettivo dell'esperienza.",
+      "Il problema è se e come proprietà fenomeniche possano essere spiegate da processi fisici, computazionali o funzionali, e quali criteri consentano di attribuire esperienza ad altri sistemi."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Coscienza fenomenica",
+        "explanation": "Carattere soggettivo e qualitativo dell'esperienza cosciente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "contrattualismo",
+    "id": "CON-000114",
+    "kind": "concetto",
+    "title": "Contrattualismo",
+    "subtitle": "Famiglia di teorie che fondano principi politici o morali su un accordo ipotetico tra soggetti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Famiglia di teorie che fondano principi politici o morali su un accordo ipotetico tra soggetti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il contrattualismo moderno utilizza l'idea di un patto per spiegare l'autorità politica e gli obblighi reciproci. Nelle versioni contemporanee, come quella di T. M. Scanlon, la giustificabilità di principi a ciascuna persona assume un ruolo centrale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il contratto filosofico non è necessariamente un evento storico realmente avvenuto. È spesso un dispositivo di giustificazione che mette alla prova quali regole possano essere accettate da soggetti liberi ed eguali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Le teorie divergono su chi siano i contraenti, su quali informazioni possiedano e su come trattare disuguaglianze, generazioni future e soggetti incapaci di partecipare direttamente."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il contrattualismo moderno utilizza l'idea di un patto per spiegare l'autorità politica e gli obblighi reciproci. Nelle versioni contemporanee, come quella di T. M. Scanlon, la giustificabilità di principi a ciascuna persona assume un ruolo centrale.",
+      "Il contratto filosofico non è necessariamente un evento storico realmente avvenuto. È spesso un dispositivo di giustificazione che mette alla prova quali regole possano essere accettate da soggetti liberi ed eguali.",
+      "Le teorie divergono su chi siano i contraenti, su quali informazioni possiedano e su come trattare disuguaglianze, generazioni future e soggetti incapaci di partecipare direttamente."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Contrattualismo",
+        "explanation": "Famiglia di teorie che fondano principi politici o morali su un accordo ipotetico tra soggetti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "deontologia",
+    "id": "CON-000115",
+    "kind": "concetto",
+    "title": "Deontologia",
+    "subtitle": "Approccio etico che valuta azioni e norme in rapporto a doveri e vincoli, non soltanto alle conseguenze.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Approccio etico che valuta azioni e norme in rapporto a doveri e vincoli, non soltanto alle conseguenze.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Le teorie deontologiche sostengono che alcune azioni siano obbligatorie o proibite in virtù di principi, diritti o doveri. La filosofia morale kantiana è un riferimento fondamentale, benché il termine comprenda orientamenti diversi e non una sola dottrina."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Deontologia non significa ignorare sempre le conseguenze. Significa negare che il valore morale di un'azione si esaurisca nel saldo dei suoi effetti, riconoscendo limiti e obblighi che vincolano l'agire."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema classico è spiegare come i doveri si applichino nei casi di conflitto e come possano essere giustificati senza produrre rigidità incompatibili con situazioni concrete."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie deontologiche sostengono che alcune azioni siano obbligatorie o proibite in virtù di principi, diritti o doveri. La filosofia morale kantiana è un riferimento fondamentale, benché il termine comprenda orientamenti diversi e non una sola dottrina.",
+      "Deontologia non significa ignorare sempre le conseguenze. Significa negare che il valore morale di un'azione si esaurisca nel saldo dei suoi effetti, riconoscendo limiti e obblighi che vincolano l'agire.",
+      "Il problema classico è spiegare come i doveri si applichino nei casi di conflitto e come possano essere giustificati senza produrre rigidità incompatibili con situazioni concrete."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Deontologia",
+        "explanation": "Approccio etico che valuta azioni e norme in rapporto a doveri e vincoli, non soltanto alle conseguenze."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "differenza-ontologica",
+    "id": "CON-000116",
+    "kind": "concetto",
+    "title": "Differenza ontologica",
+    "subtitle": "Distinzione tra l'essere e gli enti, centrale nell'analitica esistenziale di Heidegger.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Distinzione tra l'essere e gli enti, centrale nell'analitica esistenziale di Heidegger.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Heidegger distingue l'essere, cioè ciò in virtù di cui gli enti sono compresi come enti, dai singoli enti che incontriamo. La tradizione metafisica, secondo la sua diagnosi, avrebbe spesso interrogato gli enti senza mantenere aperta la domanda sul senso dell'essere."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La differenza ontologica non separa due oggetti collocati sullo stesso piano. L'essere non è un ente supremo né una proprietà aggiuntiva delle cose; è la questione che rende possibile la loro comprensione ontologica."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Resta controverso se la distinzione possa essere formulata senza trasformare nuovamente l'essere in un oggetto e come si rapporti alla storia della metafisica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Heidegger distingue l'essere, cioè ciò in virtù di cui gli enti sono compresi come enti, dai singoli enti che incontriamo. La tradizione metafisica, secondo la sua diagnosi, avrebbe spesso interrogato gli enti senza mantenere aperta la domanda sul senso dell'essere.",
+      "La differenza ontologica non separa due oggetti collocati sullo stesso piano. L'essere non è un ente supremo né una proprietà aggiuntiva delle cose; è la questione che rende possibile la loro comprensione ontologica.",
+      "Resta controverso se la distinzione possa essere formulata senza trasformare nuovamente l'essere in un oggetto e come si rapporti alla storia della metafisica."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Differenza ontologica",
+        "explanation": "Distinzione tra l'essere e gli enti, centrale nell'analitica esistenziale di Heidegger."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "disobbedienza-civile",
+    "id": "CON-000117",
+    "kind": "concetto",
+    "title": "Disobbedienza civile",
+    "subtitle": "Violazione pubblica e motivata della legge per contestare un'ingiustizia o una decisione politica.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Violazione pubblica e motivata della legge per contestare un'ingiustizia o una decisione politica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nella teoria politica contemporanea la disobbedienza civile è generalmente descritta come un atto consapevole, pubblico e nonviolento, rivolto a modificare leggi o politiche attraverso un appello alla giustizia condivisa. Thoreau, Gandhi e Martin Luther King Jr. sono riferimenti storici importanti, pur in contesti differenti."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non ogni illegalità è disobbedienza civile. La categoria implica una motivazione politica e una forma di comunicazione pubblica; il rapporto con l'accettazione della pena varia tra autori e movimenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema normativo consiste nel chiarire quando la fedeltà alla giustizia possa richiedere la violazione della legalità e quali limiti distinguano la protesta legittima dalla coercizione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella teoria politica contemporanea la disobbedienza civile è generalmente descritta come un atto consapevole, pubblico e nonviolento, rivolto a modificare leggi o politiche attraverso un appello alla giustizia condivisa. Thoreau, Gandhi e Martin Luther King Jr. sono riferimenti storici importanti, pur in contesti differenti.",
+      "Non ogni illegalità è disobbedienza civile. La categoria implica una motivazione politica e una forma di comunicazione pubblica; il rapporto con l'accettazione della pena varia tra autori e movimenti.",
+      "Il problema normativo consiste nel chiarire quando la fedeltà alla giustizia possa richiedere la violazione della legalità e quali limiti distinguano la protesta legittima dalla coercizione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Disobbedienza civile",
+        "explanation": "Violazione pubblica e motivata della legge per contestare un'ingiustizia o una decisione politica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "emergenza",
+    "id": "CON-000118",
+    "kind": "concetto",
+    "title": "Emergenza",
+    "subtitle": "Comparsa di proprietà o comportamenti di un sistema che non si descrivono adeguatamente considerando isolatamente le sue parti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Comparsa di proprietà o comportamenti di un sistema che non si descrivono adeguatamente considerando isolatamente le sue parti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nelle teorie dell'emergenza, un sistema organizzato può manifestare proprietà dipendenti dalle componenti ma non immediatamente riducibili a esse. Il tema attraversa filosofia della mente, metafisica, scienze della vita e teoria dei sistemi."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Emergenza non significa necessariamente evento improvviso o inspiegabile. Può indicare una relazione di dipendenza tra livelli organizzativi, anche quando le proprietà emergenti hanno una base materiale."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Le questioni decisive riguardano la riducibilità, il potere causale dei livelli superiori e la distinzione tra emergenza debole, descrittiva, ed emergenza forte, ontologica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nelle teorie dell'emergenza, un sistema organizzato può manifestare proprietà dipendenti dalle componenti ma non immediatamente riducibili a esse. Il tema attraversa filosofia della mente, metafisica, scienze della vita e teoria dei sistemi.",
+      "Emergenza non significa necessariamente evento improvviso o inspiegabile. Può indicare una relazione di dipendenza tra livelli organizzativi, anche quando le proprietà emergenti hanno una base materiale.",
+      "Le questioni decisive riguardano la riducibilità, il potere causale dei livelli superiori e la distinzione tra emergenza debole, descrittiva, ed emergenza forte, ontologica."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Emergenza",
+        "explanation": "Comparsa di proprietà o comportamenti di un sistema che non si descrivono adeguatamente considerando isolatamente le sue parti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
