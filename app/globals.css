@@ -368,3 +368,16 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 .install-app-button:hover{background:#e8d8bd;color:var(--green-dark)}
 .install-app-button svg{width:19px;height:19px;flex:none}
 .install-app-help{max-width:380px;margin:0;color:#e1e3da;font-size:12px;line-height:1.6}
+
+
+/* Pulsante PWA: contrasto coerente con la palette chiara della home */
+.install-app-button{
+  background:#e5ddce;
+  color:#11100d;
+  border:1px solid #8e8576;
+}
+.install-app-button:hover{
+  background:#d9cfbd;
+  color:#11100d;
+}
+.install-app-help{color:#292720}
