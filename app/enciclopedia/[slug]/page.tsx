@@ -11,7 +11,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
   const { slug } = await params;
   const entry = getEntryBySlug(slug);
   if (!entry) notFound();
-  const titleKey = entry.title.toLocaleLowerCase("it").normalize("NFD").replace(/[\\u0300-\\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const titleKey = entry.title.toLocaleLowerCase("it").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   const expandedAnalysis = expandedThoughts[slug] ?? expandedThoughts[titleKey];
 
   return (
