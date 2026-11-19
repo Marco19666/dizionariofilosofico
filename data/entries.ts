@@ -15296,7 +15296,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Sandra Harding, Whose Science? Whose Knowledge?, 1991.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15357,7 +15357,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Joan C. Tronto, Moral Boundaries, 1993.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15418,7 +15418,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Axel Honneth, The Struggle for Recognition, 1995.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15479,7 +15479,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Fraser e Honneth, Redistribution or Recognition?, 2003.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15540,7 +15540,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Jürgen Habermas, The Structural Transformation of the Public Sphere, 1989.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15601,7 +15601,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Jürgen Habermas, The Theory of Communicative Action, 1984–1987.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15662,7 +15662,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Edmund Husserl, The Crisis of European Sciences, 1970.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15723,7 +15723,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Antonio Gramsci, Quaderni del carcere, 1975.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15784,7 +15784,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Louis Althusser, “Ideology and Ideological State Apparatuses”, 1971.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15845,7 +15845,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Karl Marx, Manoscritti economico-filosofici del 1844.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15906,7 +15906,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Georg Lukács, History and Class Consciousness, 1971.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -15967,7 +15967,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Karl Marx, Il capitale, libro I, cap. 1.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16028,7 +16028,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Karl Marx, Tesi su Feuerbach, 1845.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16089,7 +16089,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Max Horkheimer, “Traditional and Critical Theory”, 1937.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16150,7 +16150,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Michel Foucault, Security, Territory, Population, 2007.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16211,7 +16211,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Michel Foucault, Power/Knowledge, 1980.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16272,7 +16272,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Edward W. Said, Orientalism, 1978.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16333,7 +16333,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Aníbal Quijano, “Coloniality of Power, Eurocentrism, and Latin America”, 2000.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16394,7 +16394,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Gayatri Chakravorty Spivak, “Can the Subaltern Speak?”, 1988.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16455,7 +16455,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Edward W. Said, Orientalism, 1978.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16516,7 +16516,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Derrida e Dufourmantelle, Of Hospitality, 2000.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16577,7 +16577,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Emmanuel Levinas, Totality and Infinity, 1969.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16638,7 +16638,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Maurice Merleau-Ponty, Fenomenologia della percezione, 1945.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16699,7 +16699,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Hans-Georg Gadamer, Truth and Method, 2004.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16760,7 +16760,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Gilles Deleuze, Difference and Repetition, 1994.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16821,7 +16821,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Jacques Derrida, “Différance”, in Margins of Philosophy, 1982.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16882,7 +16882,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Deleuze e Guattari, A Thousand Plateaus, 1987.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -16943,7 +16943,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Manuel DeLanda, A New Philosophy of Society, 2006.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17004,7 +17004,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Ludwig Wittgenstein, Philosophical Investigations, 1953.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17065,7 +17065,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Ludwig Wittgenstein, Philosophical Investigations, §§ 185–242.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17126,7 +17126,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Clark e Chalmers, “The Extended Mind”, Analysis, 1998.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17187,7 +17187,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Varela, Thompson e Rosch, The Embodied Mind, 1991.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17248,7 +17248,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Peter-Paul Verbeek, What Things Do, 2005.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17309,7 +17309,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Howard Zehr, Changing Lenses, 1990.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17370,7 +17370,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Martin Luther King Jr., Stride Toward Freedom, 1958.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17431,7 +17431,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Amartya Sen, Development as Freedom, 1999.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17492,7 +17492,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Michael Walzer, “Political Action: The Problem of Dirty Hands”, 1973.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17553,7 +17553,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Henry Shue, Climate Justice: Vulnerability and Protection, 2014.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17614,7 +17614,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "John Rawls, A Theory of Justice, 1971, § 44.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17675,7 +17675,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Tommaso d'Aquino, Summa Theologiae, I–II, qq. 90–97.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17736,7 +17736,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "H. L. A. Hart, The Concept of Law, 1961.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17797,7 +17797,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Jean Bodin, Les six livres de la République, 1576.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17858,7 +17858,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "G. W. F. Hegel, Lineamenti di filosofia del diritto, 1821.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17919,7 +17919,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Philip Pettit, Republicanism, 1997.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -17980,7 +17980,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "David Beetham, The Legitimation of Power, 1991.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -18041,7 +18041,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Hans Jonas, The Imperative of Responsibility, 1984.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -18102,7 +18102,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Sally Engle Merry, “Legal Pluralism”, Law & Society Review, 1988.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -18163,7 +18163,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Trattato sull'Unione europea, art. 5.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -18224,7 +18224,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Axel Honneth, The Struggle for Recognition, 1995.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
@@ -18285,7 +18285,7 @@ export const entries: EncyclopediaEntry[] = [
       {
         "label": "Carole Pateman, Participation and Democratic Theory, 1970.",
         "note": "Riferimento bibliografico iniziale per l'inquadramento del lemma; verificare l'edizione e la traduzione adottate nella revisione editoriale.",
-        "type": "Studio secondario"
+        "type": "Testo primario / traduzione"
       }
     ],
     "keyTerms": [
