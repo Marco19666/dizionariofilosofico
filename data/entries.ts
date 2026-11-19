@@ -997,8 +997,7 @@ export const entries: EncyclopediaEntry[] = [
     ],
     tags: ["Epistemologia", "filosofia", "storia dei concetti"],
     related: [],
-    bibliography: [
-      { label: "Fonti primarie sul tema: Opinione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
+    bibliography: [      { label: "Fonti primarie sul tema: Opinione", type: "Testo primario / traduzione", note: "Individuare i passi pertinenti nelle opere degli autori e nelle tradizioni indicate; verificare edizione, traduzione e contesto." },
       { label: "Studi storico-filosofici su opinione", type: "Studio secondario", note: "Bibliografia da completare con studi specialistici che ricostruiscano gli usi storici e le controversie interpretative del concetto." }
     ],
     keyTerms: [
@@ -1997,8 +1996,7 @@ export const entries: EncyclopediaEntry[] = [
       { term: "Autonomia", explanation: "Autonomia indica la capacità di darsi norme o orientare la propria vita. In Kant ha un significato morale specifico, diverso dall'indipendenza sociale o politica." },
       { term: "contesto", explanation: "Coordinate linguistiche, storiche e teoriche necessarie a interpretare il concetto." }
     ],
-    works: [
-      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
+    works: [      { title: "Testi filosofici di riferimento", note: "Selezione da definire in base alla tradizione e al problema specifico; evitare di attribuire il concetto a un unico autore quando la sua storia è plurale." }
     ],
     timeline: [
       { date: "Modernità e contemporaneità", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
@@ -2997,8 +2995,7 @@ export const entries: EncyclopediaEntry[] = [
     ],
     editorialStatus: "edizione editoriale 1.0"
   },
-  {
-    slug: "memoria-collettiva", id: "CON-000087", kind: "concetto",
+  {    slug: "memoria-collettiva", id: "CON-000087", kind: "concetto",
     title: "Memoria collettiva", subtitle: "Memoria collettiva: significati, problemi e contesti", area: "Filosofia sociale e politica", period: "XX secolo e contemporaneità",
     summary: "La memoria collettiva organizza il rapporto dei gruppi con il passato attraverso narrazioni, monumenti e pratiche. Non è la somma delle memorie individuali.",
     sections: [
@@ -3997,8 +3994,7 @@ export const entries: EncyclopediaEntry[] = [
     "slug": "incommensurabilita",
     "id": "CON-000109",
     "kind": "concetto",
-    "title": "Incommensurabilità",
-    "subtitle": "Assenza di una misura comune",
+    "title": "Incommensurabilità",    "subtitle": "Assenza di una misura comune",
     "area": "Filosofia",
     "period": "Dall'antichità alla contemporaneità",
     "summary": "L'incommensurabilità indica la difficoltà di confrontare integralmente teorie o paradigmi differenti mediante un linguaggio neutrale. È associata soprattutto a Kuhn e Feyerabend.",
@@ -4590,93 +4586,6 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
-]; 
-
-
-export interface ComparativePath {
-  slug: string;
-  title: string;
-  entries: string[];
-  question: string;
-  methodNote: string;
-}
-
-/**
- * Percorsi comparativi trasversali. Le connessioni indicano problemi da
- * mettere a confronto, non equivalenze concettuali né influenze automatiche.
- */
-export const comparativePaths: ComparativePath[] = [
-  {
-    slug: "dialogo-e-sistema",
-    title: "Dialogo, trattato e costruzione del sapere",
-    entries: ["platone", "aristotele"],
-    question: "In che modo la forma letteraria condiziona ciò che possiamo ricostruire di una filosofia?",
-    methodNote: "Il dialogo platonico e i trattati aristotelici appartengono a generi e storie di trasmissione differenti: non sono due semplici stili espositivi intercambiabili."
-  },
-  {
-    slug: "ordine-e-spontaneita",
-    title: "Rito, formazione e spontaneità",
-    entries: ["confucio", "laozi"],
-    question: "L'ordine umano nasce soprattutto dall'educazione rituale o da una riduzione dell'intervento artificiale?",
-    methodNote: "Il confronto riguarda testi e orientamenti della Cina antica; non autorizza a ridurre confucianesimo e daoismo a due blocchi uniformi o sempre contrapposti."
-  },
-  {
-    slug: "dao-e-logos",
-    title: "Dao e logos: linguaggio e principio",
-    entries: ["dao", "logos"],
-    question: "Come vengono pensati il principio, l'ordine e i limiti del linguaggio in contesti culturali differenti?",
-    methodNote: "Dao e logos hanno storie semantiche non sovrapponibili. Le analogie sono strumenti euristici e non dimostrano contatti o derivazioni."
-  },
-  {
-    slug: "essere-e-vacuita",
-    title: "Essere, dipendenza e vacuità",
-    entries: ["essere", "sunyata"],
-    question: "Che cosa presupponiamo quando diciamo che qualcosa è, esiste o possiede una natura propria?",
-    methodNote: "Il lessico ontologico greco e l'analisi buddhista della vacuità nascono da problemi e tradizioni differenti; il confronto deve mantenere visibili le rispettive cornici."
-  },
-  {
-    slug: "testo-e-tradizione",
-    title: "Testo fondativo e memoria di una tradizione",
-    entries: ["dialoghi", "confucio"],
-    question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
-    methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
-  },
-  {
-    slug: "nagarjuna-madhyamaka",
-    title: "Autore, argomentazione e scuola",
-    entries: ["nagarjuna", "madhyamaka"],
-    question: "Come si passa dagli argomenti di un autore alla formazione di una tradizione filosofica articolata?",
-    methodNote: "La scuola Madhyamaka comprende commentatori e sviluppi regionali: non ogni tesi successiva può essere attribuita direttamente a Nāgārjuna."
-  },
-  {
-    slug: "dharma-e-virtu",
-    title: "Dharma e virtù: norme, condotta e contesto",
-    entries: ["dharma", "virtu"],
-    question: "Come si articolano dovere, condotta appropriata ed eccellenza morale nelle diverse tradizioni?",
-    methodNote: "Dharma è un termine polisemico nelle tradizioni indiane; virtù traduce famiglie concettuali greche e cinesi non equivalenti. Occorre sempre specificare testo e contesto."
-  },
-  {
-    slug: "aristotele-avicenna",
-    title: "Aristotele nella filosofia di Avicenna",
-    entries: ["aristotele", "avicenna"],
-    question: "Come viene trasformato un lessico filosofico quando è tradotto, commentato e inserito in un nuovo sistema?",
-    methodNote: "Qui il confronto include una storia documentabile di ricezione, ma Avicenna non è un semplice ripetitore di Aristotele: rielabora problemi e soluzioni."
-  },
-  {
-    slug: "stoicismo-logos",
-    title: "Logos, natura e ordine cosmico",
-    entries: ["stoicismo", "logos"],
-    question: "Quale funzione assume il logos quando diventa principio di intelligibilità e ordine del cosmo?",
-    methodNote: "Le formulazioni stoiche sono specifiche e vanno distinte dagli usi presocratici, platonici e aristotelici del termine."
-  },
-  {
-    slug: "eta-assiale-comparazione",
-    title: "L'età assiale come problema di comparazione",
-    entries: ["eta-assiale", "confucio", "nagarjuna"],
-    question: "Quali criteri rendono confrontabili trasformazioni intellettuali collocate in regioni e secoli differenti?",
-    methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
-  },
-
   {
     "slug": "anomia",
     "id": "CON-000122",
@@ -5084,8 +4993,7 @@ export const comparativePaths: ComparativePath[] = [
         ]
       },
       {
-        "heading": "Questioni per l'approfondimento",
-        "paragraphs": [
+        "heading": "Questioni per l'approfondimento",        "paragraphs": [
           "Il problema classico è spiegare come i doveri si applichino nei casi di conflitto e come possano essere giustificati senza produrre rigidità incompatibili con situazioni concrete."
         ]
       }
@@ -6084,8 +5992,7 @@ export const comparativePaths: ComparativePath[] = [
       {
         "heading": "Definizione e contesto",
         "paragraphs": [
-          "Nella filosofia greca, soprattutto in Aristotele, eudaimonia indica il fine ultimo della vita umana: vivere e agire bene nel corso di un’esistenza compiuta. Non coincide con uno stato emotivo passeggero, ma con una condizione complessiva di fioritura, legata all’esercizio delle capacità razionali e delle virtù."
-        ]
+          "Nella filosofia greca, soprattutto in Aristotele, eudaimonia indica il fine ultimo della vita umana: vivere e agire bene nel corso di un’esistenza compiuta. Non coincide con uno stato emotivo passeggero, ma con una condizione complessiva di fioritura, legata all’esercizio delle capacità razionali e delle virtù."        ]
       },
       {
         "heading": "Distinzioni e problemi interpretativi",
@@ -7084,8 +6991,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "filosofia-sperimentale",
-    "id": "CON-000172",
-    "kind": "concetto",
+    "id": "CON-000172",    "kind": "concetto",
     "title": "Filosofia sperimentale",
     "subtitle": "Approccio che utilizza metodi empirici, soprattutto indagini su intuizioni e giudizi, per studiare problemi filosofici.",
     "area": "Filosofia",
@@ -8084,8 +7990,7 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "related": [],
     "bibliography": [],
-    "keyTerms": [
-      {
+    "keyTerms": [      {
         "term": "Autopoiesi",
         "explanation": "Capacità di un sistema vivente di produrre e mantenere la propria organizzazione attraverso le proprie operazioni."
       }
@@ -9084,8 +8989,7 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "thoughtAnalysis": [
       "L’egoismo psicologico sostiene che gli esseri umani agiscano sempre per ottenere un vantaggio proprio, anche quando sembrano compiere gesti altruistici. La tesi riguarda la motivazione effettiva e va distinta dall’egoismo etico, che afferma invece che ciascuno dovrebbe perseguire il proprio interesse.",
-      "Una difficoltà classica è che la teoria può diventare infalsificabile se ogni comportamento viene reinterpretato come ricerca di soddisfazione personale. Il fatto che un’azione produca piacere all’agente non dimostra che il piacere fosse il suo fine. Le spiegazioni dell’altruismo richiedono quindi di distinguere conseguenze, motivazioni e intenzioni.",
-      "Il concetto è rilevante in etica, psicologia filosofica e teoria dell’azione. Il confronto tra egoismo psicologico e altruismo mette alla prova le spiegazioni della motivazione e i presupposti delle teorie morali."
+      "Una difficoltà classica è che la teoria può diventare infalsificabile se ogni comportamento viene reinterpretato come ricerca di soddisfazione personale. Il fatto che un’azione produca piacere all’agente non dimostra che il piacere fosse il suo fine. Le spiegazioni dell’altruismo richiedono quindi di distinguere conseguenze, motivazioni e intenzioni.",      "Il concetto è rilevante in etica, psicologia filosofica e teoria dell’azione. Il confronto tra egoismo psicologico e altruismo mette alla prova le spiegazioni della motivazione e i presupposti delle teorie morali."
     ],
     "tags": [
       "filosofia",
@@ -9196,6 +9100,92 @@ export const comparativePaths: ComparativePath[] = [
       }
     ],
     "editorialStatus": "edizione editoriale 1.0"
+  }
+]; 
+
+
+export interface ComparativePath {
+  slug: string;
+  title: string;
+  entries: string[];
+  question: string;
+  methodNote: string;
+}
+
+/**
+ * Percorsi comparativi trasversali. Le connessioni indicano problemi da
+ * mettere a confronto, non equivalenze concettuali né influenze automatiche.
+ */
+export const comparativePaths: ComparativePath[] = [
+  {
+    slug: "dialogo-e-sistema",
+    title: "Dialogo, trattato e costruzione del sapere",
+    entries: ["platone", "aristotele"],
+    question: "In che modo la forma letteraria condiziona ciò che possiamo ricostruire di una filosofia?",
+    methodNote: "Il dialogo platonico e i trattati aristotelici appartengono a generi e storie di trasmissione differenti: non sono due semplici stili espositivi intercambiabili."
+  },
+  {
+    slug: "ordine-e-spontaneita",
+    title: "Rito, formazione e spontaneità",
+    entries: ["confucio", "laozi"],
+    question: "L'ordine umano nasce soprattutto dall'educazione rituale o da una riduzione dell'intervento artificiale?",
+    methodNote: "Il confronto riguarda testi e orientamenti della Cina antica; non autorizza a ridurre confucianesimo e daoismo a due blocchi uniformi o sempre contrapposti."
+  },
+  {
+    slug: "dao-e-logos",
+    title: "Dao e logos: linguaggio e principio",
+    entries: ["dao", "logos"],
+    question: "Come vengono pensati il principio, l'ordine e i limiti del linguaggio in contesti culturali differenti?",
+    methodNote: "Dao e logos hanno storie semantiche non sovrapponibili. Le analogie sono strumenti euristici e non dimostrano contatti o derivazioni."
+  },
+  {
+    slug: "essere-e-vacuita",
+    title: "Essere, dipendenza e vacuità",
+    entries: ["essere", "sunyata"],
+    question: "Che cosa presupponiamo quando diciamo che qualcosa è, esiste o possiede una natura propria?",
+    methodNote: "Il lessico ontologico greco e l'analisi buddhista della vacuità nascono da problemi e tradizioni differenti; il confronto deve mantenere visibili le rispettive cornici."
+  },
+  {
+    slug: "testo-e-tradizione",
+    title: "Testo fondativo e memoria di una tradizione",
+    entries: ["dialoghi", "confucio"],
+    question: "Come si distingue l'insegnamento attribuito a un maestro dalla redazione e dalla canonizzazione dei testi?",
+    methodNote: "I Dialoghi sono una raccolta stratificata: la voce del maestro, il lavoro dei discepoli e la successiva interpretazione canonica vanno distinti."
+  },
+  {
+    slug: "nagarjuna-madhyamaka",
+    title: "Autore, argomentazione e scuola",
+    entries: ["nagarjuna", "madhyamaka"],
+    question: "Come si passa dagli argomenti di un autore alla formazione di una tradizione filosofica articolata?",
+    methodNote: "La scuola Madhyamaka comprende commentatori e sviluppi regionali: non ogni tesi successiva può essere attribuita direttamente a Nāgārjuna."
+  },
+  {
+    slug: "dharma-e-virtu",
+    title: "Dharma e virtù: norme, condotta e contesto",
+    entries: ["dharma", "virtu"],
+    question: "Come si articolano dovere, condotta appropriata ed eccellenza morale nelle diverse tradizioni?",
+    methodNote: "Dharma è un termine polisemico nelle tradizioni indiane; virtù traduce famiglie concettuali greche e cinesi non equivalenti. Occorre sempre specificare testo e contesto."
+  },
+  {
+    slug: "aristotele-avicenna",
+    title: "Aristotele nella filosofia di Avicenna",
+    entries: ["aristotele", "avicenna"],
+    question: "Come viene trasformato un lessico filosofico quando è tradotto, commentato e inserito in un nuovo sistema?",
+    methodNote: "Qui il confronto include una storia documentabile di ricezione, ma Avicenna non è un semplice ripetitore di Aristotele: rielabora problemi e soluzioni."
+  },
+  {
+    slug: "stoicismo-logos",
+    title: "Logos, natura e ordine cosmico",
+    entries: ["stoicismo", "logos"],
+    question: "Quale funzione assume il logos quando diventa principio di intelligibilità e ordine del cosmo?",
+    methodNote: "Le formulazioni stoiche sono specifiche e vanno distinte dagli usi presocratici, platonici e aristotelici del termine."
+  },
+  {
+    slug: "eta-assiale-comparazione",
+    title: "L'età assiale come problema di comparazione",
+    entries: ["eta-assiale", "confucio", "nagarjuna"],
+    question: "Quali criteri rendono confrontabili trasformazioni intellettuali collocate in regioni e secoli differenti?",
+    methodNote: "La categoria assiale è una proposta storiografica controversa, non una periodizzazione condivisa né una prova di simultaneità."
   },
 
 
