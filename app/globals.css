@@ -352,7 +352,9 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 
 /* Accessible live search suggestions */
 .search-autocomplete{position:relative;width:100%}
-.search-autocomplete>input{width:100%}
+.search-autocomplete>input{width:100%;padding-left:42px}
+.search-icon{position:absolute;z-index:1;left:14px;top:50%;display:grid;place-items:center;transform:translateY(-50%);color:#77766d;pointer-events:none}
+.search-autocomplete:focus-within .search-icon{color:var(--green)}
 .search-suggestions{position:absolute;z-index:30;top:calc(100% + 4px);left:0;right:0;max-height: min(19rem, 55vh);overflow-y:auto;margin:0;padding:6px;list-style:none;background:#fffdf8;border:1px solid #b9b0a1;box-shadow:0 12px 28px rgba(32,28,22,.14);border-radius:4px}
 .search-suggestions li{margin:0;padding:0}
 .search-suggestions button{display:block;width:100%;padding:9px 11px;border:0;border-radius:3px;background:transparent;color:#27251f;text-align:left;font:inherit;cursor:pointer}
