@@ -9197,54 +9197,7 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
-  {
-    "slug": "heteronomia",
-    "id": "CON-000216",
-    "kind": "concetto",
-    "title": "Heteronomia",
-    "subtitle": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma.",
-    "area": "Filosofia",
-    "period": "Dall'antichità alla contemporaneità",
-    "summary": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma.",
-    "sections": [
-      {
-        "heading": "Definizione e contesto",
-        "paragraphs": [
-          "Il concetto di eteronomia è centrale nell’etica di Kant. Una volontà è eteronoma quando il principio che la determina deriva da un oggetto del desiderio, da un interesse particolare o da un’autorità esterna. L’autonomia, al contrario, consiste nel riconoscere la legge morale attraverso la ragione pratica."
-        ]
-      },
-      {
-        "heading": "Distinzioni e problemi interpretativi",
-        "paragraphs": [
-          "L’eteronomia non coincide con ogni influenza sociale o con l’apprendimento di regole: riguarda il fondamento della massima dell’azione. Il problema è stabilire quando un soggetto agisca per rispetto della legge e quando sia mosso da ricompense, inclinazioni o pressioni. La distinzione kantiana è stata discussa per il suo rigore e per il rapporto tra ragione, affetti e relazioni."
-        ]
-      },
-      {
-        "heading": "Questioni per l'approfondimento",
-        "paragraphs": [
-          "Il concetto è importante nell’etica kantiana e nei dibattiti sull’autodeterminazione. Chiarisce la differenza tra obbedienza esterna e autolegislazione morale, nonché il rapporto tra libertà e motivazione."
-        ]
-      }
-    ],
-    "thoughtAnalysis": [
-      "Il concetto di eteronomia è centrale nell’etica di Kant. Una volontà è eteronoma quando il principio che la determina deriva da un oggetto del desiderio, da un interesse particolare o da un’autorità esterna. L’autonomia, al contrario, consiste nel riconoscere la legge morale attraverso la ragione pratica.",
-      "L’eteronomia non coincide con ogni influenza sociale o con l’apprendimento di regole: riguarda il fondamento della massima dell’azione. Il problema è stabilire quando un soggetto agisca per rispetto della legge e quando sia mosso da ricompense, inclinazioni o pressioni. La distinzione kantiana è stata discussa per il suo rigore e per il rapporto tra ragione, affetti e relazioni.",
-      "Il concetto è importante nell’etica kantiana e nei dibattiti sull’autodeterminazione. Chiarisce la differenza tra obbedienza esterna e autolegislazione morale, nonché il rapporto tra libertà e motivazione."
-    ],
-    "tags": [
-      "filosofia",
-      "concetto"
-    ],
-    "related": [],
-    "bibliography": [],
-    "keyTerms": [
-      {
-        "term": "Heteronomia",
-        "explanation": "Condizione in cui la volontà riceve la propria legge da impulsi, interessi o autorità esterni anziché dalla ragione autonoma."
-      }
-    ],
-    "editorialStatus": "edizione editoriale 1.0"
-  },
+
 
 ]; 
 
