@@ -11164,6 +11164,791 @@ export const entries: EncyclopediaEntry[] = [
       }
     ],
     "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "inferenzialismo",
+    "id": "CON-000244",
+    "kind": "concetto",
+    "title": "Inferenzialismo",
+    "subtitle": "Teoria del significato e del contenuto concettuale che attribuisce un ruolo centrale alle relazioni inferenziali tra enunciati.",
+    "area": "Filosofia del linguaggio ed epistemologia",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "L'inferenzialismo interpreta il contenuto di un'espressione attraverso le inferenze che il suo uso autorizza o esclude. Comprendere un concetto significa saper riconoscere le conseguenze che ne derivano e le ragioni che possono sostenerlo.",
+    "sections": [
+      {
+        "heading": "Significato e ruolo inferenziale",
+        "paragraphs": [
+          "Il significato non è spiegato soltanto indicando un oggetto o associando una parola a un'immagine mentale. Conta anche il posto che un'espressione occupa nello spazio delle ragioni: quali affermazioni la giustificano e quali conseguenze ne seguono.",
+          "Le competenze concettuali si manifestano nella capacità di usare correttamente un'espressione all'interno di pratiche di argomentazione e giustificazione."
+        ]
+      },
+      {
+        "heading": "Impegni e autorizzazioni",
+        "paragraphs": [
+          "Nella formulazione di Robert Brandom, asserire qualcosa comporta impegni discorsivi e presuppone autorizzazioni che possono essere richieste e contestate. Il significato è legato a pratiche pubbliche di attribuzione e riconoscimento di tali impegni.",
+          "Questa prospettiva connette semantica e pragmatica: comprendere un enunciato significa anche saperne valutare il ruolo nelle pratiche linguistiche."
+        ]
+      },
+      {
+        "heading": "Questioni aperte",
+        "paragraphs": [
+          "Le critiche chiedono se le relazioni inferenziali possano spiegare da sole il riferimento al mondo e il contenuto percettivo. Occorre inoltre evitare che il significato venga ridotto alle convinzioni contingenti di una comunità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'inferenzialismo rende esplicita la dimensione normativa del linguaggio: usare un concetto significa assumere responsabilità rispetto a ciò che se ne può inferire.",
+      "La teoria offre una spiegazione potente della comprensione discorsiva, ma deve chiarire come le pratiche linguistiche restino sensibili a realtà e vincoli che non dipendono soltanto dal consenso."
+    ],
+    "tags": [
+      "significato",
+      "inferenza",
+      "pragmatica",
+      "normatività",
+      "Brandom"
+    ],
+    "related": [
+      {
+        "label": "Pragmatismo",
+        "slug": "pragmatismo",
+        "relation": "centralità delle pratiche e delle conseguenze nell'uso dei concetti"
+      },
+      {
+        "label": "Olismo",
+        "slug": "olismo",
+        "relation": "dipendenza del contenuto dalle relazioni con altri contenuti"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Robert B. Brandom, Making It Explicit, Harvard University Press, 1994.",
+        "note": "Sviluppo sistematico dell'inferenzialismo semantico e della pragmatica normativa.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Robert B. Brandom, Articulating Reasons, Harvard University Press, 2000.",
+        "note": "Introduzione ai temi centrali del programma inferenzialista.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Impegno discorsivo",
+        "explanation": "Responsabilità assunta da chi sostiene un'affermazione rispetto alle sue conseguenze."
+      },
+      {
+        "term": "Autorizzazione",
+        "explanation": "Titolo o ragione che legittima l'uso di un'affermazione in una pratica discorsiva."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "contestualismo-semantico",
+    "id": "CON-000245",
+    "kind": "concetto",
+    "title": "Contestualismo semantico",
+    "subtitle": "Tesi secondo cui il contesto contribuisce a determinare il contenuto proposizionale espresso da molti enunciati.",
+    "area": "Filosofia del linguaggio ed epistemologia",
+    "period": "Dibattito contemporaneo",
+    "summary": "Il contestualismo sostiene che il significato comunicato da un enunciato dipende, in misura variabile, da elementi del contesto d'uso. La stessa frase può quindi esprimere contenuti differenti in situazioni diverse.",
+    "sections": [
+      {
+        "heading": "Contesto e contenuto",
+        "paragraphs": [
+          "Le espressioni linguistiche non determinano sempre da sole una proposizione completa. Il contesto può precisare riferimenti, standard, domini di quantificazione e parametri lasciati aperti dalla forma linguistica.",
+          "Il fenomeno è evidente nei dimostrativi e negli indicali, ma alcune teorie estendono il ruolo del contesto anche a espressioni apparentemente più determinate, come 'sapere', 'alto' o 'vicino'."
+        ]
+      },
+      {
+        "heading": "Contestualismo epistemologico",
+        "paragraphs": [
+          "In epistemologia, il contestualismo afferma che le condizioni per applicare correttamente il verbo 'sapere' possono variare con gli standard conversazionali. In un contesto ordinario può bastare una soglia di evidenza, mentre in un contesto scettico possono essere richiesti controlli più stringenti.",
+          "La variazione riguarda gli standard di attribuzione della conoscenza, non necessariamente un cambiamento nelle prove possedute dal soggetto."
+        ]
+      },
+      {
+        "heading": "Obiezioni",
+        "paragraphs": [
+          "Una difficoltà consiste nello spiegare quali elementi contestuali siano semanticamente rilevanti e quali appartengano soltanto alla pragmatica. Un'altra riguarda la possibilità che il contestualismo renda instabili le condizioni di verità degli enunciati."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il contestualismo mette in guardia contro l'idea che le frasi abbiano sempre un contenuto completo indipendente dalle circostanze in cui vengono pronunciate.",
+      "La teoria deve tuttavia distinguere la flessibilità effettiva del linguaggio da una dipendenza indiscriminata del significato da qualsiasi caratteristica della situazione."
+    ],
+    "tags": [
+      "contesto",
+      "semantica",
+      "conoscenza",
+      "pragmatica",
+      "linguaggio"
+    ],
+    "related": [
+      {
+        "label": "Inferenzialismo",
+        "slug": "inferenzialismo",
+        "relation": "ruolo delle pratiche discorsive nella determinazione del contenuto"
+      },
+      {
+        "label": "Conoscenza situata",
+        "slug": "conoscenza-situata",
+        "relation": "attenzione alle condizioni concrete in cui si formula e valuta un'affermazione"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Keith DeRose, The Case for Contextualism, Oxford University Press, 2009.",
+        "note": "Difesa influente del contestualismo epistemologico.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Stewart Cohen, “Contextualism, Skepticism, and the Structure of Reasons”, Philosophical Perspectives, 1999.",
+        "note": "Contributo centrale al dibattito contestualista sulla conoscenza.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Standard epistemico",
+        "explanation": "Soglia di evidenza richiesta per attribuire conoscenza in un determinato contesto."
+      },
+      {
+        "term": "Sensibilità contestuale",
+        "explanation": "Dipendenza dell'interpretazione o delle condizioni di verità da aspetti della situazione comunicativa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "minimalismo-semantico",
+    "id": "CON-000246",
+    "kind": "concetto",
+    "title": "Minimalismo semantico",
+    "subtitle": "Approccio che attribuisce alla struttura linguistica convenzionale un contenuto relativamente stabile, distinguendolo dagli arricchimenti pragmatici.",
+    "area": "Filosofia del linguaggio",
+    "period": "Dibattito contemporaneo",
+    "summary": "Il minimalismo semantico difende l'idea che le espressioni linguistiche, una volta risolti i normali fenomeni di saturazione, determinino un contenuto proposizionale minimo. Gran parte della ricchezza comunicativa sarebbe prodotta dalla pragmatica e non dalla semantica.",
+    "sections": [
+      {
+        "heading": "Contenuto minimo",
+        "paragraphs": [
+          "La teoria distingue ciò che una frase codifica linguisticamente da ciò che un parlante comunica in una particolare occasione. Il contenuto semanticamente determinato dovrebbe essere relativamente stabile e condivisibile tra contesti differenti.",
+          "Indicali e dimostrativi richiedono comunque un riferimento contestuale; il minimalismo non nega ogni ruolo del contesto, ma limita i casi in cui esso modifica il contenuto proposizionale."
+        ]
+      },
+      {
+        "heading": "Semantica e pragmatica",
+        "paragraphs": [
+          "Un parlante può comunicare più di quanto la frase dica letteralmente, attraverso implicature, presupposizioni e arricchimenti pragmatici. La distinzione permette di spiegare come una stessa frase possa suggerire messaggi diversi senza cambiare necessariamente significato convenzionale.",
+          "Il dibattito riguarda quali processi siano necessari per ottenere una proposizione completa e quali siano invece inferenze pragmatiche facoltative."
+        ]
+      },
+      {
+        "heading": "Critiche",
+        "paragraphs": [
+          "I contestualisti sostengono che il contenuto minimo possa essere troppo astratto e lontano da ciò che i parlanti comprendono realmente. I minimalisti replicano che la comunicazione richiede una base semantica condivisa, distinguibile dalle intenzioni particolari del parlante."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il minimalismo cerca di preservare una distinzione teorica tra significato convenzionale e comunicazione situata. Questa separazione rende possibile studiare con precisione ciò che il linguaggio codifica.",
+      "La difficoltà consiste nel determinare quanto contenuto resti davvero indipendente dal contesto senza costruire proposizioni artificiali, prive di funzione nelle pratiche comunicative."
+    ],
+    "tags": [
+      "semantica",
+      "pragmatica",
+      "contenuto proposizionale",
+      "linguaggio"
+    ],
+    "related": [
+      {
+        "label": "Contestualismo semantico",
+        "slug": "contestualismo-semantico",
+        "relation": "posizione alternativa sul contributo del contesto al contenuto"
+      },
+      {
+        "label": "Implicatura conversazionale",
+        "slug": "implicatura-conversazionale",
+        "relation": "distinzione tra ciò che viene detto e ciò che viene comunicato indirettamente"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Herman Cappelen e Ernie Lepore, Insensitive Semantics, Blackwell, 2005.",
+        "note": "Difesa di una semantica relativamente insensibile al contesto.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Emma Borg, Minimal Semantics, Oxford University Press, 2004.",
+        "note": "Elaborazione sistematica di una teoria semantica minimalista.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Contenuto minimo",
+        "explanation": "Proposizione determinata dalla struttura linguistica e dai soli parametri contestuali indispensabili."
+      },
+      {
+        "term": "Arricchimento pragmatico",
+        "explanation": "Processo inferenziale che amplia o precisa ciò che viene comunicato oltre il contenuto codificato."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "vaghezza",
+    "id": "CON-000247",
+    "kind": "concetto",
+    "title": "Vaghezza",
+    "subtitle": "Indeterminatezza dei confini di applicazione di un predicato, per cui esistono casi limite difficili da classificare.",
+    "area": "Logica e filosofia del linguaggio",
+    "period": "Dibattito antico e contemporaneo",
+    "summary": "La vaghezza riguarda espressioni come 'calvo', 'alto' o 'montagna', per le quali non esiste una soglia d'applicazione intuitivamente netta. Il fenomeno genera problemi logici, semantici ed epistemologici.",
+    "sections": [
+      {
+        "heading": "Casi limite e confini",
+        "paragraphs": [
+          "Un predicato vago si applica chiaramente ad alcuni casi e chiaramente non si applica ad altri, ma presenta una zona intermedia di casi limite. Non è sempre possibile indicare un punto preciso in cui l'applicazione diventa corretta.",
+          "La vaghezza va distinta dalla semplice ignoranza: anche conoscendo tutti i fatti pertinenti, può non esserci una soglia determinata che separi i casi positivi da quelli negativi."
+        ]
+      },
+      {
+        "heading": "Il paradosso del sorite",
+        "paragraphs": [
+          "Il sorite parte da una premessa plausibile: togliere un solo granello non trasforma un mucchio in un non-mucchio. Ripetendo il passaggio si ottiene però la conclusione paradossale che nessun numero di granelli costituisca un mucchio.",
+          "Il ragionamento mette in luce la tensione tra tolleranza ai piccoli cambiamenti e principio di transitività o iterazione."
+        ]
+      },
+      {
+        "heading": "Teorie della vaghezza",
+        "paragraphs": [
+          "Le risposte includono teorie epistemiche, secondo cui esistono confini precisi ma inconoscibili; teorie supervalutazioniste, che ammettono precisificazioni alternative; e approcci a logica fuzzy, che attribuiscono gradi di verità.",
+          "Nessuna soluzione è priva di difficoltà: occorre spiegare sia l'intuizione dei casi limite sia il comportamento logico degli enunciati vaghi."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La vaghezza mostra che il linguaggio ordinario non è sempre organizzato da classificazioni nette. Pretendere confini precisi in ogni caso può imporre alle parole una determinazione che non possiedono.",
+      "Il problema ha conseguenze pratiche: diritto, medicina e politiche pubbliche devono spesso fissare soglie operative senza fingere che esse siano già contenute in modo univoco nel linguaggio."
+    ],
+    "tags": [
+      "logica",
+      "semantica",
+      "sorite",
+      "verità",
+      "linguaggio"
+    ],
+    "related": [
+      {
+        "label": "Paradosso del sorite",
+        "slug": "paradosso-del-sorite",
+        "relation": "argomento paradossale generato dalla tolleranza ai piccoli cambiamenti"
+      },
+      {
+        "label": "Contestualismo semantico",
+        "slug": "contestualismo-semantico",
+        "relation": "ruolo degli standard contestuali nell'applicazione dei predicati"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Rosanna Keefe, Theories of Vagueness, Cambridge University Press, 2000.",
+        "note": "Panoramica delle principali teorie filosofiche della vaghezza.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Timothy Williamson, Vagueness, Routledge, 1994.",
+        "note": "Difesa influente dell'approccio epistemico.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Caso limite",
+        "explanation": "Caso in cui l'applicazione o la negazione di un predicato non appare determinata."
+      },
+      {
+        "term": "Precisificazione",
+        "explanation": "Attribuzione di un confine più netto a un'espressione vaga, tra più alternative ammissibili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "paradosso-del-sorite",
+    "id": "CON-000248",
+    "kind": "concetto",
+    "title": "Paradosso del sorite",
+    "subtitle": "Argomento che mostra come una sequenza di passaggi apparentemente innocui possa condurre da un caso chiaramente positivo a una conclusione assurda.",
+    "area": "Logica e filosofia del linguaggio",
+    "period": "Antichità greca e dibattito contemporaneo",
+    "summary": "Il paradosso del sorite, tradizionalmente associato al problema del mucchio, nasce dall'applicazione ripetuta di un principio di tolleranza ai piccoli cambiamenti. È uno dei problemi centrali nello studio della vaghezza.",
+    "sections": [
+      {
+        "heading": "Struttura dell'argomento",
+        "paragraphs": [
+          "Si supponga che un granello non sia un mucchio e che l'aggiunta di un solo granello non trasformi un non-mucchio in un mucchio. Applicando ripetutamente questa premessa si conclude che neppure un numero enorme di granelli formi un mucchio.",
+          "La forma del ragionamento può essere trasferita a molti predicati: calvo, ricco, giovane, alto o montagne. In ogni caso una successione di variazioni minime sembra incapace di produrre da sola un cambiamento categoriale."
+        ]
+      },
+      {
+        "heading": "Premesse e tensioni logiche",
+        "paragraphs": [
+          "Il paradosso mette in conflitto l'intuizione che piccoli cambiamenti non alterino immediatamente la classificazione con la necessità di riconoscere una differenza tra casi estremi.",
+          "La difficoltà può essere formulata come problema di vaghezza, di validità delle premesse o di applicazione di principi logici come il modus ponens e l'induzione iterata."
+        ]
+      },
+      {
+        "heading": "Principali strategie",
+        "paragraphs": [
+          "Le soluzioni epistemiche ammettono confini precisi ma non conoscibili; le teorie supervalutazioniste distinguono tra precisificazioni; le logiche fuzzy rifiutano che ogni caso debba avere un valore di verità netto.",
+          "Altre risposte limitano il principio di tolleranza o negano che esso possa essere iterato indefinitamente. La scelta dipende dalla concezione di significato e verità adottata."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il sorite rivela che una regola plausibile localmente può diventare problematica quando viene applicata senza limiti. Il paradosso non è soltanto un gioco linguistico: interroga il rapporto tra continuità del mondo e categorie discrete.",
+      "La sua rilevanza emerge ogni volta che decisioni istituzionali richiedono soglie: stabilire una soglia può essere necessario, ma non dimostra che la distinzione fosse metafisicamente netta."
+    ],
+    "tags": [
+      "sorite",
+      "vaghezza",
+      "paradosso",
+      "logica",
+      "predicati"
+    ],
+    "related": [
+      {
+        "label": "Vaghezza",
+        "slug": "vaghezza",
+        "relation": "fenomeno semantico che genera il paradosso"
+      },
+      {
+        "label": "Falsificazionismo",
+        "slug": "falsificazionismo",
+        "relation": "confronto metodologico sul ruolo dei criteri di confutazione e delle soglie"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Stephen Read, Thinking about Logic, Oxford University Press, 1995.",
+        "note": "Discussione introduttiva dei paradossi logici, inclusi i soriti.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Timothy Williamson, Vagueness, Routledge, 1994.",
+        "note": "Analisi sistematica del problema e difesa della teoria epistemica.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Principio di tolleranza",
+        "explanation": "Tesi secondo cui una variazione minima non cambia l'applicazione di un predicato."
+      },
+      {
+        "term": "Sorite",
+        "explanation": "Argomento a catena che sfrutta una premessa di tolleranza per derivare una conclusione paradossale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "implicatura-conversazionale",
+    "id": "CON-000249",
+    "kind": "concetto",
+    "title": "Implicatura conversazionale",
+    "subtitle": "Contenuto comunicato indirettamente che un interlocutore ricostruisce facendo riferimento al contesto e alle aspettative della conversazione.",
+    "area": "Filosofia del linguaggio e pragmatica",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "L'implicatura conversazionale, teorizzata da H. P. Grice, spiega come un parlante possa comunicare più di quanto dica letteralmente. L'ascoltatore ricostruisce il significato implicito assumendo che il contributo sia cooperativo e pertinente.",
+    "sections": [
+      {
+        "heading": "Principio di cooperazione",
+        "paragraphs": [
+          "Grice descrive la conversazione come un'attività coordinata in cui i partecipanti si aspettano contributi adeguati allo scopo dello scambio. Le massime di quantità, qualità, relazione e modo rendono possibile interpretare anche enunciati indiretti.",
+          "Quando un parlante sembra violare una massima in modo riconoscibile, l'ascoltatore può cercare un significato implicito che renda razionale il contributo."
+        ]
+      },
+      {
+        "heading": "Caratteristiche delle implicature",
+        "paragraphs": [
+          "Le implicature conversazionali sono in genere cancellabili senza contraddizione, dipendono dal contesto e possono essere ricostruite attraverso un ragionamento condiviso. Non fanno parte necessariamente del significato convenzionale delle parole.",
+          "La frase 'alcuni studenti sono arrivati' può suggerire che non siano arrivati tutti, pur non implicando semanticamente questa conclusione: il parlante avrebbe potuto dire 'tutti' se fosse stato il caso."
+        ]
+      },
+      {
+        "heading": "Distinzioni e sviluppi",
+        "paragraphs": [
+          "Le implicature conversazionali vanno distinte dalle presupposizioni e dalle implicature convenzionali. La pragmatica contemporanea discute quanto il significato implicito dipenda da intenzioni, norme sociali e meccanismi cognitivi."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La teoria di Grice mostra che la comunicazione non coincide con la decodifica di significati letterali. Comprendere un parlante significa attribuirgli intenzioni e ricostruire perché abbia scelto proprio quell'espressione.",
+      "Il modello cooperativo è influente, ma va applicato con cautela: ironia, conflitto, ambiguità e differenze culturali possono modificare le aspettative che guidano l'interpretazione."
+    ],
+    "tags": [
+      "pragmatica",
+      "Grice",
+      "comunicazione",
+      "significato implicito",
+      "linguaggio"
+    ],
+    "related": [
+      {
+        "label": "Minimalismo semantico",
+        "slug": "minimalismo-semantico",
+        "relation": "distinzione tra contenuto letterale e comunicazione ulteriore"
+      },
+      {
+        "label": "Contestualismo semantico",
+        "slug": "contestualismo-semantico",
+        "relation": "ruolo del contesto nella comprensione degli enunciati"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "H. P. Grice, Studies in the Way of Words, Harvard University Press, 1989.",
+        "note": "Raccolta dei saggi fondamentali sulla comunicazione e sulle implicature.",
+        "type": "Testo primario / traduzione"
+      },
+      {
+        "label": "Stephen C. Levinson, Pragmatics, Cambridge University Press, 1983.",
+        "note": "Trattazione classica dei fenomeni pragmatici.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Massima di relazione",
+        "explanation": "Aspettativa che il contributo conversazionale sia pertinente allo scambio."
+      },
+      {
+        "term": "Cancellabilità",
+        "explanation": "Possibilità di negare o ritirare un'implicatura senza contraddire il contenuto letterale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "atti-linguistici",
+    "id": "CON-000250",
+    "kind": "concetto",
+    "title": "Atti linguistici",
+    "subtitle": "Azioni compiute attraverso il linguaggio, come promettere, ordinare, nominare, dichiarare o chiedere scusa.",
+    "area": "Filosofia del linguaggio",
+    "period": "Dalla metà del XX secolo",
+    "summary": "La teoria degli atti linguistici interpreta il parlare non soltanto come descrizione del mondo, ma anche come forma di azione regolata da convenzioni e condizioni di riuscita. Dire qualcosa può modificare relazioni, obblighi e situazioni istituzionali.",
+    "sections": [
+      {
+        "heading": "Dagli enunciati alle azioni",
+        "paragraphs": [
+          "J. L. Austin distingue gli enunciati che descrivono fatti da quelli con cui si compie un'azione: promettere, battezzare una nave o pronunciare una sentenza sono esempi di atti performativi.",
+          "La riuscita di un atto dipende da circostanze appropriate, procedure riconosciute e autorità dei partecipanti. Una promessa non è efficace nello stesso modo in ogni situazione."
+        ]
+      },
+      {
+        "heading": "Dimensioni dell'atto",
+        "paragraphs": [
+          "Austin distingue l'atto locutorio, cioè il produrre un'espressione dotata di senso; l'atto illocutorio, cioè l'azione compiuta nel dire qualcosa; e l'atto perlocutorio, cioè gli effetti che il dire produce sugli interlocutori.",
+          "Searle sviluppa una classificazione degli atti illocutori e analizza le regole costitutive che rendono possibili pratiche come promettere e dichiarare."
+        ]
+      },
+      {
+        "heading": "Condizioni di felicità e contesto",
+        "paragraphs": [
+          "Un atto linguistico può fallire se manca una procedura appropriata, se chi parla non ha l'autorità richiesta o se le circostanze non sono adeguate. Le parole acquistano così una dimensione istituzionale e normativa.",
+          "La teoria è stata estesa allo studio del diritto, della politica, delle identità sociali e delle pratiche quotidiane."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Gli atti linguistici mostrano che il linguaggio non si limita a rappresentare una realtà già costituita: in condizioni determinate contribuisce a creare impegni e trasformazioni sociali.",
+      "La forza di un enunciato non dipende soltanto dalla sua forma grammaticale. Contano le convenzioni, la posizione dei partecipanti e il riconoscimento pubblico dell'azione compiuta."
+    ],
+    "tags": [
+      "Austin",
+      "Searle",
+      "pragmatica",
+      "performatività",
+      "linguaggio"
+    ],
+    "related": [
+      {
+        "label": "Implicatura conversazionale",
+        "slug": "implicatura-conversazionale",
+        "relation": "dimensione pragmatica della comunicazione"
+      },
+      {
+        "label": "Inferenzialismo",
+        "slug": "inferenzialismo",
+        "relation": "norme e impegni associati all'uso delle espressioni"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "J. L. Austin, How to Do Things with Words, Oxford University Press, 1962.",
+        "note": "Opera fondativa della teoria degli atti linguistici.",
+        "type": "Testo primario / traduzione"
+      },
+      {
+        "label": "John R. Searle, Speech Acts, Cambridge University Press, 1969.",
+        "note": "Sviluppo sistematico della teoria degli atti illocutori.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Atto illocutorio",
+        "explanation": "Azione compiuta nel pronunciare un enunciato, come promettere o ordinare."
+      },
+      {
+        "term": "Condizioni di felicità",
+        "explanation": "Condizioni convenzionali e contestuali necessarie perché un atto linguistico riesca."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "riferimento-diretto",
+    "id": "CON-000251",
+    "kind": "concetto",
+    "title": "Riferimento diretto",
+    "subtitle": "Teoria secondo cui alcune espressioni linguistiche contribuiscono alla proposizione comunicata indicando direttamente i loro referenti.",
+    "area": "Filosofia del linguaggio e metafisica",
+    "period": "Dibattito contemporaneo",
+    "summary": "Le teorie del riferimento diretto sostengono che nomi propri e, in alcune versioni, termini di genere naturale contribuiscano alle condizioni di verità degli enunciati attraverso i loro referenti, senza essere riducibili a descrizioni associate.",
+    "sections": [
+      {
+        "heading": "Nomi propri e descrizioni",
+        "paragraphs": [
+          "Una teoria descrittivista spiega il significato di un nome attraverso un insieme di descrizioni che il parlante associa al suo portatore. Le teorie del riferimento diretto contestano che tali descrizioni determinino sempre il referente.",
+          "Un nome può continuare a riferirsi alla stessa persona anche quando alcune credenze descrittive del parlante sono false o incomplete. Il riferimento dipende anche da pratiche linguistiche e catene di trasmissione del nome."
+        ]
+      },
+      {
+        "heading": "Designazione e necessità",
+        "paragraphs": [
+          "Saul Kripke ha sostenuto che i nomi propri funzionano come designatori rigidi: designano lo stesso individuo in tutti i mondi possibili in cui quell'individuo esiste.",
+          "La tesi ha conseguenze per la distinzione tra verità necessarie e conoscenze a posteriori, nonché per la comprensione dell'identità e dei termini di genere naturale."
+        ]
+      },
+      {
+        "heading": "Questioni aperte",
+        "paragraphs": [
+          "Le teorie del riferimento diretto devono spiegare come i parlanti possano usare correttamente un nome con conoscenze limitate e come si stabilisca la continuità del riferimento nel tempo.",
+          "Il dibattito riguarda inoltre il ruolo del contesto, delle intenzioni comunicative e delle descrizioni nella fissazione iniziale del riferimento."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il riferimento diretto separa il contributo semantico di un nome dalle credenze che un parlante possiede sul suo portatore. Questa distinzione permette di spiegare errori descrittivi senza concludere automaticamente che il riferimento venga meno.",
+      "La teoria mostra come le pratiche linguistiche collettive possano mantenere stabile il riferimento anche quando la conoscenza individuale è parziale."
+    ],
+    "tags": [
+      "riferimento",
+      "nomi propri",
+      "Kripke",
+      "semantica",
+      "metafisica"
+    ],
+    "related": [
+      {
+        "label": "Designatore rigido",
+        "slug": "designatore-rigido",
+        "relation": "nozione centrale nella teoria kripkeana dei nomi"
+      },
+      {
+        "label": "Contestualismo semantico",
+        "slug": "contestualismo-semantico",
+        "relation": "ruolo del contesto nell'interpretazione linguistica"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Saul A. Kripke, Naming and Necessity, Harvard University Press, 1980.",
+        "note": "Opera fondamentale sul riferimento diretto e sui designatori rigidi.",
+        "type": "Testo primario / traduzione"
+      },
+      {
+        "label": "John R. Searle, “Proper Names”, Mind, 1958.",
+        "note": "Classica formulazione di una prospettiva descrittivista alternativa.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Catena causale-storica",
+        "explanation": "Trasmissione sociale di un nome che collega gli usi successivi a un atto iniziale di denominazione."
+      },
+      {
+        "term": "Referente",
+        "explanation": "Entità a cui un'espressione linguistica si riferisce."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "designatore-rigido",
+    "id": "CON-000252",
+    "kind": "concetto",
+    "title": "Designatore rigido",
+    "subtitle": "Espressione che designa il medesimo oggetto in tutti i mondi possibili in cui quell'oggetto esiste.",
+    "area": "Metafisica e filosofia del linguaggio",
+    "period": "Dibattito contemporaneo",
+    "summary": "La nozione di designatore rigido, sviluppata da Saul Kripke, chiarisce come nomi propri e alcuni termini possano mantenere il riferimento attraverso scenari controfattuali. Essa è centrale nella critica al descrittivismo e nella teoria della necessità a posteriori.",
+    "sections": [
+      {
+        "heading": "Definizione",
+        "paragraphs": [
+          "Un designatore è rigido se, quando designa un oggetto nel mondo attuale, designa quello stesso oggetto in ogni mondo possibile in cui l'oggetto esiste. Un designatore non rigido può invece indicare oggetti differenti a seconda del mondo considerato.",
+          "I nomi propri sono il caso paradigmatico di designatori rigidi; descrizioni definite come 'il presidente in carica' sono normalmente non rigide, perché il loro referente può variare da un mondo all'altro."
+        ]
+      },
+      {
+        "heading": "Necessità a posteriori",
+        "paragraphs": [
+          "Se due designatori rigidi si riferiscono allo stesso oggetto, l'identità tra i loro referenti, se vera, è necessaria. Tuttavia può essere conosciuta soltanto attraverso l'esperienza: la necessità metafisica non coincide con la conoscibilità a priori.",
+          "L'esempio classico riguarda identità tra termini teorici e termini ordinari, come 'acqua' e 'H2O', che possono essere scoperte empiricamente e tuttavia valere necessariamente secondo la teoria kripkeana."
+        ]
+      },
+      {
+        "heading": "Distinzioni modali",
+        "paragraphs": [
+          "La rigidità riguarda il comportamento del riferimento nei mondi possibili e non va confusa con la stabilità psicologica di una descrizione o con la certezza del parlante.",
+          "La nozione è stata discussa anche per termini di genere naturale, identità personale e nomi di entità astratte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il designatore rigido permette di distinguere ciò che un oggetto è da ciò che sappiamo o diciamo di esso. Le proprietà descrittive possono cambiare senza che cambi il referente del nome.",
+      "La teoria ha trasformato il dibattito modale mostrando che alcune verità necessarie non sono evidenti per sola analisi concettuale, ma richiedono indagine empirica."
+    ],
+    "tags": [
+      "Kripke",
+      "modalità",
+      "riferimento",
+      "necessità",
+      "mondi possibili"
+    ],
+    "related": [
+      {
+        "label": "Riferimento diretto",
+        "slug": "riferimento-diretto",
+        "relation": "teoria semantica in cui si inserisce la rigidità dei nomi"
+      },
+      {
+        "label": "Vaghezza",
+        "slug": "vaghezza",
+        "relation": "contrasto tra stabilità referenziale e confini semantici indeterminati"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Saul A. Kripke, Naming and Necessity, Harvard University Press, 1980.",
+        "note": "Introduzione classica alla nozione di designatore rigido.",
+        "type": "Testo primario / traduzione"
+      },
+      {
+        "label": "Nathan Salmon, Reference and Essence, Princeton University Press, 1981.",
+        "note": "Sviluppo della teoria del riferimento e delle identità necessarie.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Rigidità",
+        "explanation": "Proprietà di un designatore che mantiene lo stesso referente nei mondi possibili pertinenti."
+      },
+      {
+        "term": "Necessità a posteriori",
+        "explanation": "Verità necessaria la cui conoscenza dipende dall'esperienza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "supererogazione",
+    "id": "CON-000253",
+    "kind": "concetto",
+    "title": "Supererogazione",
+    "subtitle": "Categoria dell'etica che riguarda azioni moralmente lodevoli ma non strettamente obbligatorie.",
+    "area": "Etica normativa",
+    "period": "Dalla filosofia antica al dibattito contemporaneo",
+    "summary": "Un'azione supererogatoria va oltre ciò che il dovere morale richiede: è ammirevole e spesso comporta un sacrificio, ma la sua omissione non costituisce necessariamente una colpa. La categoria mette alla prova i confini tra obbligo, virtù e generosità.",
+    "sections": [
+      {
+        "heading": "Oltre il dovere",
+        "paragraphs": [
+          "Sono spesso considerati supererogatori il sacrificio personale straordinario, l'aiuto particolarmente oneroso a uno sconosciuto o il rischio assunto per salvare un'altra persona quando non esiste un obbligo specifico.",
+          "La distinzione non significa che tali azioni siano moralmente irrilevanti: esse possono rappresentare esempi eminenti di bontà, coraggio o generosità pur non essendo esigibili da tutti."
+        ]
+      },
+      {
+        "heading": "Obbligo, lode e biasimo",
+        "paragraphs": [
+          "La teoria deve distinguere tra ciò che è obbligatorio, ciò che è permesso e ciò che è lodevole senza essere richiesto. L'azione supererogatoria è normalmente permessa e meritoria, mentre la sua omissione non comporta automaticamente biasimo.",
+          "Il concetto mette in discussione una concezione della morale in cui ogni azione buona diventa per ciò stesso un dovere."
+        ]
+      },
+      {
+        "heading": "Problemi teorici",
+        "paragraphs": [
+          "Un problema riguarda il confine tra sacrificio ammirevole e obbligo: quanto può essere oneroso un dovere di soccorso? Un altro riguarda la dipendenza delle valutazioni da capacità, risorse e circostanze individuali.",
+          "Le teorie contemporanee discutono se la supererogazione sia una categoria autonoma o possa essere spiegata attraverso virtù, opzioni morali e limiti ragionevoli delle richieste etiche."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La supererogazione riconosce che la vita morale comprende più di ciò che può essere imposto come obbligo. Una morale adeguata deve poter lodare gesti straordinari senza trasformarli tutti in requisiti universali.",
+      "La categoria è importante per evitare che l'etica diventi eccessivamente esigente, ma il suo uso richiede attenzione alle disuguaglianze: ciò che appare un sacrificio eccezionale per alcuni può essere un dovere istituzionale per altri."
+    ],
+    "tags": [
+      "etica",
+      "dovere",
+      "virtù",
+      "altruismo",
+      "obbligazione"
+    ],
+    "related": [
+      {
+        "label": "Sorte morale",
+        "slug": "sorte-morale",
+        "relation": "ruolo delle circostanze nella valutazione delle azioni"
+      },
+      {
+        "label": "Problema del carrello",
+        "slug": "problema-del-carrello",
+        "relation": "conflitto tra obblighi, conseguenze e sacrificio personale"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "J. O. Urmson, “Saints and Heroes”, in Essays in Moral Philosophy, 1958.",
+        "note": "Saggio classico sulla distinzione tra dovere e azioni moralmente eccellenti.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "David Heyd, Supererogation, Cambridge University Press, 1982.",
+        "note": "Studio sistematico della categoria e dei suoi problemi normativi.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Azione supererogatoria",
+        "explanation": "Azione moralmente meritoria che supera quanto è strettamente richiesto dal dovere."
+      },
+      {
+        "term": "Opzione morale",
+        "explanation": "Spazio di scelta legittimo che una teoria etica lascia all'agente oltre gli obblighi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
   }
 ]; 
 
