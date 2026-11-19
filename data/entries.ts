@@ -9110,7 +9110,6 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
-[
   {
     "slug": "intersezionalita",
     "id": "CON-000216",
@@ -9719,7 +9718,6 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   }
-]
 
 ]; 
 
