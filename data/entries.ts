@@ -6745,6 +6745,295 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "azione-comunicativa",
+    "id": "CON-000165",
+    "kind": "concetto",
+    "title": "Azione comunicativa",
+    "subtitle": "Modello di interazione orientato all’intesa attraverso ragioni condivisibili e pretese di validità criticabili.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Modello di interazione orientato all’intesa attraverso ragioni condivisibili e pretese di validità criticabili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Jürgen Habermas definisce azione comunicativa l’interazione in cui i partecipanti coordinano i propri piani mediante atti linguistici e cercano un’intesa razionalmente motivata. Il linguaggio non serve soltanto a influenzare il comportamento altrui, ma permette di avanzare pretese di verità, correttezza normativa e sincerità."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’azione comunicativa si distingue dall’azione strategica, nella quale il linguaggio è impiegato principalmente per ottenere un risultato. L’intesa non richiede assenza di conflitto: presuppone la possibilità di contestare le pretese avanzate e di chiedere giustificazioni. Le condizioni reali della comunicazione possono però essere deformate da potere, disuguaglianze e manipolazione."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella teoria critica, nella filosofia del linguaggio e nella teoria democratica. Offre strumenti per valutare la legittimità delle decisioni collettive e le condizioni di una discussione pubblica non dominata."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Jürgen Habermas definisce azione comunicativa l’interazione in cui i partecipanti coordinano i propri piani mediante atti linguistici e cercano un’intesa razionalmente motivata. Il linguaggio non serve soltanto a influenzare il comportamento altrui, ma permette di avanzare pretese di verità, correttezza normativa e sincerità.",
+      "L’azione comunicativa si distingue dall’azione strategica, nella quale il linguaggio è impiegato principalmente per ottenere un risultato. L’intesa non richiede assenza di conflitto: presuppone la possibilità di contestare le pretese avanzate e di chiedere giustificazioni. Le condizioni reali della comunicazione possono però essere deformate da potere, disuguaglianze e manipolazione.",
+      "Il concetto è centrale nella teoria critica, nella filosofia del linguaggio e nella teoria democratica. Offre strumenti per valutare la legittimità delle decisioni collettive e le condizioni di una discussione pubblica non dominata."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Azione comunicativa",
+        "explanation": "Modello di interazione orientato all’intesa attraverso ragioni condivisibili e pretese di validità criticabili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "causalita-efficiente",
+    "id": "CON-000166",
+    "kind": "concetto",
+    "title": "Causalità efficiente",
+    "subtitle": "Relazione causale in cui un agente o processo produce un cambiamento in un altro ente o processo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Relazione causale in cui un agente o processo produce un cambiamento in un altro ente o processo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nella classificazione aristotelica delle cause, la causa efficiente è ciò da cui prende avvio il mutamento: l’agente o il processo che produce un effetto. Il modello distingue la causa efficiente dalla materia, dalla forma e dal fine, offrendo una spiegazione articolata del divenire naturale e artificiale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La nozione storica non coincide perfettamente con le teorie contemporanee della causalità, che analizzano regolarità, dipendenze controfattuali, meccanismi e interventi. Il problema è chiarire che cosa significhi produrre un effetto e come distinguere una causa da una semplice condizione antecedente o correlata."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è fondamentale per la metafisica, la filosofia della scienza e la storia della filosofia. Il confronto tra causalità aristotelica e modelli moderni mostra come cambino i criteri con cui si spiegano eventi e trasformazioni."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella classificazione aristotelica delle cause, la causa efficiente è ciò da cui prende avvio il mutamento: l’agente o il processo che produce un effetto. Il modello distingue la causa efficiente dalla materia, dalla forma e dal fine, offrendo una spiegazione articolata del divenire naturale e artificiale.",
+      "La nozione storica non coincide perfettamente con le teorie contemporanee della causalità, che analizzano regolarità, dipendenze controfattuali, meccanismi e interventi. Il problema è chiarire che cosa significhi produrre un effetto e come distinguere una causa da una semplice condizione antecedente o correlata.",
+      "Il concetto è fondamentale per la metafisica, la filosofia della scienza e la storia della filosofia. Il confronto tra causalità aristotelica e modelli moderni mostra come cambino i criteri con cui si spiegano eventi e trasformazioni."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Causalità efficiente",
+        "explanation": "Relazione causale in cui un agente o processo produce un cambiamento in un altro ente o processo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "coerenza",
+    "id": "CON-000167",
+    "kind": "concetto",
+    "title": "Coerenza",
+    "subtitle": "Relazione di compatibilità logica e sistematica tra proposizioni, credenze o elementi di una teoria.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Relazione di compatibilità logica e sistematica tra proposizioni, credenze o elementi di una teoria.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La coerenza indica l’assenza di contraddizioni e, in un senso più ampio, l’integrazione ordinata tra le parti di un sistema. In epistemologia è stata proposta come criterio di giustificazione: una credenza è sostenuta quando si inserisce in modo adeguato in una rete complessiva di credenze."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La coerenza non garantisce da sola la verità: sistemi incompatibili tra loro possono essere entrambi internamente coerenti. Le teorie coerentiste devono quindi spiegare come una rete di credenze si rapporti all’esperienza, alle testimonianze e ai vincoli del mondo. In logica, inoltre, coerenza formale e plausibilità sostanziale restano nozioni distinte."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale in logica, epistemologia, etica e teoria scientifica. Aiuta a valutare la solidità di argomentazioni e sistemi teorici, ma richiede di essere integrato con criteri ulteriori di controllo e giustificazione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La coerenza indica l’assenza di contraddizioni e, in un senso più ampio, l’integrazione ordinata tra le parti di un sistema. In epistemologia è stata proposta come criterio di giustificazione: una credenza è sostenuta quando si inserisce in modo adeguato in una rete complessiva di credenze.",
+      "La coerenza non garantisce da sola la verità: sistemi incompatibili tra loro possono essere entrambi internamente coerenti. Le teorie coerentiste devono quindi spiegare come una rete di credenze si rapporti all’esperienza, alle testimonianze e ai vincoli del mondo. In logica, inoltre, coerenza formale e plausibilità sostanziale restano nozioni distinte.",
+      "Il concetto è centrale in logica, epistemologia, etica e teoria scientifica. Aiuta a valutare la solidità di argomentazioni e sistemi teorici, ma richiede di essere integrato con criteri ulteriori di controllo e giustificazione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Coerenza",
+        "explanation": "Relazione di compatibilità logica e sistematica tra proposizioni, credenze o elementi di una teoria."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "conoscenza-proposizionale",
+    "id": "CON-000168",
+    "kind": "concetto",
+    "title": "Conoscenza proposizionale",
+    "subtitle": "Conoscenza che assume la forma del sapere che una determinata proposizione è vera.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Conoscenza che assume la forma del sapere che una determinata proposizione è vera.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La conoscenza proposizionale è il sapere che qualcosa è il caso, espresso dalla forma «un soggetto sa che p». La tradizione epistemologica l’ha spesso analizzata attraverso la definizione di credenza vera e giustificata, messa in discussione dai controesempi di Edmund Gettier."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Essa va distinta dal sapere pratico, cioè sapere come fare qualcosa, e dalla conoscenza per familiarità o esperienza diretta. I casi Gettier mostrano che verità, credenza e giustificazione possono essere presenti senza produrre conoscenza, se la verità è raggiunta per una coincidenza epistemicamente fortuita."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è fondamentale per l’epistemologia analitica. Le teorie contemporanee cercano condizioni ulteriori, come affidabilità, assenza di defeaters o competenza cognitiva, per spiegare quando una credenza vera costituisca autentica conoscenza."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La conoscenza proposizionale è il sapere che qualcosa è il caso, espresso dalla forma «un soggetto sa che p». La tradizione epistemologica l’ha spesso analizzata attraverso la definizione di credenza vera e giustificata, messa in discussione dai controesempi di Edmund Gettier.",
+      "Essa va distinta dal sapere pratico, cioè sapere come fare qualcosa, e dalla conoscenza per familiarità o esperienza diretta. I casi Gettier mostrano che verità, credenza e giustificazione possono essere presenti senza produrre conoscenza, se la verità è raggiunta per una coincidenza epistemicamente fortuita.",
+      "Il concetto è fondamentale per l’epistemologia analitica. Le teorie contemporanee cercano condizioni ulteriori, come affidabilità, assenza di defeaters o competenza cognitiva, per spiegare quando una credenza vera costituisca autentica conoscenza."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Conoscenza proposizionale",
+        "explanation": "Conoscenza che assume la forma del sapere che una determinata proposizione è vera."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "costruttivismo",
+    "id": "CON-000169",
+    "kind": "concetto",
+    "title": "Costruttivismo",
+    "subtitle": "Famiglia di teorie secondo cui conoscenze, significati o norme dipendono da attività costitutive di soggetti e pratiche.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Famiglia di teorie secondo cui conoscenze, significati o norme dipendono da attività costitutive di soggetti e pratiche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il costruttivismo sostiene, in forme diverse, che alcuni aspetti della realtà conosciuta o dell’ordine normativo sono costituiti attraverso pratiche, schemi concettuali, linguaggi o procedure condivise. In epistemologia può riguardare la costruzione della conoscenza; in etica e politica, la giustificazione dei principi mediante procedure razionali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non ogni costruttivismo afferma che il mondo sia inventato arbitrariamente. Occorre distinguere la costruzione delle rappresentazioni dalla produzione degli oggetti, e chiarire quali vincoli empirici, logici e sociali limitino il processo. Le versioni kantiane, sociali e pragmatiche hanno impegni teorici differenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante in epistemologia, pedagogia, filosofia della matematica, etica e teoria politica. La domanda centrale riguarda ciò che viene costruito, da chi e secondo quali criteri di validità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il costruttivismo sostiene, in forme diverse, che alcuni aspetti della realtà conosciuta o dell’ordine normativo sono costituiti attraverso pratiche, schemi concettuali, linguaggi o procedure condivise. In epistemologia può riguardare la costruzione della conoscenza; in etica e politica, la giustificazione dei principi mediante procedure razionali.",
+      "Non ogni costruttivismo afferma che il mondo sia inventato arbitrariamente. Occorre distinguere la costruzione delle rappresentazioni dalla produzione degli oggetti, e chiarire quali vincoli empirici, logici e sociali limitino il processo. Le versioni kantiane, sociali e pragmatiche hanno impegni teorici differenti.",
+      "Il concetto è rilevante in epistemologia, pedagogia, filosofia della matematica, etica e teoria politica. La domanda centrale riguarda ciò che viene costruito, da chi e secondo quali criteri di validità."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Costruttivismo",
+        "explanation": "Famiglia di teorie secondo cui conoscenze, significati o norme dipendono da attività costitutive di soggetti e pratiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "disposizione",
+    "id": "CON-000170",
+    "kind": "concetto",
+    "title": "Disposizione",
+    "subtitle": "Proprietà o tendenza di un ente a manifestare un certo comportamento in condizioni determinate.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Proprietà o tendenza di un ente a manifestare un certo comportamento in condizioni determinate.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "In metafisica una disposizione è una proprietà che si manifesta in circostanze appropriate: la fragilità, per esempio, è la tendenza a rompersi sotto una sollecitazione adeguata. Le disposizioni possono esistere anche quando non si manifestano, distinguendosi così dagli eventi effettivi."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il problema è stabilire se le disposizioni siano riducibili a leggi e proprietà categoriche oppure costituiscano aspetti fondamentali della realtà. La loro analisi deve inoltre distinguere la disposizione dalle condizioni che ne impediscono la manifestazione e dai semplici comportamenti osservati."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nella metafisica delle proprietà, nella filosofia della scienza e nella teoria della mente. Permette di spiegare capacità, poteri causali e controfattuali senza identificare una proprietà con la sua manifestazione attuale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "In metafisica una disposizione è una proprietà che si manifesta in circostanze appropriate: la fragilità, per esempio, è la tendenza a rompersi sotto una sollecitazione adeguata. Le disposizioni possono esistere anche quando non si manifestano, distinguendosi così dagli eventi effettivi.",
+      "Il problema è stabilire se le disposizioni siano riducibili a leggi e proprietà categoriche oppure costituiscano aspetti fondamentali della realtà. La loro analisi deve inoltre distinguere la disposizione dalle condizioni che ne impediscono la manifestazione e dai semplici comportamenti osservati.",
+      "Il concetto è importante nella metafisica delle proprietà, nella filosofia della scienza e nella teoria della mente. Permette di spiegare capacità, poteri causali e controfattuali senza identificare una proprietà con la sua manifestazione attuale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Disposizione",
+        "explanation": "Proprietà o tendenza di un ente a manifestare un certo comportamento in condizioni determinate."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
