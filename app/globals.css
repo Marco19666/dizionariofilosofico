@@ -322,3 +322,29 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 .parallel-track article a{display:inline-block;margin-top:8px;color:var(--ink);font-size:12px;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:850px){.timeline-controls{grid-template-columns:1fr 1fr}.timeline-controls .timeline-filter{grid-column:1/-1}.parallel-tracks{grid-template-columns:1fr}}
 @media(max-width:560px){.timeline-controls{grid-template-columns:1fr}.timeline-controls .timeline-filter{grid-column:auto}.parallel-track li{grid-template-columns:1fr;gap:5px}.timeline-view-switch{display:grid;grid-template-columns:1fr 1fr}}
+
+/* Lessico filosofico autonomo */
+.lexicon-hero{padding:76px 10vw 62px;background:var(--paper-deep);color:var(--ink);border-bottom:1px solid var(--line)}
+.lexicon-hero h1{margin:0;font:400 clamp(44px,6vw,72px)/1 Georgia,"Times New Roman",serif;letter-spacing:-.04em}
+.lexicon-hero>p:not(.eyebrow){max-width:760px;color:var(--muted);font-size:17px;line-height:1.8}
+.lexicon-count{display:flex;align-items:baseline;gap:12px;margin-top:22px}.lexicon-count strong{font:400 32px Georgia,serif}.lexicon-count span{font-size:13px;color:var(--muted)}
+.lexicon-content{padding-top:38px;padding-bottom:85px}
+.lexicon-search{display:grid;grid-template-columns:minmax(180px,1fr) minmax(180px,1.3fr) 80px minmax(180px,.7fr);gap:10px 14px;align-items:center;padding:18px;border:1px solid var(--line);background:var(--white)}
+.lexicon-search label{font-size:13px;font-weight:700}.lexicon-search input,.lexicon-search select{width:100%;min-height:43px;padding:0 12px;border:1px solid var(--line);background:var(--paper);color:var(--ink);font:inherit;font-size:14px}
+.lexicon-letters{display:flex;flex-wrap:wrap;gap:5px;margin:20px 0 34px;padding:14px;border-bottom:1px solid var(--line);border-top:1px solid var(--line)}
+.lexicon-letters a{min-width:29px;padding:6px 4px;text-align:center;font-size:12px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.lexicon-letters a.disabled{color:#aaa;text-decoration:none;pointer-events:none}
+.lexicon-letter{display:grid;grid-template-columns:70px minmax(0,1fr);gap:22px;padding:22px 0;border-bottom:1px solid var(--line);scroll-margin-top:20px}
+.lexicon-letter>h2{margin:0;font:400 42px Georgia,serif;color:var(--ochre)}
+.lexicon-terms{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.lexicon-term{padding:19px;border:1px solid var(--line);background:var(--white)}
+.lexicon-term-heading{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.lexicon-term h3{margin:0;font:400 21px Georgia,serif}
+.lexicon-term-heading span{color:var(--muted);font-size:10px;text-align:right}
+.lexicon-term>p{margin:12px 0 0;color:var(--ink);font-size:14px;line-height:1.75}
+.lexicon-term .lexicon-distinction{padding-top:10px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+.lexicon-distinction strong{color:var(--ink)}
+.lexicon-related{display:flex;flex-wrap:wrap;gap:8px 15px;margin-top:12px}
+.lexicon-related a{color:var(--ink);font-size:12px;text-decoration:underline;text-decoration-color:var(--ochre);text-underline-offset:3px}
+@media(max-width:850px){.lexicon-search{grid-template-columns:1fr 1fr}.lexicon-terms{grid-template-columns:1fr}}
+@media(max-width:600px){.lexicon-hero{padding:54px 7vw 44px}.lexicon-content{padding-left:7vw;padding-right:7vw}.lexicon-search{grid-template-columns:1fr}.lexicon-letter{grid-template-columns:38px minmax(0,1fr);gap:10px}.lexicon-letter>h2{font-size:30px}.lexicon-term-heading{align-items:flex-start;flex-direction:column}.lexicon-term-heading span{text-align:left}}
