@@ -22,7 +22,7 @@ npm run dev
 Apri http://localhost:3000.
 
 ## Stato
-Catalogo enciclopedico in ampliamento, con voci strutturate per autori, concetti, opere, scuole e tradizioni. I contenuti sono corredati da riferimenti bibliografici e restano soggetti a revisione specialistica; la presenza di una voce non equivale a peer review o certificazione scientifica definitiva.
+Catalogo enciclopedico in ampliamento, con voci strutturate per autori, concetti, opere, scuole e tradizioni. Il repertorio comprende anche 50 nuovi lemmi concettuali identificati da `CON-000505` a `CON-000554`. I contenuti sono corredati da riferimenti bibliografici e restano soggetti a revisione specialistica; la presenza di una voce non equivale a peer review o certificazione scientifica definitiva.
 
 ## Struttura
 - `app/`: pagine e stili
