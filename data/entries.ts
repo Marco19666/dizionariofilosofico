@@ -9109,7 +9109,618 @@ export const entries: EncyclopediaEntry[] = [
       }
     ],
     "editorialStatus": "edizione editoriale 1.0"
+  },
+[
+  {
+    "slug": "intersezionalita",
+    "id": "CON-000216",
+    "kind": "concetto",
+    "title": "Intersezionalità",
+    "subtitle": "Analisi delle interazioni tra rapporti di potere e assi di differenziazione sociale.",
+    "area": "Filosofia politica e sociale",
+    "period": "Dalla fine del XX secolo",
+    "summary": "L’intersezionalità studia come genere, razzializzazione, classe, sessualità, disabilità e altri rapporti sociali si intreccino producendo esperienze e forme di disuguaglianza non riducibili alla somma di fattori isolati.",
+    "sections": [
+      {
+        "heading": "Origine e definizione",
+        "paragraphs": [
+          "Il termine viene associato al lavoro della giurista statunitense Kimberlé Crenshaw, che alla fine degli anni Ottanta mostrò come le categorie giuridiche e politiche separate di discriminazione potessero rendere invisibili le esperienze specifiche delle donne nere. L’immagine dell’intersezione indica che più strutture sociali possono agire congiuntamente.",
+          "L’approccio ha antecedenti importanti nei movimenti delle donne nere, nel femminismo socialista e nelle tradizioni anticoloniali. Non è una semplice lista di identità, ma un metodo per analizzare rapporti storici e istituzionali."
+        ]
+      },
+      {
+        "heading": "Problemi teorici",
+        "paragraphs": [
+          "L’intersezionalità contesta le spiegazioni monocausali della disuguaglianza e interroga la pretesa universalità di categorie costruite a partire da esperienze sociali particolari. Le categorie non sono essenze immutabili: acquistano significato entro istituzioni, pratiche e contesti storici.",
+          "Resta aperto il problema di come descrivere le interazioni senza moltiplicare indefinitamente le variabili o perdere la capacità di individuare strutture comuni. Le applicazioni empiriche devono precisare quali rapporti di potere siano pertinenti e attraverso quali meccanismi operino."
+        ]
+      },
+      {
+        "heading": "Ricezione e ambiti di applicazione",
+        "paragraphs": [
+          "Il concetto è divenuto centrale negli studi femministi, nella filosofia politica, nella sociologia, nel diritto e negli studi postcoloniali. La sua forza consiste nel collegare l’analisi delle esperienze situate alla critica delle istituzioni e delle gerarchie sociali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’intersezionalità è insieme una prospettiva critica e un programma di ricerca. Invita a non assumere che una sola dimensione, come il genere o la classe, spieghi da sé la posizione sociale di una persona. Le forme di subordinazione possono intrecciarsi e trasformarsi reciprocamente, generando effetti specifici.",
+      "Il metodo non implica che tutte le differenze abbiano sempre lo stesso peso. Richiede invece un’analisi contestuale delle istituzioni, delle norme e delle pratiche che producono vantaggi e svantaggi. La categoria diventa poco utile se viene ridotta a una tassonomia identitaria priva di spiegazione causale.",
+      "Il confronto con l’ingiustizia epistemica e con la giustizia distributiva permette di collegare riconoscimento, produzione del sapere e distribuzione delle risorse, senza confondere problemi distinti."
+    ],
+    "tags": [
+      "filosofia politica",
+      "femminismo",
+      "giustizia sociale",
+      "potere"
+    ],
+    "related": [
+      {
+        "label": "Ingiustizia epistemica",
+        "slug": "ingiustizia-epistemica",
+        "relation": "connessione tra posizione sociale e credibilità o risorse interpretative"
+      },
+      {
+        "label": "Giustizia distributiva",
+        "slug": "giustizia-distributiva",
+        "relation": "analisi delle disuguaglianze nella distribuzione di beni e opportunità"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex”, University of Chicago Legal Forum, 1989.",
+        "type": "Testo primario / traduzione",
+        "note": "Testo fondativo dell’uso giuridico del concetto di intersezionalità."
+      },
+      {
+        "label": "Patricia Hill Collins e Sirma Bilge, Intersectionality, Polity, 2016.",
+        "type": "Studio secondario",
+        "note": "Introduzione sistematica agli sviluppi teorici e agli usi interdisciplinari."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Intersezione",
+        "explanation": "Configurazione in cui più rapporti sociali e istituzionali agiscono congiuntamente."
+      },
+      {
+        "term": "Posizione sociale",
+        "explanation": "Collocazione storica e relazionale entro strutture di potere."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "teoria-del-punto-di-vista",
+    "id": "CON-000217",
+    "kind": "concetto",
+    "title": "Teoria del punto di vista",
+    "subtitle": "Prospettiva epistemologica secondo cui la posizione sociale condiziona l’accesso e la produzione della conoscenza.",
+    "area": "Epistemologia e filosofia femminista",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "La teoria del punto di vista sostiene che la conoscenza è situata e che le posizioni sociali marginalizzate possono rendere visibili aspetti della realtà trascurati dai gruppi dominanti.",
+    "sections": [
+      {
+        "heading": "Definizione e sviluppo",
+        "paragraphs": [
+          "Le teorie del punto di vista, sviluppate soprattutto nella filosofia femminista e nelle scienze sociali, studiano il rapporto tra collocazione sociale e conoscenza. Non affermano che ogni appartenente a un gruppo possieda automaticamente una conoscenza privilegiata: un punto di vista critico richiede lavoro interpretativo, confronto e riflessione sulle condizioni della propria esperienza.",
+          "Sandra Harding ha proposto l’idea di una conoscenza più forte quando la ricerca prende avvio anche dalle vite marginalizzate e rende esplicite le proprie condizioni di produzione. Dorothy Smith ha analizzato il modo in cui le istituzioni organizzano l’esperienza quotidiana attraverso relazioni sociali più ampie."
+        ]
+      },
+      {
+        "heading": "Questioni epistemologiche",
+        "paragraphs": [
+          "La prospettiva mette in discussione l’immagine di un soggetto conoscente neutrale e privo di collocazione. La parzialità non coincide necessariamente con l’errore: riconoscere la propria posizione può migliorare il controllo critico dei presupposti.",
+          "Il rischio opposto è trasformare i gruppi sociali in soggetti omogenei o attribuire loro un’autorità epistemica automatica. Le differenze interne e i conflitti tra prospettive restano parte essenziale dell’indagine."
+        ]
+      },
+      {
+        "heading": "Rilevanza contemporanea",
+        "paragraphs": [
+          "Il dibattito riguarda la metodologia delle scienze, la ricerca partecipativa, la produzione istituzionale dei dati e la rappresentanza delle esperienze escluse. La teoria del punto di vista contribuisce a chiarire perché pluralità delle prospettive e rigore critico possano rafforzarsi a vicenda."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La teoria del punto di vista lega la conoscenza alle condizioni materiali e sociali in cui viene prodotta. La posizione di un soggetto può aprire alcune possibilità di osservazione e limitarne altre; non determina però meccanicamente ciò che egli conosce.",
+      "Il punto di vista critico non è un semplice punto di partenza biografico. Si forma attraverso pratiche di ricerca, interpretazione e confronto che rendono visibili i rapporti di potere incorporati nelle categorie dominanti.",
+      "Il confronto con l’epistemologia sociale e con l’ingiustizia epistemica mostra come la credibilità dei parlanti e la disponibilità di risorse interpretative siano distribuite in modo diseguale."
+    ],
+    "tags": [
+      "epistemologia",
+      "femminismo",
+      "conoscenza situata",
+      "scienze sociali"
+    ],
+    "related": [
+      {
+        "label": "Epistemologia sociale",
+        "slug": "epistemologia-sociale",
+        "relation": "condivisione e organizzazione sociale della conoscenza"
+      },
+      {
+        "label": "Ingiustizia epistemica",
+        "slug": "ingiustizia-epistemica",
+        "relation": "svantaggi conoscitivi legati a pregiudizi e marginalizzazione"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Sandra Harding, Whose Science? Whose Knowledge?, Cornell University Press, 1991.",
+        "type": "Testo primario / traduzione",
+        "note": "Sviluppa il rapporto tra conoscenza situata, oggettività e critica femminista."
+      },
+      {
+        "label": "Donna Haraway, “Situated Knowledges”, Feminist Studies, 1988.",
+        "type": "Studio secondario",
+        "note": "Saggio influente sulla parzialità e responsabilità della conoscenza."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Conoscenza situata",
+        "explanation": "Conoscenza prodotta da soggetti collocati in condizioni storiche e sociali determinate."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ingiustizia-strutturale",
+    "id": "CON-000218",
+    "kind": "concetto",
+    "title": "Ingiustizia strutturale",
+    "subtitle": "Danno o svantaggio prodotto da processi sociali ordinari e interconnessi, anche senza un singolo responsabile intenzionale.",
+    "area": "Filosofia politica e sociale",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "L’ingiustizia strutturale emerge da regole, istituzioni e pratiche che, interagendo nel tempo, collocano sistematicamente alcuni gruppi in condizioni di vulnerabilità o svantaggio.",
+    "sections": [
+      {
+        "heading": "Definizione",
+        "paragraphs": [
+          "Si parla di ingiustizia strutturale quando gli esiti ingiusti non dipendono soltanto da una decisione isolata o dall’intenzione discriminatoria di un individuo, ma da processi sociali diffusi. Mercato del lavoro, organizzazione urbana, accesso all’istruzione e politiche pubbliche possono concorrere a produrre svantaggi cumulativi.",
+          "I processi strutturali coinvolgono spesso molti attori che, considerati separatamente, seguono regole ordinarie. La responsabilità non scompare: deve essere ricostruita in rapporto al potere, al ruolo e alla capacità di modificare quei processi."
+        ]
+      },
+      {
+        "heading": "Responsabilità e giustizia",
+        "paragraphs": [
+          "Iris Marion Young ha elaborato un modello di responsabilità connessa, distinto dal modello della colpa individuale. Chi partecipa a processi che producono ingiustizia può avere responsabilità politiche e prospettiche, differenziate secondo potere, privilegio, interesse e capacità collettiva.",
+          "Il modello non sostituisce la responsabilità giuridica per atti specifici. Distingue la ricerca di colpevoli dalla responsabilità condivisa di trasformare istituzioni e pratiche."
+        ]
+      },
+      {
+        "heading": "Problemi e applicazioni",
+        "paragraphs": [
+          "La nozione è utile per analizzare discriminazioni sistemiche, disuguaglianze ambientali, precarietà e accesso diseguale ai servizi. Occorre tuttavia identificare i meccanismi concreti, evitando di usare la parola struttura come spiegazione generica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’ingiustizia strutturale sposta l’attenzione dall’atto isolato alle condizioni che rendono alcuni esiti prevedibili e ricorrenti. Una spiegazione adeguata ricostruisce le connessioni tra decisioni, istituzioni e pratiche, mostrando come svantaggi apparentemente separati si rafforzino nel tempo.",
+      "La responsabilità è distribuita ma non uniforme. Potere decisionale, benefici ottenuti, conoscenza dei processi e possibilità di intervento contribuiscono a determinarne il grado e la forma.",
+      "Il concetto collega la giustizia distributiva alla teoria politica della responsabilità collettiva: non basta correggere singoli comportamenti se restano intatti i processi che riproducono lo svantaggio."
+    ],
+    "tags": [
+      "giustizia",
+      "struttura sociale",
+      "responsabilità",
+      "filosofia politica"
+    ],
+    "related": [
+      {
+        "label": "Responsabilità collettiva",
+        "slug": "responsabilita-collettiva",
+        "relation": "forme di responsabilità condivisa per processi sociali"
+      },
+      {
+        "label": "Giustizia distributiva",
+        "slug": "giustizia-distributiva",
+        "relation": "distribuzione di vantaggi, rischi e opportunità"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Iris Marion Young, Responsibility for Justice, Oxford University Press, 2011.",
+        "type": "Testo primario / traduzione",
+        "note": "Elabora il modello della connessione sociale per la responsabilità verso l’ingiustizia strutturale."
+      },
+      {
+        "label": "Iris Marion Young, Justice and the Politics of Difference, Princeton University Press, 1990.",
+        "type": "Studio secondario",
+        "note": "Analizza oppressione, differenza e dimensione istituzionale della giustizia."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Responsabilità connessa",
+        "explanation": "Responsabilità politica derivante dalla partecipazione a processi sociali che producono esiti ingiusti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "esternalismo",
+    "id": "CON-000219",
+    "kind": "concetto",
+    "title": "Esternalismo",
+    "subtitle": "Famiglia di posizioni secondo cui alcuni contenuti mentali o condizioni della conoscenza dipendono da fattori esterni al soggetto.",
+    "area": "Filosofia della mente ed epistemologia",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "L’esternalismo sostiene, in diverse versioni, che il contenuto dei pensieri o la giustificazione della conoscenza non siano determinati esclusivamente da stati interni accessibili al soggetto.",
+    "sections": [
+      {
+        "heading": "Distinzioni fondamentali",
+        "paragraphs": [
+          "In filosofia della mente l’esternalismo semantico afferma che il contenuto di almeno alcuni pensieri dipende dall’ambiente fisico o sociale in cui il soggetto è inserito. Gli esperimenti mentali di Hilary Putnam sulla Terra gemella e le analisi di Tyler Burge sono riferimenti centrali.",
+          "In epistemologia l’esternalismo riguarda invece le condizioni della conoscenza o della giustificazione: processi affidabili o relazioni causali con il mondo possono contribuire a rendere conoscitiva una credenza, anche se il soggetto non è in grado di descriverli riflessivamente."
+        ]
+      },
+      {
+        "heading": "Contrasto con l'internalismo",
+        "paragraphs": [
+          "L’internalismo attribuisce un ruolo decisivo a ciò che è interno o accessibile alla prospettiva del soggetto. Il contrasto non coincide con una sola disputa: riguarda questioni semantiche, epistemiche e talvolta morali differenti.",
+          "Le versioni esternaliste devono chiarire come una dipendenza da fattori esterni possa essere compatibile con intuizioni sulla responsabilità epistemica e sull’accesso riflessivo alle proprie ragioni."
+        ]
+      },
+      {
+        "heading": "Portata teorica",
+        "paragraphs": [
+          "L’esternalismo ha trasformato il dibattito su significato, riferimento, conoscenza e mente. Non implica che ogni proprietà mentale sia esterna né che l’ambiente determini da solo il contenuto dei pensieri."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’esternalismo contesta l’idea che la mente possa essere compresa isolando il soggetto dal suo ambiente. Nella semantica, il riferimento e il contenuto possono dipendere da pratiche linguistiche condivise e dalla storia causale dei termini; nell’epistemologia, la conoscenza può dipendere dall’affidabilità dei processi che producono credenze.",
+      "È importante distinguere l’esternalismo semantico da quello epistemologico: condividono una critica all’autosufficienza del soggetto, ma rispondono a domande differenti.",
+      "Il confronto con intenzionalità, significato e internalismo chiarisce in che senso il mondo contribuisca a determinare ciò che pensiamo e ciò che possiamo conoscere."
+    ],
+    "tags": [
+      "filosofia della mente",
+      "epistemologia",
+      "semantica",
+      "conoscenza"
+    ],
+    "related": [
+      {
+        "label": "Intenzionalità",
+        "slug": "intenzionalita",
+        "relation": "contenuto degli stati mentali"
+      },
+      {
+        "label": "Significato",
+        "slug": "significato",
+        "relation": "riferimento e dipendenza dal contesto linguistico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Hilary Putnam, “The Meaning of 'Meaning'”, in Mind, Language and Reality, Cambridge University Press, 1975.",
+        "type": "Testo primario / traduzione",
+        "note": "Saggio classico dell’esternalismo semantico."
+      },
+      {
+        "label": "Tyler Burge, “Individualism and the Mental”, Midwest Studies in Philosophy, 1979.",
+        "type": "Studio secondario",
+        "note": "Argomenta contro l’individualismo circa il contenuto mentale."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Esternalismo semantico",
+        "explanation": "Tesi secondo cui il contenuto di alcuni pensieri dipende anche da fattori ambientali e sociali."
+      },
+      {
+        "term": "Esternalismo epistemologico",
+        "explanation": "Tesi secondo cui condizioni esterne, come l’affidabilità, possono contribuire alla conoscenza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "supervenienza",
+    "id": "CON-000220",
+    "kind": "concetto",
+    "title": "Supervenienza",
+    "subtitle": "Relazione di dipendenza per cui non può esserci differenza a un livello senza una differenza a un altro livello.",
+    "area": "Metafisica e filosofia della mente",
+    "period": "Dibattito contemporaneo",
+    "summary": "La supervenienza esprime una relazione di covariazione necessaria tra proprietà: se due casi sono identici rispetto alla base, non possono differire rispetto alle proprietà che su di essa supervengono.",
+    "sections": [
+      {
+        "heading": "Definizione",
+        "paragraphs": [
+          "Una famiglia di proprietà A superviene su una famiglia B quando non è possibile che due oggetti o mondi siano identici rispetto a tutte le proprietà B e differiscano rispetto alle proprietà A. La relazione formalizza una forma di dipendenza senza specificare, da sola, se sia causale, riduttiva o esplicativa.",
+          "La distinzione tra supervenienza locale e globale, così come tra supervenienza debole, forte e necessaria, dipende dal tipo di confronto e dalla forza modale richiesta."
+        ]
+      },
+      {
+        "heading": "Usi in filosofia",
+        "paragraphs": [
+          "In filosofia della mente si discute se le proprietà mentali supervengano su quelle fisiche. In etica si è sostenuto che le proprietà morali non possano variare senza una variazione nelle proprietà naturali pertinenti. La nozione compare anche nella metafisica delle proprietà e nella filosofia delle scienze speciali.",
+          "La supervenienza non equivale all’identità: affermare che il mentale superviene sul fisico non dimostra che le proprietà mentali siano identiche a proprietà fisiche. Non stabilisce neppure, da sola, una riduzione esplicativa."
+        ]
+      },
+      {
+        "heading": "Limiti e controversie",
+        "paragraphs": [
+          "La relazione può chiarire quali dipendenze siano richieste da una teoria, ma non spiega automaticamente perché esse sussistano. Per questo viene spesso affiancata a nozioni di realizzazione, fondazione metafisica, identità o riduzione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La supervenienza è uno strumento per esprimere vincoli di dipendenza tra livelli descrittivi. Impedisce che proprietà di livello superiore cambino senza alcuna differenza nella base, ma lascia aperta la natura precisa del legame.",
+      "La sua utilità consiste proprio nella neutralità: teorie riduzioniste e non riduzioniste possono entrambe accettare una relazione di supervenienza. Per passare dalla covariazione necessaria a una spiegazione occorrono argomenti ulteriori.",
+      "Il problema mente-corpo è un banco di prova privilegiato: la dipendenza del mentale dal fisico non risolve da sola la questione se il mentale sia riducibile o causalmente autonomo."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia della mente",
+      "proprietà",
+      "dipendenza"
+    ],
+    "related": [
+      {
+        "label": "Mente e corpo",
+        "slug": "mente-corpo",
+        "relation": "dipendenza delle proprietà mentali da quelle fisiche"
+      },
+      {
+        "label": "Emergentismo",
+        "slug": "emergentismo",
+        "relation": "discussione dei livelli e delle proprietà emergenti"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Jaegwon Kim, Supervenience and Mind, Cambridge University Press, 1993.",
+        "type": "Studio secondario",
+        "note": "Raccolta fondamentale sul ruolo della supervenienza nella filosofia della mente."
+      },
+      {
+        "label": "Donald Davidson, “Mental Events”, in Essays on Actions and Events, Oxford University Press, 1980.",
+        "type": "Testo primario / traduzione",
+        "note": "Saggio influente sul rapporto tra eventi mentali e fisici."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Base",
+        "explanation": "Insieme delle proprietà rispetto alle quali si valuta la dipendenza."
+      },
+      {
+        "term": "Dipendenza modale",
+        "explanation": "Vincolo che vale non soltanto di fatto, ma attraverso i casi possibili pertinenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "sorte-morale",
+    "id": "CON-000221",
+    "kind": "concetto",
+    "title": "Sorte morale",
+    "subtitle": "Problema del modo in cui fattori fuori dal controllo di un agente incidono sui giudizi morali che lo riguardano.",
+    "area": "Etica",
+    "period": "Dibattito contemporaneo",
+    "summary": "La sorte morale riguarda la tensione tra il principio secondo cui si è responsabili solo di ciò che si controlla e il fatto che i giudizi morali dipendano spesso da circostanze, risultati e capacità non pienamente controllabili.",
+    "sections": [
+      {
+        "heading": "Il problema",
+        "paragraphs": [
+          "Il principio del controllo suggerisce che gli agenti dovrebbero essere giudicati soltanto per ciò che dipende dalla loro volontà. Tuttavia, nelle pratiche morali ordinarie, valutiamo diversamente azioni simili quando cambiano le conseguenze, le circostanze o le capacità dell’agente.",
+          "Thomas Nagel e Bernard Williams hanno reso centrale il problema nella filosofia morale contemporanea. La sorte può riguardare le conseguenze di un’azione, le circostanze in cui si agisce, la costituzione dell’agente o le cause che hanno formato il suo carattere."
+        ]
+      },
+      {
+        "heading": "Tipi di sorte morale",
+        "paragraphs": [
+          "La sorte risultante riguarda gli esiti dell’azione; quella circostanziale riguarda le situazioni in cui una persona si trova a dover scegliere. La sorte costitutiva riguarda temperamento e capacità, mentre quella causale concerne la storia antecedente che contribuisce a formare decisioni e carattere.",
+          "Gli esempi mostrano che la responsabilità concreta sembra dipendere da fattori che il principio del controllo vorrebbe escludere. La difficoltà consiste nel spiegare questa tensione senza dissolvere la responsabilità o ignorare la contingenza."
+        ]
+      },
+      {
+        "heading": "Conseguenze etiche",
+        "paragraphs": [
+          "Il problema incide su colpa, merito, punizione e valutazione delle decisioni. Invita a distinguere il giudizio sulla qualità della scelta dalla valutazione retrospettiva dei suoi esiti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La sorte morale mette in luce un conflitto tra un ideale di responsabilità fondato sul controllo e il carattere contingente dell’esistenza umana. Circostanze, risultati e disposizioni personali incidono sui giudizi morali anche quando non sono stati scelti dall’agente.",
+      "Non ne segue che ogni responsabilità sia illusoria. Occorre distinguere il grado di controllo, la prevedibilità, le opportunità disponibili e il tipo di valutazione che si intende formulare.",
+      "Il tema collega etica, teoria dell’azione e problema del libero arbitrio, mostrando che l’attribuzione di responsabilità non può essere separata dalle condizioni concrete dell’agire."
+    ],
+    "tags": [
+      "etica",
+      "responsabilità",
+      "libero arbitrio",
+      "azione"
+    ],
+    "related": [
+      {
+        "label": "Responsabilità",
+        "slug": "responsabilita",
+        "relation": "criteri di attribuzione della responsabilità"
+      },
+      {
+        "label": "Libertà",
+        "slug": "liberta",
+        "relation": "controllo e possibilità di agire diversamente"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Thomas Nagel, “Moral Luck”, in Mortal Questions, Cambridge University Press, 1979.",
+        "type": "Testo primario / traduzione",
+        "note": "Saggio fondamentale che articola il conflitto tra controllo e sorte."
+      },
+      {
+        "label": "Bernard Williams, “Moral Luck”, in Moral Luck, Cambridge University Press, 1981.",
+        "type": "Testo primario / traduzione",
+        "note": "Esamina il ruolo della contingenza nella valutazione morale e nell’identità pratica."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Principio del controllo",
+        "explanation": "Idea secondo cui la responsabilità morale dovrebbe dipendere da ciò che è sotto il controllo dell’agente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "problema-del-carrello",
+    "id": "CON-000222",
+    "kind": "concetto",
+    "title": "Problema del carrello",
+    "subtitle": "Famiglia di esperimenti mentali che indaga il conflitto tra conseguenze, intenzioni e vincoli morali.",
+    "area": "Etica normativa",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "Il problema del carrello presenta dilemmi in cui salvare più persone sembra richiedere di causare intenzionalmente o indirettamente la morte di una persona, mettendo alla prova diverse teorie morali.",
+    "sections": [
+      {
+        "heading": "Origine e struttura",
+        "paragraphs": [
+          "Il dilemma è associato al lavoro di Philippa Foot e, nelle sue varianti più note, a Judith Jarvis Thomson. Un carrello fuori controllo sta per investire più persone; l’agente può deviarlo verso un binario dove si trova una sola persona. La scelta costringe a confrontare numero delle vite, intenzione e natura dell’intervento.",
+          "Le varianti, come il caso del ponte, modificano il ruolo causale dell’agente e il rapporto tra mezzo e fine. Le differenze tra gli scenari sono decisive: non esiste un unico problema del carrello con una sola risposta condivisa."
+        ]
+      },
+      {
+        "heading": "Teorie in conflitto",
+        "paragraphs": [
+          "Le prospettive consequenzialiste tendono a valutare gli esiti complessivi e possono favorire la scelta che salva il maggior numero di persone. Le teorie deontologiche interrogano invece i limiti dell’azione, la distinzione tra uccidere e lasciar morire e il divieto di usare una persona soltanto come mezzo.",
+          "Il principio del duplice effetto è spesso chiamato in causa per distinguere un danno previsto da un danno inteso come mezzo. La sua applicazione ai casi concreti resta controversa."
+        ]
+      },
+      {
+        "heading": "Uso filosofico e sperimentale",
+        "paragraphs": [
+          "Gli esperimenti sono impiegati in etica normativa, filosofia del diritto e psicologia morale. Le risposte dei partecipanti possono essere influenzate dalla formulazione, dalla cultura e dal contesto, perciò non costituiscono da sole una dimostrazione di una teoria morale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "I dilemmi del carrello isolano variabili morali che nella vita ordinaria si presentano insieme: conseguenze, intenzioni, responsabilità causale, diritti e divieti. La loro funzione non è offrire un algoritmo per le decisioni reali, ma rendere visibili le ragioni in conflitto.",
+      "Le differenze tra deviare un carrello e spingere una persona sui binari hanno alimentato il dibattito sul ruolo dell’intenzione e sulla distinzione tra mezzo e conseguenza prevista. Le intuizioni non sono uniformi e richiedono interpretazione.",
+      "Il confronto tra consequenzialismo e deontologia mostra che valutare un’azione significa discutere non soltanto quanti benefici produca, ma anche quali vincoli debbano limitarne la produzione."
+    ],
+    "tags": [
+      "etica normativa",
+      "dilemma morale",
+      "consequenzialismo",
+      "deontologia"
+    ],
+    "related": [
+      {
+        "label": "Consequenzialismo",
+        "slug": "consequenzialismo",
+        "relation": "valutazione morale in base agli esiti"
+      },
+      {
+        "label": "Deontologia",
+        "slug": "deontologia",
+        "relation": "vincoli e doveri indipendenti dagli esiti"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Philippa Foot, “The Problem of Abortion and the Doctrine of the Double Effect”, Oxford Review, 1967.",
+        "type": "Testo primario / traduzione",
+        "note": "Saggio che introduce la struttura del dilemma del carrello nel dibattito filosofico."
+      },
+      {
+        "label": "Judith Jarvis Thomson, “The Trolley Problem”, Yale Law Journal, 1985.",
+        "type": "Studio secondario",
+        "note": "Analizza e sviluppa le varianti classiche del problema."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Duplice effetto",
+        "explanation": "Principio che distingue effetti previsti ed effetti intesi come mezzi o fini dell’azione."
+      },
+      {
+        "term": "Responsabilità causale",
+        "explanation": "Ruolo dell’agente nella produzione di un esito, distinto dalla sola previsione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "conoscenza-situata",
+    "id": "CON-000223",
+    "kind": "concetto",
+    "title": "Conoscenza situata",
+    "subtitle": "Concezione della conoscenza come attività prodotta da soggetti collocati in contesti storici, corporei e sociali.",
+    "area": "Epistemologia",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "La nozione di conoscenza situata sottolinea che ogni pratica conoscitiva dipende da una prospettiva, da strumenti, istituzioni e condizioni materiali determinate.",
+    "sections": [
+      {
+        "heading": "Definizione",
+        "paragraphs": [
+          "La conoscenza situata contesta l’immagine di un sapere prodotto da un osservatore neutrale, privo di corpo, storia e collocazione sociale. Ogni indagine assume una prospettiva e impiega linguaggi, strumenti e procedure che ne condizionano le possibilità.",
+          "Donna Haraway ha reso influente l’espressione nel dibattito femminista, sostenendo che riconoscere la parzialità della conoscenza consente di assumere responsabilità per ciò che si vede e per il modo in cui lo si rappresenta."
+        ]
+      },
+      {
+        "heading": "Oggettività e parzialità",
+        "paragraphs": [
+          "La parzialità non equivale a relativismo: una prospettiva può essere sottoposta a controlli, confrontata con altre e corretta. L’oggettività diventa una pratica di responsabilità e verifica, non il punto di vista impossibile di nessuno.",
+          "La nozione richiede di esaminare chi produce dati e categorie, quali esperienze vengono rese visibili e quali restano escluse. La pluralità delle prospettive può migliorare la ricerca se è accompagnata da criteri pubblici di confronto."
+        ]
+      },
+      {
+        "heading": "Ambiti di applicazione",
+        "paragraphs": [
+          "Il concetto è usato nella filosofia della scienza, negli studi femministi, nell’epistemologia sociale e nella ricerca interdisciplinare. È rilevante anche per comprendere i limiti dei sistemi di classificazione e delle pratiche di raccolta dei dati."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La conoscenza situata non nega la possibilità di conoscere il mondo; nega che tale conoscenza possa essere separata dalle condizioni concrete della sua produzione. Il soggetto conoscente ha una posizione, utilizza strumenti e partecipa a istituzioni che orientano ciò che può osservare.",
+      "Rendere esplicita la propria collocazione permette di sottoporre a critica i presupposti e di assumere responsabilità per le rappresentazioni prodotte. L’oggettività non è abbandonata, ma ripensata come risultato di pratiche di controllo e confronto tra prospettive.",
+      "Il concetto si collega alla teoria del punto di vista e all’epistemologia sociale, ma non coincide con esse: mette a fuoco la parzialità e la responsabilità della pratica conoscitiva."
+    ],
+    "tags": [
+      "epistemologia",
+      "filosofia della scienza",
+      "femminismo",
+      "oggettività"
+    ],
+    "related": [
+      {
+        "label": "Epistemologia sociale",
+        "slug": "epistemologia-sociale",
+        "relation": "dimensione collettiva e istituzionale del sapere"
+      },
+      {
+        "label": "Teoria del punto di vista",
+        "slug": "teoria-del-punto-di-vista",
+        "relation": "rapporto tra collocazione sociale e accesso alla conoscenza"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, Feminist Studies, 1988.",
+        "type": "Testo primario / traduzione",
+        "note": "Testo di riferimento per la nozione contemporanea di conoscenza situata."
+      },
+      {
+        "label": "Sandra Harding, Whose Science? Whose Knowledge?, Cornell University Press, 1991.",
+        "type": "Studio secondario",
+        "note": "Sviluppa una concezione critica e situata dell’oggettività."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Oggettività situata",
+        "explanation": "Oggettività costruita attraverso il riconoscimento e il controllo delle condizioni parziali della conoscenza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
   }
+]
+
 ]; 
 
 
