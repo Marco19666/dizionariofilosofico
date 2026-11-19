@@ -336,4 +336,22 @@ export const expandedThoughts: Record<string, string[]> = {
     "Questa impostazione mette in discussione l'idea di un individuo astratto e separato dalle relazioni. La comunità è un orizzonte etico nel quale si formano capacità, obblighi e riconoscimento reciproco, non una semplice somma di consuetudini.",
     "La posizione di Menkiti è discussa nel confronto con concezioni individualistiche e altre interpretazioni dell'ubuntu. Il suo contributo rende visibile una domanda generale: in quale misura diventiamo persone grazie agli altri, e come evitare che il valore della comunità cancelli dissenso e autonomia?"
   ],
+
+  "epicuro": [
+    "Epicuro considera la filosofia una pratica terapeutica: il sapere deve liberare dalla paura degli dèi, della morte e dei fenomeni naturali. La fisica atomistica non è un interesse separato dall'etica, perché mostra che il mondo non è governato da potenze punitive e che gli eventi possono essere compresi senza ricorrere al terrore religioso.",
+    "Il piacere è il criterio del bene, ma la sua forma più alta è stabile e misurata. L'assenza di dolore corporeo e turbamento dell'anima vale più dell'accumulo di stimoli; la prudenza distingue desideri necessari, desideri naturali non necessari e desideri vani. La libertà consiste anche nel saper limitare ciò che non è indispensabile.",
+    "L'amicizia e la comunità del Giardino hanno un ruolo essenziale: l'autosufficienza non equivale all'isolamento. Il pensiero epicureo propone una forma di vita capace di sottrarsi alla competizione per il potere e al bisogno di prestigio, senza negare il valore dei legami e della sicurezza condivisa."
+  ],
+  "kant": [
+    "La filosofia critica di Kant domanda quali siano le condizioni che rendono possibile la conoscenza e dove debbano arrestarsi le pretese della ragione. Spazio e tempo sono forme a priori della sensibilità e le categorie dell'intelletto organizzano l'esperienza: il soggetto non copia semplicemente il mondo, ma ne rende possibile la conoscibilità fenomenica.",
+    "La distinzione tra fenomeno e cosa in sé delimita il sapere teoretico. Non autorizza a descrivere un secondo mondo nascosto: indica che le condizioni della nostra esperienza non possono essere estese senza giustificazione a ciò che sarebbe indipendente da essa. La critica è così una disciplina della ragione, non una rinuncia alla metafisica come domanda.",
+    "In etica l'autonomia è la capacità della volontà razionale di riconoscere una legge universalizzabile. L'imperativo categorico tutela la dignità della persona, che non può essere trattata soltanto come mezzo. La libertà non è arbitrio, ma responsabilità secondo principi che ogni soggetto razionale può riconoscere.",
+    "La filosofia del diritto e il progetto della pace perpetua estendono il problema dell'autonomia alla convivenza. La libertà di ciascuno deve poter coesistere con quella di tutti entro istituzioni giuridiche; la pace non è una tregua occasionale, ma un ordine da costruire attraverso repubbliche, diritto internazionale e relazioni pubbliche."
+  ],
+  "hegel": [
+    "Per Hegel la dialettica è il movimento immanente delle determinazioni: un concetto, pensato fino in fondo, rivela tensioni che lo trasformano. Il superamento dialettico conserva e riorganizza aspetti di ciò che supera; non è una sequenza meccanica di tesi, antitesi e sintesi.",
+    "La Fenomenologia dello spirito presenta la formazione della coscienza attraverso figure che entrano in crisi quando il loro criterio di verità non regge all'esperienza. Il sapere non si impone dall'esterno: emerge da un itinerario di autocorrezione nel quale la coscienza comprende i presupposti delle proprie affermazioni.",
+    "La dialettica di signoria e servitù mostra che l'identità dipende dal riconoscimento di un'altra coscienza. Il riconoscimento unilaterale è insufficiente, perché la libertà richiede reciprocità. Il lavoro, inoltre, trasforma il mondo e il soggetto, dando forma a capacità e consapevolezza.",
+    "Nella filosofia del diritto la libertà diventa concreta attraverso istituzioni e pratiche condivise: famiglia, società civile e Stato. La vita etica non cancella l'individuo, ma offre condizioni sociali in cui diritti e responsabilità possono essere effettivi. Resta controverso come valutare la tensione tra critica dialettica e giustificazione dell'ordine istituzionale."
+  ],
 };
