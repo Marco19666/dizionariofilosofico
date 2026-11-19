@@ -381,3 +381,9 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
   color:#11100d;
 }
 .install-app-help{color:#292720}
+
+/* Installazione PWA nell'angolo alto destro dell'intestazione */
+.site-header>.install-app-wrap{margin:0;align-items:flex-end;flex:none}
+.site-header .install-app-button{white-space:nowrap}
+.site-header .install-app-help{position:absolute;z-index:40;top:calc(100% + 8px);right:0;width:min( min(380px, 82vw), 380px);padding:12px;background:var(--paper);border:1px solid var(--line);box-shadow:0 8px 20px rgba(0,0,0,.12)}
+@media(max-width:800px){.site-header>.install-app-wrap{align-self:flex-end;margin-top:-6px}}
