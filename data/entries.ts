@@ -4679,7 +4679,7 @@ export const comparativePaths: ComparativePath[] = [
 
   {
     "slug": "anomia",
-    "id": "CON-000107",
+    "id": "CON-000122",
     "kind": "concetto",
     "title": "Anomia",
     "subtitle": "Indebolimento o insufficienza delle norme che regolano la vita sociale.",
@@ -4727,7 +4727,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "antinomia",
-    "id": "CON-000108",
+    "id": "CON-000123",
     "kind": "concetto",
     "title": "Antinomia",
     "subtitle": "Conflitto tra proposizioni o principi che sembrano entrambi razionalmente sostenibili.",
@@ -4775,7 +4775,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "aporia",
-    "id": "CON-000109",
+    "id": "CON-000124",
     "kind": "concetto",
     "title": "Aporia",
     "subtitle": "Difficoltà argomentativa che blocca il passaggio a una soluzione univoca.",
@@ -4823,7 +4823,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "assiologia",
-    "id": "CON-000110",
+    "id": "CON-000125",
     "kind": "concetto",
     "title": "Assiologia",
     "subtitle": "Indagine filosofica sulla natura, la gerarchia e la validità dei valori.",
@@ -4871,7 +4871,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "biopolitica",
-    "id": "CON-000111",
+    "id": "CON-000126",
     "kind": "concetto",
     "title": "Biopolitica",
     "subtitle": "Modalità di potere che prendono la vita e i processi delle popolazioni come oggetto di governo.",
@@ -4919,7 +4919,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "cattiva-fede",
-    "id": "CON-000112",
+    "id": "CON-000127",
     "kind": "concetto",
     "title": "Cattiva fede",
     "subtitle": "Autoinganno con cui la coscienza maschera la propria libertà e responsabilità.",
@@ -4967,7 +4967,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "coscienza-fenomenica",
-    "id": "CON-000113",
+    "id": "CON-000128",
     "kind": "concetto",
     "title": "Coscienza fenomenica",
     "subtitle": "Carattere soggettivo e qualitativo dell'esperienza cosciente.",
@@ -5015,7 +5015,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "contrattualismo",
-    "id": "CON-000114",
+    "id": "CON-000129",
     "kind": "concetto",
     "title": "Contrattualismo",
     "subtitle": "Famiglia di teorie che fondano principi politici o morali su un accordo ipotetico tra soggetti.",
@@ -5063,7 +5063,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "deontologia",
-    "id": "CON-000115",
+    "id": "CON-000130",
     "kind": "concetto",
     "title": "Deontologia",
     "subtitle": "Approccio etico che valuta azioni e norme in rapporto a doveri e vincoli, non soltanto alle conseguenze.",
@@ -5111,7 +5111,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "differenza-ontologica",
-    "id": "CON-000116",
+    "id": "CON-000131",
     "kind": "concetto",
     "title": "Differenza ontologica",
     "subtitle": "Distinzione tra l'essere e gli enti, centrale nell'analitica esistenziale di Heidegger.",
@@ -5159,7 +5159,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "disobbedienza-civile",
-    "id": "CON-000117",
+    "id": "CON-000132",
     "kind": "concetto",
     "title": "Disobbedienza civile",
     "subtitle": "Violazione pubblica e motivata della legge per contestare un'ingiustizia o una decisione politica.",
@@ -5207,7 +5207,7 @@ export const comparativePaths: ComparativePath[] = [
   },
   {
     "slug": "emergenza",
-    "id": "CON-000118",
+    "id": "CON-000133",
     "kind": "concetto",
     "title": "Emergenza",
     "subtitle": "Comparsa di proprietà o comportamenti di un sistema che non si descrivono adeguatamente considerando isolatamente le sue parti.",
