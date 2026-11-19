@@ -2,9 +2,9 @@
 
 import { useMemo, useState } from "react";
 
-type Props = { id: string; value: string; onChange: (value: string) => void; options: string[]; placeholder?: string; label: string };
+type Props = { id: string; value: string; onChange: (value: string) => void; onSelect?: (value: string) => void; options: string[]; placeholder?: string; label: string };
 
-export default function SearchAutocomplete({ id, value, onChange, options, placeholder, label }: Props) {
+export default function SearchAutocomplete({ id, value, onChange, onSelect, options, placeholder, label }: Props) {
   const [focused, setFocused] = useState(false);
   const [active, setActive] = useState(0);
   const matches = useMemo(() => {
@@ -17,7 +17,7 @@ export default function SearchAutocomplete({ id, value, onChange, options, place
     }).slice(0, 8);
   }, [options, value]);
   const visible = focused && matches.length > 0;
-  function choose(option: string) { onChange(option); setFocused(false); setActive(0); }
+  function choose(option: string) { onChange(option); onSelect?.(option); setFocused(false); setActive(0); }
   return <div className="search-autocomplete">
     <input id={id} type="search" role="combobox" aria-label={label} aria-autocomplete="list" aria-expanded={visible} aria-controls={id+"-suggestions"} aria-activedescendant={visible ? id+"-option-"+active : undefined} autoComplete="off" placeholder={placeholder} value={value} onFocus={() => setFocused(true)} onBlur={() => setFocused(false)} onChange={(event) => { onChange(event.target.value); setActive(0); }} onKeyDown={(event) => {
       if (!visible) return;
