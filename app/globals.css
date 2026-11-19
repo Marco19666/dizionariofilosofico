@@ -360,3 +360,11 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{
 .search-suggestions button{display:block;width:100%;padding:9px 11px;border:0;border-radius:3px;background:transparent;color:#27251f;text-align:left;font:inherit;cursor:pointer}
 .search-suggestions button:hover,.search-suggestions [aria-selected="true"] button{background:#eee8dc}
 .search-autocomplete input:focus-visible,.search-suggestions button:focus-visible{outline:2px solid #77664b;outline-offset:2px}
+
+
+/* Installazione PWA */
+.install-app-wrap{display:inline-flex;flex-direction:column;align-items:flex-start;gap:9px;margin:18px 0 0}
+.install-app-button{display:inline-flex;align-items:center;gap:10px;padding:11px 15px;border:1px solid rgba(232,216,189,.65);background:transparent;color:#f8f5ed;font:inherit;font-size:14px;font-weight:700;cursor:pointer;transition:background .18s ease,color .18s ease}
+.install-app-button:hover{background:#e8d8bd;color:var(--green-dark)}
+.install-app-button svg{width:19px;height:19px;flex:none}
+.install-app-help{max-width:380px;margin:0;color:#e1e3da;font-size:12px;line-height:1.6}

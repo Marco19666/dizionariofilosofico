@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import SearchAutocomplete from "@/components/search-autocomplete";
+import InstallAppButton from "@/components/install-app-button";
 
 import { entries, terms } from "@/data/catalog";
 
@@ -33,7 +34,7 @@ export default function Home() {
           <p className="eyebrow">Un progetto enciclopedico globale</p>
           <h1>La filosofia è una storia <em>plurale</em>.</h1>
           <p className="hero-copy">Un viaggio tra autori, idee, opere e tradizioni del mondo. Con rigore storico, apertura interculturale e strumenti per esplorare le connessioni senza cancellare le differenze.</p>
-          <a className="primary-link" href="/enciclopedia">Esplora il dizionario <span aria-hidden="true">↘</span></a><a className="timeline-home-link" href="/cronologie">Esplora le cronologie parallele →</a><a className="timeline-home-link" href="/lessico">Consulta il lessico filosofico →</a>
+          <a className="primary-link" href="/enciclopedia">Esplora il dizionario <span aria-hidden="true">↘</span></a><InstallAppButton /><a className="timeline-home-link" href="/cronologie">Esplora le cronologie parallele →</a><a className="timeline-home-link" href="/lessico">Consulta il lessico filosofico →</a>
         </div>
         <div className="hero-note" aria-hidden="true"><span>λόγος</span><span>道</span><span>धर्म</span><span>حكمة</span></div>
       </section>
