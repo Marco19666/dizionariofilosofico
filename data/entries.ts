@@ -6504,6 +6504,247 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "paradosso-della-tolleranza",
+    "id": "CON-000160",
+    "kind": "concetto",
+    "title": "Paradosso della tolleranza",
+    "subtitle": "Problema politico secondo cui una società tollerante deve valutare come rapportarsi a movimenti che mirano a sopprimere la tolleranza stessa.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Problema politico secondo cui una società tollerante deve valutare come rapportarsi a movimenti che mirano a sopprimere la tolleranza stessa.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il paradosso della tolleranza è associato alla riflessione di Karl Popper sulla società aperta. Se una comunità tollera senza limiti anche le forze che intendono eliminare la libertà e perseguitare gli avversari, rischia di distruggere le condizioni che rendono possibile la tolleranza."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La tesi non autorizza a reprimere ogni opinione intollerante: Popper distingue la discussione razionale e la critica dalla promozione della violenza e dalla soppressione dei diritti altrui. Il problema consiste nel definire soglie legittime di difesa democratica senza trasformare la protezione della tolleranza in uno strumento arbitrario di censura."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nei dibattiti su democrazia, libertà di espressione e pluralismo. Richiede di bilanciare apertura al dissenso e difesa delle istituzioni che garantiscono a tutti la possibilità di partecipare."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il paradosso della tolleranza è associato alla riflessione di Karl Popper sulla società aperta. Se una comunità tollera senza limiti anche le forze che intendono eliminare la libertà e perseguitare gli avversari, rischia di distruggere le condizioni che rendono possibile la tolleranza.",
+      "La tesi non autorizza a reprimere ogni opinione intollerante: Popper distingue la discussione razionale e la critica dalla promozione della violenza e dalla soppressione dei diritti altrui. Il problema consiste nel definire soglie legittime di difesa democratica senza trasformare la protezione della tolleranza in uno strumento arbitrario di censura.",
+      "Il concetto è centrale nei dibattiti su democrazia, libertà di espressione e pluralismo. Richiede di bilanciare apertura al dissenso e difesa delle istituzioni che garantiscono a tutti la possibilità di partecipare."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Paradosso della tolleranza",
+        "explanation": "Problema politico secondo cui una società tollerante deve valutare come rapportarsi a movimenti che mirano a sopprimere la tolleranza stessa."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "realismo-scientifico",
+    "id": "CON-000161",
+    "kind": "concetto",
+    "title": "Realismo scientifico",
+    "subtitle": "Tesi secondo cui le teorie scientifiche mature descrivono, almeno approssimativamente, una realtà indipendente dalle nostre rappresentazioni.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui le teorie scientifiche mature descrivono, almeno approssimativamente, una realtà indipendente dalle nostre rappresentazioni.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il realismo scientifico sostiene che il successo delle scienze si spiega almeno in parte perché le teorie colgono aspetti reali del mondo, compresi enti non direttamente osservabili. Non considera le teorie soltanto strumenti utili per prevedere fenomeni, ma tentativi di descrivere come le cose stanno indipendentemente da noi."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’argomento del successo della scienza è contrapposto al problema della sottodeterminazione: dati osservativi simili possono essere compatibili con teorie differenti. La storia mostra inoltre che teorie un tempo considerate valide sono state abbandonate. I realisti rispondono distinguendo componenti centrali e aspetti approssimativi delle teorie; gli antirealisti privilegiano spesso l’adeguatezza empirica."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il dibattito interessa la filosofia della scienza, la metafisica e l’epistemologia. La questione è stabilire che cosa autorizzi a passare dal successo predittivo all’affermazione che una teoria descriva davvero entità e strutture del mondo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il realismo scientifico sostiene che il successo delle scienze si spiega almeno in parte perché le teorie colgono aspetti reali del mondo, compresi enti non direttamente osservabili. Non considera le teorie soltanto strumenti utili per prevedere fenomeni, ma tentativi di descrivere come le cose stanno indipendentemente da noi.",
+      "L’argomento del successo della scienza è contrapposto al problema della sottodeterminazione: dati osservativi simili possono essere compatibili con teorie differenti. La storia mostra inoltre che teorie un tempo considerate valide sono state abbandonate. I realisti rispondono distinguendo componenti centrali e aspetti approssimativi delle teorie; gli antirealisti privilegiano spesso l’adeguatezza empirica.",
+      "Il dibattito interessa la filosofia della scienza, la metafisica e l’epistemologia. La questione è stabilire che cosa autorizzi a passare dal successo predittivo all’affermazione che una teoria descriva davvero entità e strutture del mondo."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Realismo scientifico",
+        "explanation": "Tesi secondo cui le teorie scientifiche mature descrivono, almeno approssimativamente, una realtà indipendente dalle nostre rappresentazioni."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "sovradeterminazione-causale",
+    "id": "CON-000162",
+    "kind": "concetto",
+    "title": "Sovradeterminazione causale",
+    "subtitle": "Situazione in cui un effetto è prodotto da più cause sufficienti, ciascuna delle quali sarebbe bastata da sola.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Situazione in cui un effetto è prodotto da più cause sufficienti, ciascuna delle quali sarebbe bastata da sola.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La sovradeterminazione causale si verifica quando due o più processi causali indipendenti concorrono a produrre lo stesso evento, pur essendo ciascuno sufficiente a determinarlo. Gli esempi classici includono casi in cui due agenti provocano simultaneamente un esito che ciascuno avrebbe potuto causare autonomamente."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il fenomeno pone difficoltà alle teorie controfattuali della causalità: eliminando una delle cause, l’effetto si sarebbe comunque verificato grazie all’altra. Nella filosofia della mente il problema è rilevante per valutare se eventi mentali e fisici possano essere entrambi cause di un’azione senza violare la chiusura causale del mondo fisico."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La sovradeterminazione è studiata nella metafisica della causalità, nella filosofia della mente e nel diritto. La sua analisi mette alla prova i criteri con cui attribuiamo responsabilità causale e distinguiamo cause necessarie, sufficienti e concorrenti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La sovradeterminazione causale si verifica quando due o più processi causali indipendenti concorrono a produrre lo stesso evento, pur essendo ciascuno sufficiente a determinarlo. Gli esempi classici includono casi in cui due agenti provocano simultaneamente un esito che ciascuno avrebbe potuto causare autonomamente.",
+      "Il fenomeno pone difficoltà alle teorie controfattuali della causalità: eliminando una delle cause, l’effetto si sarebbe comunque verificato grazie all’altra. Nella filosofia della mente il problema è rilevante per valutare se eventi mentali e fisici possano essere entrambi cause di un’azione senza violare la chiusura causale del mondo fisico.",
+      "La sovradeterminazione è studiata nella metafisica della causalità, nella filosofia della mente e nel diritto. La sua analisi mette alla prova i criteri con cui attribuiamo responsabilità causale e distinguiamo cause necessarie, sufficienti e concorrenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Sovradeterminazione causale",
+        "explanation": "Situazione in cui un effetto è prodotto da più cause sufficienti, ciascuna delle quali sarebbe bastata da sola."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "verita-pragmatica",
+    "id": "CON-000163",
+    "kind": "concetto",
+    "title": "Verità pragmatica",
+    "subtitle": "Concezione che collega la verità alle pratiche di indagine, alla verificazione e alle conseguenze dell’accettazione di un’idea.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione che collega la verità alle pratiche di indagine, alla verificazione e alle conseguenze dell’accettazione di un’idea.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Le teorie pragmatiche della verità, sviluppate in forme diverse da Peirce, James e Dewey, collegano il significato della verità alle pratiche con cui le credenze vengono messe alla prova e corrette. In Peirce assume rilievo l’esito ideale di un’indagine condotta indefinitamente da una comunità di ricercatori."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il pragmatismo non equivale alla tesi secondo cui è vero tutto ciò che risulta momentaneamente utile o conveniente. Le diverse versioni discutono il ruolo della verificazione, della stabilità delle credenze e delle conseguenze pratiche. La difficoltà è evitare sia un relativismo fondato sulle preferenze sia l’identificazione semplicistica tra verità e successo immediato."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nell’epistemologia pragmatista e nella filosofia della scienza. Invita a considerare la verità in rapporto a indagine pubblica, esperienza e revisione delle credenze, senza ridurla a consenso o vantaggio individuale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Le teorie pragmatiche della verità, sviluppate in forme diverse da Peirce, James e Dewey, collegano il significato della verità alle pratiche con cui le credenze vengono messe alla prova e corrette. In Peirce assume rilievo l’esito ideale di un’indagine condotta indefinitamente da una comunità di ricercatori.",
+      "Il pragmatismo non equivale alla tesi secondo cui è vero tutto ciò che risulta momentaneamente utile o conveniente. Le diverse versioni discutono il ruolo della verificazione, della stabilità delle credenze e delle conseguenze pratiche. La difficoltà è evitare sia un relativismo fondato sulle preferenze sia l’identificazione semplicistica tra verità e successo immediato.",
+      "Il concetto è importante nell’epistemologia pragmatista e nella filosofia della scienza. Invita a considerare la verità in rapporto a indagine pubblica, esperienza e revisione delle credenze, senza ridurla a consenso o vantaggio individuale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Verità pragmatica",
+        "explanation": "Concezione che collega la verità alle pratiche di indagine, alla verificazione e alle conseguenze dell’accettazione di un’idea."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "virtu-epistemica",
+    "id": "CON-000164",
+    "kind": "concetto",
+    "title": "Virtù epistemica",
+    "subtitle": "Disposizione stabile del soggetto che favorisce l’acquisizione, la valutazione e la comunicazione responsabile della conoscenza.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Disposizione stabile del soggetto che favorisce l’acquisizione, la valutazione e la comunicazione responsabile della conoscenza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La virtù epistemica è una qualità intellettuale che contribuisce a conoscere bene: tra gli esempi figurano accuratezza, apertura mentale, coraggio intellettuale, umiltà e perseveranza nella ricerca. L’epistemologia delle virtù sposta l’attenzione dalle sole regole della giustificazione alle capacità e al carattere del soggetto conoscente."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie distinguono virtù affidabiliste, legate alla produzione effettiva di credenze vere, e virtù responsibiliste, intese come tratti intellettuali coltivati consapevolmente. Il dibattito riguarda anche il rapporto tra virtù individuali e condizioni sociali: istituzioni e comunità possono favorire o ostacolare pratiche epistemicamente responsabili."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto collega epistemologia, etica e filosofia dell’educazione. È utile per comprendere la fiducia nelle testimonianze, la gestione del disaccordo, la disinformazione e le responsabilità di chi produce o diffonde conoscenza."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La virtù epistemica è una qualità intellettuale che contribuisce a conoscere bene: tra gli esempi figurano accuratezza, apertura mentale, coraggio intellettuale, umiltà e perseveranza nella ricerca. L’epistemologia delle virtù sposta l’attenzione dalle sole regole della giustificazione alle capacità e al carattere del soggetto conoscente.",
+      "Le teorie distinguono virtù affidabiliste, legate alla produzione effettiva di credenze vere, e virtù responsibiliste, intese come tratti intellettuali coltivati consapevolmente. Il dibattito riguarda anche il rapporto tra virtù individuali e condizioni sociali: istituzioni e comunità possono favorire o ostacolare pratiche epistemicamente responsabili.",
+      "Il concetto collega epistemologia, etica e filosofia dell’educazione. È utile per comprendere la fiducia nelle testimonianze, la gestione del disaccordo, la disinformazione e le responsabilità di chi produce o diffonde conoscenza."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Virtù epistemica",
+        "explanation": "Disposizione stabile del soggetto che favorisce l’acquisizione, la valutazione e la comunicazione responsabile della conoscenza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
