@@ -10503,6 +10503,670 @@ export const entries: EncyclopediaEntry[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+,
+  {
+    "slug": "funzionalismo-filosofia-mente",
+    "id": "CON-000234",
+    "kind": "concetto",
+    "title": "Funzionalismo",
+    "subtitle": "Teoria che caratterizza gli stati mentali attraverso i ruoli causali che svolgono, indipendentemente dal particolare supporto materiale.",
+    "area": "Filosofia della mente",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "Il funzionalismo identifica gli stati mentali in base alle relazioni tra stimoli, stati interni e comportamenti. La realizzabilità multipla consente di pensare che organizzazioni funzionali simili possano essere implementate da strutture fisiche differenti.",
+    "sections": [
+      {
+        "heading": "Ruolo funzionale",
+        "paragraphs": [
+          "Uno stato mentale è definito dalla posizione che occupa in una rete di relazioni causali: il dolore, per esempio, è collegato a lesioni, altri stati e condotte tipiche."
+        ]
+      },
+      {
+        "heading": "Realizzabilità multipla",
+        "paragraphs": [
+          "La stessa funzione potrebbe essere realizzata da supporti materiali differenti. Questa tesi ha influenzato le scienze cognitive e i modelli computazionali, senza implicare che ogni simulazione equivalga a una mente."
+        ]
+      },
+      {
+        "heading": "Obiezioni e coscienza",
+        "paragraphs": [
+          "Le critiche chiedono se il ruolo funzionale esaurisca l'esperienza soggettiva e la comprensione. Qualia e stanza cinese sono esperimenti mentali che mettono alla prova la sufficienza della descrizione funzionale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il funzionalismo sposta l'attenzione dalla sostanza mentale all'organizzazione dei processi. La sua forza è spiegare la pluralità dei supporti possibili; il suo limite emerge quando si chiede se la funzione descriva anche il carattere vissuto dell'esperienza."
+    ],
+    "tags": [
+      "mente",
+      "stati mentali",
+      "causalità",
+      "cognizione"
+    ],
+    "related": [
+      {
+        "label": "Qualia",
+        "slug": "qualia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Dualismo",
+        "slug": "Dualismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Fenomenologia",
+        "slug": "fenomenologia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Hilary Putnam, “Psychological Predicates”, 1967.",
+        "note": "Testo fondamentale per la formulazione del funzionalismo.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ruolo funzionale",
+        "explanation": "Relazioni causali che caratterizzano uno stato mentale."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "enattivismo",
+    "id": "CON-000235",
+    "kind": "concetto",
+    "title": "Enattivismo",
+    "subtitle": "Approccio che interpreta la cognizione come attività incarnata e situata, costituita nell'interazione dinamica tra organismo e ambiente.",
+    "area": "Filosofia della mente ed epistemologia",
+    "period": "Dalla fine del XX secolo",
+    "summary": "L'enattivismo considera la cognizione non come semplice rappresentazione interna di un mondo già dato, ma come attività di un organismo autonomo che produce significato attraverso il proprio agire.",
+    "sections": [
+      {
+        "heading": "Cognizione come azione",
+        "paragraphs": [
+          "Percepire non significa soltanto ricevere informazioni: significa esplorare e agire secondo possibilità corporee e bisogni situati. L'organismo contribuisce a strutturare ciò che nell'ambiente è significativo."
+        ]
+      },
+      {
+        "heading": "Autonomia e ambiente",
+        "paragraphs": [
+          "L'organismo mantiene la propria organizzazione e stabilisce norme di rilevanza. Il corpo è costitutivo dei processi cognitivi e l'ambiente offre vincoli e possibilità d'azione."
+        ]
+      },
+      {
+        "heading": "Dibattiti",
+        "paragraphs": [
+          "Le versioni enattiviste differiscono sul ruolo delle rappresentazioni mentali. Resta aperto come spiegare attività astratte, linguaggio e pianificazione senza perdere il legame con l'esperienza incarnata."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'enattivismo studia la cognizione come relazione dinamica, non come processo confinato nel cervello. Il passaggio dalla regolazione biologica alla coscienza richiede tuttavia argomenti ulteriori e non può essere dato per scontato."
+    ],
+    "tags": [
+      "cognizione",
+      "corpo",
+      "azione",
+      "ambiente",
+      "fenomenologia"
+    ],
+    "related": [
+      {
+        "label": "Cognizione incarnata",
+        "slug": "cognizione-incarnata",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Fenomenologia",
+        "slug": "fenomenologia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Francisco J. Varela, Evan Thompson ed Eleanor Rosch, The Embodied Mind, MIT Press, 1991.",
+        "note": "Opera fondativa dell'approccio enattivista.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Enazione",
+        "explanation": "Produzione di significato attraverso l'attività e l'interazione organismo-ambiente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "cognizione-incarnata",
+    "id": "CON-000236",
+    "kind": "concetto",
+    "title": "Cognizione incarnata",
+    "subtitle": "Prospettiva secondo cui i processi cognitivi dipendono in modo costitutivo dal corpo, dalle capacità sensomotorie e dall'ambiente.",
+    "area": "Filosofia della mente e scienze cognitive",
+    "period": "Dalla seconda metà del XX secolo",
+    "summary": "La cognizione incarnata raccoglie teorie che attribuiscono al corpo un ruolo costitutivo nel pensiero e nella percezione: le strutture corporee contribuiscono a organizzare le attività cognitive.",
+    "sections": [
+      {
+        "heading": "Corpo e cognizione",
+        "paragraphs": [
+          "Postura, movimento, percezione e possibilità d'azione influenzano la formazione dei concetti e il ragionamento. Le versioni deboli parlano di influenza corporea; quelle forti di costituzione del processo cognitivo."
+        ]
+      },
+      {
+        "heading": "Percezione e azione",
+        "paragraphs": [
+          "La percezione può essere intesa come attività esplorativa: il soggetto coordina movimenti e informazioni sensoriali per individuare possibilità d'azione. Alcuni concetti astratti utilizzano schemi derivati dall'esperienza sensomotoria."
+        ]
+      },
+      {
+        "heading": "Approcci affini",
+        "paragraphs": [
+          "La cognizione incarnata dialoga con enattivismo e approcci ecologici, ma non coincide con essi. Le teorie differiscono sul peso attribuito a rappresentazioni interne e ambiente."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'approccio contesta l'immagine di una mente disincarnata che elabora simboli indipendentemente dal corpo. Riconoscere il ruolo corporeo non significa però negare il cervello o ridurre ogni concetto a una sensazione."
+    ],
+    "tags": [
+      "corpo",
+      "cognizione",
+      "percezione",
+      "azione",
+      "scienze cognitive"
+    ],
+    "related": [
+      {
+        "label": "Enattivismo",
+        "slug": "enattivismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Fenomenologia",
+        "slug": "fenomenologia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Lawrence Shapiro, Embodied Cognition, Routledge, 2011.",
+        "note": "Introduzione sistematica alle principali tesi e controversie.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Embodiment",
+        "explanation": "Condizione per cui la cognizione dipende dalla struttura e dalle capacità del corpo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "qualia",
+    "id": "CON-000237",
+    "kind": "concetto",
+    "title": "Qualia",
+    "subtitle": "Caratteri qualitativi soggettivi dell'esperienza cosciente, come il modo in cui appare un colore o si avverte un dolore.",
+    "area": "Filosofia della mente",
+    "period": "Dibattito contemporaneo",
+    "summary": "I qualia indicano gli aspetti fenomenici dell'esperienza, cioè il modo in cui un'esperienza è vissuta in prima persona. Il loro statuto è centrale nel dibattito sulla coscienza e sui limiti delle spiegazioni fisicaliste.",
+    "sections": [
+      {
+        "heading": "Qualità fenomeniche",
+        "paragraphs": [
+          "Vedere il rosso o provare dolore comporta un carattere vissuto. Non esiste una definizione condivisa: alcuni intendono i qualia come proprietà intrinseche, altri come aspetti descrivibili tramite discriminazioni e accesso cognitivo."
+        ]
+      },
+      {
+        "heading": "Argomenti sulla coscienza",
+        "paragraphs": [
+          "L'argomento della conoscenza immagina una scienziata che conosce tutti i fatti fisici sulla visione dei colori ma non ha mai visto un colore. Gli esperimenti dei qualia invertiti chiedono se esperienze differenti possano accompagnare le stesse disposizioni funzionali."
+        ]
+      },
+      {
+        "heading": "Obiezioni",
+        "paragraphs": [
+          "I fisicalisti contestano che questi argomenti dimostrino fatti non fisici. L'acquisizione di una nuova prospettiva o capacità non stabilisce da sola una nuova proprietà ontologica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "I qualia rendono esplicita la distanza tra descrivere un processo dall'esterno e comprendere come sia vissuto. Occorre distinguere coscienza fenomenica, coscienza di accesso, intenzionalità e introspezione."
+    ],
+    "tags": [
+      "coscienza",
+      "esperienza",
+      "mente",
+      "fisicalismo",
+      "fenomenologia"
+    ],
+    "related": [
+      {
+        "label": "Funzionalismo filosofia mente",
+        "slug": "funzionalismo-filosofia-mente",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Dualismo",
+        "slug": "dualismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Frank Jackson, “Epiphenomenal Qualia”, The Philosophical Quarterly, 1982.",
+        "note": "Testo classico dell'argomento della conoscenza.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Carattere fenomenico",
+        "explanation": "Il modo soggettivo in cui un'esperienza si presenta a chi la vive."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "rappresentazionalismo",
+    "id": "CON-000238",
+    "kind": "concetto",
+    "title": "Rappresentazionalismo",
+    "subtitle": "Teoria secondo cui il carattere dell'esperienza cosciente dipende, almeno in parte, dal contenuto rappresentazionale degli stati percettivi.",
+    "area": "Filosofia della mente ed epistemologia",
+    "period": "Dibattito contemporaneo",
+    "summary": "Il rappresentazionalismo sostiene che le esperienze percettive rappresentino il mondo come dotato di determinate proprietà. Alcune versioni identificano il carattere fenomenico con il contenuto rappresentato; altre difendono tesi più moderate.",
+    "sections": [
+      {
+        "heading": "Esperienza e contenuto",
+        "paragraphs": [
+          "Un'esperienza visiva presenta oggetti come colorati, estesi e collocati nello spazio. Il rappresentazionalista spiega tali aspetti facendo riferimento a ciò che l'esperienza rappresenta, non soltanto alle sensazioni considerate isolatamente."
+        ]
+      },
+      {
+        "heading": "Versioni della teoria",
+        "paragraphs": [
+          "Le versioni forti sostengono che il contenuto rappresentazionale determini interamente il carattere fenomenico. Versioni più deboli ammettono che il contenuto sia necessario ma non sufficiente."
+        ]
+      },
+      {
+        "heading": "Problemi e obiezioni",
+        "paragraphs": [
+          "Le controversie riguardano allucinazioni, contenuti non concettuali, qualità secondarie e possibilità di esperienze con contenuto simile ma carattere fenomenico differente."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il rappresentazionalismo offre un ponte tra filosofia della percezione e filosofia della mente. La sua plausibilità dipende da come si definiscono contenuto, rappresentazione e carattere fenomenico, termini che non sono equivalenti in ogni teoria."
+    ],
+    "tags": [
+      "percezione",
+      "contenuto mentale",
+      "coscienza",
+      "rappresentazione"
+    ],
+    "related": [
+      {
+        "label": "Qualia",
+        "slug": "qualia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Funzionalismo filosofia mente",
+        "slug": "funzionalismo-filosofia-mente",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Fred Dretske, Naturalizing the Mind, MIT Press, 1995.",
+        "note": "Difesa influente di una teoria rappresentazionale della mente.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Contenuto rappresentazionale",
+        "explanation": "Ciò che uno stato mentale presenta come essente in un certo modo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "panpsichismo",
+    "id": "CON-000239",
+    "kind": "concetto",
+    "title": "Panpsichismo",
+    "subtitle": "Posizione metafisica secondo cui la dimensione mentale o proto-mentale è una caratteristica fondamentale e diffusa della realtà.",
+    "area": "Metafisica e filosofia della mente",
+    "period": "Dall'antichità al dibattito contemporaneo",
+    "summary": "Il panpsichismo attribuisce una qualche forma di proprietà mentale o proto-mentale agli elementi fondamentali della natura. Le versioni contemporanee cercano di affrontare il problema della coscienza senza ridurla a un prodotto inspiegato della materia non cosciente.",
+    "sections": [
+      {
+        "heading": "Tesi fondamentali",
+        "paragraphs": [
+          "Il panpsichismo non sostiene necessariamente che ogni oggetto ordinario pensi o abbia coscienza come un essere umano. Le sue formulazioni variano su quali entità possiedano proprietà proto-mentali e su come tali proprietà siano organizzate."
+        ]
+      },
+      {
+        "heading": "Il problema della combinazione",
+        "paragraphs": [
+          "Una difficoltà centrale consiste nello spiegare come esperienze o aspetti proto-mentali elementari possano combinarsi in un soggetto unitario. Il problema è spesso considerato il principale costo teorico della posizione."
+        ]
+      },
+      {
+        "heading": "Confronti e critiche",
+        "paragraphs": [
+          "Il panpsichismo si confronta con fisicalismo, dualismo ed emergentismo. I critici chiedono se la teoria spieghi davvero la coscienza o sposti soltanto il problema ai livelli fondamentali della realtà."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il panpsichismo tenta di evitare l'emergere radicale della coscienza da una materia del tutto priva di aspetti mentali. La sua sfida decisiva è rendere intelligibile l'unità del soggetto e non limitarsi a postulare proprietà diffuse."
+    ],
+    "tags": [
+      "coscienza",
+      "metafisica",
+      "mente",
+      "materia",
+      "esperienza"
+    ],
+    "related": [
+      {
+        "label": "Emergentismo",
+        "slug": "emergentismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Dualismo",
+        "slug": "dualismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Galen Strawson, “Realistic Monism: Why Physicalism Entails Panpsychism”, 2006.",
+        "note": "Difesa contemporanea del monismo panpsichista.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Problema della combinazione",
+        "explanation": "Difficoltà di spiegare come elementi proto-mentali formino un'esperienza unitaria."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "monismo-anomalo",
+    "id": "CON-000240",
+    "kind": "concetto",
+    "title": "Monismo anomalo",
+    "subtitle": "Teoria di Donald Davidson secondo cui ogni evento mentale è un evento fisico, pur non esistendo leggi psicofisiche rigorose che riducano il mentale al fisico.",
+    "area": "Filosofia della mente e metafisica",
+    "period": "XX secolo",
+    "summary": "Il monismo anomalo combina l'identità degli eventi mentali e fisici con l'irriducibilità delle descrizioni mentali. La posizione cerca di conciliare efficacia causale del mentale e autonomia delle spiegazioni psicologiche.",
+    "sections": [
+      {
+        "heading": "Eventi e descrizioni",
+        "paragraphs": [
+          "Un singolo evento può essere descritto come mentale e come fisico. L'identità riguarda gli eventi individuali, mentre le descrizioni appartengono a vocabolari concettuali differenti."
+        ]
+      },
+      {
+        "heading": "Anomalia del mentale",
+        "paragraphs": [
+          "Davidson sostiene che le spiegazioni mentali dipendano da criteri di razionalità e interpretazione che impediscono di formulare leggi psicofisiche strette. L'assenza di leggi riduttive non implica l'assenza di cause mentali."
+        ]
+      },
+      {
+        "heading": "Critiche",
+        "paragraphs": [
+          "Il problema principale riguarda la compatibilità tra efficacia causale del mentale e chiusura causale del fisico. I critici chiedono se la posizione eviti davvero l'epifenomenismo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il monismo anomalo distingue identità ontologica e riduzione teorica: che gli eventi siano fisici non significa che il vocabolario mentale sia eliminabile. La questione resta se questa autonomia esplicativa basti a garantire la causalità mentale."
+    ],
+    "tags": [
+      "Davidson",
+      "causalità",
+      "mente",
+      "fisicalismo",
+      "eventi"
+    ],
+    "related": [
+      {
+        "label": "Causalita mentale",
+        "slug": "causalita-mentale",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Dualismo",
+        "slug": "dualismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Donald Davidson, “Mental Events”, in Experience and Theory, 1970.",
+        "note": "Testo fondativo del monismo anomalo.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Anomalia del mentale",
+        "explanation": "Impossibilità di formulare leggi psicofisiche rigorose secondo la tesi davidsoniana."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "coscienza-di-accesso",
+    "id": "CON-000241",
+    "kind": "concetto",
+    "title": "Coscienza di accesso",
+    "subtitle": "Disponibilità di contenuti mentali per il ragionamento, il controllo dell'azione, la memoria operativa e la comunicazione.",
+    "area": "Filosofia della mente e scienze cognitive",
+    "period": "Dibattito contemporaneo",
+    "summary": "La coscienza di accesso riguarda l'utilizzabilità di un contenuto mentale da parte di diversi sistemi cognitivi. Viene spesso distinta dalla coscienza fenomenica, cioè dal carattere soggettivo dell'esperienza.",
+    "sections": [
+      {
+        "heading": "Accesso e integrazione",
+        "paragraphs": [
+          "Un contenuto è accessibile quando può guidare inferenze, decisioni, resoconti verbali e controllo intenzionale. La nozione è collegata a modelli che studiano l'integrazione e la disponibilità globale delle informazioni."
+        ]
+      },
+      {
+        "heading": "Distinzione dalla fenomenicità",
+        "paragraphs": [
+          "Un soggetto potrebbe, secondo alcune teorie, avere un'esperienza senza che il suo contenuto sia pienamente disponibile al ragionamento o al resoconto. La relazione tra accesso e fenomenicità è controversa."
+        ]
+      },
+      {
+        "heading": "Questioni teoriche",
+        "paragraphs": [
+          "Le teorie differiscono sul fatto che l'accesso spieghi la coscienza oppure ne descriva soltanto alcune funzioni. La distinzione è importante anche nello studio del sonno, dell'attenzione e dei disturbi della coscienza."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La coscienza di accesso offre criteri funzionali e cognitivi per studiare la disponibilità dei contenuti mentali. Non risolve da sola il problema del carattere soggettivo: poter riferire un contenuto e viverlo in prima persona sono questioni concettualmente distinguibili."
+    ],
+    "tags": [
+      "coscienza",
+      "attenzione",
+      "accesso",
+      "memoria",
+      "mente"
+    ],
+    "related": [
+      {
+        "label": "Qualia",
+        "slug": "qualia",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Funzionalismo filosofia mente",
+        "slug": "funzionalismo-filosofia-mente",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Ned Block, “On a Confusion about a Function of Consciousness”, 1995.",
+        "note": "Testo influente sulla distinzione tra coscienza fenomenica e di accesso.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Accesso cognitivo",
+        "explanation": "Disponibilità di un contenuto per ragionamento, controllo e comunicazione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "identita-mente-cervello",
+    "id": "CON-000242",
+    "kind": "concetto",
+    "title": "Identità mente-cervello",
+    "subtitle": "Teoria secondo cui gli stati mentali sono identici a stati o processi cerebrali, non semplicemente correlati a essi.",
+    "area": "Filosofia della mente e filosofia della scienza",
+    "period": "XX secolo",
+    "summary": "La teoria dell'identità mente-cervello sostiene che gli eventi mentali siano processi cerebrali. La correlazione tra attività neurale ed esperienza viene interpretata come identità ontologica, non come relazione tra due sostanze indipendenti.",
+    "sections": [
+      {
+        "heading": "Identità dei tipi e degli eventi",
+        "paragraphs": [
+          "La teoria dell'identità dei tipi associa ogni tipo di stato mentale a un tipo di stato cerebrale. Le teorie dell'identità degli eventi sostengono invece che ogni evento mentale particolare sia un evento fisico, senza richiedere corrispondenze rigide tra tipi."
+        ]
+      },
+      {
+        "heading": "Argomenti e sviluppi",
+        "paragraphs": [
+          "Le neuroscienze hanno rafforzato l'idea che la vita mentale dipenda dal cervello. La realizzabilità multipla ha però messo in difficoltà le versioni più semplici dell'identità dei tipi."
+        ]
+      },
+      {
+        "heading": "Obiezioni",
+        "paragraphs": [
+          "Le critiche riguardano la possibilità di realizzazioni differenti, il carattere soggettivo dell'esperienza e il rapporto tra spiegazioni in prima e in terza persona. Le teorie dell'identità hanno risposto con formulazioni più flessibili."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La teoria dell'identità offre una soluzione materialista al rapporto mente-corpo: non due realtà che interagiscono, ma un unico processo descritto in modi differenti. Il problema è spiegare come la descrizione fisica renda conto di tutte le caratteristiche mentali."
+    ],
+    "tags": [
+      "cervello",
+      "mente",
+      "identità",
+      "fisicalismo",
+      "neuroscienze"
+    ],
+    "related": [
+      {
+        "label": "Funzionalismo filosofia mente",
+        "slug": "funzionalismo-filosofia-mente",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Dualismo",
+        "slug": "dualismo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "U. T. Place, “Is Consciousness a Brain Process?”, 1956.",
+        "note": "Formulazione classica della teoria dell'identità mente-cervello.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Identità dei tipi",
+        "explanation": "Tesi secondo cui tipi di stati mentali corrispondono a tipi di stati cerebrali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "causalita-mentale",
+    "id": "CON-000243",
+    "kind": "concetto",
+    "title": "Causalità mentale",
+    "subtitle": "Problema filosofico relativo al modo in cui desideri, credenze, intenzioni ed esperienze possono produrre effetti nel mondo fisico.",
+    "area": "Metafisica e filosofia della mente",
+    "period": "Dibattito contemporaneo",
+    "summary": "La causalità mentale riguarda l'efficacia degli stati mentali nell'azione e nei processi corporei. Il problema nasce dal tentativo di conciliare il ruolo causale della mente con una concezione fisica chiusa delle cause degli eventi corporei.",
+    "sections": [
+      {
+        "heading": "Spiegazione dell'azione",
+        "paragraphs": [
+          "Credenze e desideri sembrano spiegare perché un agente agisca in un certo modo. La spiegazione intenzionale collega contenuti mentali, ragioni e comportamento, ma resta da chiarire come questa relazione si inserisca nella causalità fisica."
+        ]
+      },
+      {
+        "heading": "Esclusione causale",
+        "paragraphs": [
+          "Se ogni effetto fisico ha una causa fisica sufficiente, quale spazio resta per una causa mentale distinta? Le teorie materialiste devono spiegare se il mentale sia identico al fisico, realizzato da esso o causalmente autonomo."
+        ]
+      },
+      {
+        "heading": "Alternative teoriche",
+        "paragraphs": [
+          "Le risposte includono identità mente-cervello, funzionalismo, emergentismo e monismo anomalo. Ciascuna affronta diversamente il rapporto tra spiegazione mentale e descrizione fisica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il problema della causalità mentale mostra che non basta affermare che la mente dipende dal cervello: occorre spiegare in che senso ragioni e intenzioni fanno differenza nell'azione. La sfida è evitare sia il dualismo interazionista problematico sia un mentale causalmente inerte."
+    ],
+    "tags": [
+      "causalità",
+      "azione",
+      "mente",
+      "fisicalismo",
+      "intenzionalità"
+    ],
+    "related": [
+      {
+        "label": "Monismo anomalo",
+        "slug": "monismo-anomalo",
+        "relation": "confronto concettuale e approfondimento tematico"
+      },
+      {
+        "label": "Funzionalismo filosofia mente",
+        "slug": "funzionalismo-filosofia-mente",
+        "relation": "confronto concettuale e approfondimento tematico"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Jaegwon Kim, Mind in a Physical World, MIT Press, 1998.",
+        "note": "Analisi influente del problema dell'esclusione causale.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Esclusione causale",
+        "explanation": "Problema di come una causa mentale possa essere efficace se esiste già una causa fisica sufficiente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  }
 ]; 
 
 
