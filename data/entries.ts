@@ -3913,6 +3913,166 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
+  {
+    "slug": "cosmopolitismo",
+    "id": "CON-000107",
+    "kind": "concetto",
+    "title": "Cosmopolitismo",
+    "subtitle": "Appartenenza al mondo e giustizia globale",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Il cosmopolitismo concepisce gli esseri umani come membri di una comunità che oltrepassa i confini politici locali. Le sue versioni stoiche, kantiane e contemporanee divergono sui doveri globali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il cosmopolitismo concepisce gli esseri umani come membri di una comunità che oltrepassa i confini politici locali. Le sue versioni stoiche, kantiane e contemporanee divergono sui doveri globali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il concetto assume significati differenti secondo gli autori e i contesti. Occorre distinguere gli usi storici dalle interpretazioni successive e chiarire il problema teorico a cui risponde."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il cosmopolitismo concepisce gli esseri umani come membri di una comunità che oltrepassa i confini politici locali. Le sue versioni stoiche, kantiane e contemporanee divergono sui doveri globali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Cosmopolitismo",
+        "explanation": "Il cosmopolitismo concepisce gli esseri umani come membri di una comunità che oltrepassa i confini politici locali. Le sue versioni stoiche, kantiane e contemporanee divergono sui doveri globali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ermeneutica",
+    "id": "CON-000108",
+    "kind": "concetto",
+    "title": "Ermeneutica",
+    "subtitle": "Interpretazione, testo e comprensione",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "L'ermeneutica studia le condizioni e i metodi dell'interpretazione. Da pratica esegetica diventa una riflessione generale sulla comprensione in Schleiermacher, Dilthey, Heidegger e Gadamer.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'ermeneutica studia le condizioni e i metodi dell'interpretazione. Da pratica esegetica diventa una riflessione generale sulla comprensione in Schleiermacher, Dilthey, Heidegger e Gadamer."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il concetto assume significati differenti secondo gli autori e i contesti. Occorre distinguere gli usi storici dalle interpretazioni successive e chiarire il problema teorico a cui risponde."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'ermeneutica studia le condizioni e i metodi dell'interpretazione. Da pratica esegetica diventa una riflessione generale sulla comprensione in Schleiermacher, Dilthey, Heidegger e Gadamer."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Ermeneutica",
+        "explanation": "L'ermeneutica studia le condizioni e i metodi dell'interpretazione. Da pratica esegetica diventa una riflessione generale sulla comprensione in Schleiermacher, Dilthey, Heidegger e Gadamer."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "incommensurabilita",
+    "id": "CON-000109",
+    "kind": "concetto",
+    "title": "Incommensurabilità",
+    "subtitle": "Assenza di una misura comune",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "L'incommensurabilità indica la difficoltà di confrontare integralmente teorie o paradigmi differenti mediante un linguaggio neutrale. È associata soprattutto a Kuhn e Feyerabend.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'incommensurabilità indica la difficoltà di confrontare integralmente teorie o paradigmi differenti mediante un linguaggio neutrale. È associata soprattutto a Kuhn e Feyerabend."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il concetto assume significati differenti secondo gli autori e i contesti. Occorre distinguere gli usi storici dalle interpretazioni successive e chiarire il problema teorico a cui risponde."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'incommensurabilità indica la difficoltà di confrontare integralmente teorie o paradigmi differenti mediante un linguaggio neutrale. È associata soprattutto a Kuhn e Feyerabend."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Incommensurabilità",
+        "explanation": "L'incommensurabilità indica la difficoltà di confrontare integralmente teorie o paradigmi differenti mediante un linguaggio neutrale. È associata soprattutto a Kuhn e Feyerabend."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "performativita",
+    "id": "CON-000110",
+    "kind": "concetto",
+    "title": "Performatività",
+    "subtitle": "Il linguaggio come azione",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "La performatività riguarda enunciati che non si limitano a descrivere il mondo, ma compiono azioni in condizioni appropriate. Austin ne sviluppa l'analisi degli atti linguistici.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La performatività riguarda enunciati che non si limitano a descrivere il mondo, ma compiono azioni in condizioni appropriate. Austin ne sviluppa l'analisi degli atti linguistici."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il concetto assume significati differenti secondo gli autori e i contesti. Occorre distinguere gli usi storici dalle interpretazioni successive e chiarire il problema teorico a cui risponde."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La performatività riguarda enunciati che non si limitano a descrivere il mondo, ma compiono azioni in condizioni appropriate. Austin ne sviluppa l'analisi degli atti linguistici."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Performatività",
+        "explanation": "La performatività riguarda enunciati che non si limitano a descrivere il mondo, ma compiono azioni in condizioni appropriate. Austin ne sviluppa l'analisi degli atti linguistici."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
 ]; 
 
 
