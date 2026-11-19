@@ -3616,7 +3616,7 @@ export const entries: EncyclopediaEntry[] = [
       { date: "Età antica e sviluppi successivi", event: "Ambito storico di elaborazione e trasformazione del concetto; non indica necessariamente una data di origine univoca." }
     ],
     editorialStatus: "edizione editoriale 1.0"
-  }
+  },
   {
     "slug": "mary-wollstonecraft",
     "id": "AUT-000451",
