@@ -6023,6 +6023,487 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "essenzialismo",
+    "id": "CON-000150",
+    "kind": "concetto",
+    "title": "Essenzialismo",
+    "subtitle": "Posizione secondo cui individui o generi possiedono proprietà essenziali che ne determinano ciò che sono.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione secondo cui individui o generi possiedono proprietà essenziali che ne determinano ciò che sono.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’essenzialismo afferma che alcune proprietà appartengono a una cosa in modo necessario e contribuiscono a definirne l’identità o la natura. Nella metafisica aristotelica la distinzione tra essenza e accidente permette di separare ciò che una cosa è da ciò che può variare senza che essa cessi di essere ciò che è."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le versioni dell’essenzialismo differiscono per l’ambito delle essenze e per il loro statuto: possono essere intese come strutture reali, definizioni concettuali o proprietà necessarie in ogni mondo possibile. Le critiche contemporanee sottolineano la storicità delle classificazioni, la variabilità biologica e il rischio di trasformare categorie sociali in presunte nature immutabili."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il dibattito coinvolge metafisica, filosofia della biologia, linguaggio e teoria sociale. La domanda fondamentale è quando una proprietà sia davvero costitutiva e quando, invece, rifletta convenzioni, contingenze storiche o pratiche classificatorie."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’essenzialismo afferma che alcune proprietà appartengono a una cosa in modo necessario e contribuiscono a definirne l’identità o la natura. Nella metafisica aristotelica la distinzione tra essenza e accidente permette di separare ciò che una cosa è da ciò che può variare senza che essa cessi di essere ciò che è.",
+      "Le versioni dell’essenzialismo differiscono per l’ambito delle essenze e per il loro statuto: possono essere intese come strutture reali, definizioni concettuali o proprietà necessarie in ogni mondo possibile. Le critiche contemporanee sottolineano la storicità delle classificazioni, la variabilità biologica e il rischio di trasformare categorie sociali in presunte nature immutabili.",
+      "Il dibattito coinvolge metafisica, filosofia della biologia, linguaggio e teoria sociale. La domanda fondamentale è quando una proprietà sia davvero costitutiva e quando, invece, rifletta convenzioni, contingenze storiche o pratiche classificatorie."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Essenzialismo",
+        "explanation": "Posizione secondo cui individui o generi possiedono proprietà essenziali che ne determinano ciò che sono."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "eudaimonia",
+    "id": "CON-000151",
+    "kind": "concetto",
+    "title": "Eudaimonia",
+    "subtitle": "Forma di vita riuscita o fioritura umana, tradizionalmente distinta dal semplice piacere momentaneo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Forma di vita riuscita o fioritura umana, tradizionalmente distinta dal semplice piacere momentaneo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nella filosofia greca, soprattutto in Aristotele, eudaimonia indica il fine ultimo della vita umana: vivere e agire bene nel corso di un’esistenza compiuta. Non coincide con uno stato emotivo passeggero, ma con una condizione complessiva di fioritura, legata all’esercizio delle capacità razionali e delle virtù."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Aristotele la definisce come attività dell’anima secondo virtù, in una vita completa. Il ruolo dei beni esterni e della fortuna mostra che la felicità non dipende esclusivamente dalla volontà individuale. Altre scuole antiche, come epicureismo e stoicismo, ne offrono interpretazioni differenti, dando diverso peso al piacere, alla serenità e all’autosufficienza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nell’etica delle virtù e nelle teorie contemporanee del benessere. Invita a distinguere la soddisfazione soggettiva dalla qualità oggettiva di una vita e a chiedersi quali capacità, relazioni e condizioni rendano possibile la fioritura umana."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nella filosofia greca, soprattutto in Aristotele, eudaimonia indica il fine ultimo della vita umana: vivere e agire bene nel corso di un’esistenza compiuta. Non coincide con uno stato emotivo passeggero, ma con una condizione complessiva di fioritura, legata all’esercizio delle capacità razionali e delle virtù.",
+      "Aristotele la definisce come attività dell’anima secondo virtù, in una vita completa. Il ruolo dei beni esterni e della fortuna mostra che la felicità non dipende esclusivamente dalla volontà individuale. Altre scuole antiche, come epicureismo e stoicismo, ne offrono interpretazioni differenti, dando diverso peso al piacere, alla serenità e all’autosufficienza.",
+      "Il concetto è centrale nell’etica delle virtù e nelle teorie contemporanee del benessere. Invita a distinguere la soddisfazione soggettiva dalla qualità oggettiva di una vita e a chiedersi quali capacità, relazioni e condizioni rendano possibile la fioritura umana."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Eudaimonia",
+        "explanation": "Forma di vita riuscita o fioritura umana, tradizionalmente distinta dal semplice piacere momentaneo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "fatticita",
+    "id": "CON-000152",
+    "kind": "concetto",
+    "title": "Fatticità",
+    "subtitle": "Carattere di ciò che è dato come fatto e condizione concreta dell’esistenza, non scelto liberamente dal soggetto.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Carattere di ciò che è dato come fatto e condizione concreta dell’esistenza, non scelto liberamente dal soggetto.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La fatticità indica l’insieme delle condizioni concrete entro cui un’esistenza si trova: corpo, passato, situazione storica, relazioni e circostanze non decise dal soggetto. Nella fenomenologia e nell’esistenzialismo il termine chiarisce che la libertà non opera nel vuoto, ma sempre a partire da una situazione determinata."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "In Heidegger la fatticità riguarda il carattere situato dell’esistenza; in Sartre la situazione è il limite concreto entro cui la libertà si esercita e assume significato. La fatticità non annulla la libertà, ma ne definisce il campo. Il problema consiste nel comprendere come distinguere ciò che ci è dato da ciò che facciamo di esso."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è utile per analizzare responsabilità, identità, corporeità e storicità. Permette di evitare sia l’idea di una libertà assoluta sia il determinismo che riduce il soggetto alle condizioni in cui si trova."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La fatticità indica l’insieme delle condizioni concrete entro cui un’esistenza si trova: corpo, passato, situazione storica, relazioni e circostanze non decise dal soggetto. Nella fenomenologia e nell’esistenzialismo il termine chiarisce che la libertà non opera nel vuoto, ma sempre a partire da una situazione determinata.",
+      "In Heidegger la fatticità riguarda il carattere situato dell’esistenza; in Sartre la situazione è il limite concreto entro cui la libertà si esercita e assume significato. La fatticità non annulla la libertà, ma ne definisce il campo. Il problema consiste nel comprendere come distinguere ciò che ci è dato da ciò che facciamo di esso.",
+      "Il concetto è utile per analizzare responsabilità, identità, corporeità e storicità. Permette di evitare sia l’idea di una libertà assoluta sia il determinismo che riduce il soggetto alle condizioni in cui si trova."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Fatticità",
+        "explanation": "Carattere di ciò che è dato come fatto e condizione concreta dell’esistenza, non scelto liberamente dal soggetto."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "intenzionalita-collettiva",
+    "id": "CON-000153",
+    "kind": "concetto",
+    "title": "Intenzionalità collettiva",
+    "subtitle": "Capacità di più soggetti di condividere intenzioni, impegni e orientamenti d’azione come un gruppo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Capacità di più soggetti di condividere intenzioni, impegni e orientamenti d’azione come un gruppo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’intenzionalità collettiva riguarda stati mentali e pratiche che non sono semplicemente la somma di intenzioni individuali. Un gruppo può agire insieme, assumere impegni condivisi e riconoscere regole comuni. La filosofia contemporanea, con autori come John Searle e Margaret Gilbert, ha indagato le condizioni che rendono possibile questa dimensione condivisa."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie divergono su ciò che costituisce il soggetto collettivo: un’intenzione congiunta, un impegno reciproco, una struttura istituzionale o un riconoscimento comune. Il problema è spiegare come l’azione del gruppo dipenda dai partecipanti senza essere ridotta a una coincidenza di comportamenti individuali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema è rilevante per la filosofia sociale, il diritto, la teoria delle istituzioni e l’etica della responsabilità condivisa. Aiuta a comprendere promesse collettive, decisioni organizzative, identità di gruppo e responsabilità per azioni compiute insieme."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’intenzionalità collettiva riguarda stati mentali e pratiche che non sono semplicemente la somma di intenzioni individuali. Un gruppo può agire insieme, assumere impegni condivisi e riconoscere regole comuni. La filosofia contemporanea, con autori come John Searle e Margaret Gilbert, ha indagato le condizioni che rendono possibile questa dimensione condivisa.",
+      "Le teorie divergono su ciò che costituisce il soggetto collettivo: un’intenzione congiunta, un impegno reciproco, una struttura istituzionale o un riconoscimento comune. Il problema è spiegare come l’azione del gruppo dipenda dai partecipanti senza essere ridotta a una coincidenza di comportamenti individuali.",
+      "Il tema è rilevante per la filosofia sociale, il diritto, la teoria delle istituzioni e l’etica della responsabilità condivisa. Aiuta a comprendere promesse collettive, decisioni organizzative, identità di gruppo e responsabilità per azioni compiute insieme."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Intenzionalità collettiva",
+        "explanation": "Capacità di più soggetti di condividere intenzioni, impegni e orientamenti d’azione come un gruppo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ingiustizia-epistemica",
+    "id": "CON-000154",
+    "kind": "concetto",
+    "title": "Ingiustizia epistemica",
+    "subtitle": "Danno subito da una persona nella sua capacità di conoscere o di essere riconosciuta come soggetto conoscente.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Danno subito da una persona nella sua capacità di conoscere o di essere riconosciuta come soggetto conoscente.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di ingiustizia epistemica, sviluppato da Miranda Fricker, descrive forme di ingiustizia che colpiscono individui in quanto soggetti di conoscenza. Si parla di ingiustizia testimoniale quando un pregiudizio riduce ingiustamente la credibilità attribuita a chi parla; di ingiustizia ermeneutica quando mancano risorse interpretative condivise per comprendere e comunicare un’esperienza sociale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Queste forme di ingiustizia non riguardano soltanto errori individuali di valutazione, ma possono essere incorporate in pratiche, istituzioni e distribuzioni diseguali dell’autorità interpretativa. La risposta richiede virtù epistemiche, ascolto critico e trasformazioni delle condizioni in cui si produce e circola il sapere."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto collega epistemologia, etica e teoria politica. È applicato all’analisi delle discriminazioni, della testimonianza, della medicina, della giustizia e dei processi pubblici di produzione della conoscenza."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di ingiustizia epistemica, sviluppato da Miranda Fricker, descrive forme di ingiustizia che colpiscono individui in quanto soggetti di conoscenza. Si parla di ingiustizia testimoniale quando un pregiudizio riduce ingiustamente la credibilità attribuita a chi parla; di ingiustizia ermeneutica quando mancano risorse interpretative condivise per comprendere e comunicare un’esperienza sociale.",
+      "Queste forme di ingiustizia non riguardano soltanto errori individuali di valutazione, ma possono essere incorporate in pratiche, istituzioni e distribuzioni diseguali dell’autorità interpretativa. La risposta richiede virtù epistemiche, ascolto critico e trasformazioni delle condizioni in cui si produce e circola il sapere.",
+      "Il concetto collega epistemologia, etica e teoria politica. È applicato all’analisi delle discriminazioni, della testimonianza, della medicina, della giustizia e dei processi pubblici di produzione della conoscenza."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Ingiustizia epistemica",
+        "explanation": "Danno subito da una persona nella sua capacità di conoscere o di essere riconosciuta come soggetto conoscente."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "liberta-negativa",
+    "id": "CON-000155",
+    "kind": "concetto",
+    "title": "Libertà negativa",
+    "subtitle": "Concezione della libertà come assenza di interferenze esterne nell’ambito delle scelte individuali.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione della libertà come assenza di interferenze esterne nell’ambito delle scelte individuali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La libertà negativa, resa influente da Isaiah Berlin, indica lo spazio entro cui una persona può agire senza essere ostacolata da altri. Essa pone l’accento sui limiti all’interferenza, soprattutto del potere politico, e sulla protezione di una sfera di decisione individuale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La libertà negativa non coincide con la capacità effettiva di realizzare ogni progetto: una persona può non subire interferenze e tuttavia essere priva di risorse o opportunità. Per questo viene spesso contrapposta alla libertà positiva, intesa come autodominio o capacità di essere autori della propria vita. La distinzione è discussa perché le due dimensioni possono sovrapporsi e sostenersi reciprocamente."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nel liberalismo e nei dibattiti sui diritti, sullo Stato e sui limiti dell’autorità. La questione è stabilire quali interferenze siano illegittime e se la sola non-interferenza basti a garantire una libertà sostanziale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La libertà negativa, resa influente da Isaiah Berlin, indica lo spazio entro cui una persona può agire senza essere ostacolata da altri. Essa pone l’accento sui limiti all’interferenza, soprattutto del potere politico, e sulla protezione di una sfera di decisione individuale.",
+      "La libertà negativa non coincide con la capacità effettiva di realizzare ogni progetto: una persona può non subire interferenze e tuttavia essere priva di risorse o opportunità. Per questo viene spesso contrapposta alla libertà positiva, intesa come autodominio o capacità di essere autori della propria vita. La distinzione è discussa perché le due dimensioni possono sovrapporsi e sostenersi reciprocamente.",
+      "Il concetto è centrale nel liberalismo e nei dibattiti sui diritti, sullo Stato e sui limiti dell’autorità. La questione è stabilire quali interferenze siano illegittime e se la sola non-interferenza basti a garantire una libertà sostanziale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Libertà negativa",
+        "explanation": "Concezione della libertà come assenza di interferenze esterne nell’ambito delle scelte individuali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "liberta-positiva",
+    "id": "CON-000156",
+    "kind": "concetto",
+    "title": "Libertà positiva",
+    "subtitle": "Concezione della libertà come capacità di autodeterminarsi e di essere autori delle proprie scelte.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione della libertà come capacità di autodeterminarsi e di essere autori delle proprie scelte.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La libertà positiva riguarda la possibilità di governare se stessi, orientare consapevolmente la propria vita e agire secondo fini riconosciuti come propri. Nella distinzione proposta da Isaiah Berlin, essa si differenzia dalla libertà negativa, che concerne invece l’assenza di interferenze esterne."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La nozione può sostenere progetti di emancipazione e sviluppo delle capacità, ma presenta un rischio politico: un’autorità potrebbe pretendere di conoscere il vero interesse di una persona meglio della persona stessa e imporle una presunta libertà autentica. Il dibattito riguarda quindi il rapporto tra autodeterminazione, educazione, condizioni materiali e paternalismo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "La libertà positiva è rilevante nelle teorie repubblicane, democratiche e sociali della libertà. Consente di chiedere non soltanto da che cosa siamo protetti, ma anche quali condizioni rendano possibile scegliere e agire autonomamente."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La libertà positiva riguarda la possibilità di governare se stessi, orientare consapevolmente la propria vita e agire secondo fini riconosciuti come propri. Nella distinzione proposta da Isaiah Berlin, essa si differenzia dalla libertà negativa, che concerne invece l’assenza di interferenze esterne.",
+      "La nozione può sostenere progetti di emancipazione e sviluppo delle capacità, ma presenta un rischio politico: un’autorità potrebbe pretendere di conoscere il vero interesse di una persona meglio della persona stessa e imporle una presunta libertà autentica. Il dibattito riguarda quindi il rapporto tra autodeterminazione, educazione, condizioni materiali e paternalismo.",
+      "La libertà positiva è rilevante nelle teorie repubblicane, democratiche e sociali della libertà. Consente di chiedere non soltanto da che cosa siamo protetti, ma anche quali condizioni rendano possibile scegliere e agire autonomamente."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Libertà positiva",
+        "explanation": "Concezione della libertà come capacità di autodeterminarsi e di essere autori delle proprie scelte."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "metanarrativa",
+    "id": "CON-000157",
+    "kind": "concetto",
+    "title": "Metanarrativa",
+    "subtitle": "Racconto generale che organizza e legittima una pluralità di conoscenze, pratiche e interpretazioni storiche.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Racconto generale che organizza e legittima una pluralità di conoscenze, pratiche e interpretazioni storiche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il termine metanarrativa, o grande narrazione, è associato soprattutto alla riflessione di Jean-François Lyotard sulla condizione postmoderna. Indica un racconto complessivo che pretende di conferire unità e legittimità al sapere e al progresso storico, come l’emancipazione universale o il dispiegarsi della ragione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La critica delle metanarrative non implica necessariamente il rifiuto di ogni spiegazione generale. Mette in discussione la pretesa che un unico schema possa legittimare tutte le forme di sapere e tutte le esperienze. Resta controverso se la critica possa evitare a sua volta di assumere una prospettiva generale e quali criteri permettano di valutare narrazioni concorrenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nella filosofia postmoderna, nella teoria della storia e negli studi culturali. Aiuta a interrogare i modi in cui le società costruiscono racconti di progresso, identità e legittimazione, rendendo visibili esclusioni e punti di vista marginalizzati."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il termine metanarrativa, o grande narrazione, è associato soprattutto alla riflessione di Jean-François Lyotard sulla condizione postmoderna. Indica un racconto complessivo che pretende di conferire unità e legittimità al sapere e al progresso storico, come l’emancipazione universale o il dispiegarsi della ragione.",
+      "La critica delle metanarrative non implica necessariamente il rifiuto di ogni spiegazione generale. Mette in discussione la pretesa che un unico schema possa legittimare tutte le forme di sapere e tutte le esperienze. Resta controverso se la critica possa evitare a sua volta di assumere una prospettiva generale e quali criteri permettano di valutare narrazioni concorrenti.",
+      "Il concetto è importante nella filosofia postmoderna, nella teoria della storia e negli studi culturali. Aiuta a interrogare i modi in cui le società costruiscono racconti di progresso, identità e legittimazione, rendendo visibili esclusioni e punti di vista marginalizzati."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Metanarrativa",
+        "explanation": "Racconto generale che organizza e legittima una pluralità di conoscenze, pratiche e interpretazioni storiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "monismo",
+    "id": "CON-000158",
+    "kind": "concetto",
+    "title": "Monismo",
+    "subtitle": "Posizione metafisica secondo cui la realtà, o un suo ambito fondamentale, ha un’unica natura o principio ultimo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione metafisica secondo cui la realtà, o un suo ambito fondamentale, ha un’unica natura o principio ultimo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il monismo sostiene che la pluralità delle cose dipende da un’unica sostanza, principio o tipo fondamentale di realtà. Le sue forme variano: il monismo materialista riconduce il reale alla materia o al fisico; quello idealista attribuisce priorità allo spirito o alla mente; altre versioni considerano fondamentale una realtà neutra rispetto a questa distinzione."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il monismo si contrappone al dualismo e al pluralismo, ma non implica che tutto sia indistinto o che esista un solo oggetto. Può ammettere una grande varietà di fenomeni, interpretandoli come manifestazioni di un fondamento comune. Il problema è spiegare come dall’unità fondamentale derivi la diversità dell’esperienza e del mondo."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto attraversa la metafisica, la filosofia della mente e la teoria della conoscenza. Le discussioni contemporanee valutano se l’unità ontologica offra una spiegazione più coerente della realtà o se rischi di appiattire differenze che richiedono spiegazioni autonome."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il monismo sostiene che la pluralità delle cose dipende da un’unica sostanza, principio o tipo fondamentale di realtà. Le sue forme variano: il monismo materialista riconduce il reale alla materia o al fisico; quello idealista attribuisce priorità allo spirito o alla mente; altre versioni considerano fondamentale una realtà neutra rispetto a questa distinzione.",
+      "Il monismo si contrappone al dualismo e al pluralismo, ma non implica che tutto sia indistinto o che esista un solo oggetto. Può ammettere una grande varietà di fenomeni, interpretandoli come manifestazioni di un fondamento comune. Il problema è spiegare come dall’unità fondamentale derivi la diversità dell’esperienza e del mondo.",
+      "Il concetto attraversa la metafisica, la filosofia della mente e la teoria della conoscenza. Le discussioni contemporanee valutano se l’unità ontologica offra una spiegazione più coerente della realtà o se rischi di appiattire differenze che richiedono spiegazioni autonome."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Monismo",
+        "explanation": "Posizione metafisica secondo cui la realtà, o un suo ambito fondamentale, ha un’unica natura o principio ultimo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "naturalismo",
+    "id": "CON-000159",
+    "kind": "concetto",
+    "title": "Naturalismo",
+    "subtitle": "Orientamento filosofico che considera la natura e i metodi delle scienze empiriche centrali per comprendere la realtà.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Orientamento filosofico che considera la natura e i metodi delle scienze empiriche centrali per comprendere la realtà.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il naturalismo è una famiglia di posizioni secondo cui la realtà non richiede entità soprannaturali e la filosofia deve mantenere un rapporto stretto con l’indagine scientifica. In alcune versioni è una tesi ontologica, in altre un orientamento metodologico che invita a integrare la riflessione filosofica con i risultati delle scienze."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il naturalismo non è una dottrina unica: può essere riduzionistico oppure riconoscere livelli emergenti e spiegazioni non riducibili. È discusso se la normatività, la coscienza, il significato e i valori possano essere compresi interamente in termini naturali. Anche la pretesa di fondare la filosofia sulle scienze solleva questioni sui presupposti metodologici e sui criteri di validità."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il naturalismo è influente in metafisica, epistemologia, filosofia della mente ed etica. Il suo confronto con posizioni non naturalistiche chiarisce quali aspetti dell’esperienza possano essere spiegati scientificamente e quali problemi richiedano ulteriori strumenti concettuali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il naturalismo è una famiglia di posizioni secondo cui la realtà non richiede entità soprannaturali e la filosofia deve mantenere un rapporto stretto con l’indagine scientifica. In alcune versioni è una tesi ontologica, in altre un orientamento metodologico che invita a integrare la riflessione filosofica con i risultati delle scienze.",
+      "Il naturalismo non è una dottrina unica: può essere riduzionistico oppure riconoscere livelli emergenti e spiegazioni non riducibili. È discusso se la normatività, la coscienza, il significato e i valori possano essere compresi interamente in termini naturali. Anche la pretesa di fondare la filosofia sulle scienze solleva questioni sui presupposti metodologici e sui criteri di validità.",
+      "Il naturalismo è influente in metafisica, epistemologia, filosofia della mente ed etica. Il suo confronto con posizioni non naturalistiche chiarisce quali aspetti dell’esperienza possano essere spiegati scientificamente e quali problemi richiedano ulteriori strumenti concettuali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Naturalismo",
+        "explanation": "Orientamento filosofico che considera la natura e i metodi delle scienze empiriche centrali per comprendere la realtà."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
