@@ -3,8 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import SearchAutocomplete from "@/components/search-autocomplete";
-import { entries } from "@/data/catalog";
-import { terms } from "@/data/catalog";
+import { entries, terms } from "@/data/catalog";
 
 const areas = ["Tutte le aree", ...Array.from(new Set(entries.map((entry) => entry.area)))];
 const kinds = ["Tutte le tipologie", ...Array.from(new Set(entries.map((entry) => entry.kind)))];
