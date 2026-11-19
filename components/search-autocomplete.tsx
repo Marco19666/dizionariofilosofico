@@ -19,6 +19,7 @@ export default function SearchAutocomplete({ id, value, onChange, onSelect, opti
   const visible = focused && matches.length > 0;
   function choose(option: string) { onChange(option); onSelect?.(option); setFocused(false); setActive(0); }
   return <div className="search-autocomplete">
+    <span className="search-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round"><circle cx="10.8" cy="10.8" r="6.8" /><path d="m16 16 4.5 4.5" /></svg></span>
     <input id={id} type="search" role="combobox" aria-label={label} aria-autocomplete="list" aria-expanded={visible} aria-controls={id+"-suggestions"} aria-activedescendant={visible ? id+"-option-"+active : undefined} autoComplete="off" placeholder={placeholder} value={value} onFocus={() => setFocused(true)} onBlur={() => setFocused(false)} onChange={(event) => { onChange(event.target.value); setActive(0); }} onKeyDown={(event) => {
       if (!visible) return;
       if (event.key === "ArrowDown") { event.preventDefault(); setActive((current) => (current + 1) % matches.length); }
