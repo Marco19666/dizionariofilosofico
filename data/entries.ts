@@ -18338,8 +18338,862 @@ export const entries: EncyclopediaEntry[] = [
   {slug:"marx",id:"AUT-000310",kind:"autore",title:"Karl Marx",subtitle:"Critica dell'economia politica, classe e emancipazione",area:"Filosofia contemporanea",period:"XIX secolo",summary:"Filosofo, economista e teorico politico tedesco (1818–1883), che analizza i rapporti capitalistici, l'alienazione e la trasformazione storica delle società.",sections:[{"heading":"Profilo storico","paragraphs":["Marx elabora il proprio pensiero nel confronto con Hegel, l'economia politica classica e il socialismo del suo tempo. La critica deve comprendere le forme storiche della società e i rapporti materiali che ne organizzano la riproduzione."]},{"heading":"Nuclei teorici","paragraphs":["I modi di produzione organizzano il rapporto tra forze produttive e rapporti sociali. Le istituzioni e le forme della coscienza non sono spiegabili isolatamente dalle condizioni materiali, ma non sono neppure un riflesso meccanico dell'economia."]},{"heading":"Etica, politica e conoscenza","paragraphs":["Nel capitalismo il lavoro è organizzato attraverso la proprietà dei mezzi di produzione e il rapporto salariale. Il plusvalore esprime la differenza tra il valore prodotto dal lavoro e quello della forza-lavoro; il feticismo della merce fa apparire naturali rapporti sociali storici."]},{"heading":"Eredità e questioni interpretative","paragraphs":["L'emancipazione richiede di trasformare i rapporti che producono sfruttamento e dominio. Le tradizioni marxiste hanno sviluppato interpretazioni differenti su Stato, rivoluzione e democrazia: occorre distinguere Marx dalle esperienze politiche successive che si sono richiamate al suo nome."]}],thoughtAnalysis:["Marx elabora il proprio pensiero nel confronto con Hegel, l'economia politica classica e il socialismo del suo tempo. La critica deve comprendere le forme storiche della società e i rapporti materiali che ne organizzano la riproduzione.","I modi di produzione organizzano il rapporto tra forze produttive e rapporti sociali. Le istituzioni e le forme della coscienza non sono spiegabili isolatamente dalle condizioni materiali, ma non sono neppure un riflesso meccanico dell'economia.","Nel capitalismo il lavoro è organizzato attraverso la proprietà dei mezzi di produzione e il rapporto salariale. Il plusvalore esprime la differenza tra il valore prodotto dal lavoro e quello della forza-lavoro; il feticismo della merce fa apparire naturali rapporti sociali storici.","L'emancipazione richiede di trasformare i rapporti che producono sfruttamento e dominio. Le tradizioni marxiste hanno sviluppato interpretazioni differenti su Stato, rivoluzione e democrazia: occorre distinguere Marx dalle esperienze politiche successive che si sono richiamate al suo nome."],tags:["marx","filosofia","etica","conoscenza","politica"],related:[],bibliography:[],keyTerms:[],works:[],timeline:[],editorialStatus:"edizione editoriale 1.0"},
   {slug:"nietzsche",id:"AUT-000311",kind:"autore",title:"Friedrich Nietzsche",subtitle:"Genealogia, nichilismo e trasvalutazione dei valori",area:"Filosofia contemporanea",period:"XIX secolo",summary:"Filosofo tedesco (1844–1900), critico della morale e della metafisica occidentali, che indaga la genealogia dei valori e nuove forme di affermazione della vita.",sections:[{"heading":"Profilo storico","paragraphs":["Nietzsche attraversa filologia classica, filosofia e critica della cultura. La sua opera cambia registro e stile: saggi, aforismi, genealogie e testi poetico-filosofici non compongono un sistema chiuso. La ricezione è stata spesso deformata da appropriazioni e manipolazioni editoriali."]},{"heading":"Nuclei teorici","paragraphs":["La genealogia ricostruisce le condizioni storiche e i rapporti di forza attraverso cui i valori si sono formati. La distinzione tra morale dei signori e morale degli schiavi descrive configurazioni valutative e forme di risentimento."]},{"heading":"Etica, politica e conoscenza","paragraphs":["La morte di Dio indica la crisi dei fondamenti assoluti della cultura europea e l'apertura del problema del nichilismo. L'eterno ritorno funziona come prova esistenziale dell'affermazione della vita; l'oltreuomo non è un'identità biologica o un programma razziale."]},{"heading":"Eredità e questioni interpretative","paragraphs":["La conoscenza è prospettica, ma ciò non implica che tutte le interpretazioni siano equivalenti. Nietzsche influenzò esistenzialismo, ermeneutica e teoria critica; la sua critica apre possibilità emancipative ma contiene anche formulazioni gerarchiche da esaminare storicamente."]}],thoughtAnalysis:["Nietzsche attraversa filologia classica, filosofia e critica della cultura. La sua opera cambia registro e stile: saggi, aforismi, genealogie e testi poetico-filosofici non compongono un sistema chiuso. La ricezione è stata spesso deformata da appropriazioni e manipolazioni editoriali.","La genealogia ricostruisce le condizioni storiche e i rapporti di forza attraverso cui i valori si sono formati. La distinzione tra morale dei signori e morale degli schiavi descrive configurazioni valutative e forme di risentimento.","La morte di Dio indica la crisi dei fondamenti assoluti della cultura europea e l'apertura del problema del nichilismo. L'eterno ritorno funziona come prova esistenziale dell'affermazione della vita; l'oltreuomo non è un'identità biologica o un programma razziale.","La conoscenza è prospettica, ma ciò non implica che tutte le interpretazioni siano equivalenti. Nietzsche influenzò esistenzialismo, ermeneutica e teoria critica; la sua critica apre possibilità emancipative ma contiene anche formulazioni gerarchiche da esaminare storicamente."],tags:["nietzsche","filosofia","etica","conoscenza","politica"],related:[],bibliography:[],keyTerms:[],works:[],timeline:[],editorialStatus:"edizione editoriale 1.0"}
 
-]; 
-
+,
+[
+  {
+    "slug": "agostino-ippona",
+    "id": "AUT-000101",
+    "kind": "autore",
+    "title": "Agostino d’Ippona",
+    "subtitle": "Interiorità, tempo, memoria e libertà",
+    "area": "Filosofia tardo-antica e cristiana",
+    "period": "354–430",
+    "summary": "Vescovo e autore nordafricano, Agostino elabora una filosofia dell’interiorità, della memoria e del tempo, intrecciando platonismo, esegesi cristiana e riflessione sulla volontà.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nato a Tagaste, nell’Africa romana, Agostino attraversò diverse esperienze intellettuali e religiose prima di aderire al cristianesimo. Fu vescovo di Ippona e intervenne nei dibattiti teologici del suo tempo. Le Confessioni sono insieme racconto autobiografico, preghiera e indagine filosofica.",
+          "La sua opera si sviluppa nel contesto delle controversie tardo-antiche, tra cui quelle con manichei, donatisti e pelagiani. Le categorie moderne di filosofia e teologia non descrivono senza residui il suo progetto."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "La ricerca della verità passa attraverso l’interiorità: memoria, attenzione e desiderio rivelano la complessità del soggetto. Nel libro XI delle Confessioni il tempo è analizzato a partire dall’esperienza dell’animo, che attende, considera e ricorda.",
+          "La riflessione sul male rifiuta di trattarlo come una sostanza autonoma: esso è privazione o corruzione di un bene. Nelle opere sulla grazia e sulla volontà, Agostino affronta il rapporto tra libertà umana, peccato e iniziativa divina."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Agostino influenzò la teologia latina medievale, le discussioni sulla coscienza, la memoria e il tempo, e numerose filosofie moderne. La sua ricezione non è uniforme: temi agostiniani sono stati ripresi in contesti teologici e filosofici differenti."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’interiorità agostiniana non è ripiegamento psicologico: è il luogo in cui il soggetto scopre la propria instabilità e interroga il fondamento della verità. La memoria contiene immagini, saperi e disposizioni, ma non si lascia esaurire da un inventario di ricordi. Il tempo viene compreso attraverso la distensione dell’animo: passato e futuro sono presenti come memoria e attesa.",
+      "La teoria del male come privazione evita di attribuirgli una sostanza indipendente. La volontà resta responsabile, ma la capacità di volere il bene è discussa in rapporto alla grazia. Nella Città di Dio la storia non coincide con il progresso lineare di un potere terreno: due orientamenti dell’amore attraversano le comunità storiche senza identificarsi semplicemente con istituzioni politiche."
+    ],
+    "tags": [
+      "interiorità",
+      "memoria",
+      "tempo",
+      "volontà",
+      "grazia",
+      "cristianesimo"
+    ],
+    "related": [
+      {
+        "label": "Platone",
+        "slug": "platone",
+        "relation": "eredità platonica rielaborata in ambito cristiano"
+      },
+      {
+        "label": "Tommaso d’Aquino",
+        "slug": "tommaso-daquino",
+        "relation": "ricezione medievale e confronto sul rapporto tra ragione e fede"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Agostino, Confessioni",
+        "type": "Testo primario / traduzione",
+        "note": "In particolare i libri X–XI, dedicati a memoria e tempo."
+      },
+      {
+        "label": "Agostino, La città di Dio",
+        "type": "Testo primario / traduzione",
+        "note": "Opera sulla storia, la politica e i due orientamenti dell’amore."
+      },
+      {
+        "label": "Peter Brown, Augustine of Hippo: A Biography",
+        "type": "Studio secondario",
+        "note": "Biografia storica di riferimento per il contesto tardo-antico."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "interiorità",
+        "explanation": "Percorso di ricerca in cui il soggetto interroga memoria, volontà e verità."
+      },
+      {
+        "term": "distensio animi",
+        "explanation": "Distensione dell’animo attraverso memoria, attenzione e attesa."
+      },
+      {
+        "term": "privatio boni",
+        "explanation": "Il male come privazione o corruzione di un bene, non come sostanza autonoma."
+      }
+    ],
+    "works": [
+      {
+        "title": "Confessioni",
+        "note": "Memoria, desiderio, conversione e analisi del tempo."
+      },
+      {
+        "title": "La città di Dio",
+        "note": "Filosofia della storia e critica delle pretese assolute del potere terreno."
+      },
+      {
+        "title": "De libero arbitrio",
+        "note": "Indagine sulla volontà, il male e la responsabilità."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "354",
+        "event": "Nasce a Tagaste, nell’Africa romana."
+      },
+      {
+        "date": "387",
+        "event": "Riceve il battesimo a Milano."
+      },
+      {
+        "date": "395/396",
+        "event": "Diventa vescovo di Ippona."
+      },
+      {
+        "date": "430",
+        "event": "Muore durante l’assedio vandalico di Ippona."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "tommaso-daquino",
+    "id": "AUT-000102",
+    "kind": "autore",
+    "title": "Tommaso d’Aquino",
+    "subtitle": "Essere, causalità, ragione e legge naturale",
+    "area": "Filosofia medievale latina",
+    "period": "1224/1225–1274",
+    "summary": "Teologo e filosofo domenicano, Tommaso integra criticamente Aristotele nella riflessione cristiana e sviluppa una metafisica dell’essere, una teoria della conoscenza e un’etica delle virtù.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nato nell’Italia meridionale, Tommaso studiò e insegnò nei principali centri universitari del XIII secolo. Entrò nell’Ordine domenicano e lavorò a Parigi, Colonia, Roma e Napoli. La sua attività si colloca nel momento in cui le traduzioni latine di Aristotele e dei commentatori arabi ed ebraici trasformavano il dibattito universitario.",
+          "La sua opera comprende commenti, questioni disputate, opere teologiche e trattati. La Summa theologiae rimase incompiuta alla sua morte."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "La distinzione tra essenza ed esistenza consente di pensare gli enti creati come non necessari: in essi ciò che una cosa è non comporta da sé il fatto che essa esista. Dio è invece pensato come essere sussistente, non come un ente tra gli altri.",
+          "La conoscenza umana prende avvio dai sensi e procede attraverso l’astrazione intellettiva. Nell’etica, la felicità, le virtù e la legge naturale sono connesse alla ragione pratica e al bene umano. Ragione e fede hanno ambiti distinti ma non contraddittori."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Tommaso è centrale nella scolastica e nella tradizione tomista, ma la sua opera è stata interpretata in modi diversi. Il confronto con Avicenna, Averroè, Maimonide e Aristotele è essenziale per comprendere la sua originalità e il contesto interculturale della filosofia medievale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La metafisica tomista distingue l’essenza dall’atto d’essere: negli enti finiti l’esistenza non è contenuta necessariamente nella definizione. Questa distinzione struttura una gerarchia di dipendenze causali e conduce a una concezione di Dio come ipsum esse subsistens. Le cosiddette cinque vie non sono prove isolate da leggere come dimostrazioni scientifiche moderne, ma argomenti metafisici che muovono da aspetti dell’esperienza.",
+      "La teoria della conoscenza attribuisce ai sensi un ruolo iniziale e all’intelletto la capacità di astrarre forme intelligibili. La legge naturale esprime la partecipazione della ragione umana a un ordine pratico: i suoi principi generali richiedono giudizio prudenziale e applicazione contestuale. La distinzione tra filosofia e teologia non comporta una separazione assoluta, ma impedisce di confondere i rispettivi metodi."
+    ],
+    "tags": [
+      "scolastica",
+      "metafisica",
+      "aristotele",
+      "essere",
+      "legge naturale",
+      "etica"
+    ],
+    "related": [
+      {
+        "label": "Aristotele",
+        "slug": "aristotele",
+        "relation": "fonte decisiva e interlocutore critico"
+      },
+      {
+        "label": "Agostino d’Ippona",
+        "slug": "agostino-ippona",
+        "relation": "tradizione latina e teoria della conoscenza"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Tommaso d’Aquino, Summa theologiae",
+        "type": "Testo primario / traduzione",
+        "note": "Opera sistematica su Dio, l’essere umano, la morale e la teologia."
+      },
+      {
+        "label": "Tommaso d’Aquino, Summa contra Gentiles",
+        "type": "Testo primario / traduzione",
+        "note": "Indagine sul rapporto tra ragione filosofica e dottrina cristiana."
+      },
+      {
+        "label": "Jean-Pierre Torrell, Saint Thomas Aquinas: The Person and His Work",
+        "type": "Studio secondario",
+        "note": "Studio storico e intellettuale in due volumi."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "actus essendi",
+        "explanation": "Atto per cui un ente esiste, distinto dalla sua essenza."
+      },
+      {
+        "term": "analogia",
+        "explanation": "Predicazione non univoca né puramente equivoca dell’essere."
+      },
+      {
+        "term": "legge naturale",
+        "explanation": "Principi pratici accessibili alla ragione umana."
+      }
+    ],
+    "works": [
+      {
+        "title": "Summa theologiae",
+        "note": "Sintesi incompiuta della teologia filosofica e morale."
+      },
+      {
+        "title": "De ente et essentia",
+        "note": "Trattato sulla distinzione tra essenza ed essere."
+      },
+      {
+        "title": "Commento alla Metafisica di Aristotele",
+        "note": "Confronto sistematico con la filosofia aristotelica."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "circa 1224/1225",
+        "event": "Nasce nell’Italia meridionale."
+      },
+      {
+        "date": "1244",
+        "event": "Entra nell’Ordine domenicano."
+      },
+      {
+        "date": "1256",
+        "event": "Ottiene la licenza per insegnare a Parigi."
+      },
+      {
+        "date": "1274",
+        "event": "Muore a Fossanova durante il viaggio verso il concilio di Lione."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "immanuel-kant",
+    "id": "AUT-000103",
+    "kind": "autore",
+    "title": "Immanuel Kant",
+    "subtitle": "Critica della ragione, autonomia e giudizio",
+    "area": "Filosofia moderna tedesca",
+    "period": "1724–1804",
+    "summary": "Filosofo di Königsberg, Kant ridefinisce i limiti e le possibilità della conoscenza, fonda l’etica sull’autonomia e indaga il giudizio estetico e teleologico.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Kant trascorse quasi tutta la vita a Königsberg, nella Prussia orientale. La sua produzione viene spesso distinta in una fase precritica e nel periodo critico, avviato dalla Critica della ragion pura del 1781 e dalla seconda edizione del 1787.",
+          "Il suo lavoro risponde al confronto tra razionalismo e empirismo, alla fisica newtoniana e alle trasformazioni dell’Illuminismo europeo."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "La conoscenza richiede sia intuizioni sensibili sia concetti dell’intelletto. Spazio e tempo sono forme della sensibilità; le categorie rendono possibile l’esperienza oggettiva. La cosa in sé non è un oggetto conoscibile oltre l’esperienza, ma segna il limite della conoscenza teoretica.",
+          "In etica, la moralità dipende dall’autonomia della volontà e dalla possibilità di agire secondo massime universalizzabili. La Critica del giudizio analizza il giudizio estetico e il principio di finalità nella riflessione sulla natura."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "La filosofia critica ha trasformato idealismo tedesco, neokantismo, fenomenologia, etica contemporanea e filosofia della scienza. Le interpretazioni divergono su realismo, idealismo trascendentale, libertà e rapporto tra le tre Critiche."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il progetto critico non consiste nel negare la conoscenza, ma nel chiarire le condizioni che la rendono possibile e i limiti oltre i quali le pretese della ragione diventano illegittime. La distinzione tra fenomeno e cosa in sé impedisce di trasformare le categorie dell’esperienza in descrizioni di una realtà sovrasensibile.",
+      "L’autonomia morale non è arbitrio individuale: la volontà è libera quando può riconoscersi come legislatrice universale. L’imperativo categorico assume formulazioni diverse, tra cui la legge universale e il rispetto dell’umanità come fine. Nella terza Critica il giudizio riflettente cerca una regola a partire dal particolare, collegando estetica e teleologia senza convertirle in conoscenze determinanti."
+    ],
+    "tags": [
+      "criticismo",
+      "idealismo trascendentale",
+      "conoscenza",
+      "autonomia",
+      "etica",
+      "illuminismo"
+    ],
+    "related": [
+      {
+        "label": "René Descartes (Cartesio)",
+        "slug": "cartesio",
+        "relation": "confronto moderno sul soggetto e la certezza"
+      },
+      {
+        "label": "Georg Wilhelm Friedrich Hegel",
+        "slug": "hegel",
+        "relation": "critica e trasformazione dell’idealismo trascendentale"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Kant, Critica della ragion pura",
+        "type": "Testo primario / traduzione",
+        "note": "Analisi delle condizioni e dei limiti della conoscenza."
+      },
+      {
+        "label": "Kant, Fondazione della metafisica dei costumi",
+        "type": "Testo primario / traduzione",
+        "note": "Esposizione dell’autonomia e dell’imperativo categorico."
+      },
+      {
+        "label": "Henry E. Allison, Kant’s Transcendental Idealism",
+        "type": "Studio secondario",
+        "note": "Interpretazione influente dell’idealismo trascendentale."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "trascendentale",
+        "explanation": "Indagine sulle condizioni a priori che rendono possibile l’esperienza."
+      },
+      {
+        "term": "imperativo categorico",
+        "explanation": "Principio incondizionato della legge morale."
+      },
+      {
+        "term": "autonomia",
+        "explanation": "Autolegislazione razionale della volontà."
+      }
+    ],
+    "works": [
+      {
+        "title": "Critica della ragion pura",
+        "note": "Conoscenza, sensibilità, intelletto e ragione."
+      },
+      {
+        "title": "Critica della ragion pratica",
+        "note": "Libertà e legge morale."
+      },
+      {
+        "title": "Critica del giudizio",
+        "note": "Giudizio estetico e teleologico."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1724",
+        "event": "Nasce a Königsberg."
+      },
+      {
+        "date": "1781",
+        "event": "Prima edizione della Critica della ragion pura."
+      },
+      {
+        "date": "1785",
+        "event": "Pubblica la Fondazione della metafisica dei costumi."
+      },
+      {
+        "date": "1790",
+        "event": "Pubblica la Critica del giudizio."
+      },
+      {
+        "date": "1804",
+        "event": "Muore a Königsberg."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "hegel",
+    "id": "AUT-000104",
+    "kind": "autore",
+    "title": "Georg Wilhelm Friedrich Hegel",
+    "subtitle": "Dialettica, riconoscimento e libertà storica",
+    "area": "Idealismo tedesco",
+    "period": "1770–1831",
+    "summary": "Hegel sviluppa una filosofia sistematica in cui logica, natura, spirito, istituzioni e storia sono momenti connessi di un processo di comprensione razionale.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nato a Stoccarda, Hegel studiò a Tubinga e insegnò a Jena, Norimberga, Heidelberg e Berlino. La sua filosofia si forma nel confronto con Kant, Fichte, Schelling, la Rivoluzione francese e la cultura classica.",
+          "Le opere comprendono testi pubblicati in vita e lezioni ricostruite editorialmente dopo la morte. È quindi necessario distinguere i libri autorizzati dall’autore dagli appunti e dalle compilazioni postume."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "La dialettica descrive il movimento attraverso cui una determinazione mostra i propri limiti e viene rielaborata in una configurazione più comprensiva. Non è una formula meccanica di tesi, antitesi e sintesi.",
+          "Nella Fenomenologia dello spirito la coscienza attraversa figure e conflitti fino al sapere assoluto. La filosofia dello spirito oggettivo analizza diritto, moralità e vita etica, mostrando come la libertà richieda istituzioni e pratiche condivise."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Hegel ha influenzato marxismo, esistenzialismo, teoria critica, ermeneutica e filosofia politica. La sua ricezione è plurale: interpretazioni metafisiche, logiche, sociali e storiche insistono su aspetti diversi del sistema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La dialettica hegeliana non è un metodo applicato dall’esterno a contenuti già dati: è l’esame immanente delle tensioni di una determinazione. La negazione determinata conserva e trasforma ciò che supera; il termine Aufhebung raccoglie questi significati senza ridursi a una semplice eliminazione.",
+      "Il riconoscimento mostra che l’autocoscienza non è autosufficiente: si forma attraverso relazioni e conflitti. Nella filosofia politica, la libertà concreta non coincide con la sola scelta individuale, ma prende forma in istituzioni, diritti e consuetudini della vita etica. La lettura della storia come intelligibilità razionale non autorizza a considerare ogni evento esistente automaticamente giusto."
+    ],
+    "tags": [
+      "idealismo",
+      "dialettica",
+      "riconoscimento",
+      "storia",
+      "libertà",
+      "spirito"
+    ],
+    "related": [
+      {
+        "label": "Immanuel Kant",
+        "slug": "immanuel-kant",
+        "relation": "critica e rielaborazione dell’idealismo trascendentale"
+      },
+      {
+        "label": "Karl Marx",
+        "slug": "marx",
+        "relation": "ricezione critica della dialettica e della società moderna"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Hegel, Fenomenologia dello spirito",
+        "type": "Testo primario / traduzione",
+        "note": "Percorso delle figure della coscienza e dell’autocoscienza."
+      },
+      {
+        "label": "Hegel, Lineamenti di filosofia del diritto",
+        "type": "Testo primario / traduzione",
+        "note": "Diritto, moralità, famiglia, società civile e Stato."
+      },
+      {
+        "label": "Terry Pinkard, Hegel’s Phenomenology: The Sociality of Reason",
+        "type": "Studio secondario",
+        "note": "Studio sul carattere sociale e storico della razionalità."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Aufhebung",
+        "explanation": "Superamento che insieme nega, conserva e trasforma."
+      },
+      {
+        "term": "riconoscimento",
+        "explanation": "Relazione intersoggettiva costitutiva dell’autocoscienza."
+      },
+      {
+        "term": "Sittlichkeit",
+        "explanation": "Vita etica incarnata in pratiche e istituzioni."
+      }
+    ],
+    "works": [
+      {
+        "title": "Fenomenologia dello spirito",
+        "note": "Formazione della coscienza e sapere."
+      },
+      {
+        "title": "Scienza della logica",
+        "note": "Categorie e movimento del pensiero."
+      },
+      {
+        "title": "Lineamenti di filosofia del diritto",
+        "note": "Libertà, istituzioni e modernità politica."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1770",
+        "event": "Nasce a Stoccarda."
+      },
+      {
+        "date": "1807",
+        "event": "Pubblica la Fenomenologia dello spirito."
+      },
+      {
+        "date": "1812–1816",
+        "event": "Pubblica la Scienza della logica."
+      },
+      {
+        "date": "1821",
+        "event": "Pubblica i Lineamenti di filosofia del diritto."
+      },
+      {
+        "date": "1831",
+        "event": "Muore a Berlino."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "soren-kierkegaard",
+    "id": "AUT-000105",
+    "kind": "autore",
+    "title": "Søren Kierkegaard",
+    "subtitle": "Esistenza, scelta, angoscia e fede",
+    "area": "Filosofia moderna danese",
+    "period": "1813–1855",
+    "summary": "Autore danese che indaga la singolarità dell’esistenza, la scelta e il rapporto con Dio attraverso opere pseudonime, discorsi edificanti e critica della cristianità istituzionale.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Kierkegaard visse a Copenaghen e pubblicò gran parte delle sue opere tra il 1843 e il 1855. Ricorse a pseudonimi diversi, ciascuno portatore di una prospettiva esistenziale e letteraria specifica.",
+          "La pluralità delle voci impedisce di attribuire direttamente all’autore ogni tesi espressa dai personaggi pseudonimi. La sua polemica finale si rivolse contro una cristianità percepita come conformismo sociale."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "L’esistenza non è un sistema contemplabile da un punto di vista neutrale: implica decisione, responsabilità e appropriazione soggettiva. Le sfere estetica, etica e religiosa descrivono possibilità e modi di vivere, non semplici tappe di una classificazione psicologica.",
+          "Angoscia e disperazione rivelano la struttura della libertà e del rapporto del sé con se stesso. La fede non è riducibile a dimostrazione razionale o adesione convenzionale, ma implica un rapporto esistenziale con il paradosso."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Kierkegaard è un riferimento per l’esistenzialismo, la teologia del Novecento e le filosofie della soggettività. La sua opera è stata letta in modi divergenti, anche per la complessa strategia degli pseudonimi."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La critica al sistema hegeliano riguarda la pretesa di comprendere l’esistenza singolare come un momento già ricomposto nella totalità concettuale. Per Kierkegaard il soggetto esistente deve scegliere e assumere il proprio rapporto con possibilità, tempo e responsabilità.",
+      "L’angoscia è legata alla possibilità e alla libertà, non soltanto a una patologia emotiva. La disperazione è una relazione difettosa del sé con se stesso e con il fondamento che lo pone. Il cosiddetto salto della fede non è un elogio dell’irrazionalità: segnala che l’impegno religioso non si lascia sostituire da una prova oggettiva conclusiva."
+    ],
+    "tags": [
+      "esistenzialismo",
+      "soggettività",
+      "angoscia",
+      "fede",
+      "scelta",
+      "disperazione"
+    ],
+    "related": [
+      {
+        "label": "Georg Wilhelm Friedrich Hegel",
+        "slug": "hegel",
+        "relation": "interlocutore critico sul sistema e sull’esistenza singolare"
+      },
+      {
+        "label": "Friedrich Nietzsche",
+        "slug": "nietzsche",
+        "relation": "confronto sul soggetto, la scelta e la critica della modernità"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Kierkegaard, Aut-Aut",
+        "type": "Testo primario / traduzione",
+        "note": "Pluralità di prospettive estetiche ed etiche."
+      },
+      {
+        "label": "Kierkegaard, La malattia mortale",
+        "type": "Testo primario / traduzione",
+        "note": "Analisi della disperazione e del sé."
+      },
+      {
+        "label": "C. Stephen Evans, Kierkegaard: An Introduction",
+        "type": "Studio secondario",
+        "note": "Introduzione sistematica ai temi e alle strategie pseudonime."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "angoscia",
+        "explanation": "Esperienza della possibilità e della libertà."
+      },
+      {
+        "term": "disperazione",
+        "explanation": "Squilibrio del sé nel rapporto con se stesso e con il proprio fondamento."
+      },
+      {
+        "term": "singolo",
+        "explanation": "L’individuo concreto chiamato ad assumere responsabilmente la propria esistenza."
+      }
+    ],
+    "works": [
+      {
+        "title": "Aut-Aut",
+        "note": "Possibilità estetiche ed etiche dell’esistenza."
+      },
+      {
+        "title": "Timore e tremore",
+        "note": "Fede, paradosso e sacrificio di Abramo."
+      },
+      {
+        "title": "La malattia mortale",
+        "note": "Il sé e le forme della disperazione."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1813",
+        "event": "Nasce a Copenaghen."
+      },
+      {
+        "date": "1843",
+        "event": "Pubblica Aut-Aut e Timore e tremore."
+      },
+      {
+        "date": "1849",
+        "event": "Pubblica La malattia mortale."
+      },
+      {
+        "date": "1855",
+        "event": "Muore a Copenaghen."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ludwig-wittgenstein",
+    "id": "AUT-000106",
+    "kind": "autore",
+    "title": "Ludwig Wittgenstein",
+    "subtitle": "Logica, linguaggio e forme di vita",
+    "area": "Filosofia contemporanea analitica",
+    "period": "1889–1951",
+    "summary": "Filosofo austro-britannico, Wittgenstein attraversa una prima fase centrata sulla forma logica del linguaggio e una seconda dedicata agli usi linguistici e alle pratiche condivise.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nato a Vienna, Wittgenstein studiò a Cambridge con Bertrand Russell e partecipò alle trasformazioni della logica e della filosofia del linguaggio del primo Novecento. Dopo il Tractatus logico-philosophicus si allontanò dall’insegnamento accademico per alcuni anni, tornando poi a Cambridge.",
+          "Le Ricerche filosofiche furono pubblicate postume e presentano una forma di indagine frammentaria e dialogica. La distinzione tra primo e secondo Wittgenstein è utile, ma non deve cancellare continuità e ripensamenti."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "Nel Tractatus il linguaggio rappresenta il mondo attraverso una forma logica condivisa con gli stati di cose. Ciò che può essere detto con senso va distinto da ciò che non può essere espresso come proposizione fattuale.",
+          "Nelle Ricerche filosofiche il significato viene studiato attraverso l’uso, i giochi linguistici e le forme di vita. Seguire una regola non è un atto privato autosufficiente: dipende da pratiche, criteri e apprendimenti condivisi."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Wittgenstein ha influenzato filosofia analitica, filosofia della mente, epistemologia, antropologia e teoria del linguaggio. Le interpretazioni divergono sul rapporto tra le due fasi e sullo statuto delle osservazioni grammaticali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La prima filosofia di Wittgenstein cerca di chiarire la struttura logica della proposizione e il rapporto tra linguaggio e mondo. Il limite del dicibile non coincide con l’inesistenza di ciò che non può essere formulato come fatto: etica, valore e senso della vita non diventano semplicemente oggetti di una scienza.",
+      "Nella fase tarda, la ricerca si concentra sulle confusioni prodotte quando si cerca un’essenza unica del linguaggio. I giochi linguistici mostrano la pluralità degli usi; le forme di vita sono lo sfondo pratico in cui le parole acquistano funzione. L’argomento contro il linguaggio privato riguarda la possibilità di criteri pubblici di correttezza, non la negazione dell’esperienza interiore."
+    ],
+    "tags": [
+      "filosofia analitica",
+      "linguaggio",
+      "logica",
+      "giochi linguistici",
+      "forme di vita",
+      "regole"
+    ],
+    "related": [
+      {
+        "label": "David Hume",
+        "slug": "hume",
+        "relation": "confronto nella critica delle pretese metafisiche"
+      },
+      {
+        "label": "Bertrand Russell",
+        "slug": "bertrand-russell",
+        "relation": "collaborazione intellettuale e dibattito sulla logica"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Wittgenstein, Tractatus logico-philosophicus",
+        "type": "Testo primario / traduzione",
+        "note": "Analisi della proposizione, della logica e dei limiti del linguaggio."
+      },
+      {
+        "label": "Wittgenstein, Ricerche filosofiche",
+        "type": "Testo primario / traduzione",
+        "note": "Giochi linguistici, regole e forme di vita."
+      },
+      {
+        "label": "P. M. S. Hacker, Insight and Illusion",
+        "type": "Studio secondario",
+        "note": "Studio influente sulla filosofia della mente e del linguaggio di Wittgenstein."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "gioco linguistico",
+        "explanation": "Pratica d’uso del linguaggio regolata da attività e contesti."
+      },
+      {
+        "term": "forma di vita",
+        "explanation": "Sfondo condiviso di pratiche entro cui il linguaggio funziona."
+      },
+      {
+        "term": "seguire una regola",
+        "explanation": "Pratica normativa che richiede criteri condivisi di correttezza."
+      }
+    ],
+    "works": [
+      {
+        "title": "Tractatus logico-philosophicus",
+        "note": "Forma logica, rappresentazione e limiti del dicibile."
+      },
+      {
+        "title": "Ricerche filosofiche",
+        "note": "Significato come uso e critica dell’essenzialismo linguistico."
+      },
+      {
+        "title": "Della certezza",
+        "note": "Dubbio, sapere e certezze di sfondo."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1889",
+        "event": "Nasce a Vienna."
+      },
+      {
+        "date": "1921",
+        "event": "Pubblica il Tractatus in forma di articolo e poi in volume."
+      },
+      {
+        "date": "1929",
+        "event": "Ritorna a Cambridge e riprende la ricerca filosofica."
+      },
+      {
+        "date": "1951",
+        "event": "Muore a Cambridge."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "hannah-arendt",
+    "id": "AUT-000107",
+    "kind": "autore",
+    "title": "Hannah Arendt",
+    "subtitle": "Azione, pluralità e responsabilità politica",
+    "area": "Filosofia politica contemporanea",
+    "period": "1906–1975",
+    "summary": "Pensatrice ebrea tedesca naturalizzata statunitense, Arendt analizza totalitarismo, libertà politica, azione e fragilità dello spazio pubblico.",
+    "sections": [
+      {
+        "heading": "Profilo storico",
+        "paragraphs": [
+          "Nata ad Hannover, Arendt studiò filosofia in Germania con Martin Heidegger e Karl Jaspers. L’avvento del nazismo la costrinse all’esilio; dopo un periodo in Francia si stabilì negli Stati Uniti, dove sviluppò la propria opera politica.",
+          "Arendt definì spesso il proprio lavoro teoria politica più che filosofia politica. La sua scrittura intreccia storia, analisi concettuale e giudizio, senza costruire un sistema deduttivo."
+        ]
+      },
+      {
+        "heading": "Temi e problemi",
+        "paragraphs": [
+          "Le origini del totalitarismo studia antisemitismo, imperialismo e forme di dominio totalitario. Vita activa distingue lavoro, opera e azione, mettendo al centro la pluralità e la possibilità di iniziare qualcosa di nuovo nello spazio pubblico.",
+          "La banalità del male, formulata nel resoconto del processo Eichmann, riguarda il rapporto tra obbedienza, incapacità di giudicare e responsabilità personale. Il concetto è controverso e non equivale a minimizzare la gravità dei crimini."
+        ]
+      },
+      {
+        "heading": "Ricezione e confronti",
+        "paragraphs": [
+          "Arendt è centrale nella filosofia politica, negli studi sul totalitarismo, nella teoria democratica e nelle riflessioni sulla cittadinanza. Le sue analisi sono state discusse per il rapporto tra sociale e politico, rivoluzione, diritti e universalità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La politica nasce quando persone plurali agiscono e parlano insieme: non è riducibile all’amministrazione dei bisogni o alla gestione tecnica della società. L’azione inaugura processi imprevedibili e dipende da uno spazio di apparizione in cui ciascuno può essere visto e ascoltato.",
+      "La distinzione tra lavoro, opera e azione consente di interrogare le condizioni della vita comune. L’analisi del totalitarismo descrive una forma di dominio che mira a distruggere pluralità e spontaneità. Il giudizio, nella riflessione tarda, richiede di considerare punti di vista differenti senza dissolvere la responsabilità individuale."
+    ],
+    "tags": [
+      "filosofia politica",
+      "totalitarismo",
+      "azione",
+      "pluralità",
+      "libertà",
+      "giudizio"
+    ],
+    "related": [
+      {
+        "label": "Karl Marx",
+        "slug": "marx",
+        "relation": "confronto critico sul lavoro e sulla modernità"
+      },
+      {
+        "label": "Michel de Montaigne",
+        "slug": "montaigne",
+        "relation": "tradizione della riflessione sul giudizio e sulla pluralità delle prospettive"
+      }
+    ],
+    "bibliography": [
+      {
+        "label": "Arendt, Le origini del totalitarismo",
+        "type": "Testo primario / traduzione",
+        "note": "Analisi storica e politica delle forme totalitarie."
+      },
+      {
+        "label": "Arendt, Vita activa. La condizione umana",
+        "type": "Testo primario / traduzione",
+        "note": "Lavoro, opera, azione e spazio pubblico."
+      },
+      {
+        "label": "Arendt, La banalità del male. Eichmann a Gerusalemme",
+        "type": "Testo primario / traduzione",
+        "note": "Resoconto e riflessione sul giudizio e la responsabilità."
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "pluralità",
+        "explanation": "Condizione della politica: esseri umani distinti che condividono un mondo."
+      },
+      {
+        "term": "natalità",
+        "explanation": "Capacità di iniziare qualcosa di nuovo attraverso l’azione."
+      },
+      {
+        "term": "spazio dell’apparire",
+        "explanation": "Spazio pubblico che nasce quando le persone agiscono e parlano insieme."
+      }
+    ],
+    "works": [
+      {
+        "title": "Le origini del totalitarismo",
+        "note": "Antisemitismo, imperialismo e dominio totalitario."
+      },
+      {
+        "title": "Vita activa. La condizione umana",
+        "note": "Analisi delle attività fondamentali della vita umana."
+      },
+      {
+        "title": "Tra passato e futuro",
+        "note": "Saggi su autorità, libertà, storia e politica."
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1906",
+        "event": "Nasce ad Hannover."
+      },
+      {
+        "date": "1933",
+        "event": "Lascia la Germania dopo l’avvento del nazismo."
+      },
+      {
+        "date": "1941",
+        "event": "Si stabilisce negli Stati Uniti."
+      },
+      {
+        "date": "1951",
+        "event": "Pubblica Le origini del totalitarismo."
+      },
+      {
+        "date": "1975",
+        "event": "Muore a New York."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  }
+]
+];
 
 export interface ComparativePath {
   slug: string;
