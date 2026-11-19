@@ -262,4 +262,50 @@ export const expandedThoughts: Record<string, string[]> = {
     "La sua epistemologia distingue fonti valide di conoscenza e condizioni dell'errore. Percezione, inferenza, comparazione e testimonianza sono analizzate come strumenti con funzioni specifiche. La conoscenza non è ridotta a rappresentazione mentale: è un rapporto cognitivo che può essere valutato in base alla sua affidabilità e alla capacità di guidare l'azione.",
     "Udayana interviene in un contesto di confronto intenso con le scuole buddhiste, soprattutto sulle questioni del sé, della causalità e della validità della conoscenza. Le sue argomentazioni mostrano che la filosofia indiana medievale sviluppa dibattiti tecnici e sistematici comparabili, per complessità, a quelli delle tradizioni scolastiche europee e islamiche."
   ],
+
+  "attar-nishapur": [
+    "Farid al-Din Attar è una delle voci decisive della mistica persiana. Nel Linguaggio degli uccelli il viaggio verso il Simorgh diventa figura della ricerca spirituale: ogni tappa mette in scena un attaccamento, una paura o un'immagine di sé che impedisce al viandante di comprendere la propria condizione.",
+    "La conoscenza non coincide con il possesso di definizioni. È una trasformazione dell'esistenza che richiede distacco, amore e disponibilità a perdere identità consolidate. Le parabole non illustrano soltanto una dottrina: conducono il lettore attraverso situazioni che rendono visibili i limiti della ragione quando pretende di dominare il reale.",
+    "La critica dell'ego non annulla la singolarità umana, ma ne mostra la dipendenza da relazioni e desideri. Il Simorgh, scoperto dai pellegrini come immagine della loro comunità trasfigurata, esprime una soggettività non autosufficiente: il compimento individuale è inseparabile dal cammino condiviso."
+  ],
+  "abraham-ibn-ezra": [
+    "Abraham ibn Ezra unisce esegesi biblica, grammatica, matematica e astrologia. Interpretare significa ricostruire le condizioni linguistiche e storiche di un testo: l'attenzione al senso letterale non esclude livelli ulteriori, ma richiede che ogni lettura rispetti la lingua e la coerenza del contesto.",
+    "Il suo pensiero si colloca nell'incontro tra tradizione ebraica, filosofia aristotelica e scienze arabe e latine. La ragione non sostituisce la rivelazione: chiarisce che cosa un testo possa dire e quali interpretazioni siano incompatibili con le sue forme espressive. L'indagine razionale diventa una disciplina dell'interpretazione.",
+    "Nelle opere scientifiche emerge una concezione ordinata del cosmo, intelligibile attraverso relazioni e regolarità. Ibn Ezra testimonia che la cultura filosofica medievale è una rete plurale: la trasmissione dei saperi comporta traduzione, selezione e confronto tra tradizioni."
+  ],
+  "isaac-israeli": [
+    "Isaac Israeli, medico e filosofo ebreo attivo nel mondo islamico, contribuisce alla trasmissione del neoplatonismo e della filosofia naturale. Le sue riflessioni su definizione, intelletto, anima e natura mostrano come la medicina costituisca un terreno importante di elaborazione teorica.",
+    "La sua metafisica descrive la realtà attraverso livelli e processi di derivazione. La relazione tra principio primo, intelletto e anima permette di pensare l'unità dell'origine senza cancellare la molteplicità delle forme; conoscere significa comprendere i nessi tra i diversi gradi dell'essere.",
+    "La sua importanza non si misura soltanto nell'originalità di singole dottrine. Israeli testimonia il ruolo degli studiosi ebrei nella circolazione di concetti greci, arabi e latini e la funzione della pratica medica come spazio di confronto tra osservazione, classificazione e speculazione."
+  ],
+  "juan-luis-vives": [
+    "Juan Luis Vives concepisce la filosofia come sapere legato alla vita concreta. La critica delle dispute scolastiche sterili non rifiuta la ragione, ma chiede che il ragionamento torni a misurarsi con l'esperienza, il linguaggio ordinario e i bisogni della comunità.",
+    "Nella sua riflessione sulla conoscenza, osservazione e psicologia delle facoltà umane hanno grande rilievo. Memoria, immaginazione, affetti e giudizio concorrono alla formazione del sapere; l'educazione deve quindi considerare la persona nella sua interezza e non limitarsi alla trasmissione meccanica di regole.",
+    "La filosofia morale di Vives insiste sulla responsabilità pubblica verso i poveri. La povertà non è soltanto un problema individuale: richiede istituzioni capaci di riconoscere i bisogni e promuovere autonomia. L'umanesimo diventa così una riflessione sulla politica sociale."
+  ],
+  "pestalozzi": [
+    "Johann Heinrich Pestalozzi elabora una concezione dell'educazione come sviluppo integrale. La formazione non deve imporre nozioni dall'esterno, ma sostenere capacità che maturano attraverso esperienza, attività e relazioni affettive. Mente, cuore e mano indicano che conoscere, sentire e fare sono dimensioni inseparabili.",
+    "Il metodo muove dall'intuizione e dall'esperienza sensibile verso concetti più articolati. L'apprendimento procede attraverso osservazione, confronto e organizzazione progressiva delle rappresentazioni: il discente deve sviluppare capacità di giudizio, non dipendere dalla ripetizione.",
+    "La pedagogia pestalozziana ha una dimensione sociale esplicita. L'istruzione è uno strumento di emancipazione, soprattutto per chi vive in povertà; la scuola deve contrastare la riproduzione delle disuguaglianze e valorizzare le possibilità di ciascuno."
+  ],
+  "leon-brunschvicg": [
+    "Léon Brunschvicg interpreta la storia della filosofia come sviluppo della coscienza riflessiva e della razionalità. La ragione non è un deposito di principi immutabili: si manifesta nelle pratiche scientifiche, nelle trasformazioni dei concetti e nella capacità di criticare le proprie procedure.",
+    "La matematica e la fisica moderne mostrano una ragione attiva, capace di costruire oggetti intelligibili e rivedere i propri strumenti. La conoscenza non è copia passiva di un mondo già organizzato, ma attività che produce relazioni e ne verifica la validità.",
+    "Il suo idealismo critico rifiuta dogmatismo e relativismo. La storia delle scienze mostra che la verità si afferma attraverso correzioni e ampliamenti della coscienza; la filosofia rende esplicito questo movimento e difende l'autonomia critica della ragione."
+  ],
+  "alexandre-kojeve": [
+    "Alexandre Kojève ha influenzato la filosofia francese del Novecento con la sua interpretazione della dialettica hegeliana. La relazione tra signoria e servitù chiarisce il desiderio umano: non cerchiamo soltanto oggetti, ma il riconoscimento da parte di un'altra coscienza.",
+    "Lavoro e conflitto trasformano il mondo e chi vi agisce. La coscienza non si realizza in isolamento, perché l'identità dipende da rapporti sociali e storici. La storia può essere letta come lotta per forme di riconoscimento sempre più universali, attraversata da contraddizioni.",
+    "La fine della storia non indica la cessazione degli eventi, ma l'ipotesi di una conclusione della lotta per il riconoscimento in un ordine universale. Resta tuttavia aperta la questione se un riconoscimento istituzionalizzato lasci spazio a conflitto, differenza e trasformazione politica."
+  ],
+  "raymond-aron": [
+    "Raymond Aron difende una sociologia storica attenta alla pluralità delle cause e all'incertezza dell'azione politica. Contro le filosofie della storia che pretendono di conoscere in anticipo il senso necessario degli eventi, insiste sul carattere situato delle decisioni e sulla difficoltà di isolare leggi universali.",
+    "La riflessione sul totalitarismo e sulle società industriali confronta istituzioni, ideologie e forme economiche senza ridurle a un unico criterio. La comparazione distingue regimi e tendenze, ma non elimina la responsabilità del giudizio politico.",
+    "Il liberalismo di Aron è anche prudenza epistemologica. La libertà richiede pluralismo, discussione e limiti al potere; sul piano teorico occorre riconoscere la fallibilità delle previsioni storiche. Criticare le ideologie non significa rinunciare ai valori, ma sottrarli alle pretese di infallibilità."
+  ],
+  "ifeyani-menkiti": [
+    "Ifeyani Menkiti sviluppa una concezione africana della persona nella quale l'individualità non è un dato completo e autosufficiente dalla nascita. La persona si costituisce attraverso l'inserimento nella comunità, l'assunzione di responsabilità e la partecipazione a pratiche condivise.",
+    "Questa impostazione mette in discussione l'idea di un individuo astratto e separato dalle relazioni. La comunità è un orizzonte etico nel quale si formano capacità, obblighi e riconoscimento reciproco, non una semplice somma di consuetudini.",
+    "La posizione di Menkiti è discussa nel confronto con concezioni individualistiche e altre interpretazioni dell'ubuntu. Il suo contributo rende visibile una domanda generale: in quale misura diventiamo persone grazie agli altri, e come evitare che il valore della comunità cancelli dissenso e autonomia?"
+  ],
 };
