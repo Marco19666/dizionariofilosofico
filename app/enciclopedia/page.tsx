@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 import SearchAutocomplete from "@/components/search-autocomplete";
 import { entries, terms } from "@/data/catalog";
 
@@ -10,6 +11,7 @@ const kinds = ["Tutte le tipologie", ...Array.from(new Set(entries.map((entry) =
 const suggestions = Array.from(new Set([...entries.map((entry) => entry.title), ...entries.flatMap((entry) => entry.tags), ...terms.map((item) => item.term)]));
 
 export default function EncyclopediaPage() {
+  const router = useRouter();
   const [query, setQuery] = useState("");
   const [area, setArea] = useState("Tutte le aree");
   const [kind, setKind] = useState("Tutte le tipologie");
@@ -37,7 +39,7 @@ export default function EncyclopediaPage() {
         <div className="section-heading"><div><p className="eyebrow">Le voci</p><h2>Esplora il repertorio</h2></div><span className="entry-count">{filtered.length} di {entries.length} voci</span></div>
         <div className="search-panel">
           <label className="search-label" htmlFor="archive-search">Cerca per autore, tema o parola chiave</label>
-          <SearchAutocomplete id="archive-search" label="Cerca per autore, tema o parola chiave" placeholder="Es. etica, Cina, metafisica…" value={query} onChange={setQuery} options={suggestions} />
+          <SearchAutocomplete id="archive-search" label="Cerca per autore, tema o parola chiave" placeholder="Es. etica, Cina, metafisica…" value={query} onChange={setQuery} onSelect={(option) => { const match = entries.find((entry) => entry.title.toLocaleLowerCase("it") === option.toLocaleLowerCase("it")); if (match) router.push(`/enciclopedia/${match.slug}`); }} options={suggestions} />
           <label className="filter-label" htmlFor="archive-area">Area culturale</label>
           <select id="archive-area" value={area} onChange={(event) => setArea(event.target.value)}>{areas.map((item) => <option key={item}>{item}</option>)}</select>
           <label className="filter-label" htmlFor="archive-kind">Tipologia di voce</label>
