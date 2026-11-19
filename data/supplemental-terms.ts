@@ -1,4 +1,10 @@
-export type SupplementalTerm = { term: string; area: string; definition: string; distinction: string };
+export type SupplementalTerm = {
+  term: string;
+  area: string;
+  definition: string;
+  distinction: string;
+  related?: { label: string; slug: string }[];
+};
 
 export const supplementalTerms: SupplementalTerm[] = [
   { term:"Aletheia", area:"Filosofia antica", definition:"Termine greco per verità o disvelamento; in diversi autori indica il rapporto tra ciò che si manifesta e ciò che può essere detto o conosciuto.", distinction:"Non coincide in ogni contesto con la nozione moderna di verità come corrispondenza." },
