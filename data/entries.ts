@@ -5782,6 +5782,247 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "criterio-di-demarcazione",
+    "id": "CON-000145",
+    "kind": "concetto",
+    "title": "Criterio di demarcazione",
+    "subtitle": "Principio proposto per distinguere le teorie scientifiche da quelle non scientifiche.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Principio proposto per distinguere le teorie scientifiche da quelle non scientifiche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il criterio di demarcazione è il problema epistemologico di stabilire che cosa renda scientifica una teoria. La questione riguarda non soltanto la verità delle affermazioni, ma il tipo di controllo a cui esse possono essere sottoposte. Karl Popper propone la falsificabilità: una teoria è scientifica se vieta alcuni eventi possibili e può quindi entrare in conflitto con l’esperienza."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La falsificabilità non significa che una teoria debba essere già falsificata, ma che esponga contenuti empirici rischiosi. Il criterio è stato discusso perché le pratiche scientifiche reali includono ipotesi ausiliarie, revisioni graduali e programmi di ricerca. Lakatos e altri autori hanno proposto criteri più articolati, attenti alla dinamica storica delle discipline."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema della demarcazione interessa il rapporto tra scienza, pseudoscienza, metafisica e ideologia. Nessun criterio semplice risolve ogni caso, ma la discussione chiarisce quali forme di prova, revisione e responsabilità argomentativa caratterizzino l’indagine scientifica."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il criterio di demarcazione è il problema epistemologico di stabilire che cosa renda scientifica una teoria. La questione riguarda non soltanto la verità delle affermazioni, ma il tipo di controllo a cui esse possono essere sottoposte. Karl Popper propone la falsificabilità: una teoria è scientifica se vieta alcuni eventi possibili e può quindi entrare in conflitto con l’esperienza.",
+      "La falsificabilità non significa che una teoria debba essere già falsificata, ma che esponga contenuti empirici rischiosi. Il criterio è stato discusso perché le pratiche scientifiche reali includono ipotesi ausiliarie, revisioni graduali e programmi di ricerca. Lakatos e altri autori hanno proposto criteri più articolati, attenti alla dinamica storica delle discipline.",
+      "Il problema della demarcazione interessa il rapporto tra scienza, pseudoscienza, metafisica e ideologia. Nessun criterio semplice risolve ogni caso, ma la discussione chiarisce quali forme di prova, revisione e responsabilità argomentativa caratterizzino l’indagine scientifica."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Criterio di demarcazione",
+        "explanation": "Principio proposto per distinguere le teorie scientifiche da quelle non scientifiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dilemma",
+    "id": "CON-000146",
+    "kind": "concetto",
+    "title": "Dilemma",
+    "subtitle": "Situazione in cui una scelta o un ragionamento presenta due alternative problematiche o incompatibili.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Situazione in cui una scelta o un ragionamento presenta due alternative problematiche o incompatibili.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Un dilemma è una struttura argomentativa o pratica nella quale sembrano imporsi due possibilità, entrambe gravate da conseguenze difficili. In logica può assumere la forma di un argomento che, a partire da alternative esaustive, conduce a una conclusione; nell’etica indica spesso un conflitto tra doveri, valori o esiti indesiderabili."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Non ogni scelta difficile costituisce un dilemma autentico: talvolta le alternative sono incomplete, oppure una terza possibilità è stata trascurata. Nei dilemmi morali, inoltre, bisogna distinguere il conflitto tra principi dal semplice calcolo delle conseguenze. Alcune teorie ammettono dilemmi morali genuini, altre ritengono che un dovere prevalga sempre dopo un’analisi adeguata."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "I dilemmi sono strumenti importanti nella logica, nell’etica applicata e nella filosofia del diritto. La loro analisi richiede di esplicitare le alternative, i criteri di scelta e il tipo di perdita che rende problematica ogni soluzione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Un dilemma è una struttura argomentativa o pratica nella quale sembrano imporsi due possibilità, entrambe gravate da conseguenze difficili. In logica può assumere la forma di un argomento che, a partire da alternative esaustive, conduce a una conclusione; nell’etica indica spesso un conflitto tra doveri, valori o esiti indesiderabili.",
+      "Non ogni scelta difficile costituisce un dilemma autentico: talvolta le alternative sono incomplete, oppure una terza possibilità è stata trascurata. Nei dilemmi morali, inoltre, bisogna distinguere il conflitto tra principi dal semplice calcolo delle conseguenze. Alcune teorie ammettono dilemmi morali genuini, altre ritengono che un dovere prevalga sempre dopo un’analisi adeguata.",
+      "I dilemmi sono strumenti importanti nella logica, nell’etica applicata e nella filosofia del diritto. La loro analisi richiede di esplicitare le alternative, i criteri di scelta e il tipo di perdita che rende problematica ogni soluzione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Dilemma",
+        "explanation": "Situazione in cui una scelta o un ragionamento presenta due alternative problematiche o incompatibili."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "emergentismo",
+    "id": "CON-000147",
+    "kind": "concetto",
+    "title": "Emergentismo",
+    "subtitle": "Posizione secondo cui alcune proprietà o capacità complesse emergono da sistemi di elementi più semplici senza ridursi facilmente a essi.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione secondo cui alcune proprietà o capacità complesse emergono da sistemi di elementi più semplici senza ridursi facilmente a essi.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’emergentismo sostiene che, quando componenti interagiscono in determinate organizzazioni, possono comparire proprietà nuove a livello del sistema. Queste proprietà dipendono dai componenti, ma la loro descrizione e spiegazione richiedono concetti riferiti al livello organizzativo complessivo. Il tema è discusso nella filosofia della natura, della mente e delle scienze della complessità."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Occorre distinguere emergenza debole, in cui le proprietà sono in linea di principio derivabili ma difficili da prevedere, ed emergenza forte, che attribuisce ai livelli superiori poteri causali o novità ontologiche più radicali. Il dibattito riguarda la compatibilità dell’emergenza con il fisicalismo e la possibilità di spiegazioni riduzionistiche complete."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è utilizzato per discutere coscienza, vita, causalità, organizzazione biologica e fenomeni sociali. La questione centrale è se le proprietà emergenti siano soltanto nuove modalità descrittive oppure introducano autentici livelli di realtà e causalità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’emergentismo sostiene che, quando componenti interagiscono in determinate organizzazioni, possono comparire proprietà nuove a livello del sistema. Queste proprietà dipendono dai componenti, ma la loro descrizione e spiegazione richiedono concetti riferiti al livello organizzativo complessivo. Il tema è discusso nella filosofia della natura, della mente e delle scienze della complessità.",
+      "Occorre distinguere emergenza debole, in cui le proprietà sono in linea di principio derivabili ma difficili da prevedere, ed emergenza forte, che attribuisce ai livelli superiori poteri causali o novità ontologiche più radicali. Il dibattito riguarda la compatibilità dell’emergenza con il fisicalismo e la possibilità di spiegazioni riduzionistiche complete.",
+      "Il concetto è utilizzato per discutere coscienza, vita, causalità, organizzazione biologica e fenomeni sociali. La questione centrale è se le proprietà emergenti siano soltanto nuove modalità descrittive oppure introducano autentici livelli di realtà e causalità."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Emergentismo",
+        "explanation": "Posizione secondo cui alcune proprietà o capacità complesse emergono da sistemi di elementi più semplici senza ridursi facilmente a essi."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "epifenomenismo",
+    "id": "CON-000148",
+    "kind": "concetto",
+    "title": "Epifenomenismo",
+    "subtitle": "Tesi secondo cui gli stati mentali sono prodotti da processi fisici ma non esercitano a loro volta efficacia causale sul mondo fisico.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi secondo cui gli stati mentali sono prodotti da processi fisici ma non esercitano a loro volta efficacia causale sul mondo fisico.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’epifenomenismo è una posizione nel problema mente-corpo. Secondo questa teoria, gli eventi cerebrali causano gli stati mentali, ma questi ultimi non causano azioni corporee né modificazioni fisiche. La coscienza sarebbe dunque un effetto collaterale dei processi materiali, paragonabile a un fenomeno che accompagna un processo senza influenzarlo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La tesi tenta di preservare la chiusura causale del mondo fisico evitando di attribuire alla mente un potere causale aggiuntivo. Incontra però difficoltà: se le esperienze coscienti non producono effetti, diventa problematico spiegare perché i resoconti verbali sulla coscienza siano così sistematici e perché l’evoluzione avrebbe favorito organismi dotati di esperienza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "L’epifenomenismo resta una posizione significativa nel dibattito sulla coscienza e sul rapporto tra spiegazioni neuroscientifiche e vissuto soggettivo. La sua valutazione dipende da come si concepiscono causalità mentale, introspezione e rapporto tra esperienza e comportamento."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’epifenomenismo è una posizione nel problema mente-corpo. Secondo questa teoria, gli eventi cerebrali causano gli stati mentali, ma questi ultimi non causano azioni corporee né modificazioni fisiche. La coscienza sarebbe dunque un effetto collaterale dei processi materiali, paragonabile a un fenomeno che accompagna un processo senza influenzarlo.",
+      "La tesi tenta di preservare la chiusura causale del mondo fisico evitando di attribuire alla mente un potere causale aggiuntivo. Incontra però difficoltà: se le esperienze coscienti non producono effetti, diventa problematico spiegare perché i resoconti verbali sulla coscienza siano così sistematici e perché l’evoluzione avrebbe favorito organismi dotati di esperienza.",
+      "L’epifenomenismo resta una posizione significativa nel dibattito sulla coscienza e sul rapporto tra spiegazioni neuroscientifiche e vissuto soggettivo. La sua valutazione dipende da come si concepiscono causalità mentale, introspezione e rapporto tra esperienza e comportamento."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Epifenomenismo",
+        "explanation": "Tesi secondo cui gli stati mentali sono prodotti da processi fisici ma non esercitano a loro volta efficacia causale sul mondo fisico."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "equivocazione",
+    "id": "CON-000149",
+    "kind": "concetto",
+    "title": "Equivocazione",
+    "subtitle": "Errore argomentativo che sfrutta il cambiamento non dichiarato del significato di un termine.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Errore argomentativo che sfrutta il cambiamento non dichiarato del significato di un termine.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’equivocazione si verifica quando una stessa parola viene impiegata in un argomento con significati differenti, facendo apparire valida una conclusione che non segue dalle premesse. È una fallacia linguistica: la forma del ragionamento può sembrare corretta, ma la continuità verbale nasconde una discontinuità concettuale."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "L’equivocazione va distinta dall’ambiguità innocua e dall’uso analogico consapevole di un termine. Per individuarla occorre ricostruire il significato assunto dalla parola in ciascuna premessa e verificare se la conclusione dipenda da uno slittamento semantico. Non ogni variazione di significato è fallace: lo diventa quando sostiene indebitamente l’inferenza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "L’analisi dell’equivocazione è importante nella logica informale, nella retorica e nell’interpretazione dei testi. Essa mostra perché la precisione terminologica non sia un ornamento, ma una condizione essenziale della correttezza argomentativa."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’equivocazione si verifica quando una stessa parola viene impiegata in un argomento con significati differenti, facendo apparire valida una conclusione che non segue dalle premesse. È una fallacia linguistica: la forma del ragionamento può sembrare corretta, ma la continuità verbale nasconde una discontinuità concettuale.",
+      "L’equivocazione va distinta dall’ambiguità innocua e dall’uso analogico consapevole di un termine. Per individuarla occorre ricostruire il significato assunto dalla parola in ciascuna premessa e verificare se la conclusione dipenda da uno slittamento semantico. Non ogni variazione di significato è fallace: lo diventa quando sostiene indebitamente l’inferenza.",
+      "L’analisi dell’equivocazione è importante nella logica informale, nella retorica e nell’interpretazione dei testi. Essa mostra perché la precisione terminologica non sia un ornamento, ma una condizione essenziale della correttezza argomentativa."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Equivocazione",
+        "explanation": "Errore argomentativo che sfrutta il cambiamento non dichiarato del significato di un termine."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
