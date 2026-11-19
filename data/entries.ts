@@ -10502,8 +10502,6 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
-
-,
   {
     "slug": "funzionalismo-filosofia-mente",
     "id": "CON-000234",
