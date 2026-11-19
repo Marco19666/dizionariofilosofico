@@ -7467,6 +7467,487 @@ export const comparativePaths: ComparativePath[] = [
     "editorialStatus": "edizione editoriale 1.0"
   },
 
+  {
+    "slug": "accidentalismo",
+    "id": "CON-000180",
+    "kind": "concetto",
+    "title": "Accidentalismo",
+    "subtitle": "Posizione che attribuisce agli eventi un ruolo non necessario o non riconducibile a un ordine finalistico complessivo.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione che attribuisce agli eventi un ruolo non necessario o non riconducibile a un ordine finalistico complessivo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’accidentalismo interpreta alcuni aspetti della realtà come esiti contingenti, non inscritti in un disegno necessario o in una finalità prestabilita. In filosofia della natura e della storia si oppone alle concezioni che leggono ogni evento come momento di un ordine teleologico complessivo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Riconoscere il ruolo dell’accidente non significa negare ogni causalità o regolarità. Un evento può avere cause determinate e restare contingente rispetto a un esito più ampio. La questione è distinguere l’assenza di uno scopo intrinseco dall’assenza di spiegazioni causali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il tema è rilevante nella filosofia della storia, nella biologia evoluzionistica e nella metafisica. Consente di interrogare il rapporto tra necessità, caso e interpretazioni finalistiche dei processi naturali e umani."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’accidentalismo interpreta alcuni aspetti della realtà come esiti contingenti, non inscritti in un disegno necessario o in una finalità prestabilita. In filosofia della natura e della storia si oppone alle concezioni che leggono ogni evento come momento di un ordine teleologico complessivo.",
+      "Riconoscere il ruolo dell’accidente non significa negare ogni causalità o regolarità. Un evento può avere cause determinate e restare contingente rispetto a un esito più ampio. La questione è distinguere l’assenza di uno scopo intrinseco dall’assenza di spiegazioni causali.",
+      "Il tema è rilevante nella filosofia della storia, nella biologia evoluzionistica e nella metafisica. Consente di interrogare il rapporto tra necessità, caso e interpretazioni finalistiche dei processi naturali e umani."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Accidentalismo",
+        "explanation": "Posizione che attribuisce agli eventi un ruolo non necessario o non riconducibile a un ordine finalistico complessivo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "analitico-e-sintetico",
+    "id": "CON-000181",
+    "kind": "concetto",
+    "title": "Analitico e sintetico",
+    "subtitle": "Distinzione tra giudizi veri in virtù del significato e giudizi che ampliano la conoscenza attraverso il contenuto dell’esperienza.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Distinzione tra giudizi veri in virtù del significato e giudizi che ampliano la conoscenza attraverso il contenuto dell’esperienza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La distinzione tra analitico e sintetico è centrale nella filosofia moderna. Un giudizio analitico è tradizionalmente inteso come tale quando il predicato è contenuto nel concetto del soggetto; un giudizio sintetico aggiunge invece un contenuto non ricavabile dalla sola analisi concettuale. Kant attribuisce particolare importanza ai giudizi sintetici a priori."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La distinzione è stata criticata da Quine, che ha messo in dubbio la possibilità di tracciare un confine netto tra verità analitiche e sintetiche. Il dibattito coinvolge significato, definizioni, convenzioni linguistiche e ruolo dell’esperienza nella conoscenza."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il problema è fondamentale in epistemologia, filosofia del linguaggio e filosofia della matematica. Chiarisce che cosa significhi conoscere qualcosa in virtù dei concetti e che cosa richieda invece un confronto con il mondo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La distinzione tra analitico e sintetico è centrale nella filosofia moderna. Un giudizio analitico è tradizionalmente inteso come tale quando il predicato è contenuto nel concetto del soggetto; un giudizio sintetico aggiunge invece un contenuto non ricavabile dalla sola analisi concettuale. Kant attribuisce particolare importanza ai giudizi sintetici a priori.",
+      "La distinzione è stata criticata da Quine, che ha messo in dubbio la possibilità di tracciare un confine netto tra verità analitiche e sintetiche. Il dibattito coinvolge significato, definizioni, convenzioni linguistiche e ruolo dell’esperienza nella conoscenza.",
+      "Il problema è fondamentale in epistemologia, filosofia del linguaggio e filosofia della matematica. Chiarisce che cosa significhi conoscere qualcosa in virtù dei concetti e che cosa richieda invece un confronto con il mondo."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Analitico e sintetico",
+        "explanation": "Distinzione tra giudizi veri in virtù del significato e giudizi che ampliano la conoscenza attraverso il contenuto dell’esperienza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "cognitivismo-morale",
+    "id": "CON-000182",
+    "kind": "concetto",
+    "title": "Cognitivismo morale",
+    "subtitle": "Tesi metaetica secondo cui i giudizi morali esprimono proposizioni suscettibili di essere vere o false.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Tesi metaetica secondo cui i giudizi morali esprimono proposizioni suscettibili di essere vere o false.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il cognitivismo morale sostiene che le affermazioni etiche, come «mentire è ingiusto», esprimono contenuti proposizionali e possono essere valutate come veri o falsi. Si contrappone alle forme di non-cognitivismo, che interpretano i giudizi morali soprattutto come espressioni di atteggiamenti, prescrizioni o impegni pratici."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il cognitivismo non implica necessariamente il realismo morale: si può sostenere che i giudizi morali abbiano valore di verità senza ammettere fatti morali indipendenti dalle pratiche umane. Il dibattito riguarda il significato del linguaggio etico, la motivazione morale e la possibilità di conoscenza normativa."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nella metaetica contemporanea. Aiuta a distinguere le questioni sul significato dei giudizi morali da quelle sulla loro verità, giustificazione e capacità di motivare l’azione."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il cognitivismo morale sostiene che le affermazioni etiche, come «mentire è ingiusto», esprimono contenuti proposizionali e possono essere valutate come veri o falsi. Si contrappone alle forme di non-cognitivismo, che interpretano i giudizi morali soprattutto come espressioni di atteggiamenti, prescrizioni o impegni pratici.",
+      "Il cognitivismo non implica necessariamente il realismo morale: si può sostenere che i giudizi morali abbiano valore di verità senza ammettere fatti morali indipendenti dalle pratiche umane. Il dibattito riguarda il significato del linguaggio etico, la motivazione morale e la possibilità di conoscenza normativa.",
+      "Il concetto è centrale nella metaetica contemporanea. Aiuta a distinguere le questioni sul significato dei giudizi morali da quelle sulla loro verità, giustificazione e capacità di motivare l’azione."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Cognitivismo morale",
+        "explanation": "Tesi metaetica secondo cui i giudizi morali esprimono proposizioni suscettibili di essere vere o false."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "conseguenzialismo",
+    "id": "CON-000183",
+    "kind": "concetto",
+    "title": "Conseguenzialismo",
+    "subtitle": "Famiglia di teorie etiche che valuta la correttezza delle azioni in base al valore delle loro conseguenze.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Famiglia di teorie etiche che valuta la correttezza delle azioni in base al valore delle loro conseguenze.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il consequenzialismo sostiene che la valutazione morale di un’azione dipende dagli esiti che produce o che è ragionevole attendersi. L’utilitarismo è una delle sue forme più note: considera moralmente preferibile l’azione che massimizza il benessere complessivo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le teorie consequenzialiste differiscono per ciò che considerano valore, per il modo di aggregare gli interessi e per il ruolo delle conseguenze attese rispetto a quelle effettive. Le obiezioni classiche riguardano il sacrificio dei diritti individuali, l’esigenza di calcoli complessi e la difficoltà di trattare equamente le persone."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nell’etica normativa e applicata, dalla medicina alle politiche pubbliche. Il confronto con deontologia ed etica delle virtù chiarisce se gli esiti siano l’unico criterio della valutazione morale."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il consequenzialismo sostiene che la valutazione morale di un’azione dipende dagli esiti che produce o che è ragionevole attendersi. L’utilitarismo è una delle sue forme più note: considera moralmente preferibile l’azione che massimizza il benessere complessivo.",
+      "Le teorie consequenzialiste differiscono per ciò che considerano valore, per il modo di aggregare gli interessi e per il ruolo delle conseguenze attese rispetto a quelle effettive. Le obiezioni classiche riguardano il sacrificio dei diritti individuali, l’esigenza di calcoli complessi e la difficoltà di trattare equamente le persone.",
+      "Il concetto è centrale nell’etica normativa e applicata, dalla medicina alle politiche pubbliche. Il confronto con deontologia ed etica delle virtù chiarisce se gli esiti siano l’unico criterio della valutazione morale."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Conseguenzialismo",
+        "explanation": "Famiglia di teorie etiche che valuta la correttezza delle azioni in base al valore delle loro conseguenze."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "convenzionalismo",
+    "id": "CON-000184",
+    "kind": "concetto",
+    "title": "Convenzionalismo",
+    "subtitle": "Posizione secondo cui determinate regole, classificazioni o verità dipendono da convenzioni condivise.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione secondo cui determinate regole, classificazioni o verità dipendono da convenzioni condivise.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il convenzionalismo attribuisce alle convenzioni un ruolo costitutivo in ambiti quali linguaggio, norme sociali, diritto e talvolta matematica. Le convenzioni non sono necessariamente arbitrarie: possono coordinare pratiche, stabilizzare significati e rendere possibili attività collettive."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Occorre distinguere ciò che dipende da una convenzione da ciò che è vincolato da fatti indipendenti. Una regola può essere convenzionale nella sua origine e tuttavia avere conseguenze oggettive una volta adottata. Il problema è chiarire se e in che misura le convenzioni possano fondare verità o soltanto regolare l’uso dei simboli e dei comportamenti."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il convenzionalismo è rilevante in filosofia del linguaggio, della matematica, del diritto e delle scienze. Permette di indagare il rapporto tra accordo sociale, necessità logica e vincoli del mondo."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il convenzionalismo attribuisce alle convenzioni un ruolo costitutivo in ambiti quali linguaggio, norme sociali, diritto e talvolta matematica. Le convenzioni non sono necessariamente arbitrarie: possono coordinare pratiche, stabilizzare significati e rendere possibili attività collettive.",
+      "Occorre distinguere ciò che dipende da una convenzione da ciò che è vincolato da fatti indipendenti. Una regola può essere convenzionale nella sua origine e tuttavia avere conseguenze oggettive una volta adottata. Il problema è chiarire se e in che misura le convenzioni possano fondare verità o soltanto regolare l’uso dei simboli e dei comportamenti.",
+      "Il convenzionalismo è rilevante in filosofia del linguaggio, della matematica, del diritto e delle scienze. Permette di indagare il rapporto tra accordo sociale, necessità logica e vincoli del mondo."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Convenzionalismo",
+        "explanation": "Posizione secondo cui determinate regole, classificazioni o verità dipendono da convenzioni condivise."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "dilemma-del-prigioniero",
+    "id": "CON-000185",
+    "kind": "concetto",
+    "title": "Dilemma del prigioniero",
+    "subtitle": "Modello della teoria dei giochi in cui la scelta individualmente razionale può produrre un esito collettivo peggiore per tutti.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Modello della teoria dei giochi in cui la scelta individualmente razionale può produrre un esito collettivo peggiore per tutti.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il dilemma del prigioniero descrive una situazione strategica nella quale due soggetti, incapaci di coordinarsi, scelgono tra cooperare e defezionare. In un modello classico, la defezione è dominante per ciascun individuo, ma la combinazione delle due defezioni produce un risultato peggiore rispetto alla cooperazione reciproca."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il modello mostra la tensione tra razionalità individuale e razionalità collettiva, ma i risultati dipendono dalle ipotesi su informazione, ripetizione, fiducia e possibilità di comunicazione. In interazioni ripetute possono emergere strategie cooperative e meccanismi di reputazione o reciprocità."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il dilemma è usato in filosofia politica, economia, etica e scienze sociali. Illustra perché istituzioni, norme e fiducia possano essere necessarie per trasformare incentivi individuali in esiti socialmente desiderabili."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il dilemma del prigioniero descrive una situazione strategica nella quale due soggetti, incapaci di coordinarsi, scelgono tra cooperare e defezionare. In un modello classico, la defezione è dominante per ciascun individuo, ma la combinazione delle due defezioni produce un risultato peggiore rispetto alla cooperazione reciproca.",
+      "Il modello mostra la tensione tra razionalità individuale e razionalità collettiva, ma i risultati dipendono dalle ipotesi su informazione, ripetizione, fiducia e possibilità di comunicazione. In interazioni ripetute possono emergere strategie cooperative e meccanismi di reputazione o reciprocità.",
+      "Il dilemma è usato in filosofia politica, economia, etica e scienze sociali. Illustra perché istituzioni, norme e fiducia possano essere necessarie per trasformare incentivi individuali in esiti socialmente desiderabili."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Dilemma del prigioniero",
+        "explanation": "Modello della teoria dei giochi in cui la scelta individualmente razionale può produrre un esito collettivo peggiore per tutti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "epistemologia-sociale",
+    "id": "CON-000186",
+    "kind": "concetto",
+    "title": "Epistemologia sociale",
+    "subtitle": "Studio delle dimensioni collettive, istituzionali e relazionali della produzione e giustificazione della conoscenza.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Studio delle dimensioni collettive, istituzionali e relazionali della produzione e giustificazione della conoscenza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’epistemologia sociale indaga come la conoscenza dipenda da testimonianze, pratiche collaborative, istituzioni e distribuzioni dell’autorità cognitiva. La maggior parte di ciò che sappiamo deriva da altre persone e da sistemi organizzati di ricerca, non da verifiche individuali dirette."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il sapere collettivo pone problemi sulla responsabilità, sulla fiducia e sulla divisione del lavoro cognitivo. Una comunità può correggere gli errori individuali, ma può anche consolidare pregiudizi o escludere alcune voci. Le condizioni sociali della conoscenza sono quindi insieme risorse e possibili fonti di distorsione."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il campo è importante per comprendere scienza, informazione pubblica, testimonianza, disinformazione e ingiustizia epistemica. Mostra che l’affidabilità del sapere dipende anche dalla qualità delle relazioni e delle istituzioni che lo sostengono."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’epistemologia sociale indaga come la conoscenza dipenda da testimonianze, pratiche collaborative, istituzioni e distribuzioni dell’autorità cognitiva. La maggior parte di ciò che sappiamo deriva da altre persone e da sistemi organizzati di ricerca, non da verifiche individuali dirette.",
+      "Il sapere collettivo pone problemi sulla responsabilità, sulla fiducia e sulla divisione del lavoro cognitivo. Una comunità può correggere gli errori individuali, ma può anche consolidare pregiudizi o escludere alcune voci. Le condizioni sociali della conoscenza sono quindi insieme risorse e possibili fonti di distorsione.",
+      "Il campo è importante per comprendere scienza, informazione pubblica, testimonianza, disinformazione e ingiustizia epistemica. Mostra che l’affidabilità del sapere dipende anche dalla qualità delle relazioni e delle istituzioni che lo sostengono."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Epistemologia sociale",
+        "explanation": "Studio delle dimensioni collettive, istituzionali e relazionali della produzione e giustificazione della conoscenza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "immanentismo",
+    "id": "CON-000187",
+    "kind": "concetto",
+    "title": "Immanentismo",
+    "subtitle": "Concezione secondo cui il principio o il fondamento della realtà opera all’interno del mondo e non al di fuori di esso.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Concezione secondo cui il principio o il fondamento della realtà opera all’interno del mondo e non al di fuori di esso.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L’immanentismo interpreta il fondamento del reale come interno alla natura o alla totalità dell’esperienza, contrapponendosi alle concezioni trascendenti che collocano il principio ultimo oltre il mondo. In Spinoza, per esempio, Dio o la sostanza non è un creatore esterno, ma la realtà immanente di cui le cose sono modi."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Le forme di immanentismo sono diverse e non coincidono tutte con il materialismo o con il naturalismo. Il problema consiste nel chiarire come il fondamento possa essere presente nelle cose senza ridursi a un singolo ente tra gli altri e come si distingua l’immanenza dalla semplice chiusura del mondo fisico."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è rilevante nella metafisica, nella filosofia della religione e nella storia del pensiero moderno. Il confronto con la trascendenza chiarisce differenti modi di concepire il rapporto tra principio, mondo e totalità."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L’immanentismo interpreta il fondamento del reale come interno alla natura o alla totalità dell’esperienza, contrapponendosi alle concezioni trascendenti che collocano il principio ultimo oltre il mondo. In Spinoza, per esempio, Dio o la sostanza non è un creatore esterno, ma la realtà immanente di cui le cose sono modi.",
+      "Le forme di immanentismo sono diverse e non coincidono tutte con il materialismo o con il naturalismo. Il problema consiste nel chiarire come il fondamento possa essere presente nelle cose senza ridursi a un singolo ente tra gli altri e come si distingua l’immanenza dalla semplice chiusura del mondo fisico.",
+      "Il concetto è rilevante nella metafisica, nella filosofia della religione e nella storia del pensiero moderno. Il confronto con la trascendenza chiarisce differenti modi di concepire il rapporto tra principio, mondo e totalità."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Immanentismo",
+        "explanation": "Concezione secondo cui il principio o il fondamento della realtà opera all’interno del mondo e non al di fuori di esso."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "pluralismo-assiologico",
+    "id": "CON-000188",
+    "kind": "concetto",
+    "title": "Pluralismo assiologico",
+    "subtitle": "Posizione secondo cui esistono molteplici valori autentici che non sono sempre riducibili a un’unica misura comune.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Posizione secondo cui esistono molteplici valori autentici che non sono sempre riducibili a un’unica misura comune.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il pluralismo assiologico, associato tra gli altri a Isaiah Berlin, sostiene che i valori umani sono molteplici e talvolta incommensurabili. Libertà, uguaglianza, giustizia, felicità e lealtà possono essere beni autentici, ma entrare in conflitto senza che esista sempre una soluzione capace di preservarli tutti."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il pluralismo non equivale al relativismo: riconoscere più valori fondamentali non significa considerare ogni preferenza ugualmente valida. Il problema riguarda come deliberare quando beni legittimi sono incompatibili e come giustificare scelte tragiche che comportano perdite morali reali."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è centrale nell’etica e nella filosofia politica. Aiuta a comprendere il dissenso ragionevole, i conflitti tra diritti e i limiti delle teorie che cercano di ricondurre ogni valore a un solo principio."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il pluralismo assiologico, associato tra gli altri a Isaiah Berlin, sostiene che i valori umani sono molteplici e talvolta incommensurabili. Libertà, uguaglianza, giustizia, felicità e lealtà possono essere beni autentici, ma entrare in conflitto senza che esista sempre una soluzione capace di preservarli tutti.",
+      "Il pluralismo non equivale al relativismo: riconoscere più valori fondamentali non significa considerare ogni preferenza ugualmente valida. Il problema riguarda come deliberare quando beni legittimi sono incompatibili e come giustificare scelte tragiche che comportano perdite morali reali.",
+      "Il concetto è centrale nell’etica e nella filosofia politica. Aiuta a comprendere il dissenso ragionevole, i conflitti tra diritti e i limiti delle teorie che cercano di ricondurre ogni valore a un solo principio."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Pluralismo assiologico",
+        "explanation": "Posizione secondo cui esistono molteplici valori autentici che non sono sempre riducibili a un’unica misura comune."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "responsabilita-collettiva",
+    "id": "CON-000189",
+    "kind": "concetto",
+    "title": "Responsabilità collettiva",
+    "subtitle": "Attribuzione di obblighi o responsabilità a gruppi, istituzioni e comunità per azioni o omissioni condivise.",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Attribuzione di obblighi o responsabilità a gruppi, istituzioni e comunità per azioni o omissioni condivise.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La responsabilità collettiva riguarda il modo in cui un gruppo può essere considerato responsabile di decisioni, danni o ingiustizie. Può riferirsi a organizzazioni dotate di procedure decisionali, ma anche a comunità più ampie coinvolte in pratiche storiche o strutture sociali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "La difficoltà consiste nel distinguere responsabilità del gruppo e responsabilità dei singoli membri. Non tutti contribuiscono nello stesso modo, conoscono gli stessi fatti o dispongono del medesimo potere. Le teorie contemporanee discutono criteri di partecipazione, controllo, beneficio, complicità e capacità di riparazione."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Il concetto è importante nell’etica politica, nel diritto, nella memoria storica e nella giustizia transizionale. Consente di affrontare danni sistemici senza cancellare le differenze tra responsabilità individuali e istituzionali."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La responsabilità collettiva riguarda il modo in cui un gruppo può essere considerato responsabile di decisioni, danni o ingiustizie. Può riferirsi a organizzazioni dotate di procedure decisionali, ma anche a comunità più ampie coinvolte in pratiche storiche o strutture sociali.",
+      "La difficoltà consiste nel distinguere responsabilità del gruppo e responsabilità dei singoli membri. Non tutti contribuiscono nello stesso modo, conoscono gli stessi fatti o dispongono del medesimo potere. Le teorie contemporanee discutono criteri di partecipazione, controllo, beneficio, complicità e capacità di riparazione.",
+      "Il concetto è importante nell’etica politica, nel diritto, nella memoria storica e nella giustizia transizionale. Consente di affrontare danni sistemici senza cancellare le differenze tra responsabilità individuali e istituzionali."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Responsabilità collettiva",
+        "explanation": "Attribuzione di obblighi o responsabilità a gruppi, istituzioni e comunità per azioni o omissioni condivise."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+
 ]; 
 
 export function getEntryBySlug(slug: string) { return entries.find((entry) => entry.slug === slug); }
