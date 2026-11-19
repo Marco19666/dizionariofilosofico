@@ -65,7 +65,7 @@ I campi sono opzionali perché non tutte le tipologie di voce ammettono una cron
 
 
 ## Edizione editoriale 1.0 e indici
-Il repertorio iniziale comprende 16 schede: sei autori, sei concetti, una raccolta testuale, due scuole e una categoria storiografica. La dicitura di edizione editoriale indica il completamento della redazione e della struttura informativa del primo nucleo; non equivale a peer review né a certificazione definitiva di ogni interpretazione o riferimento bibliografico.
+Il nucleo editoriale originario comprendeva 16 schede: sei autori, sei concetti, una raccolta testuale, due scuole e una categoria storiografica. Il catalogo è stato successivamente ampliato con nuovi autori, concetti e percorsi; l'ultima estensione aggiunge 50 lemmi concettuali con identificativi `CON-000455`–`CON-000504`. La dicitura di edizione editoriale indica il completamento della redazione e della struttura informativa delle singole voci; non equivale a peer review né a certificazione definitiva di ogni interpretazione o riferimento bibliografico.
 
 La pagina `/indici` genera automaticamente:
 - indice alfabetico delle voci;
