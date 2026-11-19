@@ -1,5 +1,5 @@
 export type EntryKind = "autore" | "concetto" | "opera" | "scuola" | "tradizione" | "periodo";
-export type BibliographyType = "Testo primario / traduzione" | "Edizione critica / testimone" | "Studio secondario" | "Edizione di riferimento";
+export type BibliographyType = "Testo primario / traduzione" | "Edizione critica / testimone" | "Studio secondario" | "Edizione di riferimento" | "enciclopedia";
 export interface EncyclopediaEntry {
   slug: string; id: string; kind: EntryKind; title: string; subtitle: string;
   area: string; period: string; summary: string;
