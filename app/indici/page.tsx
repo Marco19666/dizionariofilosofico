@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { terms } from "@/app/lessico/page";
 import { entries } from "@/data/entries";
 const authors = entries.filter((entry) => entry.kind === "autore");
 const themes = [...new Set(entries.flatMap((entry) => entry.tags))];
@@ -7,7 +10,7 @@ const sections = [
   { href: "/indici/autori", title: "Autori", description: "Filosofi e pensatori in ordine alfabetico.", count: authors.length },
   { href: "/indici/temi", title: "Temi", description: "Concetti, problemi e parole chiave.", count: themes.length },
   { href: "/indici/opere", title: "Opere", description: "Libri, dialoghi, trattati e testi.", count: works.length },
-  { href: "/lessico", title: "Lessico filosofico", description: "Termini, definizioni e distinzioni tra tradizioni.", count: 252 },
+  { href: "/lessico", title: "Lessico filosofico", description: "Termini, definizioni e distinzioni tra tradizioni.", count: terms.length },
 ];
 export default function IndexesPage() {
   return <main className="indexes-page">
