@@ -52,7 +52,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -95,7 +95,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -138,7 +138,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -181,7 +181,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -224,7 +224,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -267,7 +267,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -310,7 +310,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -353,7 +353,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -396,7 +396,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -439,7 +439,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -482,7 +482,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -525,7 +525,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -568,7 +568,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -611,7 +611,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -654,7 +654,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -697,7 +697,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -740,7 +740,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -783,7 +783,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -826,7 +826,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
@@ -869,7 +869,7 @@ export const supplementalEntries: EncyclopediaEntry[] = [
     "bibliography": [
       {
         "label": "Opere principali e studi introduttivi",
-        "type": "bibliografia",
+        "type": "enciclopedia",
         "note": "Riferimento editoriale orientativo: completare con edizioni critiche, traduzioni affidabili e studi specialistici prima della revisione definitiva."
       }
     ],
