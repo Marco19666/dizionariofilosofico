@@ -4073,6 +4073,523 @@ export const entries: EncyclopediaEntry[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
+  {
+    "slug": "anarchismo",
+    "id": "CON-000111",
+    "kind": "concetto",
+    "title": "Anarchismo",
+    "subtitle": "Critica del dominio e organizzazione senza Stato",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "L'anarchismo raccoglie teorie che contestano il potere coercitivo gerarchico e cercano forme di cooperazione e autogoverno. Le sue correnti differiscono su proprietà, organizzazione e strategie politiche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'anarchismo raccoglie teorie che contestano il potere coercitivo gerarchico e cercano forme di cooperazione e autogoverno. Le sue correnti differiscono su proprietà, organizzazione e strategie politiche."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'anarchismo raccoglie teorie che contestano il potere coercitivo gerarchico e cercano forme di cooperazione e autogoverno. Le sue correnti differiscono su proprietà, organizzazione e strategie politiche.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Anarchismo",
+        "explanation": "L'anarchismo raccoglie teorie che contestano il potere coercitivo gerarchico e cercano forme di cooperazione e autogoverno. Le sue correnti differiscono su proprietà, organizzazione e strategie politiche."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "ascetismo",
+    "id": "CON-000112",
+    "kind": "concetto",
+    "title": "Ascetismo",
+    "subtitle": "Disciplina dei desideri e forma di vita",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "L'ascetismo indica pratiche di rinuncia o disciplina dei desideri orientate a una trasformazione etica, spirituale o filosofica.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'ascetismo indica pratiche di rinuncia o disciplina dei desideri orientate a una trasformazione etica, spirituale o filosofica."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'ascetismo indica pratiche di rinuncia o disciplina dei desideri orientate a una trasformazione etica, spirituale o filosofica.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Ascetismo",
+        "explanation": "L'ascetismo indica pratiche di rinuncia o disciplina dei desideri orientate a una trasformazione etica, spirituale o filosofica."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "assurdo",
+    "id": "CON-000113",
+    "kind": "concetto",
+    "title": "Assurdo",
+    "subtitle": "Conflitto tra domanda di senso e silenzio del mondo",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Nell'esistenzialismo di Camus l'assurdo nasce dal confronto tra il bisogno umano di significato e l'indifferenza del mondo.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nell'esistenzialismo di Camus l'assurdo nasce dal confronto tra il bisogno umano di significato e l'indifferenza del mondo."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nell'esistenzialismo di Camus l'assurdo nasce dal confronto tra il bisogno umano di significato e l'indifferenza del mondo.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Assurdo",
+        "explanation": "Nell'esistenzialismo di Camus l'assurdo nasce dal confronto tra il bisogno umano di significato e l'indifferenza del mondo."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "autenticita",
+    "id": "CON-000114",
+    "kind": "concetto",
+    "title": "Autenticità",
+    "subtitle": "Essere se stessi e assumere la propria esistenza",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Nell'esistenzialismo, soprattutto in Heidegger e Sartre, l'autenticità riguarda il modo in cui l'individuo assume possibilità e responsabilità.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nell'esistenzialismo, soprattutto in Heidegger e Sartre, l'autenticità riguarda il modo in cui l'individuo assume possibilità e responsabilità."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nell'esistenzialismo, soprattutto in Heidegger e Sartre, l'autenticità riguarda il modo in cui l'individuo assume possibilità e responsabilità.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Autenticità",
+        "explanation": "Nell'esistenzialismo, soprattutto in Heidegger e Sartre, l'autenticità riguarda il modo in cui l'individuo assume possibilità e responsabilità."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "comunitarismo",
+    "id": "CON-000115",
+    "kind": "concetto",
+    "title": "Comunitarismo",
+    "subtitle": "Identità, tradizione e bene comune",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Il comunitarismo sottolinea il ruolo delle pratiche e appartenenze condivise nella formazione dell'identità e dei valori.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il comunitarismo sottolinea il ruolo delle pratiche e appartenenze condivise nella formazione dell'identità e dei valori."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il comunitarismo sottolinea il ruolo delle pratiche e appartenenze condivise nella formazione dell'identità e dei valori.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Comunitarismo",
+        "explanation": "Il comunitarismo sottolinea il ruolo delle pratiche e appartenenze condivise nella formazione dell'identità e dei valori."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "coscienza-di-classe",
+    "id": "CON-000116",
+    "kind": "concetto",
+    "title": "Coscienza di classe",
+    "subtitle": "Comprensione della propria posizione sociale",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Nel pensiero marxista indica la consapevolezza condivisa della posizione e degli interessi di una classe.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Nel pensiero marxista indica la consapevolezza condivisa della posizione e degli interessi di una classe."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Nel pensiero marxista indica la consapevolezza condivisa della posizione e degli interessi di una classe.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Coscienza di classe",
+        "explanation": "Nel pensiero marxista indica la consapevolezza condivisa della posizione e degli interessi di una classe."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "credenza",
+    "id": "CON-000117",
+    "kind": "concetto",
+    "title": "Credenza",
+    "subtitle": "Assenso e atteggiamento proposizionale",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "Una credenza è un atteggiamento mentale per cui un soggetto considera vera una proposizione. L'epistemologia studia quando sia giustificata.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Una credenza è un atteggiamento mentale per cui un soggetto considera vera una proposizione. L'epistemologia studia quando sia giustificata."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Una credenza è un atteggiamento mentale per cui un soggetto considera vera una proposizione. L'epistemologia studia quando sia giustificata.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Credenza",
+        "explanation": "Una credenza è un atteggiamento mentale per cui un soggetto considera vera una proposizione. L'epistemologia studia quando sia giustificata."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "critica-della-ragione",
+    "id": "CON-000118",
+    "kind": "concetto",
+    "title": "Critica della ragione",
+    "subtitle": "Esame dei limiti e delle condizioni del conoscere",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "La critica della ragione indaga possibilità, limiti e legittimità delle pretese conoscitive; in Kant esamina le condizioni a priori dell'esperienza.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La critica della ragione indaga possibilità, limiti e legittimità delle pretese conoscitive; in Kant esamina le condizioni a priori dell'esperienza."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La critica della ragione indaga possibilità, limiti e legittimità delle pretese conoscitive; in Kant esamina le condizioni a priori dell'esperienza.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Critica della ragione",
+        "explanation": "La critica della ragione indaga possibilità, limiti e legittimità delle pretese conoscitive; in Kant esamina le condizioni a priori dell'esperienza."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "democrazia-deliberativa",
+    "id": "CON-000119",
+    "kind": "concetto",
+    "title": "Democrazia deliberativa",
+    "subtitle": "Legittimità attraverso il confronto pubblico",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "La democrazia deliberativa attribuisce valore politico alla discussione pubblica tra cittadini liberi ed eguali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "La democrazia deliberativa attribuisce valore politico alla discussione pubblica tra cittadini liberi ed eguali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "La democrazia deliberativa attribuisce valore politico alla discussione pubblica tra cittadini liberi ed eguali.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Democrazia deliberativa",
+        "explanation": "La democrazia deliberativa attribuisce valore politico alla discussione pubblica tra cittadini liberi ed eguali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "discorso",
+    "id": "CON-000120",
+    "kind": "concetto",
+    "title": "Discorso",
+    "subtitle": "Linguaggio, pratiche e produzione di sapere",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "In filosofia e teoria sociale il discorso può indicare pratiche linguistiche che organizzano significati e saperi; in Foucault è legato al potere.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "In filosofia e teoria sociale il discorso può indicare pratiche linguistiche che organizzano significati e saperi; in Foucault è legato al potere."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "In filosofia e teoria sociale il discorso può indicare pratiche linguistiche che organizzano significati e saperi; in Foucault è legato al potere.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Discorso",
+        "explanation": "In filosofia e teoria sociale il discorso può indicare pratiche linguistiche che organizzano significati e saperi; in Foucault è legato al potere."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "emotivismo",
+    "id": "CON-000121",
+    "kind": "concetto",
+    "title": "Emotivismo",
+    "subtitle": "Giudizi morali come espressione di atteggiamenti",
+    "area": "Filosofia",
+    "period": "Dall'antichità alla contemporaneità",
+    "summary": "L'emotivismo interpreta gli enunciati morali soprattutto come espressioni di approvazione o disapprovazione, anziché descrizioni di fatti morali.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "L'emotivismo interpreta gli enunciati morali soprattutto come espressioni di approvazione o disapprovazione, anziché descrizioni di fatti morali."
+        ]
+      },
+      {
+        "heading": "Distinzioni e problemi interpretativi",
+        "paragraphs": [
+          "Il significato del concetto varia secondo le tradizioni e gli autori. Per comprenderlo occorre distinguerne gli usi storici, le tesi centrali e le principali obiezioni."
+        ]
+      },
+      {
+        "heading": "Questioni per l'approfondimento",
+        "paragraphs": [
+          "Un confronto tra le diverse formulazioni permette di chiarire quali problemi il concetto intenda risolvere e quali difficoltà lasci aperte."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "L'emotivismo interpreta gli enunciati morali soprattutto come espressioni di approvazione o disapprovazione, anziché descrizioni di fatti morali.",
+      "La nozione va esaminata nel suo contesto teorico, evitando di trattare come equivalenti formulazioni che appartengono a tradizioni differenti."
+    ],
+    "tags": [
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [],
+    "keyTerms": [
+      {
+        "term": "Emotivismo",
+        "explanation": "L'emotivismo interpreta gli enunciati morali soprattutto come espressioni di approvazione o disapprovazione, anziché descrizioni di fatti morali."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
 ]; 
 
 
