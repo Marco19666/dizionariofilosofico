@@ -21689,6 +21689,3307 @@ export const comparativePaths: ComparativePath[] = [
     ],
     "editorialStatus": "edizione editoriale 1.0"
   },
+,
+  {
+    "slug": "approfondimento-realismo-critico",
+    "id": "CON-000505",
+    "kind": "concetto",
+    "title": "Realismo critico",
+    "subtitle": "Il concetto di realismo critico affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di realismo critico affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di realismo critico affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di realismo critico affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Realismo critico",
+        "explanation": "Il concetto di realismo critico affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-realismo-scientifico",
+    "id": "CON-000506",
+    "kind": "concetto",
+    "title": "Realismo scientifico",
+    "subtitle": "Il concetto di realismo scientifico affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di realismo scientifico affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di realismo scientifico affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di realismo scientifico affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Realismo scientifico",
+        "explanation": "Il concetto di realismo scientifico affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-strumentalismo",
+    "id": "CON-000507",
+    "kind": "concetto",
+    "title": "Strumentalismo",
+    "subtitle": "Il concetto di strumentalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di strumentalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di strumentalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di strumentalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Strumentalismo",
+        "explanation": "Il concetto di strumentalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-sottodeterminazione-teorie",
+    "id": "CON-000508",
+    "kind": "concetto",
+    "title": "Sottodeterminazione delle teorie",
+    "subtitle": "Il concetto di sottodeterminazione delle teorie affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di sottodeterminazione delle teorie affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di sottodeterminazione delle teorie affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di sottodeterminazione delle teorie affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Sottodeterminazione delle teorie",
+        "explanation": "Il concetto di sottodeterminazione delle teorie affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-falsificazionismo",
+    "id": "CON-000509",
+    "kind": "concetto",
+    "title": "Falsificazionismo",
+    "subtitle": "Il concetto di falsificazionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di falsificazionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di falsificazionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di falsificazionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Falsificazionismo",
+        "explanation": "Il concetto di falsificazionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-paradigma-scientifico",
+    "id": "CON-000510",
+    "kind": "concetto",
+    "title": "Paradigma scientifico",
+    "subtitle": "Il concetto di paradigma scientifico affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di paradigma scientifico affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di paradigma scientifico affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di paradigma scientifico affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Paradigma scientifico",
+        "explanation": "Il concetto di paradigma scientifico affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-incommensurabilita",
+    "id": "CON-000511",
+    "kind": "concetto",
+    "title": "Incommensurabilità",
+    "subtitle": "Il concetto di incommensurabilità affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di incommensurabilità affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di incommensurabilità affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di incommensurabilità affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Incommensurabilità",
+        "explanation": "Il concetto di incommensurabilità affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-spiegazione-causale",
+    "id": "CON-000512",
+    "kind": "concetto",
+    "title": "Spiegazione causale",
+    "subtitle": "Il concetto di spiegazione causale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di spiegazione causale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di spiegazione causale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di spiegazione causale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Spiegazione causale",
+        "explanation": "Il concetto di spiegazione causale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-controfattuale",
+    "id": "CON-000513",
+    "kind": "concetto",
+    "title": "Controfattuale",
+    "subtitle": "Il concetto di controfattuale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di controfattuale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di controfattuale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di controfattuale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Controfattuale",
+        "explanation": "Il concetto di controfattuale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-identita-personale",
+    "id": "CON-000514",
+    "kind": "concetto",
+    "title": "Identità personale",
+    "subtitle": "Il concetto di identità personale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di identità personale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di identità personale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di identità personale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Identità personale",
+        "explanation": "Il concetto di identità personale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-riduzionismo",
+    "id": "CON-000515",
+    "kind": "concetto",
+    "title": "Riduzionismo",
+    "subtitle": "Il concetto di riduzionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di riduzionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di riduzionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di riduzionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Riduzionismo",
+        "explanation": "Il concetto di riduzionismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-emergentismo",
+    "id": "CON-000516",
+    "kind": "concetto",
+    "title": "Emergentismo",
+    "subtitle": "Il concetto di emergentismo affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di emergentismo affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di emergentismo affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di emergentismo affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Emergentismo",
+        "explanation": "Il concetto di emergentismo affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-sopravvenienza",
+    "id": "CON-000517",
+    "kind": "concetto",
+    "title": "Sopravvenienza",
+    "subtitle": "Il concetto di sopravvenienza affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di sopravvenienza affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di sopravvenienza affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di sopravvenienza affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Sopravvenienza",
+        "explanation": "Il concetto di sopravvenienza affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-essenzialismo",
+    "id": "CON-000518",
+    "kind": "concetto",
+    "title": "Essenzialismo",
+    "subtitle": "Il concetto di essenzialismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di essenzialismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di essenzialismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di essenzialismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Essenzialismo",
+        "explanation": "Il concetto di essenzialismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-nominalismo",
+    "id": "CON-000519",
+    "kind": "concetto",
+    "title": "Nominalismo",
+    "subtitle": "Il concetto di nominalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di nominalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di nominalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di nominalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Nominalismo",
+        "explanation": "Il concetto di nominalismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-universale",
+    "id": "CON-000520",
+    "kind": "concetto",
+    "title": "Universale",
+    "subtitle": "Il concetto di universale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di universale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di universale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di universale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Universale",
+        "explanation": "Il concetto di universale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-necessita-contingenza",
+    "id": "CON-000521",
+    "kind": "concetto",
+    "title": "Necessità e contingenza",
+    "subtitle": "Il concetto di necessità e contingenza affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di necessità e contingenza affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di necessità e contingenza affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di necessità e contingenza affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Necessità e contingenza",
+        "explanation": "Il concetto di necessità e contingenza affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-possibilismo-modale",
+    "id": "CON-000522",
+    "kind": "concetto",
+    "title": "Possibilismo modale",
+    "subtitle": "Il concetto di possibilismo modale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX–XXI secolo",
+    "summary": "Il concetto di possibilismo modale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di possibilismo modale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di possibilismo modale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Possibilismo modale",
+        "explanation": "Il concetto di possibilismo modale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-proprieta-disposizionali",
+    "id": "CON-000523",
+    "kind": "concetto",
+    "title": "Proprietà disposizionali",
+    "subtitle": "Il concetto di proprietà disposizionali affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di proprietà disposizionali affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di proprietà disposizionali affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di proprietà disposizionali affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Proprietà disposizionali",
+        "explanation": "Il concetto di proprietà disposizionali affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-realismo-morale",
+    "id": "CON-000524",
+    "kind": "concetto",
+    "title": "Realismo morale",
+    "subtitle": "Il concetto di realismo morale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di realismo morale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di realismo morale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di realismo morale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Realismo morale",
+        "explanation": "Il concetto di realismo morale affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-anti-realismo-morale",
+    "id": "CON-000525",
+    "kind": "concetto",
+    "title": "Antirealismo morale",
+    "subtitle": "Il concetto di antirealismo morale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di antirealismo morale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di antirealismo morale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di antirealismo morale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Antirealismo morale",
+        "explanation": "Il concetto di antirealismo morale affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-espressivismo",
+    "id": "CON-000526",
+    "kind": "concetto",
+    "title": "Espressivismo",
+    "subtitle": "Il concetto di espressivismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di espressivismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di espressivismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di espressivismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Espressivismo",
+        "explanation": "Il concetto di espressivismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-intuizionismo-morale",
+    "id": "CON-000527",
+    "kind": "concetto",
+    "title": "Intuizionismo morale",
+    "subtitle": "Il concetto di intuizionismo morale affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di intuizionismo morale affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di intuizionismo morale affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di intuizionismo morale affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Intuizionismo morale",
+        "explanation": "Il concetto di intuizionismo morale affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-particolarismo-morale",
+    "id": "CON-000528",
+    "kind": "concetto",
+    "title": "Particolarismo morale",
+    "subtitle": "Il concetto di particolarismo morale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di particolarismo morale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di particolarismo morale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di particolarismo morale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Particolarismo morale",
+        "explanation": "Il concetto di particolarismo morale affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-etica-virtu-contemporanea",
+    "id": "CON-000529",
+    "kind": "concetto",
+    "title": "Etica della virtù contemporanea",
+    "subtitle": "Il concetto di etica della virtù contemporanea affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di etica della virtù contemporanea affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di etica della virtù contemporanea affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di etica della virtù contemporanea affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Etica della virtù contemporanea",
+        "explanation": "Il concetto di etica della virtù contemporanea affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-debolezza-volonta",
+    "id": "CON-000530",
+    "kind": "concetto",
+    "title": "Debolezza della volontà",
+    "subtitle": "Il concetto di debolezza della volontà affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di debolezza della volontà affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di debolezza della volontà affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di debolezza della volontà affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Debolezza della volontà",
+        "explanation": "Il concetto di debolezza della volontà affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-ragione-pratica",
+    "id": "CON-000531",
+    "kind": "concetto",
+    "title": "Ragione pratica",
+    "subtitle": "Il concetto di ragione pratica affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di ragione pratica affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di ragione pratica affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di ragione pratica affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ragione pratica",
+        "explanation": "Il concetto di ragione pratica affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-autonomia-relazionale",
+    "id": "CON-000532",
+    "kind": "concetto",
+    "title": "Autonomia relazionale",
+    "subtitle": "Il concetto di autonomia relazionale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di autonomia relazionale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di autonomia relazionale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di autonomia relazionale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Autonomia relazionale",
+        "explanation": "Il concetto di autonomia relazionale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-paternalismo",
+    "id": "CON-000533",
+    "kind": "concetto",
+    "title": "Paternalismo",
+    "subtitle": "Il concetto di paternalismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di paternalismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di paternalismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di paternalismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Paternalismo",
+        "explanation": "Il concetto di paternalismo affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-principio-di-danno",
+    "id": "CON-000534",
+    "kind": "concetto",
+    "title": "Principio del danno",
+    "subtitle": "Il concetto di principio del danno affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di principio del danno affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di principio del danno affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di principio del danno affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Principio del danno",
+        "explanation": "Il concetto di principio del danno affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-liberalismo-egualitario",
+    "id": "CON-000535",
+    "kind": "concetto",
+    "title": "Liberalismo egualitario",
+    "subtitle": "Il concetto di liberalismo egualitario affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di liberalismo egualitario affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di liberalismo egualitario affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di liberalismo egualitario affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Liberalismo egualitario",
+        "explanation": "Il concetto di liberalismo egualitario affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-libertarismo",
+    "id": "CON-000536",
+    "kind": "concetto",
+    "title": "Libertarismo",
+    "subtitle": "Il concetto di libertarismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di libertarismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di libertarismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di libertarismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Libertarismo",
+        "explanation": "Il concetto di libertarismo affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-comunitarismo",
+    "id": "CON-000537",
+    "kind": "concetto",
+    "title": "Comunitarismo",
+    "subtitle": "Il concetto di comunitarismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di comunitarismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di comunitarismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di comunitarismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Comunitarismo",
+        "explanation": "Il concetto di comunitarismo affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-cosmopolitismo",
+    "id": "CON-000538",
+    "kind": "concetto",
+    "title": "Cosmopolitismo",
+    "subtitle": "Il concetto di cosmopolitismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di cosmopolitismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di cosmopolitismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di cosmopolitismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Cosmopolitismo",
+        "explanation": "Il concetto di cosmopolitismo affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-nazionalismo-civico",
+    "id": "CON-000539",
+    "kind": "concetto",
+    "title": "Nazionalismo civico",
+    "subtitle": "Il concetto di nazionalismo civico affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di nazionalismo civico affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di nazionalismo civico affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di nazionalismo civico affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Nazionalismo civico",
+        "explanation": "Il concetto di nazionalismo civico affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-deliberazione-democratica",
+    "id": "CON-000540",
+    "kind": "concetto",
+    "title": "Deliberazione democratica",
+    "subtitle": "Il concetto di deliberazione democratica affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di deliberazione democratica affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di deliberazione democratica affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di deliberazione democratica affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Deliberazione democratica",
+        "explanation": "Il concetto di deliberazione democratica affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-disobbedienza-civile",
+    "id": "CON-000541",
+    "kind": "concetto",
+    "title": "Disobbedienza civile",
+    "subtitle": "Il concetto di disobbedienza civile affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di disobbedienza civile affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di disobbedienza civile affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di disobbedienza civile affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Disobbedienza civile",
+        "explanation": "Il concetto di disobbedienza civile affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-obiezione-coscienza",
+    "id": "CON-000542",
+    "kind": "concetto",
+    "title": "Obiezione di coscienza",
+    "subtitle": "Il concetto di obiezione di coscienza affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di obiezione di coscienza affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di obiezione di coscienza affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di obiezione di coscienza affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Obiezione di coscienza",
+        "explanation": "Il concetto di obiezione di coscienza affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-responsabilita-collettiva",
+    "id": "CON-000543",
+    "kind": "concetto",
+    "title": "Responsabilità collettiva",
+    "subtitle": "Il concetto di responsabilità collettiva affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di responsabilità collettiva affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di responsabilità collettiva affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di responsabilità collettiva affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Responsabilità collettiva",
+        "explanation": "Il concetto di responsabilità collettiva affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-ingiustizia-strutturale",
+    "id": "CON-000544",
+    "kind": "concetto",
+    "title": "Ingiustizia strutturale",
+    "subtitle": "Il concetto di ingiustizia strutturale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di ingiustizia strutturale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di ingiustizia strutturale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di ingiustizia strutturale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ingiustizia strutturale",
+        "explanation": "Il concetto di ingiustizia strutturale affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-ingiustizia-ermeneutica",
+    "id": "CON-000545",
+    "kind": "concetto",
+    "title": "Ingiustizia ermeneutica",
+    "subtitle": "Il concetto di ingiustizia ermeneutica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di ingiustizia ermeneutica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di ingiustizia ermeneutica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di ingiustizia ermeneutica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ingiustizia ermeneutica",
+        "explanation": "Il concetto di ingiustizia ermeneutica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-ignoranza-attiva",
+    "id": "CON-000546",
+    "kind": "concetto",
+    "title": "Ignoranza attiva",
+    "subtitle": "Il concetto di ignoranza attiva affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di ignoranza attiva affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di ignoranza attiva affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di ignoranza attiva affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Ignoranza attiva",
+        "explanation": "Il concetto di ignoranza attiva affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-epistemologia-situata",
+    "id": "CON-000547",
+    "kind": "concetto",
+    "title": "Epistemologia situata",
+    "subtitle": "Il concetto di epistemologia situata affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di epistemologia situata affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di epistemologia situata affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di epistemologia situata affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Epistemologia situata",
+        "explanation": "Il concetto di epistemologia situata affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-oggettivita-forte",
+    "id": "CON-000548",
+    "kind": "concetto",
+    "title": "Oggettività forte",
+    "subtitle": "Il concetto di oggettività forte affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di oggettività forte affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di oggettività forte affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di oggettività forte affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Oggettività forte",
+        "explanation": "Il concetto di oggettività forte affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-intersezionalita",
+    "id": "CON-000549",
+    "kind": "concetto",
+    "title": "Intersezionalità",
+    "subtitle": "Il concetto di intersezionalità affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Etica e metaetica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di intersezionalità affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di intersezionalità affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di intersezionalità affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "etica-e-metaetica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Intersezionalità",
+        "explanation": "Il concetto di intersezionalità affronta un problema specifico della etica e metaetica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-performativita-genere",
+    "id": "CON-000550",
+    "kind": "concetto",
+    "title": "Performatività del genere",
+    "subtitle": "Il concetto di performatività del genere affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia politica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di performatività del genere affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di performatività del genere affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di performatività del genere affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-politica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Performatività del genere",
+        "explanation": "Il concetto di performatività del genere affronta un problema specifico della filosofia politica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-biopolitica",
+    "id": "CON-000551",
+    "kind": "concetto",
+    "title": "Biopolitica",
+    "subtitle": "Il concetto di biopolitica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia sociale",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di biopolitica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di biopolitica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di biopolitica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-sociale",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Biopolitica",
+        "explanation": "Il concetto di biopolitica affronta un problema specifico della epistemologia sociale, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-stato-eccezione",
+    "id": "CON-000552",
+    "kind": "concetto",
+    "title": "Stato di eccezione",
+    "subtitle": "Il concetto di stato di eccezione affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Filosofia del diritto",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di stato di eccezione affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di stato di eccezione affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di stato di eccezione affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "filosofia-del-diritto",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Stato di eccezione",
+        "explanation": "Il concetto di stato di eccezione affronta un problema specifico della filosofia del diritto, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-costituzionalismo",
+    "id": "CON-000553",
+    "kind": "concetto",
+    "title": "Costituzionalismo",
+    "subtitle": "Il concetto di costituzionalismo affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Epistemologia e filosofia della scienza",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di costituzionalismo affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di costituzionalismo affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di costituzionalismo affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "epistemologia-e-filosofia-della-scienza",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Costituzionalismo",
+        "explanation": "Il concetto di costituzionalismo affronta un problema specifico della epistemologia e filosofia della scienza, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
+  {
+    "slug": "approfondimento-separazione-poteri",
+    "id": "CON-000554",
+    "kind": "concetto",
+    "title": "Separazione dei poteri",
+    "subtitle": "Il concetto di separazione dei poteri affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "area": "Metafisica",
+    "period": "XX secolo–XXI secolo",
+    "summary": "Il concetto di separazione dei poteri affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+    "sections": [
+      {
+        "heading": "Definizione e contesto",
+        "paragraphs": [
+          "Il concetto di separazione dei poteri affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche.",
+          "La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari."
+        ]
+      },
+      {
+        "heading": "Problemi e interpretazioni",
+        "paragraphs": [
+          "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti.",
+          "Una ricostruzione rigorosa distingue le formulazioni degli autori, le obiezioni ricevute e le revisioni successive."
+        ]
+      },
+      {
+        "heading": "Rilevanza filosofica",
+        "paragraphs": [
+          "Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative.",
+          "Per approfondire è utile confrontare testi primari, interpretazioni specialistiche e applicazioni contemporanee del problema."
+        ]
+      }
+    ],
+    "thoughtAnalysis": [
+      "Il concetto di separazione dei poteri affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche. La nozione si è sviluppata entro dibattiti storici determinati e assume significati differenti secondo gli autori e i problemi affrontati. Per comprenderla occorre ricostruirne il lessico e distinguere gli usi tecnici da quelli ordinari.",
+      "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti. Il tema è rilevante perché rende espliciti presupposti e limiti di una parte importante della riflessione filosofica. Il suo studio consente di collegare problemi teorici, pratiche intellettuali e conseguenze normative."
+    ],
+    "tags": [
+      "metafisica",
+      "filosofia",
+      "concetto"
+    ],
+    "related": [],
+    "bibliography": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy",
+        "note": "Risorsa di orientamento per il dibattito e la bibliografia specialistica; individuare le voci pertinenti alla specifica questione.",
+        "type": "Studio secondario"
+      },
+      {
+        "label": "Letteratura primaria e studi specialistici",
+        "note": "Da integrare con edizioni critiche e contributi specifici relativi agli autori e alle tradizioni coinvolte.",
+        "type": "Studio secondario"
+      }
+    ],
+    "keyTerms": [
+      {
+        "term": "Separazione dei poteri",
+        "explanation": "Il concetto di separazione dei poteri affronta un problema specifico della metafisica, interrogando i presupposti, i criteri di validità e le conseguenze delle diverse posizioni teoriche."
+      },
+      {
+        "term": "Problema interpretativo",
+        "explanation": "Le interpretazioni concorrenti divergono sulle premesse, sul metodo e sulle conseguenze teoriche. Il confronto richiede di valutare gli argomenti nel loro contesto, evitando di appiattire posizioni che impiegano termini simili in sensi differenti."
+      }
+    ],
+    "editorialStatus": "edizione editoriale 1.0"
+  },
 
 ]; 
 
