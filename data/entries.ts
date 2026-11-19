@@ -9717,8 +9717,7 @@ export const entries: EncyclopediaEntry[] = [
       }
     ],
     "editorialStatus": "edizione editoriale 1.0"
-  }
-
+  },
   {
     "slug": "testimonianza-epistemica",
     "id": "CON-000224",
